@@ -1,0 +1,6 @@
+*.DS_Store
+*__pycache__*
+*.ipynb_checkpoints*
+v1/003_Deployment/model_to_api/container/model_artifacts/model/*
+*api_key.json*
+v1/003_Deployment/model_to_api/local_test/test_dir/model/*
