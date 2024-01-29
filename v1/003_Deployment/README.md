@@ -5,4 +5,4 @@
 
 
 ## ONLY THING MISSING ARE MODEL ARTIFACTS, WHICH CAN BE DOWNLOADED AT THE FOLLOWING LINK:
-
+[OpenAlex Topic Classification Model Artifacts and Training Data](https://zenodo.org/records/10568402)
