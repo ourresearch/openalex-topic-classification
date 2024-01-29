@@ -6,7 +6,7 @@ This repository contains all of the code for getting the [OpenAlex](https://open
 * v1 (current)
 
 ### Model Development
-You can find an explanation of the modeling and deployment process at the following link:
+You can find an explanation of the modeling and deployment process at the following link (work-in-progress):
 [OpenAlex: End-to-End Process for Topic Classification](https://docs.google.com/document/d/1bDopkhuGieQ4F8gGNj7sEc8WSE8mvLZS/edit?usp=sharing&ouid=103029294098811636573&rtpof=true&sd=true)
 
 ### Topics
