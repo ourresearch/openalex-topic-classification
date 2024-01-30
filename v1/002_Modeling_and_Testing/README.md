@@ -10,7 +10,7 @@
 
 #### Fine-tuned Multilingual BERT Model
 
-Since the language model was fine-tuned using HuggingFace, we uploaded the model to the hub so that anyone can download the model and use it to assign a topic to a title/abstract. This will only be a part of the final model we will be using in OpenAlex but if you have a large number of works with only a title and an abstract and wanted an easy way to deploy the model, going to HuggingFace will be the easiest way to do so:
+Since the language model was fine-tuned using HuggingFace, we uploaded the model to the hub so that anyone can download the model and use it to assign a topic to a title/abstract. This will only be a part of the final model we will be using in OpenAlex (since we include citation and journal name in our final model) but if you have a large number of works with only a title and an abstract and wanted an easy way to deploy a model for just title and abstracts, going to HuggingFace will be the easiest way to do so:
 
 [OpenAlex Title/Abstract Only Model](https://huggingface.co/OpenAlex/bert-base-multilingual-cased-finetuned-openalex-topic-classification-title-abstract)
 
