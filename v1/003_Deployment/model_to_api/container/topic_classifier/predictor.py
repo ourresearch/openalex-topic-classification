@@ -798,7 +798,7 @@ def last_pred_check(old_preds, old_scores, old_labels):
 # Loading the models
 pred_model = create_model(len(target_vocab), 
                           len(citation_feature_vocab)+2,
-                          os.path.join(model_path, "model_checkpoint/citation_part_only.keras"), topk=5)
+                          os.path.join(model_path, "model_checkpoint/citation_part_only.keras"), topk=3)
 xla_predict = tf.function(pred_model, jit_compile=True)
 
 pt_model = AutoModelForSequenceClassification.from_pretrained(language_model_name, output_hidden_states=True)
