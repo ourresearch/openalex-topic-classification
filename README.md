@@ -1,6 +1,6 @@
 # openalex-topic-classification
 
-This repository contains all of the code for getting the [OpenAlex](https://openalex.org) topic classification model up and running. Go into the model iteration directory (v1) to find a more detailed explanation of how to use this repository. To learn more about topics in OpenAlex, check out [the docs](https://docs.openalex.org/about-the-data/topic). 
+This repository contains all of the code for getting the [OpenAlex](https://openalex.org) topic classification model up and running. Go into the model iteration directory (v1) to find a more detailed explanation of how to use this repository. To learn more about topics in OpenAlex, check out [the docs](https://docs.openalex.org/api-entities/topics). 
 
 ### Model Development
 You can find an explanation of the modeling and deployment process at the following link (work-in-progress):
