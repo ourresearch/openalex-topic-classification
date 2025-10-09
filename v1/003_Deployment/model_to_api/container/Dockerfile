@@ -21,7 +21,7 @@ RUN apt-get -y update && apt-get install -y --no-install-recommends \
 # These optimizations save a fair amount of space in the image, which reduces start up time.
 RUN wget https://bootstrap.pypa.io/get-pip.py && python3 get-pip.py && \
     pip install --no-cache-dir torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu && \
-    pip install --no-cache-dir tensorflow==2.13.0 transformers==4.35.2 sentence-transformers==2.2.2 pandas numpy flask gevent gunicorn && \
+    pip install --no-cache-dir tensorflow==2.13.0 transformers==4.35.2 sentence-transformers==2.2.2 huggingface_hub==0.25.2 pandas numpy flask gevent gunicorn && \
     rm -rf /root/.cache
 
 # 3. Set some environment variables. PYTHONUNBUFFERED keeps Python from buffering our standard
