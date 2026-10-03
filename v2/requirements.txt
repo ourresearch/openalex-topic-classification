@@ -1,0 +1,9 @@
+# Scoring, charts and every eval/ script: the standard library only (Python 3.9+).
+# Running the model (student/infer.py):
+torch>=2.4
+transformers>=4.51,<5
+safetensors
+# The production path (student/score_vllm.py): vllm>=0.10,<0.11 with transformers>=4.53,<4.56
+# Judges and teacher (gold/judge.py, teacher/*.py): anthropic, httpx
+# Retriever (shortlist/retriever.py): sentence-transformers
+# Training (student/train.py): accelerate, bitsandbytes; student/modal_train.py: modal

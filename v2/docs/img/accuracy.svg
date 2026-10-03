@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 282" width="720" height="282" role="img" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif' style="font-variant-numeric: tabular-nums">
+<title>How often the primary topic is right: previous OpenAlex topic model and the new one</title>
+<rect x="250" y="8" width="12" height="12" rx="2" fill="#199e70"/>
+<text x="268.0" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">Previous model</text>
+<rect x="400.4" y="8" width="12" height="12" rx="2" fill="#2a78d6"/>
+<text x="418.4" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">New model</text>
+<line x1="250.0" y1="50.0" x2="250.0" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.8"/>
+<text x="250.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">0%</text>
+<line x1="353.5" y1="50.0" x2="353.5" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="353.5" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">25%</text>
+<line x1="457.0" y1="50.0" x2="457.0" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="457.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">50%</text>
+<line x1="560.5" y1="50.0" x2="560.5" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="560.5" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">75%</text>
+<line x1="664.0" y1="50.0" x2="664.0" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="664.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">100%</text>
+<text x="0.0" y="89.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Topic, random works</text>
+<path d="M250.0,73.0 H348.7 Q352.7,73.0 352.7,77.0 V83.0 Q352.7,87.0 348.7,87.0 H250.0 Z" fill="#199e70"/>
+<text x="358.7" y="80.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">25%</text>
+<path d="M250.0,91.0 H584.3 Q588.3,91.0 588.3,95.0 V101.0 Q588.3,105.0 584.3,105.0 H250.0 Z" fill="#2a78d6"/>
+<text x="594.3" y="98.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">82%</text>
+<text x="0.0" y="143.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Field, random works</text>
+<path d="M250.0,127.0 H428.3 Q432.3,127.0 432.3,131.0 V137.0 Q432.3,141.0 428.3,141.0 H250.0 Z" fill="#199e70"/>
+<text x="438.3" y="134.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">44%</text>
+<path d="M250.0,145.0 H616.8 Q620.8,145.0 620.8,149.0 V155.0 Q620.8,159.0 616.8,159.0 H250.0 Z" fill="#2a78d6"/>
+<text x="626.8" y="152.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">90%</text>
+<text x="0.0" y="197.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Topic, highly cited works</text>
+<path d="M250.0,181.0 H536.8 Q540.8,181.0 540.8,185.0 V191.0 Q540.8,195.0 536.8,195.0 H250.0 Z" fill="#199e70"/>
+<text x="546.8" y="188.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">70%</text>
+<path d="M250.0,199.0 H615.6 Q619.6,199.0 619.6,203.0 V209.0 Q619.6,213.0 615.6,213.0 H250.0 Z" fill="#2a78d6"/>
+<text x="625.6" y="206.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">89%</text>
+<text x="0.0" y="251.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Field vs arXiv authors' category</text>
+<path d="M250.0,235.0 H555.9 Q559.9,235.0 559.9,239.0 V245.0 Q559.9,249.0 555.9,249.0 H250.0 Z" fill="#199e70"/>
+<text x="565.9" y="242.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">75%</text>
+<path d="M250.0,253.0 H588.2 Q592.2,253.0 592.2,257.0 V263.0 Q592.2,267.0 588.2,267.0 H250.0 Z" fill="#2a78d6"/>
+<text x="598.2" y="260.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">83%</text>
+</svg>

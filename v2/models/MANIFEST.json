@@ -1,0 +1,187 @@
+{
+ "release": "v2.0.0",
+ "base_url": "https://github.com/ourresearch/openalex-topic-classification/releases/download/v2.0.0/",
+ "groups": {
+  "model": "The released model (Qwen3-8B encoder in bf16 + linear head over 4,517 classes). Load with student/model.py.",
+  "shortlist-student": "The Qwen3-1.7B student whose top 10 was the teacher's shortlist for the second million.",
+  "retriever": "The fine-tuned multilingual-e5-base retriever (sentence-transformers folder) and the Jev answers it was trained on.",
+  "labels": "Teacher labels and shortlists."
+ },
+ "assets": {
+  "topic-classifier-v2__added_tokens.json": {
+   "group": "model",
+   "bytes": 707,
+   "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+  },
+  "topic-classifier-v2__chat_template.jinja": {
+   "group": "model",
+   "bytes": 4168,
+   "sha256": "a55ee1b1660128b7098723e0abcd92caa0788061051c62d51cbe87d9cf1974d8"
+  },
+  "topic-classifier-v2__config.json": {
+   "group": "model",
+   "bytes": 1531,
+   "sha256": "dd8a3e5c3c3ca8cb904f57f5758e7071eb619362e786db5bf79e5cdb6be298f8"
+  },
+  "topic-classifier-v2__head.safetensors": {
+   "group": "model",
+   "bytes": 74024780,
+   "sha256": "aa5af3e3e50a32282653c3cdcf32975c9e1c19018d2e9986b7bab6b4dab6b03c"
+  },
+  "topic-classifier-v2__merges.txt": {
+   "group": "model",
+   "bytes": 1671853,
+   "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+  },
+  "topic-classifier-v2__model-00001-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1831889016,
+   "sha256": "38855d0db351c38c0c2b4626aba628e2d0adbd83e1be27fb41836f91fef4131e"
+  },
+  "topic-classifier-v2__model-00002-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1828806880,
+   "sha256": "cb76c3fd883c31ed1693709146428a3b67f79d53c6dfcba5dae33713494e7d3c"
+  },
+  "topic-classifier-v2__model-00003-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1828790296,
+   "sha256": "97f2ab37ead57b2d3e14380148fc942495fc10fcf363bbf00501caa7935e0654"
+  },
+  "topic-classifier-v2__model-00004-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1828806928,
+   "sha256": "c70d0a97fae234739ce3e6b7de3c5c784d98d248f4d1ace9362495c509841d07"
+  },
+  "topic-classifier-v2__model-00005-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1845583096,
+   "sha256": "e056ed4988516b527503b48551868be0617577d720d2bd75510396b886b7cad1"
+  },
+  "topic-classifier-v2__model-00006-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1828806928,
+   "sha256": "b3f9d2f30dd0f514eeef27415fa6d36d4c03492bc4138e0c2d4a053b9d2fc14a"
+  },
+  "topic-classifier-v2__model-00007-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1828806936,
+   "sha256": "ca21b4bcf57480aef9e935c27401e50d7ec765dcd444278c1ba4792906cb6ee6"
+  },
+  "topic-classifier-v2__model-00008-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 1828790344,
+   "sha256": "c60e08a2a27fa3deda04423bce31945f3570057d818c5101213ace677e8e9b5f"
+  },
+  "topic-classifier-v2__model-00009-of-00009.safetensors": {
+   "group": "model",
+   "bytes": 486574072,
+   "sha256": "353ecbdbdbaa297a9536f84368e3d32eee10c987db19f25336323a92f4ebcf00"
+  },
+  "topic-classifier-v2__model.safetensors.index.json": {
+   "group": "model",
+   "bytes": 30431,
+   "sha256": "371ee9dd650cb542575b674bf5d08f284990683481d60b58484f3ff1e04ab72d"
+  },
+  "topic-classifier-v2__special_tokens_map.json": {
+   "group": "model",
+   "bytes": 613,
+   "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"
+  },
+  "topic-classifier-v2__tokenizer.json": {
+   "group": "model",
+   "bytes": 11422920,
+   "sha256": "adfb57087bf35878c5a8a3dd9d46a5fb97a47c3e4ff93330504adbea55772eda"
+  },
+  "topic-classifier-v2__tokenizer_config.json": {
+   "group": "model",
+   "bytes": 5404,
+   "sha256": "443bfa629eb16387a12edbf92a76f6a6f10b2af3b53d87ba1550adfcf45f7fa0"
+  },
+  "topic-classifier-v2__vocab.json": {
+   "group": "model",
+   "bytes": 2776833,
+   "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+  },
+  "shortlist-student-qwen3-1.7b__added_tokens.json": {
+   "group": "shortlist-student",
+   "bytes": 707,
+   "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+  },
+  "shortlist-student-qwen3-1.7b__chat_template.jinja": {
+   "group": "shortlist-student",
+   "bytes": 4168,
+   "sha256": "a55ee1b1660128b7098723e0abcd92caa0788061051c62d51cbe87d9cf1974d8"
+  },
+  "shortlist-student-qwen3-1.7b__config.json": {
+   "group": "shortlist-student",
+   "bytes": 1353,
+   "sha256": "c39e95b245d4972ebdd0642179d1a526380c0416dad26b5024170a61a0d04b02"
+  },
+  "shortlist-student-qwen3-1.7b__head.safetensors": {
+   "group": "shortlist-student",
+   "bytes": 37021516,
+   "sha256": "f95cabe4a460875bed1d7a35b4584a16c9d32ead0b053f73ec90d9feb5062a04"
+  },
+  "shortlist-student-qwen3-1.7b__merges.txt": {
+   "group": "shortlist-student",
+   "bytes": 1671853,
+   "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+  },
+  "shortlist-student-qwen3-1.7b__model-00001-of-00002.safetensors": {
+   "group": "shortlist-student",
+   "bytes": 1880745472,
+   "sha256": "048afab33f4dabdcbe0a8102e5139e9857b1ee6dc17747a96decdb5b045d3ae8"
+  },
+  "shortlist-student-qwen3-1.7b__model-00002-of-00002.safetensors": {
+   "group": "shortlist-student",
+   "bytes": 1560438088,
+   "sha256": "58ca86ea086c535ca92de3e1e8ffaceee85f5a5cbcfc9767fb49eb44a2ce07f3"
+  },
+  "shortlist-student-qwen3-1.7b__model.safetensors.index.json": {
+   "group": "shortlist-student",
+   "bytes": 23686,
+   "sha256": "668159e83d81a2ecc04e3c6e42d990839b63fa23bfa3cb30faf9e39f1ee59b5b"
+  },
+  "shortlist-student-qwen3-1.7b__special_tokens_map.json": {
+   "group": "shortlist-student",
+   "bytes": 613,
+   "sha256": "76862e765266b85aa9459767e33cbaf13970f327a0e88d1c65846c2ddd3a1ecd"
+  },
+  "shortlist-student-qwen3-1.7b__tokenizer.json": {
+   "group": "shortlist-student",
+   "bytes": 11422920,
+   "sha256": "adfb57087bf35878c5a8a3dd9d46a5fb97a47c3e4ff93330504adbea55772eda"
+  },
+  "shortlist-student-qwen3-1.7b__tokenizer_config.json": {
+   "group": "shortlist-student",
+   "bytes": 5404,
+   "sha256": "443bfa629eb16387a12edbf92a76f6a6f10b2af3b53d87ba1550adfcf45f7fa0"
+  },
+  "shortlist-student-qwen3-1.7b__vocab.json": {
+   "group": "shortlist-student",
+   "bytes": 2776833,
+   "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+  },
+  "retriever-e5-base.tar.gz": {
+   "group": "retriever",
+   "bytes": 910714669,
+   "sha256": "86a7118c1892fbf58a61345d79213b23809c14ffce6025ec694df276d022697f"
+  },
+  "retriever_training_labels.jsonl.gz": {
+   "group": "retriever",
+   "bytes": 2739731,
+   "sha256": "20034269035af333051f853c4f00459078b2a3f9299ccc0cf83d39e24ea1d9a5"
+  },
+  "teacher_labels_2m.jsonl.gz": {
+   "group": "labels",
+   "bytes": 89138917,
+   "sha256": "c677a3000227b91d1c205ed59b2571325ac496d2286402be062f221df98af02f"
+  },
+  "jev_shortlists_first_million.jsonl.gz": {
+   "group": "labels",
+   "bytes": 39602116,
+   "sha256": "fc388b5e761364628234b36dab147d5fdbeeb8a47522641d360efcafa2749ca8"
+  }
+ }
+}

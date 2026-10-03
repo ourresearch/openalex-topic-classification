@@ -1,0 +1,7 @@
+work/
+__pycache__/
+*.pyc
+topic-classifier-v2/
+shortlist-student-qwen3-1.7b/
+retriever-e5-base/
+*.part

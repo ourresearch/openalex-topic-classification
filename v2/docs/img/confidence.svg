@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 282" width="720" height="282" role="img" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif' style="font-variant-numeric: tabular-nums">
+<title>How often the primary topic is right on random works, by the score the model gave it</title>
+<rect x="250" y="8" width="12" height="12" rx="2" fill="#199e70"/>
+<text x="268.0" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">Previous model</text>
+<rect x="400.4" y="8" width="12" height="12" rx="2" fill="#2a78d6"/>
+<text x="418.4" y="14.0" fill="#707a84" font-size="14" font-weight="400" text-anchor="start" dominant-baseline="middle">New model</text>
+<line x1="250.0" y1="50.0" x2="250.0" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.8"/>
+<text x="250.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">0%</text>
+<line x1="353.5" y1="50.0" x2="353.5" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="353.5" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">25%</text>
+<line x1="457.0" y1="50.0" x2="457.0" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="457.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">50%</text>
+<line x1="560.5" y1="50.0" x2="560.5" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="560.5" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">75%</text>
+<line x1="664.0" y1="50.0" x2="664.0" y2="278.0" stroke="#8b949e" stroke-width="1" stroke-opacity="0.35"/>
+<text x="664.0" y="40.0" fill="#707a84" font-size="12" font-weight="400" text-anchor="middle" dominant-baseline="middle">100%</text>
+<text x="0.0" y="89.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Score 0.9 to 1</text>
+<path d="M250.0,73.0 H449.4 Q453.4,73.0 453.4,77.0 V83.0 Q453.4,87.0 449.4,87.0 H250.0 Z" fill="#199e70"/>
+<text x="459.4" y="80.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">49%</text>
+<path d="M250.0,91.0 H637.2 Q641.2,91.0 641.2,95.0 V101.0 Q641.2,105.0 637.2,105.0 H250.0 Z" fill="#2a78d6"/>
+<text x="647.2" y="98.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">94%</text>
+<text x="0.0" y="143.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Score 0.7 to 0.9</text>
+<path d="M250.0,127.0 H351.1 Q355.1,127.0 355.1,131.0 V137.0 Q355.1,141.0 351.1,141.0 H250.0 Z" fill="#199e70"/>
+<text x="361.1" y="134.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">25%</text>
+<path d="M250.0,145.0 H547.1 Q551.1,145.0 551.1,149.0 V155.0 Q551.1,159.0 547.1,159.0 H250.0 Z" fill="#2a78d6"/>
+<text x="557.1" y="152.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">73%</text>
+<text x="0.0" y="197.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Score 0.5 to 0.7</text>
+<path d="M250.0,181.0 H354.9 Q358.9,181.0 358.9,185.0 V191.0 Q358.9,195.0 354.9,195.0 H250.0 Z" fill="#199e70"/>
+<text x="364.9" y="188.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">26%</text>
+<path d="M250.0,199.0 H494.4 Q498.4,199.0 498.4,203.0 V209.0 Q498.4,213.0 494.4,213.0 H250.0 Z" fill="#2a78d6"/>
+<text x="504.4" y="206.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">60%</text>
+<text x="0.0" y="251.0" fill="#707a84" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Score under 0.5</text>
+<path d="M250.0,235.0 H282.9 Q286.9,235.0 286.9,239.0 V245.0 Q286.9,249.0 282.9,249.0 H250.0 Z" fill="#199e70"/>
+<text x="292.9" y="242.0" fill="#707a84" font-size="13" font-weight="400" text-anchor="start" dominant-baseline="middle">9%</text>
+<path d="M250.0,253.0 H394.8 Q398.8,253.0 398.8,257.0 V263.0 Q398.8,267.0 394.8,267.0 H250.0 Z" fill="#2a78d6"/>
+<text x="404.8" y="260.0" fill="#707a84" font-size="13" font-weight="600" text-anchor="start" dominant-baseline="middle">36%</text>
+</svg>
