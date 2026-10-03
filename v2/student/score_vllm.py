@@ -44,12 +44,13 @@ def main():
     ap.add_argument("--model", required=True); ap.add_argument("--input", required=True); ap.add_argument("--out", required=True)
     ap.add_argument("--quant", default="fp8"); ap.add_argument("--top", type=int, default=10); ap.add_argument("--chunk", type=int, default=20000)
     a = ap.parse_args()
+    ckpt = causal_checkpoint(a.model)   # before vLLM starts: its engine process must not be forked after this work
+    os.environ.setdefault("VLLM_WORKER_MULTIPROC_METHOD", "spawn")
     import numpy as np, torch
     from safetensors.torch import load_file
     from transformers import AutoTokenizer
     from vllm import LLM
     from vllm.inputs import TokensPrompt
-    ckpt = causal_checkpoint(a.model)
     tok = AutoTokenizer.from_pretrained(ckpt)
     kw = dict(model=ckpt, dtype="bfloat16", max_model_len=512, gpu_memory_utilization=0.85, enable_prefix_caching=False)
     if a.quant and a.quant != "none":

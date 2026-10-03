@@ -56,10 +56,10 @@ python3 eval/score_file.py work/test_preds.jsonl.gz
 `student/infer.py` needs about 25 GB of GPU memory in bf16 (an A100, H100, L40S or similar); 2,200 works take under a
 minute. `eval/score_file.py` scores any predictions file in this format against the answer key.
 
-What to expect: on the texts the model read in October 2026, the released bf16 weights give 81.8% on random works
-(field 89.6%, calibration error 0.047) and 89.3% on highly cited ones, with the same top topic as the training run's
-outputs on 99.6% of works. Texts fetched today differ a little (abstracts added or corrected, records merged), so expect
-results within about a point of that.
+What to expect: we ran these steps on 3 October 2026 (texts fetched that day, the released weights, one
+H100): 81.8% on random works, field 89.6%, calibration error 0.047, 89.3% on highly cited works, with the same top topic
+as the saved outputs on 2,189 of 2,200 works. Texts drift a little over time (abstracts added or corrected, records
+merged), so later runs may move by a few tenths of a point.
 
 **The production path.** OpenAlex tags the corpus with [`student/score_vllm.py`](student/score_vllm.py): vLLM, FP8
 weights, about 300 works a second on one H100 (`pip install "vllm>=0.10,<0.11" "transformers>=4.53,<4.56"`).
@@ -69,7 +69,9 @@ python3 student/score_vllm.py --model topic-classifier-v2 --input work/test_text
 python3 eval/score_file.py work/test_fp8.jsonl.gz
 ```
 
-FP8_RESULTS
+On 3 October 2026, on texts fetched that day, this gave 81.6% on random works, field 89.6%, calibration error 0.041,
+89.3% on highly cited works; on 20,000 held-out training works it gives the teacher's answer 76.9% of the time, as the
+16-bit model does. vLLM takes a few minutes to start; then 2,200 works take about 6 seconds.
 
 ## Tag your own works
 

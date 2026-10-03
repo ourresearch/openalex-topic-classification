@@ -44,7 +44,10 @@ def main():
             p = fetch(name, meta, a.dest)
             if p.endswith(".tar.gz"):
                 with tarfile.open(p) as t:
-                    t.extractall(a.dest)
+                    try:
+                        t.extractall(a.dest, filter="data")
+                    except TypeError:   # Python without extraction filters
+                        t.extractall(a.dest)
     print("done; every file matches models/MANIFEST.json")
 
 
