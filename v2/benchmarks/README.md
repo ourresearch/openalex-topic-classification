@@ -228,6 +228,35 @@ Development
 
 Label counts per topic are in [`data/teacher_labels/label_counts.json`](../data/teacher_labels/label_counts.json).
 
+## Across the whole corpus
+
+**The new model was run on all 473,917,182 works with a title or an abstract in October 2026.** It gives 90.4% of
+them a topic and calls the other 9.6% not classifiable; the previous model gave a topic to 79.4%. Where both models
+give a topic, the primary topic changes on 70.8% of works.
+
+**Vague catch-all topics shrink.** Every topic had works under the previous model. Under the new one, 85 of the 4,516
+topics are no work's primary topic and 113 are the primary topic of 100 works or fewer; 76 appear in no work's top
+three. Those 113 topics hold 8.3 million primary assignments under the previous model. Most are catch-alls that
+collected works the previous model could not place:
+
+| Topic | Primary topic of, previous model | Primary topic of, new model |
+|---|---|---|
+| Diverse Scientific and Economic Studies | 4,779,274 | 80 |
+| Legal case studies and regulations | 453,073 | 42 |
+| Social and Educational Sciences | 302,589 | 0 |
+| Educational Reforms and Innovations | 249,383 | 0 |
+| Diverse Cultural and Historical Studies | 178,542 | 3 |
+| Diverse academic and cultural studies | 160,535 | 0 |
+| Management, Economics, and Public Policy | 136,830 | 4 |
+| Academic Research in Diverse Fields | 118,577 | 0 |
+
+The rest are near-duplicates of a better-named topic, which takes their works: "Corporate Social Responsibility
+Disclosure" goes to "CSR Reporting", "IoT-based Control Systems" to "Arduino and IoT Applications". Every topic stays
+in the vocabulary with its ID. "Military Technology and Strategies", where the previous model put works it could not
+read, goes from 20,596,509 works to 169,359.
+
+Counts for all 4,516 topics under both models are in [`data/corpus/topic_counts.csv`](../data/corpus/topic_counts.csv).
+
 ## The production path
 
 OpenAlex tags the corpus with vLLM and FP8 weights ([`student/score_vllm.py`](../student/score_vllm.py)), which is

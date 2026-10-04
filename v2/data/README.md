@@ -14,6 +14,7 @@ the OpenAlex API. Topic ids are OpenAlex topic ids (`T10017` is https://openalex
 | `student_outputs/{split}/{student}.jsonl.gz` | Each student's top 20 classes and probabilities on the gold works (`q8b_2m` is the released model). |
 | `student_outputs/heldout/{student}.jsonl.gz` | Each student's answer and probability on 20,000 held-out training works, with the teacher's answer. |
 | `arxiv/arxiv_works.jsonl.gz` | The arXiv outside check: id, arXiv URL, the authors' primary category, version 1's topic, the new model's top 10, the teacher's answer. |
+| `corpus/topic_counts.csv` | For every topic: works whose primary topic it is under the previous model and the new one, and works with it in the new model's top three (all 473,917,182 scored works, October 2026). |
 | `teacher_labels/label_counts.json` | Teacher labels per topic in each million (all, and training rows only). |
 | `teacher_labels/second_million_selection.json` | How the second million was picked: the target per topic and the candidates available. |
 | `teacher_labels/first_million_pool_strata.json` | The strata of the pool the first million was drawn from. |

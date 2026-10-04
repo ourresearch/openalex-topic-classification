@@ -58,9 +58,10 @@ works not in English (72%, from 9%). Every sub-benchmark, the method and the int
 - **Not classifiable.** Some records have nothing to classify: a table of contents, an index, a bare file name. The
   new model says so, and those works get no topic. The previous model gave them a topic anyway; works whose text it
   could not read all got the same one, so 20.6 million works carry "Military Technology and Strategies".
-- **Vague catch-all topics shrink.** Topics such as "Diverse Scientific and Economic Studies" used to collect works
-  the previous model could not place. The new model rarely chooses them, so some end up with few or no works. They stay
-  in the vocabulary with their IDs.
+- **Vague catch-all topics shrink.** Topics such as "Diverse Scientific and Economic Studies" (4.8 million works
+  under the previous model, 80 under the new one) collected works the previous model could not place. 113 topics end
+  up with 100 works or fewer, 85 of them with none as a primary topic. They stay in the vocabulary with their IDs
+  ([list](benchmarks/README.md#across-the-whole-corpus)).
 - **Everything computed from topics moves with them.** Counts of works per topic, subfield, field and domain change,
   and so do field-normalized citation impact (FWCI) and citation percentiles, which compare a work with others in its
   primary topic's subfield.
