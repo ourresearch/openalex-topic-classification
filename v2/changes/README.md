@@ -27,7 +27,13 @@ and Economic Studies" (4.8M, now 80). 85 catch-all topics now have no works; the
 that grow most are mostly ones that now also hold datasets and catalogue records (fusion-device shot records,
 specimen records).
 
-**Old topics.** Every work's version 1 topics and scores, frozen on 5 October 2026, are published as release assets.
-[TK: link once Jason approves.]
+**Old topics.** Every work's version 1 topics and scores are attached to the
+[v2.0.0 release](https://github.com/ourresearch/openalex-topic-classification/releases/tag/v2.0.0) as 12 gzipped CSV
+files, `topics_v1_frozen_part00.csv.gz` to `topics_v1_frozen_part11.csv.gz` (about 740 MB each, 8.9 GB in all;
+checksums in `SHA256SUMS`). Columns: `work_id, topic_1_id, topic_1_score, topic_2_id, topic_2_score, topic_3_id,
+topic_3_score`; `topic_1_id` is the old primary topic. 526,108,668 works: the latest version 1 assignment for each work
+as of 5 October 2026. Use them to reproduce a report made with the old topics. The
+[text aboutness endpoint](https://help.openalex.org/api/tag-aboutness/) also keeps the old classifier at
+`/text/topics?version=1` until 13 January 2027.
 
 Rebuild these files: [TK script path], from `work_topics` (version 1) and `work_topics_v2` in OpenAlex's pipeline.
