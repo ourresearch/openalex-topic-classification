@@ -1,0 +1,27 @@
+field_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+23,Environmental Science,6640,7121,481,0.5138,0.5507,3.7
+19,Earth and Planetary Sciences,1278,1292,14,0.0989,0.0999,0.1
+13,"Biochemistry, Genetics and Molecular Biology",1144,1161,17,0.0885,0.0898,0.13
+11,Agricultural and Biological Sciences,716,786,70,0.0554,0.0608,0.54
+22,Engineering,611,486,-125,0.0473,0.0376,-0.97
+33,Social Sciences,373,361,-12,0.0289,0.0279,-0.09
+16,Chemistry,279,265,-14,0.0216,0.0205,-0.11
+25,Materials Science,294,208,-86,0.0227,0.0161,-0.67
+27,Medicine,262,191,-71,0.0203,0.0148,-0.55
+29,Nursing,230,110,-120,0.0178,0.0085,-0.93
+31,Physics and Astronomy,177,144,-33,0.0137,0.0111,-0.26
+17,Computer Science,161,122,-39,0.0125,0.0094,-0.3
+18,Decision Sciences,100,150,50,0.0077,0.0116,0.39
+14,"Business, Management and Accounting",116,92,-24,0.009,0.0071,-0.19
+21,Energy,92,87,-5,0.0071,0.0067,-0.04
+20,"Economics, Econometrics and Finance",85,80,-5,0.0066,0.0062,-0.04
+24,Immunology and Microbiology,73,63,-10,0.0056,0.0049,-0.08
+15,Chemical Engineering,72,28,-44,0.0056,0.0022,-0.34
+26,Mathematics,40,52,12,0.0031,0.004,0.09
+32,Psychology,47,37,-10,0.0036,0.0029,-0.08
+36,Health Professions,51,20,-31,0.0039,0.0015,-0.24
+12,Arts and Humanities,35,23,-12,0.0027,0.0018,-0.09
+30,"Pharmacology, Toxicology and Pharmaceutics",24,28,4,0.0019,0.0022,0.03
+28,Neuroscience,16,10,-6,0.0012,0.0008,-0.05
+34,Veterinary,6,12,6,0.0005,0.0009,0.05
+35,Dentistry,2,1,-1,0.0002,0.0001,-0.01

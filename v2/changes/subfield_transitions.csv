@@ -1,0 +1,2784 @@
+old_subfield_id,old_display_name,rank,new_subfield_id,new_display_name,works,share_of_old
+1100,General Agricultural and Biological Sciences,1,1100,General Agricultural and Biological Sciences,271614,0.2342
+1100,General Agricultural and Biological Sciences,2,1110,Plant Science,91909,0.0793
+1100,General Agricultural and Biological Sciences,3,3304,Education,74964,0.0646
+1100,General Agricultural and Biological Sciences,4,3311,Safety Research,61603,0.0531
+1100,General Agricultural and Biological Sciences,5,1111,Soil Science,43214,0.0373
+1100,General Agricultural and Biological Sciences,6,2002,Economics and Econometrics,37163,0.032
+1100,General Agricultural and Biological Sciences,7,3312,Sociology and Political Science,35224,0.0304
+1100,General Agricultural and Biological Sciences,8,1102,Agronomy and Crop Science,29871,0.0258
+1100,General Agricultural and Biological Sciences,9,,(no topic),25814,0.0223
+1100,General Agricultural and Biological Sciences,10,3320,Political Science and International Relations,20791,0.0179
+1100,General Agricultural and Biological Sciences,,(other),242 others,467377,0.4031
+1102,Agronomy and Crop Science,1,1102,Agronomy and Crop Science,374406,0.4581
+1102,Agronomy and Crop Science,2,1110,Plant Science,81263,0.0994
+1102,Agronomy and Crop Science,3,1111,Soil Science,56650,0.0693
+1102,Agronomy and Crop Science,4,1311,Genetics,21551,0.0264
+1102,Agronomy and Crop Science,5,1103,Animal Science and Zoology,20529,0.0251
+1102,Agronomy and Crop Science,6,1107,Forestry,18452,0.0226
+1102,Agronomy and Crop Science,7,3106,Nuclear and High Energy Physics,14838,0.0182
+1102,Agronomy and Crop Science,8,1100,General Agricultural and Biological Sciences,14484,0.0177
+1102,Agronomy and Crop Science,9,,(no topic),13917,0.017
+1102,Agronomy and Crop Science,10,3404,Small Animals,11928,0.0146
+1102,Agronomy and Crop Science,,(other),241 others,189293,0.2316
+1103,Animal Science and Zoology,1,1103,Animal Science and Zoology,322195,0.4805
+1103,Animal Science and Zoology,2,1102,Agronomy and Crop Science,35862,0.0535
+1103,Animal Science and Zoology,3,3404,Small Animals,29486,0.044
+1103,Animal Science and Zoology,4,1311,Genetics,26881,0.0401
+1103,Animal Science and Zoology,5,1106,Food Science,26193,0.0391
+1103,Animal Science and Zoology,6,1110,Plant Science,14244,0.0212
+1103,Animal Science and Zoology,7,2303,Ecology,13586,0.0203
+1103,Animal Science and Zoology,8,1312,Molecular Biology,13281,0.0198
+1103,Animal Science and Zoology,9,3106,Nuclear and High Energy Physics,9317,0.0139
+1103,Animal Science and Zoology,10,2403,Immunology,8608,0.0128
+1103,Animal Science and Zoology,,(other),240 others,170830,0.2548
+1104,Aquatic Science,1,1104,Aquatic Science,185634,0.3499
+1104,Aquatic Science,2,2303,Ecology,29969,0.0565
+1104,Aquatic Science,3,1105,"Ecology, Evolution, Behavior and Systematics",20893,0.0394
+1104,Aquatic Science,4,2306,Global and Planetary Change,19571,0.0369
+1104,Aquatic Science,5,2403,Immunology,13864,0.0261
+1104,Aquatic Science,6,1106,Food Science,12917,0.0243
+1104,Aquatic Science,7,1314,Physiology,12833,0.0242
+1104,Aquatic Science,8,2307,"Health, Toxicology and Mutagenesis",11989,0.0226
+1104,Aquatic Science,9,1110,Plant Science,11672,0.022
+1104,Aquatic Science,10,1311,Genetics,11526,0.0217
+1104,Aquatic Science,,(other),242 others,199667,0.3764
+1105,"Ecology, Evolution, Behavior and Systematics",1,1105,"Ecology, Evolution, Behavior and Systematics",921658,0.2762
+1105,"Ecology, Evolution, Behavior and Systematics",2,1110,Plant Science,253570,0.076
+1105,"Ecology, Evolution, Behavior and Systematics",3,,(no topic),173259,0.0519
+1105,"Ecology, Evolution, Behavior and Systematics",4,2303,Ecology,106004,0.0318
+1105,"Ecology, Evolution, Behavior and Systematics",5,1312,Molecular Biology,105637,0.0317
+1105,"Ecology, Evolution, Behavior and Systematics",6,1311,Genetics,103737,0.0311
+1105,"Ecology, Evolution, Behavior and Systematics",7,3106,Nuclear and High Energy Physics,73326,0.022
+1105,"Ecology, Evolution, Behavior and Systematics",8,3312,Sociology and Political Science,58427,0.0175
+1105,"Ecology, Evolution, Behavior and Systematics",9,1100,General Agricultural and Biological Sciences,56941,0.0171
+1105,"Ecology, Evolution, Behavior and Systematics",10,1202,History,53944,0.0162
+1105,"Ecology, Evolution, Behavior and Systematics",,(other),243 others,1430408,0.4287
+1106,Food Science,1,1106,Food Science,776307,0.3802
+1106,Food Science,2,1110,Plant Science,144877,0.071
+1106,Food Science,3,1312,Molecular Biology,55847,0.0274
+1106,Food Science,4,,(no topic),51374,0.0252
+1106,Food Science,5,1103,Animal Science and Zoology,50877,0.0249
+1106,Food Science,6,2916,Nutrition and Dietetics,50701,0.0248
+1106,Food Science,7,1102,Agronomy and Crop Science,47504,0.0233
+1106,Food Science,8,1100,General Agricultural and Biological Sciences,30098,0.0147
+1106,Food Science,9,1311,Genetics,25050,0.0123
+1106,Food Science,10,3106,Nuclear and High Energy Physics,23119,0.0113
+1106,Food Science,,(other),243 others,785982,0.385
+1107,Forestry,1,1110,Plant Science,51192,0.1177
+1107,Forestry,2,1107,Forestry,38674,0.0889
+1107,Forestry,3,1106,Food Science,24820,0.0571
+1107,Forestry,4,,(no topic),23682,0.0544
+1107,Forestry,5,2306,Global and Planetary Change,15959,0.0367
+1107,Forestry,6,1102,Agronomy and Crop Science,13548,0.0311
+1107,Forestry,7,2303,Ecology,13023,0.0299
+1107,Forestry,8,2309,Nature and Landscape Conservation,12339,0.0284
+1107,Forestry,9,1111,Soil Science,11782,0.0271
+1107,Forestry,10,1100,General Agricultural and Biological Sciences,10477,0.0241
+1107,Forestry,,(other),243 others,219500,0.5046
+1108,Horticulture,1,1108,Horticulture,8596,0.2017
+1108,Horticulture,2,1110,Plant Science,5747,0.1348
+1108,Horticulture,3,,(no topic),2332,0.0547
+1108,Horticulture,4,1100,General Agricultural and Biological Sciences,1554,0.0365
+1108,Horticulture,5,1105,"Ecology, Evolution, Behavior and Systematics",1504,0.0353
+1108,Horticulture,6,1312,Molecular Biology,1311,0.0308
+1108,Horticulture,7,1311,Genetics,1310,0.0307
+1108,Horticulture,8,1107,Forestry,1039,0.0244
+1108,Horticulture,9,1307,Cell Biology,1035,0.0243
+1108,Horticulture,10,1106,Food Science,1023,0.024
+1108,Horticulture,,(other),229 others,17175,0.4029
+1109,Insect Science,1,1109,Insect Science,353780,0.2911
+1109,Insect Science,2,1105,"Ecology, Evolution, Behavior and Systematics",120661,0.0993
+1109,Insect Science,3,,(no topic),109037,0.0897
+1109,Insect Science,4,1110,Plant Science,84074,0.0692
+1109,Insect Science,5,1311,Genetics,44417,0.0366
+1109,Insect Science,6,2303,Ecology,35376,0.0291
+1109,Insect Science,7,1312,Molecular Biology,26090,0.0215
+1109,Insect Science,8,2306,Global and Planetary Change,18267,0.015
+1109,Insect Science,9,3106,Nuclear and High Energy Physics,17173,0.0141
+1109,Insect Science,10,2309,Nature and Landscape Conservation,15578,0.0128
+1109,Insect Science,,(other),242 others,390722,0.3215
+1110,Plant Science,1,1110,Plant Science,3471534,0.3736
+1110,Plant Science,2,,(no topic),597842,0.0643
+1110,Plant Science,3,1312,Molecular Biology,334893,0.036
+1110,Plant Science,4,1105,"Ecology, Evolution, Behavior and Systematics",208775,0.0225
+1110,Plant Science,5,2303,Ecology,204158,0.022
+1110,Plant Science,6,1111,Soil Science,172344,0.0185
+1110,Plant Science,7,1106,Food Science,162299,0.0175
+1110,Plant Science,8,3106,Nuclear and High Energy Physics,151616,0.0163
+1110,Plant Science,9,2736,Pharmacology,148131,0.0159
+1110,Plant Science,10,1311,Genetics,143444,0.0154
+1110,Plant Science,,(other),243 others,3698264,0.3979
+1111,Soil Science,1,1111,Soil Science,350363,0.454
+1111,Soil Science,2,1110,Plant Science,91866,0.119
+1111,Soil Science,3,2303,Ecology,17465,0.0226
+1111,Soil Science,4,1100,General Agricultural and Biological Sciences,16161,0.0209
+1111,Soil Science,5,2205,Civil and Structural Engineering,15134,0.0196
+1111,Soil Science,6,1102,Agronomy and Crop Science,13976,0.0181
+1111,Soil Science,7,3312,Sociology and Political Science,13773,0.0178
+1111,Soil Science,8,2310,Pollution,11121,0.0144
+1111,Soil Science,9,2306,Global and Planetary Change,11021,0.0143
+1111,Soil Science,10,1105,"Ecology, Evolution, Behavior and Systematics",10416,0.0135
+1111,Soil Science,,(other),240 others,220401,0.2856
+1200,General Arts and Humanities,1,1200,General Arts and Humanities,32024,0.1309
+1200,General Arts and Humanities,2,1208,Literature and Literary Theory,30160,0.1232
+1200,General Arts and Humanities,3,1213,Visual Arts and Performing Arts,24929,0.1019
+1200,General Arts and Humanities,4,1210,Music,23297,0.0952
+1200,General Arts and Humanities,5,1202,History,16636,0.068
+1200,General Arts and Humanities,6,1211,Philosophy,15517,0.0634
+1200,General Arts and Humanities,7,3314,Anthropology,9747,0.0398
+1200,General Arts and Humanities,8,3312,Sociology and Political Science,7569,0.0309
+1200,General Arts and Humanities,9,2216,Architecture,6974,0.0285
+1200,General Arts and Humanities,10,1203,Language and Linguistics,5792,0.0237
+1200,General Arts and Humanities,,(other),233 others,72078,0.2945
+1202,History,1,1202,History,1764197,0.3427
+1202,History,2,3320,Political Science and International Relations,347601,0.0675
+1202,History,3,1208,Literature and Literary Theory,293924,0.0571
+1202,History,4,,(no topic),271518,0.0527
+1202,History,5,3312,Sociology and Political Science,214285,0.0416
+1202,History,6,1205,Classics,182460,0.0354
+1202,History,7,3314,Anthropology,170740,0.0332
+1202,History,8,3304,Education,114978,0.0223
+1202,History,9,1211,Philosophy,113393,0.022
+1202,History,10,1207,History and Philosophy of Science,113349,0.022
+1202,History,,(other),243 others,1561339,0.3033
+1203,Language and Linguistics,1,1203,Language and Linguistics,1252401,0.4643
+1203,Language and Linguistics,2,1208,Literature and Literary Theory,188939,0.07
+1203,Language and Linguistics,3,3310,Linguistics and Language,116262,0.0431
+1203,Language and Linguistics,4,1202,History,105287,0.039
+1203,Language and Linguistics,5,,(no topic),86021,0.0319
+1203,Language and Linguistics,6,1205,Classics,65414,0.0243
+1203,Language and Linguistics,7,3304,Education,63253,0.0234
+1203,Language and Linguistics,8,3204,Developmental and Educational Psychology,59128,0.0219
+1203,Language and Linguistics,9,3314,Anthropology,51800,0.0192
+1203,Language and Linguistics,10,3205,Experimental and Cognitive Psychology,47848,0.0177
+1203,Language and Linguistics,,(other),243 others,661121,0.2451
+1204,Archeology,1,1204,Archeology,949380,0.3191
+1204,Archeology,2,3314,Anthropology,228641,0.0768
+1204,Archeology,3,1202,History,218030,0.0733
+1204,Archeology,4,1212,Religious studies,97706,0.0328
+1204,Archeology,5,,(no topic),90635,0.0305
+1204,Archeology,6,1206,Conservation,83902,0.0282
+1204,Archeology,7,1205,Classics,72480,0.0244
+1204,Archeology,8,3316,Cultural Studies,70572,0.0237
+1204,Archeology,9,3312,Sociology and Political Science,63971,0.0215
+1204,Archeology,10,3320,Political Science and International Relations,63683,0.0214
+1204,Archeology,,(other),243 others,1036275,0.3483
+1205,Classics,1,1205,Classics,298244,0.3113
+1205,Classics,2,1202,History,155947,0.1628
+1205,Classics,3,1208,Literature and Literary Theory,93544,0.0976
+1205,Classics,4,3314,Anthropology,52817,0.0551
+1205,Classics,5,,(no topic),39014,0.0407
+1205,Classics,6,1203,Language and Linguistics,32722,0.0342
+1205,Classics,7,1212,Religious studies,30503,0.0318
+1205,Classics,8,1204,Archeology,29949,0.0313
+1205,Classics,9,1211,Philosophy,28562,0.0298
+1205,Classics,10,3320,Political Science and International Relations,25130,0.0262
+1205,Classics,,(other),240 others,171554,0.1791
+1206,Conservation,1,1206,Conservation,189012,0.3151
+1206,Conservation,2,,(no topic),75090,0.1252
+1206,Conservation,3,1202,History,48023,0.0801
+1206,Conservation,4,1208,Literature and Literary Theory,22602,0.0377
+1206,Conservation,5,1213,Visual Arts and Performing Arts,22426,0.0374
+1206,Conservation,6,1204,Archeology,22197,0.037
+1206,Conservation,7,2216,Architecture,19919,0.0332
+1206,Conservation,8,1209,Museology,16333,0.0272
+1206,Conservation,9,3312,Sociology and Political Science,10930,0.0182
+1206,Conservation,10,1710,Information Systems,9736,0.0162
+1206,Conservation,,(other),241 others,163610,0.2727
+1207,History and Philosophy of Science,1,1207,History and Philosophy of Science,281834,0.178
+1207,History and Philosophy of Science,2,1202,History,208391,0.1316
+1207,History and Philosophy of Science,3,,(no topic),134196,0.0847
+1207,History and Philosophy of Science,4,1211,Philosophy,91861,0.058
+1207,History and Philosophy of Science,5,1208,Literature and Literary Theory,80995,0.0511
+1207,History and Philosophy of Science,6,3320,Political Science and International Relations,58354,0.0369
+1207,History and Philosophy of Science,7,3312,Sociology and Political Science,50347,0.0318
+1207,History and Philosophy of Science,8,3309,Library and Information Sciences,31754,0.0201
+1207,History and Philosophy of Science,9,1213,Visual Arts and Performing Arts,28712,0.0181
+1207,History and Philosophy of Science,10,3304,Education,27707,0.0175
+1207,History and Philosophy of Science,,(other),242 others,589343,0.3722
+1208,Literature and Literary Theory,1,1208,Literature and Literary Theory,1933465,0.4272
+1208,Literature and Literary Theory,2,1202,History,327613,0.0724
+1208,Literature and Literary Theory,3,,(no topic),320091,0.0707
+1208,Literature and Literary Theory,4,1213,Visual Arts and Performing Arts,200726,0.0444
+1208,Literature and Literary Theory,5,1203,Language and Linguistics,159340,0.0352
+1208,Literature and Literary Theory,6,1210,Music,149738,0.0331
+1208,Literature and Literary Theory,7,1211,Philosophy,123344,0.0273
+1208,Literature and Literary Theory,8,3312,Sociology and Political Science,115619,0.0255
+1208,Literature and Literary Theory,9,1205,Classics,95467,0.0211
+1208,Literature and Literary Theory,10,3304,Education,93998,0.0208
+1208,Literature and Literary Theory,,(other),243 others,1006164,0.2223
+1209,Museology,1,1209,Museology,209830,0.1832
+1209,Museology,2,,(no topic),106984,0.0934
+1209,Museology,3,1208,Literature and Literary Theory,94321,0.0823
+1209,Museology,4,1202,History,83621,0.073
+1209,Museology,5,1213,Visual Arts and Performing Arts,79355,0.0693
+1209,Museology,6,1206,Conservation,36217,0.0316
+1209,Museology,7,3320,Political Science and International Relations,34063,0.0297
+1209,Museology,8,3312,Sociology and Political Science,32841,0.0287
+1209,Museology,9,1710,Information Systems,28988,0.0253
+1209,Museology,10,1204,Archeology,22324,0.0195
+1209,Museology,,(other),243 others,416890,0.364
+1210,Music,1,1210,Music,698765,0.6424
+1210,Music,2,,(no topic),48627,0.0447
+1210,Music,3,1208,Literature and Literary Theory,43553,0.04
+1210,Music,4,1213,Visual Arts and Performing Arts,32648,0.03
+1210,Music,5,1202,History,27074,0.0249
+1210,Music,6,3312,Sociology and Political Science,15687,0.0144
+1210,Music,7,3304,Education,13570,0.0125
+1210,Music,8,3205,Experimental and Cognitive Psychology,11387,0.0105
+1210,Music,9,1203,Language and Linguistics,8919,0.0082
+1210,Music,10,3320,Political Science and International Relations,8651,0.008
+1210,Music,,(other),243 others,178913,0.1645
+1211,Philosophy,1,1211,Philosophy,953552,0.2465
+1211,Philosophy,2,1208,Literature and Literary Theory,292487,0.0756
+1211,Philosophy,3,,(no topic),196500,0.0508
+1211,Philosophy,4,1202,History,194699,0.0503
+1211,Philosophy,5,3312,Sociology and Political Science,156346,0.0404
+1211,Philosophy,6,3320,Political Science and International Relations,120026,0.031
+1211,Philosophy,7,1203,Language and Linguistics,102898,0.0266
+1211,Philosophy,8,1212,Religious studies,99734,0.0258
+1211,Philosophy,9,1213,Visual Arts and Performing Arts,96200,0.0249
+1211,Philosophy,10,3304,Education,91124,0.0236
+1211,Philosophy,,(other),243 others,1565192,0.4046
+1212,Religious studies,1,1212,Religious studies,689206,0.4401
+1212,Religious studies,2,1202,History,178268,0.1138
+1212,Religious studies,3,1211,Philosophy,102643,0.0655
+1212,Religious studies,4,1208,Literature and Literary Theory,75311,0.0481
+1212,Religious studies,5,3312,Sociology and Political Science,70726,0.0452
+1212,Religious studies,6,,(no topic),54559,0.0348
+1212,Religious studies,7,3320,Political Science and International Relations,43314,0.0277
+1212,Religious studies,8,3314,Anthropology,26913,0.0172
+1212,Religious studies,9,3304,Education,21262,0.0136
+1212,Religious studies,10,1205,Classics,20647,0.0132
+1212,Religious studies,,(other),241 others,283334,0.1809
+1213,Visual Arts and Performing Arts,1,1213,Visual Arts and Performing Arts,539337,0.3777
+1213,Visual Arts and Performing Arts,2,1208,Literature and Literary Theory,100126,0.0701
+1213,Visual Arts and Performing Arts,3,,(no topic),71701,0.0502
+1213,Visual Arts and Performing Arts,4,1209,Museology,65356,0.0458
+1213,Visual Arts and Performing Arts,5,1202,History,62976,0.0441
+1213,Visual Arts and Performing Arts,6,3312,Sociology and Political Science,39635,0.0278
+1213,Visual Arts and Performing Arts,7,2216,Architecture,37419,0.0262
+1213,Visual Arts and Performing Arts,8,1206,Conservation,34829,0.0244
+1213,Visual Arts and Performing Arts,9,1211,Philosophy,33506,0.0235
+1213,Visual Arts and Performing Arts,10,1210,Music,28930,0.0203
+1213,Visual Arts and Performing Arts,,(other),241 others,414051,0.29
+1302,Aging,1,1302,Aging,25113,0.2522
+1302,Aging,2,2804,Cellular and Molecular Neuroscience,21581,0.2167
+1302,Aging,3,1312,Molecular Biology,14933,0.1499
+1302,Aging,4,3106,Nuclear and High Energy Physics,2942,0.0295
+1302,Aging,5,1311,Genetics,2566,0.0258
+1302,Aging,6,1307,Cell Biology,2365,0.0237
+1302,Aging,7,2737,Physiology,2201,0.0221
+1302,Aging,8,1110,Plant Science,1912,0.0192
+1302,Aging,9,,(no topic),1848,0.0186
+1302,Aging,10,2202,Aerospace Engineering,1588,0.0159
+1302,Aging,,(other),222 others,22539,0.2263
+1303,Biochemistry,1,1303,Biochemistry,66516,0.1636
+1303,Biochemistry,2,1312,Molecular Biology,38998,0.0959
+1303,Biochemistry,3,1605,Organic Chemistry,15934,0.0392
+1303,Biochemistry,4,,(no topic),13022,0.032
+1303,Biochemistry,5,1110,Plant Science,11623,0.0286
+1303,Biochemistry,6,2705,Cardiology and Cardiovascular Medicine,10442,0.0257
+1303,Biochemistry,7,3106,Nuclear and High Energy Physics,8363,0.0206
+1303,Biochemistry,8,3004,Pharmacology,7219,0.0178
+1303,Biochemistry,9,3313,Transportation,7075,0.0174
+1303,Biochemistry,10,1311,Genetics,7069,0.0174
+1303,Biochemistry,,(other),238 others,220245,0.5418
+1304,Biophysics,1,1304,Biophysics,132373,0.1248
+1304,Biophysics,2,,(no topic),130992,0.1235
+1304,Biophysics,3,3106,Nuclear and High Energy Physics,59750,0.0563
+1304,Biophysics,4,1110,Plant Science,42323,0.0399
+1304,Biophysics,5,2302,Ecological Modeling,31429,0.0296
+1304,Biophysics,6,2202,Aerospace Engineering,30302,0.0286
+1304,Biophysics,7,1202,History,23824,0.0225
+1304,Biophysics,8,3320,Political Science and International Relations,22329,0.021
+1304,Biophysics,9,3312,Sociology and Political Science,21071,0.0199
+1304,Biophysics,10,1312,Molecular Biology,20727,0.0195
+1304,Biophysics,,(other),242 others,545874,0.5145
+1305,Biotechnology,1,1305,Biotechnology,144619,0.2849
+1305,Biotechnology,2,1312,Molecular Biology,51221,0.1009
+1305,Biotechnology,3,1110,Plant Science,22957,0.0452
+1305,Biotechnology,4,1106,Food Science,22601,0.0445
+1305,Biotechnology,5,2730,Oncology,13234,0.0261
+1305,Biotechnology,6,1311,Genetics,13174,0.026
+1305,Biotechnology,7,,(no topic),12026,0.0237
+1305,Biotechnology,8,1605,Organic Chemistry,11870,0.0234
+1305,Biotechnology,9,2403,Immunology,10775,0.0212
+1305,Biotechnology,10,2736,Pharmacology,9010,0.0178
+1305,Biotechnology,,(other),241 others,196043,0.3863
+1306,Cancer Research,1,1306,Cancer Research,403689,0.3974
+1306,Cancer Research,2,1312,Molecular Biology,75983,0.0748
+1306,Cancer Research,3,2730,Oncology,37784,0.0372
+1306,Cancer Research,4,2740,Pulmonary and Respiratory Medicine,30507,0.03
+1306,Cancer Research,5,3106,Nuclear and High Energy Physics,28377,0.0279
+1306,Cancer Research,6,2746,Surgery,24651,0.0243
+1306,Cancer Research,7,2734,Pathology and Forensic Medicine,22696,0.0223
+1306,Cancer Research,8,1311,Genetics,21098,0.0208
+1306,Cancer Research,9,,(no topic),19375,0.0191
+1306,Cancer Research,10,1110,Plant Science,18386,0.0181
+1306,Cancer Research,,(other),242 others,333292,0.3281
+1307,Cell Biology,1,1307,Cell Biology,426063,0.3785
+1307,Cell Biology,2,1312,Molecular Biology,105821,0.094
+1307,Cell Biology,3,1110,Plant Science,70109,0.0623
+1307,Cell Biology,4,3106,Nuclear and High Energy Physics,25965,0.0231
+1307,Cell Biology,5,1311,Genetics,25587,0.0227
+1307,Cell Biology,6,1105,"Ecology, Evolution, Behavior and Systematics",25516,0.0227
+1307,Cell Biology,7,,(no topic),24511,0.0218
+1307,Cell Biology,8,2737,Physiology,15149,0.0135
+1307,Cell Biology,9,2804,Cellular and Molecular Neuroscience,13401,0.0119
+1307,Cell Biology,10,2730,Oncology,11707,0.0104
+1307,Cell Biology,,(other),242 others,381704,0.3391
+1308,Clinical Biochemistry,1,1308,Clinical Biochemistry,89891,0.2818
+1308,Clinical Biochemistry,2,1312,Molecular Biology,24024,0.0753
+1308,Clinical Biochemistry,3,2727,Nephrology,10832,0.034
+1308,Clinical Biochemistry,4,1303,Biochemistry,10283,0.0322
+1308,Clinical Biochemistry,5,2202,Aerospace Engineering,9782,0.0307
+1308,Clinical Biochemistry,6,2737,Physiology,7368,0.0231
+1308,Clinical Biochemistry,7,2746,Surgery,6888,0.0216
+1308,Clinical Biochemistry,8,2738,Psychiatry and Mental health,5894,0.0185
+1308,Clinical Biochemistry,9,2713,Epidemiology,5873,0.0184
+1308,Clinical Biochemistry,10,2735,"Pediatrics, Perinatology and Child Health",5756,0.018
+1308,Clinical Biochemistry,,(other),240 others,142401,0.4464
+1309,Developmental Biology,1,1309,Developmental Biology,34845,0.3721
+1309,Developmental Biology,2,2303,Ecology,6656,0.0711
+1309,Developmental Biology,3,,(no topic),4035,0.0431
+1309,Developmental Biology,4,1105,"Ecology, Evolution, Behavior and Systematics",2840,0.0303
+1309,Developmental Biology,5,1311,Genetics,2768,0.0296
+1309,Developmental Biology,6,3106,Nuclear and High Energy Physics,2736,0.0292
+1309,Developmental Biology,7,1711,Signal Processing,2282,0.0244
+1309,Developmental Biology,8,3207,Social Psychology,2082,0.0222
+1309,Developmental Biology,9,2746,Surgery,1901,0.0203
+1309,Developmental Biology,10,2805,Cognitive Neuroscience,1846,0.0197
+1309,Developmental Biology,,(other),234 others,31642,0.3379
+1310,Endocrinology,1,1310,Endocrinology,136777,0.3542
+1310,Endocrinology,2,,(no topic),22863,0.0592
+1310,Endocrinology,3,1110,Plant Science,17004,0.044
+1310,Endocrinology,4,1312,Molecular Biology,12710,0.0329
+1310,Endocrinology,5,1311,Genetics,11242,0.0291
+1310,Endocrinology,6,3106,Nuclear and High Energy Physics,10028,0.026
+1310,Endocrinology,7,2202,Aerospace Engineering,8547,0.0221
+1310,Endocrinology,8,1106,Food Science,7478,0.0194
+1310,Endocrinology,9,1313,Molecular Medicine,6844,0.0177
+1310,Endocrinology,10,2306,Global and Planetary Change,6411,0.0166
+1310,Endocrinology,,(other),243 others,146308,0.3788
+1311,Genetics,1,1311,Genetics,1316572,0.384
+1311,Genetics,2,1312,Molecular Biology,149071,0.0435
+1311,Genetics,3,,(no topic),119704,0.0349
+1311,Genetics,4,1110,Plant Science,117069,0.0341
+1311,Genetics,5,3106,Nuclear and High Energy Physics,83533,0.0244
+1311,Genetics,6,1105,"Ecology, Evolution, Behavior and Systematics",75885,0.0221
+1311,Genetics,7,2712,"Endocrinology, Diabetes and Metabolism",50833,0.0148
+1311,Genetics,8,2303,Ecology,50116,0.0146
+1311,Genetics,9,2739,"Public Health, Environmental and Occupational Health",49010,0.0143
+1311,Genetics,10,2202,Aerospace Engineering,48895,0.0143
+1311,Genetics,,(other),243 others,1367572,0.3989
+1312,Molecular Biology,1,1312,Molecular Biology,4015784,0.4024
+1312,Molecular Biology,2,1110,Plant Science,395217,0.0396
+1312,Molecular Biology,3,,(no topic),376931,0.0378
+1312,Molecular Biology,4,3106,Nuclear and High Energy Physics,356883,0.0358
+1312,Molecular Biology,5,1311,Genetics,277237,0.0278
+1312,Molecular Biology,6,2202,Aerospace Engineering,164550,0.0165
+1312,Molecular Biology,7,1605,Organic Chemistry,160835,0.0161
+1312,Molecular Biology,8,1105,"Ecology, Evolution, Behavior and Systematics",114541,0.0115
+1312,Molecular Biology,9,1306,Cancer Research,108142,0.0108
+1312,Molecular Biology,10,2730,Oncology,107890,0.0108
+1312,Molecular Biology,,(other),243 others,3901260,0.3909
+1313,Molecular Medicine,1,1313,Molecular Medicine,141693,0.6148
+1313,Molecular Medicine,2,1312,Molecular Biology,5447,0.0236
+1313,Molecular Medicine,3,1311,Genetics,4897,0.0212
+1313,Molecular Medicine,4,2736,Pharmacology,4149,0.018
+1313,Molecular Medicine,5,3106,Nuclear and High Energy Physics,4095,0.0178
+1313,Molecular Medicine,6,1605,Organic Chemistry,3469,0.0151
+1313,Molecular Medicine,7,2502,Biomaterials,3367,0.0146
+1313,Molecular Medicine,8,3003,Pharmaceutical Science,3366,0.0146
+1313,Molecular Medicine,9,1106,Food Science,3265,0.0142
+1313,Molecular Medicine,10,2725,Infectious Diseases,3211,0.0139
+1313,Molecular Medicine,,(other),238 others,53525,0.2322
+1314,Physiology,1,1314,Physiology,61569,0.2992
+1314,Physiology,2,1312,Molecular Biology,13458,0.0654
+1314,Physiology,3,1110,Plant Science,8396,0.0408
+1314,Physiology,4,,(no topic),7509,0.0365
+1314,Physiology,5,3106,Nuclear and High Energy Physics,5949,0.0289
+1314,Physiology,6,1104,Aquatic Science,3414,0.0166
+1314,Physiology,7,2737,Physiology,2993,0.0145
+1314,Physiology,8,1311,Genetics,2558,0.0124
+1314,Physiology,9,1304,Biophysics,2478,0.012
+1314,Physiology,10,2307,"Health, Toxicology and Mutagenesis",2461,0.012
+1314,Physiology,,(other),239 others,94973,0.4616
+1315,Structural Biology,1,1315,Structural Biology,20550,0.1384
+1315,Structural Biology,2,3106,Nuclear and High Energy Physics,17884,0.1204
+1315,Structural Biology,3,,(no topic),16369,0.1102
+1315,Structural Biology,4,1110,Plant Science,4648,0.0313
+1315,Structural Biology,5,1202,History,3193,0.0215
+1315,Structural Biology,6,3320,Political Science and International Relations,3129,0.0211
+1315,Structural Biology,7,3312,Sociology and Political Science,2932,0.0197
+1315,Structural Biology,8,2202,Aerospace Engineering,2850,0.0192
+1315,Structural Biology,9,1208,Literature and Literary Theory,2501,0.0168
+1315,Structural Biology,10,3107,"Atomic and Molecular Physics, and Optics",2501,0.0168
+1315,Structural Biology,,(other),241 others,71974,0.4846
+1402,Accounting,1,1402,Accounting,951453,0.4831
+1402,Accounting,2,2003,Finance,116907,0.0594
+1402,Accounting,3,2002,Economics and Econometrics,108487,0.0551
+1402,Accounting,4,1408,Strategy and Management,106764,0.0542
+1402,Accounting,5,3320,Political Science and International Relations,85403,0.0434
+1402,Accounting,6,3308,Law,63967,0.0325
+1402,Accounting,7,1404,Management Information Systems,40031,0.0203
+1402,Accounting,8,3312,Sociology and Political Science,37284,0.0189
+1402,Accounting,9,,(no topic),36407,0.0185
+1402,Accounting,10,3304,Education,27361,0.0139
+1402,Accounting,,(other),242 others,395597,0.2008
+1403,Business and International Management,1,1403,Business and International Management,15613,0.1161
+1403,Business and International Management,2,1408,Strategy and Management,13779,0.1025
+1403,Business and International Management,3,3312,Sociology and Political Science,8526,0.0634
+1403,Business and International Management,4,1405,Management of Technology and Innovation,8199,0.061
+1403,Business and International Management,5,1710,Information Systems,6636,0.0494
+1403,Business and International Management,6,2002,Economics and Econometrics,6354,0.0473
+1403,Business and International Management,7,1406,Marketing,6325,0.047
+1403,Business and International Management,8,,(no topic),5556,0.0413
+1403,Business and International Management,9,1100,General Agricultural and Biological Sciences,5343,0.0397
+1403,Business and International Management,10,1407,Organizational Behavior and Human Resource Management,3471,0.0258
+1403,Business and International Management,,(other),225 others,54649,0.4065
+1404,Management Information Systems,1,1404,Management Information Systems,431916,0.4046
+1404,Management Information Systems,2,1710,Information Systems,70852,0.0664
+1404,Management Information Systems,3,1408,Strategy and Management,60803,0.057
+1404,Management Information Systems,4,1402,Accounting,35915,0.0336
+1404,Management Information Systems,5,1803,Management Science and Operations Research,30523,0.0286
+1404,Management Information Systems,6,1702,Artificial Intelligence,28720,0.0269
+1404,Management Information Systems,7,1712,Software,27698,0.0259
+1404,Management Information Systems,8,1407,Organizational Behavior and Human Resource Management,22911,0.0215
+1404,Management Information Systems,9,,(no topic),18936,0.0177
+1404,Management Information Systems,10,3312,Sociology and Political Science,17839,0.0167
+1404,Management Information Systems,,(other),241 others,321436,0.3011
+1405,Management of Technology and Innovation,1,1405,Management of Technology and Innovation,242041,0.2848
+1405,Management of Technology and Innovation,2,1408,Strategy and Management,48761,0.0574
+1405,Management of Technology and Innovation,3,3308,Law,35289,0.0415
+1405,Management of Technology and Innovation,4,3304,Education,34373,0.0405
+1405,Management of Technology and Innovation,5,3312,Sociology and Political Science,30833,0.0363
+1405,Management of Technology and Innovation,6,1406,Marketing,28962,0.0341
+1405,Management of Technology and Innovation,7,,(no topic),26191,0.0308
+1405,Management of Technology and Innovation,8,1710,Information Systems,24092,0.0284
+1405,Management of Technology and Innovation,9,1407,Organizational Behavior and Human Resource Management,23454,0.0276
+1405,Management of Technology and Innovation,10,2002,Economics and Econometrics,22882,0.0269
+1405,Management of Technology and Innovation,,(other),241 others,332838,0.3917
+1406,Marketing,1,1406,Marketing,401302,0.3396
+1406,Marketing,2,3312,Sociology and Political Science,69265,0.0586
+1406,Marketing,3,1407,Organizational Behavior and Human Resource Management,60611,0.0513
+1406,Marketing,4,1408,Strategy and Management,56425,0.0478
+1406,Marketing,5,3308,Law,42984,0.0364
+1406,Marketing,6,3320,Political Science and International Relations,41338,0.035
+1406,Marketing,7,,(no topic),37705,0.0319
+1406,Marketing,8,2002,Economics and Econometrics,35645,0.0302
+1406,Marketing,9,1402,Accounting,27760,0.0235
+1406,Marketing,10,1202,History,22334,0.0189
+1406,Marketing,,(other),240 others,386263,0.3269
+1407,Organizational Behavior and Human Resource Management,1,1407,Organizational Behavior and Human Resource Management,425717,0.289
+1407,Organizational Behavior and Human Resource Management,2,1408,Strategy and Management,112117,0.0761
+1407,Organizational Behavior and Human Resource Management,3,3312,Sociology and Political Science,65551,0.0445
+1407,Organizational Behavior and Human Resource Management,4,3307,Human Factors and Ergonomics,62025,0.0421
+1407,Organizational Behavior and Human Resource Management,5,,(no topic),53685,0.0365
+1407,Organizational Behavior and Human Resource Management,6,3320,Political Science and International Relations,47391,0.0322
+1407,Organizational Behavior and Human Resource Management,7,3304,Education,45645,0.031
+1407,Organizational Behavior and Human Resource Management,8,3600,General Health Professions,44691,0.0303
+1407,Organizational Behavior and Human Resource Management,9,1406,Marketing,37777,0.0256
+1407,Organizational Behavior and Human Resource Management,10,3207,Social Psychology,30237,0.0205
+1407,Organizational Behavior and Human Resource Management,,(other),241 others,547999,0.3721
+1408,Strategy and Management,1,1408,Strategy and Management,889167,0.3194
+1408,Strategy and Management,2,1402,Accounting,214610,0.0771
+1408,Strategy and Management,3,3320,Political Science and International Relations,138786,0.0499
+1408,Strategy and Management,4,1404,Management Information Systems,124206,0.0446
+1408,Strategy and Management,5,2002,Economics and Econometrics,115801,0.0416
+1408,Strategy and Management,6,3308,Law,111597,0.0401
+1408,Strategy and Management,7,1407,Organizational Behavior and Human Resource Management,90418,0.0325
+1408,Strategy and Management,8,,(no topic),78527,0.0282
+1408,Strategy and Management,9,3312,Sociology and Political Science,76662,0.0275
+1408,Strategy and Management,10,1406,Marketing,75651,0.0272
+1408,Strategy and Management,,(other),243 others,868434,0.312
+1409,"Tourism, Leisure and Hospitality Management",1,1409,"Tourism, Leisure and Hospitality Management",37626,0.3619
+1409,"Tourism, Leisure and Hospitality Management",2,3312,Sociology and Political Science,9473,0.0911
+1409,"Tourism, Leisure and Hospitality Management",3,1406,Marketing,6412,0.0617
+1409,"Tourism, Leisure and Hospitality Management",4,1106,Food Science,5841,0.0562
+1409,"Tourism, Leisure and Hospitality Management",5,2002,Economics and Econometrics,4695,0.0452
+1409,"Tourism, Leisure and Hospitality Management",6,1408,Strategy and Management,3769,0.0362
+1409,"Tourism, Leisure and Hospitality Management",7,1110,Plant Science,2908,0.028
+1409,"Tourism, Leisure and Hospitality Management",8,1407,Organizational Behavior and Human Resource Management,2751,0.0265
+1409,"Tourism, Leisure and Hospitality Management",9,,(no topic),1794,0.0173
+1409,"Tourism, Leisure and Hospitality Management",10,1100,General Agricultural and Biological Sciences,1413,0.0136
+1409,"Tourism, Leisure and Hospitality Management",,(other),225 others,27297,0.2625
+1410,Industrial relations,1,3320,Political Science and International Relations,49603,0.3361
+1410,Industrial relations,2,3308,Law,28710,0.1946
+1410,Industrial relations,3,3312,Sociology and Political Science,10988,0.0745
+1410,Industrial relations,4,1410,Industrial relations,7309,0.0495
+1410,Industrial relations,5,1402,Accounting,6780,0.0459
+1410,Industrial relations,6,1408,Strategy and Management,6098,0.0413
+1410,Industrial relations,7,2002,Economics and Econometrics,5511,0.0373
+1410,Industrial relations,8,,(no topic),2896,0.0196
+1410,Industrial relations,9,3311,Safety Research,2760,0.0187
+1410,Industrial relations,10,2743,Reproductive Medicine,2674,0.0181
+1410,Industrial relations,,(other),227 others,24236,0.1642
+1502,Bioengineering,1,1502,Bioengineering,33176,0.205
+1502,Bioengineering,2,2208,Electrical and Electronic Engineering,19857,0.1227
+1502,Bioengineering,3,1602,Analytical Chemistry,8203,0.0507
+1502,Bioengineering,4,2204,Biomedical Engineering,6916,0.0427
+1502,Bioengineering,5,1607,Spectroscopy,6525,0.0403
+1502,Bioengineering,6,2505,Materials Chemistry,6283,0.0388
+1502,Bioengineering,7,1603,Electrochemistry,5397,0.0334
+1502,Bioengineering,8,1605,Organic Chemistry,4536,0.028
+1502,Bioengineering,9,1312,Molecular Biology,4089,0.0253
+1502,Bioengineering,10,1606,Physical and Theoretical Chemistry,3607,0.0223
+1502,Bioengineering,,(other),237 others,63237,0.3908
+1503,Catalysis,1,1503,Catalysis,120753,0.4747
+1503,Catalysis,2,1605,Organic Chemistry,21744,0.0855
+1503,Catalysis,3,2505,Materials Chemistry,19530,0.0768
+1503,Catalysis,4,1604,Inorganic Chemistry,8886,0.0349
+1503,Catalysis,5,2210,Mechanical Engineering,8820,0.0347
+1503,Catalysis,6,2105,"Renewable Energy, Sustainability and the Environment",7325,0.0288
+1503,Catalysis,7,2204,Biomedical Engineering,7018,0.0276
+1503,Catalysis,8,2208,Electrical and Electronic Engineering,5193,0.0204
+1503,Catalysis,9,1507,Fluid Flow and Transfer Processes,4965,0.0195
+1503,Catalysis,10,,(no topic),4063,0.016
+1503,Catalysis,,(other),236 others,46106,0.1812
+1504,Chemical Health and Safety,1,1504,Chemical Health and Safety,10158,0.1808
+1504,Chemical Health and Safety,2,3609,Occupational Therapy,5396,0.0961
+1504,Chemical Health and Safety,3,,(no topic),3986,0.071
+1504,Chemical Health and Safety,4,2213,"Safety, Risk, Reliability and Quality",2397,0.0427
+1504,Chemical Health and Safety,5,2307,"Health, Toxicology and Mutagenesis",2173,0.0387
+1504,Chemical Health and Safety,6,1804,"Statistics, Probability and Uncertainty",1439,0.0256
+1504,Chemical Health and Safety,7,3614,Radiological and Ultrasound Technology,1397,0.0249
+1504,Chemical Health and Safety,8,1606,Physical and Theoretical Chemistry,1214,0.0216
+1504,Chemical Health and Safety,9,3312,Sociology and Political Science,1072,0.0191
+1504,Chemical Health and Safety,10,1408,Strategy and Management,1027,0.0183
+1504,Chemical Health and Safety,,(other),230 others,25917,0.4614
+1506,Filtration and Separation,1,1506,Filtration and Separation,15070,0.2783
+1506,Filtration and Separation,2,1507,Fluid Flow and Transfer Processes,4011,0.0741
+1506,Filtration and Separation,3,1605,Organic Chemistry,3890,0.0718
+1506,Filtration and Separation,4,2204,Biomedical Engineering,3479,0.0642
+1506,Filtration and Separation,5,1607,Spectroscopy,2202,0.0407
+1506,Filtration and Separation,6,2505,Materials Chemistry,1738,0.0321
+1506,Filtration and Separation,7,1606,Physical and Theoretical Chemistry,1459,0.0269
+1506,Filtration and Separation,8,,(no topic),1431,0.0264
+1506,Filtration and Separation,9,1602,Analytical Chemistry,1244,0.023
+1506,Filtration and Separation,10,1502,Bioengineering,896,0.0165
+1506,Filtration and Separation,,(other),229 others,18729,0.3459
+1507,Fluid Flow and Transfer Processes,1,1507,Fluid Flow and Transfer Processes,173567,0.616
+1507,Fluid Flow and Transfer Processes,2,2206,Computational Mechanics,13218,0.0469
+1507,Fluid Flow and Transfer Processes,3,2210,Mechanical Engineering,10689,0.0379
+1507,Fluid Flow and Transfer Processes,4,2203,Automotive Engineering,10591,0.0376
+1507,Fluid Flow and Transfer Processes,5,2204,Biomedical Engineering,8730,0.031
+1507,Fluid Flow and Transfer Processes,6,2505,Materials Chemistry,5620,0.0199
+1507,Fluid Flow and Transfer Processes,7,1605,Organic Chemistry,4568,0.0162
+1507,Fluid Flow and Transfer Processes,8,2202,Aerospace Engineering,4158,0.0148
+1507,Fluid Flow and Transfer Processes,9,2507,Polymers and Plastics,3275,0.0116
+1507,Fluid Flow and Transfer Processes,10,2208,Electrical and Electronic Engineering,2995,0.0106
+1507,Fluid Flow and Transfer Processes,,(other),230 others,44331,0.1573
+1508,Process Chemistry and Technology,1,1508,Process Chemistry and Technology,31421,0.3924
+1508,Process Chemistry and Technology,2,1605,Organic Chemistry,9940,0.1241
+1508,Process Chemistry and Technology,3,2307,"Health, Toxicology and Mutagenesis",2380,0.0297
+1508,Process Chemistry and Technology,4,2505,Materials Chemistry,2269,0.0283
+1508,Process Chemistry and Technology,5,2310,Pollution,2030,0.0253
+1508,Process Chemistry and Technology,6,1902,Atmospheric Science,1973,0.0246
+1508,Process Chemistry and Technology,7,2502,Biomaterials,1878,0.0235
+1508,Process Chemistry and Technology,8,2210,Mechanical Engineering,1832,0.0229
+1508,Process Chemistry and Technology,9,1503,Catalysis,1643,0.0205
+1508,Process Chemistry and Technology,10,2204,Biomedical Engineering,1344,0.0168
+1508,Process Chemistry and Technology,,(other),220 others,23369,0.2918
+1602,Analytical Chemistry,1,1602,Analytical Chemistry,231000,0.4545
+1602,Analytical Chemistry,2,1110,Plant Science,18691,0.0368
+1602,Analytical Chemistry,3,1106,Food Science,16193,0.0319
+1602,Analytical Chemistry,4,1607,Spectroscopy,10852,0.0213
+1602,Analytical Chemistry,5,1605,Organic Chemistry,10498,0.0207
+1602,Analytical Chemistry,6,2312,Water Science and Technology,10310,0.0203
+1602,Analytical Chemistry,7,2310,Pollution,8231,0.0162
+1602,Analytical Chemistry,8,2211,Mechanics of Materials,7159,0.0141
+1602,Analytical Chemistry,9,1312,Molecular Biology,7090,0.0139
+1602,Analytical Chemistry,10,2307,"Health, Toxicology and Mutagenesis",6730,0.0132
+1602,Analytical Chemistry,,(other),241 others,181546,0.3572
+1603,Electrochemistry,1,1603,Electrochemistry,46708,0.2945
+1603,Electrochemistry,2,2208,Electrical and Electronic Engineering,14391,0.0907
+1603,Electrochemistry,3,1605,Organic Chemistry,11900,0.075
+1603,Electrochemistry,4,2105,"Renewable Energy, Sustainability and the Environment",11488,0.0724
+1603,Electrochemistry,5,1602,Analytical Chemistry,8010,0.0505
+1603,Electrochemistry,6,2505,Materials Chemistry,6385,0.0403
+1603,Electrochemistry,7,1606,Physical and Theoretical Chemistry,5925,0.0374
+1603,Electrochemistry,8,,(no topic),5651,0.0356
+1603,Electrochemistry,9,1312,Molecular Biology,4183,0.0264
+1603,Electrochemistry,10,2312,Water Science and Technology,3857,0.0243
+1603,Electrochemistry,,(other),226 others,40110,0.2529
+1604,Inorganic Chemistry,1,1604,Inorganic Chemistry,380497,0.4404
+1604,Inorganic Chemistry,2,1605,Organic Chemistry,109284,0.1265
+1604,Inorganic Chemistry,3,2505,Materials Chemistry,50069,0.058
+1604,Inorganic Chemistry,4,3106,Nuclear and High Energy Physics,34540,0.04
+1604,Inorganic Chemistry,5,,(no topic),25303,0.0293
+1604,Inorganic Chemistry,6,2504,"Electronic, Optical and Magnetic Materials",24220,0.028
+1604,Inorganic Chemistry,7,3107,"Atomic and Molecular Physics, and Optics",13604,0.0157
+1604,Inorganic Chemistry,8,1607,Spectroscopy,12275,0.0142
+1604,Inorganic Chemistry,9,1312,Molecular Biology,11774,0.0136
+1604,Inorganic Chemistry,10,2210,Mechanical Engineering,11731,0.0136
+1604,Inorganic Chemistry,,(other),240 others,190629,0.2207
+1605,Organic Chemistry,1,1605,Organic Chemistry,1791206,0.5256
+1605,Organic Chemistry,2,,(no topic),161127,0.0473
+1605,Organic Chemistry,3,1604,Inorganic Chemistry,108840,0.0319
+1605,Organic Chemistry,4,1203,Language and Linguistics,86276,0.0253
+1605,Organic Chemistry,5,1312,Molecular Biology,85452,0.0251
+1605,Organic Chemistry,6,1110,Plant Science,74909,0.022
+1605,Organic Chemistry,7,1607,Spectroscopy,68146,0.02
+1605,Organic Chemistry,8,3106,Nuclear and High Energy Physics,60175,0.0177
+1605,Organic Chemistry,9,2505,Materials Chemistry,56213,0.0165
+1605,Organic Chemistry,10,1606,Physical and Theoretical Chemistry,45890,0.0135
+1605,Organic Chemistry,,(other),243 others,869561,0.2552
+1606,Physical and Theoretical Chemistry,1,1606,Physical and Theoretical Chemistry,156073,0.182
+1606,Physical and Theoretical Chemistry,2,,(no topic),118401,0.1381
+1606,Physical and Theoretical Chemistry,3,1605,Organic Chemistry,86771,0.1012
+1606,Physical and Theoretical Chemistry,4,3107,"Atomic and Molecular Physics, and Optics",48792,0.0569
+1606,Physical and Theoretical Chemistry,5,1202,History,25424,0.0296
+1606,Physical and Theoretical Chemistry,6,2505,Materials Chemistry,21990,0.0256
+1606,Physical and Theoretical Chemistry,7,1607,Spectroscopy,21594,0.0252
+1606,Physical and Theoretical Chemistry,8,3106,Nuclear and High Energy Physics,21165,0.0247
+1606,Physical and Theoretical Chemistry,9,3304,Education,20989,0.0245
+1606,Physical and Theoretical Chemistry,10,1207,History and Philosophy of Science,19608,0.0229
+1606,Physical and Theoretical Chemistry,,(other),243 others,316833,0.3694
+1607,Spectroscopy,1,1607,Spectroscopy,410170,0.3905
+1607,Spectroscopy,2,1605,Organic Chemistry,90436,0.0861
+1607,Spectroscopy,3,3107,"Atomic and Molecular Physics, and Optics",47881,0.0456
+1607,Spectroscopy,4,1602,Analytical Chemistry,43966,0.0419
+1607,Spectroscopy,5,3106,Nuclear and High Energy Physics,40774,0.0388
+1607,Spectroscopy,6,1312,Molecular Biology,35997,0.0343
+1607,Spectroscopy,7,2505,Materials Chemistry,22174,0.0211
+1607,Spectroscopy,8,,(no topic),18703,0.0178
+1607,Spectroscopy,9,2208,Electrical and Electronic Engineering,18170,0.0173
+1607,Spectroscopy,10,1606,Physical and Theoretical Chemistry,17012,0.0162
+1607,Spectroscopy,,(other),243 others,305154,0.2905
+1702,Artificial Intelligence,1,1702,Artificial Intelligence,2232169,0.2496
+1702,Artificial Intelligence,2,3106,Nuclear and High Energy Physics,1206039,0.1349
+1702,Artificial Intelligence,3,,(no topic),1000897,0.1119
+1702,Artificial Intelligence,4,2202,Aerospace Engineering,423561,0.0474
+1702,Artificial Intelligence,5,1710,Information Systems,239471,0.0268
+1702,Artificial Intelligence,6,1110,Plant Science,232161,0.026
+1702,Artificial Intelligence,7,1203,Language and Linguistics,144252,0.0161
+1702,Artificial Intelligence,8,3304,Education,137238,0.0153
+1702,Artificial Intelligence,9,1707,Computer Vision and Pattern Recognition,122803,0.0137
+1702,Artificial Intelligence,10,3312,Sociology and Political Science,109189,0.0122
+1702,Artificial Intelligence,,(other),243 others,3095498,0.3461
+1703,Computational Theory and Mathematics,1,1703,Computational Theory and Mathematics,604547,0.4078
+1703,Computational Theory and Mathematics,2,1702,Artificial Intelligence,81026,0.0547
+1703,Computational Theory and Mathematics,3,2604,Applied Mathematics,61866,0.0417
+1703,Computational Theory and Mathematics,4,2608,Geometry and Topology,51245,0.0346
+1703,Computational Theory and Mathematics,5,,(no topic),45807,0.0309
+1703,Computational Theory and Mathematics,6,2610,Mathematical Physics,42895,0.0289
+1703,Computational Theory and Mathematics,7,3106,Nuclear and High Energy Physics,25293,0.0171
+1703,Computational Theory and Mathematics,8,2607,Discrete Mathematics and Combinatorics,24969,0.0168
+1703,Computational Theory and Mathematics,9,2207,Control and Systems Engineering,24659,0.0166
+1703,Computational Theory and Mathematics,10,1710,Information Systems,22151,0.0149
+1703,Computational Theory and Mathematics,,(other),243 others,498107,0.336
+1704,Computer Graphics and Computer-Aided Design,1,1704,Computer Graphics and Computer-Aided Design,78041,0.3
+1704,Computer Graphics and Computer-Aided Design,2,1213,Visual Arts and Performing Arts,19250,0.074
+1704,Computer Graphics and Computer-Aided Design,3,,(no topic),18204,0.07
+1704,Computer Graphics and Computer-Aided Design,4,1707,Computer Vision and Pattern Recognition,9922,0.0381
+1704,Computer Graphics and Computer-Aided Design,5,2206,Computational Mechanics,9109,0.035
+1704,Computer Graphics and Computer-Aided Design,6,1703,Computational Theory and Mathematics,8800,0.0338
+1704,Computer Graphics and Computer-Aided Design,7,1209,Museology,7410,0.0285
+1704,Computer Graphics and Computer-Aided Design,8,3312,Sociology and Political Science,4501,0.0173
+1704,Computer Graphics and Computer-Aided Design,9,2208,Electrical and Electronic Engineering,4203,0.0162
+1704,Computer Graphics and Computer-Aided Design,10,1207,History and Philosophy of Science,4091,0.0157
+1704,Computer Graphics and Computer-Aided Design,,(other),237 others,96573,0.3713
+1705,Computer Networks and Communications,1,1705,Computer Networks and Communications,1246302,0.4587
+1705,Computer Networks and Communications,2,2208,Electrical and Electronic Engineering,148668,0.0547
+1705,Computer Networks and Communications,3,1710,Information Systems,130033,0.0479
+1705,Computer Networks and Communications,4,1702,Artificial Intelligence,114794,0.0423
+1705,Computer Networks and Communications,5,,(no topic),103785,0.0382
+1705,Computer Networks and Communications,6,1708,Hardware and Architecture,68071,0.0251
+1705,Computer Networks and Communications,7,2207,Control and Systems Engineering,57155,0.021
+1705,Computer Networks and Communications,8,3312,Sociology and Political Science,39985,0.0147
+1705,Computer Networks and Communications,9,3304,Education,36313,0.0134
+1705,Computer Networks and Communications,10,2202,Aerospace Engineering,35129,0.0129
+1705,Computer Networks and Communications,,(other),242 others,736720,0.2712
+1706,Computer Science Applications,1,1706,Computer Science Applications,151467,0.1997
+1706,Computer Science Applications,2,1710,Information Systems,82396,0.1086
+1706,Computer Science Applications,3,,(no topic),62449,0.0823
+1706,Computer Science Applications,4,3304,Education,53710,0.0708
+1706,Computer Science Applications,5,1702,Artificial Intelligence,23743,0.0313
+1706,Computer Science Applications,6,3106,Nuclear and High Energy Physics,22417,0.0296
+1706,Computer Science Applications,7,2208,Electrical and Electronic Engineering,18621,0.0246
+1706,Computer Science Applications,8,3312,Sociology and Political Science,15592,0.0206
+1706,Computer Science Applications,9,3309,Library and Information Sciences,15041,0.0198
+1706,Computer Science Applications,10,1207,History and Philosophy of Science,13142,0.0173
+1706,Computer Science Applications,,(other),242 others,299868,0.3954
+1707,Computer Vision and Pattern Recognition,1,1707,Computer Vision and Pattern Recognition,1222275,0.5161
+1707,Computer Vision and Pattern Recognition,2,1702,Artificial Intelligence,121400,0.0513
+1707,Computer Vision and Pattern Recognition,3,,(no topic),108457,0.0458
+1707,Computer Vision and Pattern Recognition,4,1711,Signal Processing,48798,0.0206
+1707,Computer Vision and Pattern Recognition,5,1210,Music,45663,0.0193
+1707,Computer Vision and Pattern Recognition,6,3106,Nuclear and High Energy Physics,38389,0.0162
+1707,Computer Vision and Pattern Recognition,7,2202,Aerospace Engineering,37294,0.0157
+1707,Computer Vision and Pattern Recognition,8,2207,Control and Systems Engineering,36557,0.0154
+1707,Computer Vision and Pattern Recognition,9,1710,Information Systems,35978,0.0152
+1707,Computer Vision and Pattern Recognition,10,1704,Computer Graphics and Computer-Aided Design,24787,0.0105
+1707,Computer Vision and Pattern Recognition,,(other),242 others,648602,0.2739
+1708,Hardware and Architecture,1,1708,Hardware and Architecture,241125,0.5332
+1708,Hardware and Architecture,2,2208,Electrical and Electronic Engineering,34873,0.0771
+1708,Hardware and Architecture,3,1702,Artificial Intelligence,32010,0.0708
+1708,Hardware and Architecture,4,1705,Computer Networks and Communications,24417,0.054
+1708,Hardware and Architecture,5,,(no topic),11124,0.0246
+1708,Hardware and Architecture,6,1703,Computational Theory and Mathematics,10336,0.0229
+1708,Hardware and Architecture,7,2207,Control and Systems Engineering,10031,0.0222
+1708,Hardware and Architecture,8,1712,Software,9516,0.021
+1708,Hardware and Architecture,9,1710,Information Systems,8466,0.0187
+1708,Hardware and Architecture,10,3106,Nuclear and High Energy Physics,6142,0.0136
+1708,Hardware and Architecture,,(other),240 others,64158,0.1419
+1709,Human-Computer Interaction,1,1709,Human-Computer Interaction,176600,0.445
+1709,Human-Computer Interaction,2,1707,Computer Vision and Pattern Recognition,15379,0.0388
+1709,Human-Computer Interaction,3,1710,Information Systems,13860,0.0349
+1709,Human-Computer Interaction,4,3312,Sociology and Political Science,11225,0.0283
+1709,Human-Computer Interaction,5,,(no topic),8483,0.0214
+1709,Human-Computer Interaction,6,1702,Artificial Intelligence,8087,0.0204
+1709,Human-Computer Interaction,7,2805,Cognitive Neuroscience,7846,0.0198
+1709,Human-Computer Interaction,8,1203,Language and Linguistics,7528,0.019
+1709,Human-Computer Interaction,9,3207,Social Psychology,7449,0.0188
+1709,Human-Computer Interaction,10,3106,Nuclear and High Energy Physics,6621,0.0167
+1709,Human-Computer Interaction,,(other),241 others,133747,0.337
+1710,Information Systems,1,1710,Information Systems,1408293,0.3172
+1710,Information Systems,2,3304,Education,407940,0.0919
+1710,Information Systems,3,,(no topic),169209,0.0381
+1710,Information Systems,4,3309,Library and Information Sciences,148983,0.0336
+1710,Information Systems,5,1702,Artificial Intelligence,145932,0.0329
+1710,Information Systems,6,3312,Sociology and Political Science,118833,0.0268
+1710,Information Systems,7,3204,Developmental and Educational Psychology,101805,0.0229
+1710,Information Systems,8,1203,Language and Linguistics,101171,0.0228
+1710,Information Systems,9,1705,Computer Networks and Communications,95203,0.0214
+1710,Information Systems,10,3320,Political Science and International Relations,77535,0.0175
+1710,Information Systems,,(other),243 others,1664662,0.375
+1711,Signal Processing,1,1711,Signal Processing,293448,0.4809
+1711,Signal Processing,2,1702,Artificial Intelligence,52530,0.0861
+1711,Signal Processing,3,1707,Computer Vision and Pattern Recognition,29884,0.049
+1711,Signal Processing,4,1710,Information Systems,25655,0.042
+1711,Signal Processing,5,1705,Computer Networks and Communications,23219,0.0381
+1711,Signal Processing,6,2208,Electrical and Electronic Engineering,14354,0.0235
+1711,Signal Processing,7,,(no topic),12429,0.0204
+1711,Signal Processing,8,2805,Cognitive Neuroscience,9305,0.0152
+1711,Signal Processing,9,2206,Computational Mechanics,8219,0.0135
+1711,Signal Processing,10,3205,Experimental and Cognitive Psychology,7113,0.0117
+1711,Signal Processing,,(other),237 others,134011,0.2196
+1712,Software,1,1712,Software,90001,0.3593
+1712,Software,2,1710,Information Systems,28349,0.1132
+1712,Software,3,1702,Artificial Intelligence,19279,0.077
+1712,Software,4,1705,Computer Networks and Communications,7787,0.0311
+1712,Software,5,1703,Computational Theory and Mathematics,7719,0.0308
+1712,Software,6,2213,"Safety, Risk, Reliability and Quality",6956,0.0278
+1712,Software,7,,(no topic),6344,0.0253
+1712,Software,8,1706,Computer Science Applications,5120,0.0204
+1712,Software,9,2207,Control and Systems Engineering,4939,0.0197
+1712,Software,10,1404,Management Information Systems,4337,0.0173
+1712,Software,,(other),236 others,69651,0.2781
+1800,General Decision Sciences,1,1800,General Decision Sciences,36215,0.4843
+1800,General Decision Sciences,2,2002,Economics and Econometrics,2810,0.0376
+1800,General Decision Sciences,3,2805,Cognitive Neuroscience,2269,0.0303
+1800,General Decision Sciences,4,1208,Literature and Literary Theory,2228,0.0298
+1800,General Decision Sciences,5,3106,Nuclear and High Energy Physics,2183,0.0292
+1800,General Decision Sciences,6,3312,Sociology and Political Science,1984,0.0265
+1800,General Decision Sciences,7,1803,Management Science and Operations Research,1953,0.0261
+1800,General Decision Sciences,8,1202,History,1895,0.0253
+1800,General Decision Sciences,9,,(no topic),1855,0.0248
+1800,General Decision Sciences,10,1702,Artificial Intelligence,1431,0.0191
+1800,General Decision Sciences,,(other),217 others,19960,0.2669
+1802,Information Systems and Management,1,1802,Information Systems and Management,180409,0.1376
+1802,Information Systems and Management,2,,(no topic),156170,0.1191
+1802,Information Systems and Management,3,1710,Information Systems,59098,0.0451
+1802,Information Systems and Management,4,3106,Nuclear and High Energy Physics,54804,0.0418
+1802,Information Systems and Management,5,3304,Education,51358,0.0392
+1802,Information Systems and Management,6,1408,Strategy and Management,46788,0.0357
+1802,Information Systems and Management,7,3312,Sociology and Political Science,43276,0.033
+1802,Information Systems and Management,8,2302,Ecological Modeling,40365,0.0308
+1802,Information Systems and Management,9,3320,Political Science and International Relations,36634,0.0279
+1802,Information Systems and Management,10,1407,Organizational Behavior and Human Resource Management,36468,0.0278
+1802,Information Systems and Management,,(other),243 others,606177,0.4622
+1803,Management Science and Operations Research,1,1803,Management Science and Operations Research,525587,0.3607
+1803,Management Science and Operations Research,2,2613,Statistics and Probability,48114,0.033
+1803,Management Science and Operations Research,3,1408,Strategy and Management,41123,0.0282
+1803,Management Science and Operations Research,4,2002,Economics and Econometrics,41017,0.0281
+1803,Management Science and Operations Research,5,1702,Artificial Intelligence,40411,0.0277
+1803,Management Science and Operations Research,6,,(no topic),38208,0.0262
+1803,Management Science and Operations Research,7,3304,Education,37579,0.0258
+1803,Management Science and Operations Research,8,3312,Sociology and Political Science,35145,0.0241
+1803,Management Science and Operations Research,9,2003,Finance,32939,0.0226
+1803,Management Science and Operations Research,10,1710,Information Systems,29540,0.0203
+1803,Management Science and Operations Research,,(other),243 others,587559,0.4032
+1804,"Statistics, Probability and Uncertainty",1,1804,"Statistics, Probability and Uncertainty",178666,0.2701
+1804,"Statistics, Probability and Uncertainty",2,,(no topic),39381,0.0595
+1804,"Statistics, Probability and Uncertainty",3,2213,"Safety, Risk, Reliability and Quality",26197,0.0396
+1804,"Statistics, Probability and Uncertainty",4,2613,Statistics and Probability,25153,0.038
+1804,"Statistics, Probability and Uncertainty",5,3106,Nuclear and High Energy Physics,19475,0.0294
+1804,"Statistics, Probability and Uncertainty",6,1207,History and Philosophy of Science,17180,0.026
+1804,"Statistics, Probability and Uncertainty",7,2202,Aerospace Engineering,17092,0.0258
+1804,"Statistics, Probability and Uncertainty",8,1802,Information Systems and Management,13580,0.0205
+1804,"Statistics, Probability and Uncertainty",9,2207,Control and Systems Engineering,12533,0.0189
+1804,"Statistics, Probability and Uncertainty",10,2208,Electrical and Electronic Engineering,12113,0.0183
+1804,"Statistics, Probability and Uncertainty",,(other),242 others,300215,0.4538
+1902,Atmospheric Science,1,1902,Atmospheric Science,631743,0.3761
+1902,Atmospheric Science,2,2306,Global and Planetary Change,97453,0.058
+1902,Atmospheric Science,3,3106,Nuclear and High Energy Physics,81151,0.0483
+1902,Atmospheric Science,4,,(no topic),59282,0.0353
+1902,Atmospheric Science,5,1904,Earth-Surface Processes,42494,0.0253
+1902,Atmospheric Science,6,1911,Paleontology,40920,0.0244
+1902,Atmospheric Science,7,3103,Astronomy and Astrophysics,39521,0.0235
+1902,Atmospheric Science,8,1910,Oceanography,37431,0.0223
+1902,Atmospheric Science,9,1908,Geophysics,33249,0.0198
+1902,Atmospheric Science,10,2202,Aerospace Engineering,31304,0.0186
+1902,Atmospheric Science,,(other),241 others,585031,0.3483
+1904,Earth-Surface Processes,1,1904,Earth-Surface Processes,173034,0.3853
+1904,Earth-Surface Processes,2,3106,Nuclear and High Energy Physics,15874,0.0353
+1904,Earth-Surface Processes,3,1910,Oceanography,15179,0.0338
+1904,Earth-Surface Processes,4,1907,Geology,14645,0.0326
+1904,Earth-Surface Processes,5,2205,Civil and Structural Engineering,14576,0.0325
+1904,Earth-Surface Processes,6,,(no topic),11494,0.0256
+1904,Earth-Surface Processes,7,1908,Geophysics,11084,0.0247
+1904,Earth-Surface Processes,8,2303,Ecology,10735,0.0239
+1904,Earth-Surface Processes,9,1902,Atmospheric Science,10229,0.0228
+1904,Earth-Surface Processes,10,1911,Paleontology,9659,0.0215
+1904,Earth-Surface Processes,,(other),243 others,162572,0.362
+1906,Geochemistry and Petrology,1,1906,Geochemistry and Petrology,92422,0.209
+1906,Geochemistry and Petrology,2,1908,Geophysics,26378,0.0597
+1906,Geochemistry and Petrology,3,3106,Nuclear and High Energy Physics,22047,0.0499
+1906,Geochemistry and Petrology,4,,(no topic),18798,0.0425
+1906,Geochemistry and Petrology,5,2312,Water Science and Technology,18324,0.0414
+1906,Geochemistry and Petrology,6,1907,Geology,11697,0.0265
+1906,Geochemistry and Petrology,7,1204,Archeology,8582,0.0194
+1906,Geochemistry and Petrology,8,3314,Anthropology,8363,0.0189
+1906,Geochemistry and Petrology,9,1904,Earth-Surface Processes,7888,0.0178
+1906,Geochemistry and Petrology,10,1911,Paleontology,7580,0.0171
+1906,Geochemistry and Petrology,,(other),242 others,220064,0.4977
+1907,Geology,1,1907,Geology,110004,0.2273
+1907,Geology,2,1908,Geophysics,45663,0.0943
+1907,Geology,3,1904,Earth-Surface Processes,22644,0.0468
+1907,Geology,4,,(no topic),21502,0.0444
+1907,Geology,5,3106,Nuclear and High Energy Physics,17863,0.0369
+1907,Geology,6,1911,Paleontology,17587,0.0363
+1907,Geology,7,2211,Mechanics of Materials,14249,0.0294
+1907,Geology,8,1902,Atmospheric Science,13267,0.0274
+1907,Geology,9,1910,Oceanography,10375,0.0214
+1907,Geology,10,2205,Civil and Structural Engineering,8976,0.0185
+1907,Geology,,(other),240 others,201928,0.4172
+1908,Geophysics,1,1908,Geophysics,656355,0.4089
+1908,Geophysics,2,,(no topic),221542,0.138
+1908,Geophysics,3,3106,Nuclear and High Energy Physics,152696,0.0951
+1908,Geophysics,4,1907,Geology,56630,0.0353
+1908,Geophysics,5,3103,Astronomy and Astrophysics,33334,0.0208
+1908,Geophysics,6,2205,Civil and Structural Engineering,31385,0.0196
+1908,Geophysics,7,1904,Earth-Surface Processes,26012,0.0162
+1908,Geophysics,8,2211,Mechanics of Materials,21454,0.0134
+1908,Geophysics,9,1906,Geochemistry and Petrology,20975,0.0131
+1908,Geophysics,10,2202,Aerospace Engineering,19470,0.0121
+1908,Geophysics,,(other),242 others,365365,0.2276
+1910,Oceanography,1,1910,Oceanography,443269,0.329
+1910,Oceanography,2,,(no topic),154231,0.1145
+1910,Oceanography,3,3106,Nuclear and High Energy Physics,120179,0.0892
+1910,Oceanography,4,2202,Aerospace Engineering,44329,0.0329
+1910,Oceanography,5,2303,Ecology,42316,0.0314
+1910,Oceanography,6,3103,Astronomy and Astrophysics,41502,0.0308
+1910,Oceanography,7,2306,Global and Planetary Change,35722,0.0265
+1910,Oceanography,8,1902,Atmospheric Science,32389,0.024
+1910,Oceanography,9,1105,"Ecology, Evolution, Behavior and Systematics",25587,0.019
+1910,Oceanography,10,1904,Earth-Surface Processes,24711,0.0183
+1910,Oceanography,,(other),242 others,383073,0.2843
+1911,Paleontology,1,1911,Paleontology,265428,0.2136
+1911,Paleontology,2,1105,"Ecology, Evolution, Behavior and Systematics",128029,0.103
+1911,Paleontology,3,,(no topic),92491,0.0744
+1911,Paleontology,4,1204,Archeology,52552,0.0423
+1911,Paleontology,5,1311,Genetics,46176,0.0372
+1911,Paleontology,6,2303,Ecology,38193,0.0307
+1911,Paleontology,7,1110,Plant Science,33692,0.0271
+1911,Paleontology,8,1202,History,28534,0.023
+1911,Paleontology,9,1910,Oceanography,27851,0.0224
+1911,Paleontology,10,2306,Global and Planetary Change,23950,0.0193
+1911,Paleontology,,(other),242 others,506000,0.4071
+1912,Space and Planetary Science,1,1204,Archeology,20772,0.2007
+1912,Space and Planetary Science,2,3106,Nuclear and High Energy Physics,8583,0.0829
+1912,Space and Planetary Science,3,1912,Space and Planetary Science,7801,0.0754
+1912,Space and Planetary Science,4,3320,Political Science and International Relations,6794,0.0656
+1912,Space and Planetary Science,5,,(no topic),5659,0.0547
+1912,Space and Planetary Science,6,3314,Anthropology,4623,0.0447
+1912,Space and Planetary Science,7,1202,History,4425,0.0427
+1912,Space and Planetary Science,8,1206,Conservation,3531,0.0341
+1912,Space and Planetary Science,9,1209,Museology,3169,0.0306
+1912,Space and Planetary Science,10,3316,Cultural Studies,2996,0.0289
+1912,Space and Planetary Science,,(other),232 others,35162,0.3397
+2000,"General Economics, Econometrics and Finance",1,2000,"General Economics, Econometrics and Finance",380348,0.3789
+2000,"General Economics, Econometrics and Finance",2,2002,Economics and Econometrics,115310,0.1149
+2000,"General Economics, Econometrics and Finance",3,3320,Political Science and International Relations,101611,0.1012
+2000,"General Economics, Econometrics and Finance",4,2003,Finance,63903,0.0637
+2000,"General Economics, Econometrics and Finance",5,1408,Strategy and Management,48305,0.0481
+2000,"General Economics, Econometrics and Finance",6,3312,Sociology and Political Science,42768,0.0426
+2000,"General Economics, Econometrics and Finance",7,1402,Accounting,26286,0.0262
+2000,"General Economics, Econometrics and Finance",8,3308,Law,14828,0.0148
+2000,"General Economics, Econometrics and Finance",9,1803,Management Science and Operations Research,13532,0.0135
+2000,"General Economics, Econometrics and Finance",10,,(no topic),11676,0.0116
+2000,"General Economics, Econometrics and Finance",,(other),239 others,185249,0.1845
+2002,Economics and Econometrics,1,,(no topic),3162509,0.3011
+2002,Economics and Econometrics,2,2002,Economics and Econometrics,1825633,0.1738
+2002,Economics and Econometrics,3,3320,Political Science and International Relations,519491,0.0495
+2002,Economics and Econometrics,4,3312,Sociology and Political Science,311989,0.0297
+2002,Economics and Econometrics,5,1202,History,250643,0.0239
+2002,Economics and Econometrics,6,2003,Finance,205680,0.0196
+2002,Economics and Econometrics,7,2000,"General Economics, Econometrics and Finance",204382,0.0195
+2002,Economics and Econometrics,8,3106,Nuclear and High Energy Physics,196606,0.0187
+2002,Economics and Econometrics,9,1408,Strategy and Management,177882,0.0169
+2002,Economics and Econometrics,10,1402,Accounting,176136,0.0168
+2002,Economics and Econometrics,,(other),243 others,3470579,0.3305
+2003,Finance,1,2003,Finance,592778,0.4329
+2003,Finance,2,2002,Economics and Econometrics,83949,0.0613
+2003,Finance,3,2000,"General Economics, Econometrics and Finance",76938,0.0562
+2003,Finance,4,1402,Accounting,65268,0.0477
+2003,Finance,5,,(no topic),48603,0.0355
+2003,Finance,6,3320,Political Science and International Relations,45831,0.0335
+2003,Finance,7,3312,Sociology and Political Science,43293,0.0316
+2003,Finance,8,1408,Strategy and Management,22834,0.0167
+2003,Finance,9,1803,Management Science and Operations Research,22145,0.0162
+2003,Finance,10,1202,History,20955,0.0153
+2003,Finance,,(other),241 others,346616,0.2532
+2100,General Energy,1,2100,General Energy,35355,0.367
+2100,General Energy,2,2105,"Renewable Energy, Sustainability and the Environment",13454,0.1397
+2100,General Energy,3,3320,Political Science and International Relations,7834,0.0813
+2100,General Energy,4,2002,Economics and Econometrics,5563,0.0578
+2100,General Energy,5,2208,Electrical and Electronic Engineering,4480,0.0465
+2100,General Energy,6,1802,Information Systems and Management,4222,0.0438
+2100,General Energy,7,,(no topic),2183,0.0227
+2100,General Energy,8,3312,Sociology and Political Science,1958,0.0203
+2100,General Energy,9,1408,Strategy and Management,1892,0.0196
+2100,General Energy,10,2308,"Management, Monitoring, Policy and Law",1513,0.0157
+2100,General Energy,,(other),223 others,17873,0.1855
+2102,Energy Engineering and Power Technology,1,2208,Electrical and Electronic Engineering,46271,0.3185
+2102,Energy Engineering and Power Technology,2,2102,Energy Engineering and Power Technology,37953,0.2613
+2102,Energy Engineering and Power Technology,3,2105,"Renewable Energy, Sustainability and the Environment",14928,0.1028
+2102,Energy Engineering and Power Technology,4,2207,Control and Systems Engineering,7627,0.0525
+2102,Energy Engineering and Power Technology,5,2210,Mechanical Engineering,4430,0.0305
+2102,Energy Engineering and Power Technology,6,2202,Aerospace Engineering,2471,0.017
+2102,Energy Engineering and Power Technology,7,,(no topic),2291,0.0158
+2102,Energy Engineering and Power Technology,8,2215,Building and Construction,2115,0.0146
+2102,Energy Engineering and Power Technology,9,2505,Materials Chemistry,1918,0.0132
+2102,Energy Engineering and Power Technology,10,2305,Environmental Engineering,1864,0.0128
+2102,Energy Engineering and Power Technology,,(other),226 others,23390,0.161
+2103,Fuel Technology,1,2103,Fuel Technology,14365,0.2957
+2103,Fuel Technology,2,2210,Mechanical Engineering,5195,0.1069
+2103,Fuel Technology,3,2212,Ocean Engineering,3726,0.0767
+2103,Fuel Technology,4,1906,Geochemistry and Petrology,2187,0.045
+2103,Fuel Technology,5,1602,Analytical Chemistry,1923,0.0396
+2103,Fuel Technology,6,2105,"Renewable Energy, Sustainability and the Environment",1714,0.0353
+2103,Fuel Technology,7,2204,Biomedical Engineering,1058,0.0218
+2103,Fuel Technology,8,2002,Economics and Econometrics,984,0.0203
+2103,Fuel Technology,9,2312,Water Science and Technology,893,0.0184
+2103,Fuel Technology,10,2208,Electrical and Electronic Engineering,892,0.0184
+2103,Fuel Technology,,(other),214 others,15641,0.322
+2104,Nuclear Energy and Engineering,1,2205,Civil and Structural Engineering,3021,0.2509
+2104,Nuclear Energy and Engineering,2,,(no topic),2074,0.1722
+2104,Nuclear Energy and Engineering,3,2104,Nuclear Energy and Engineering,1038,0.0862
+2104,Nuclear Energy and Engineering,4,2215,Building and Construction,801,0.0665
+2104,Nuclear Energy and Engineering,5,2505,Materials Chemistry,590,0.049
+2104,Nuclear Energy and Engineering,6,2208,Electrical and Electronic Engineering,415,0.0345
+2104,Nuclear Energy and Engineering,7,2210,Mechanical Engineering,321,0.0267
+2104,Nuclear Energy and Engineering,8,3108,Radiation,255,0.0212
+2104,Nuclear Energy and Engineering,9,3106,Nuclear and High Energy Physics,226,0.0188
+2104,Nuclear Energy and Engineering,10,3107,"Atomic and Molecular Physics, and Optics",193,0.016
+2104,Nuclear Energy and Engineering,,(other),200 others,3108,0.2581
+2105,"Renewable Energy, Sustainability and the Environment",1,2105,"Renewable Energy, Sustainability and the Environment",679972,0.4738
+2105,"Renewable Energy, Sustainability and the Environment",2,2208,Electrical and Electronic Engineering,55566,0.0387
+2105,"Renewable Energy, Sustainability and the Environment",3,2210,Mechanical Engineering,34839,0.0243
+2105,"Renewable Energy, Sustainability and the Environment",4,2002,Economics and Econometrics,34517,0.0241
+2105,"Renewable Energy, Sustainability and the Environment",5,,(no topic),33969,0.0237
+2105,"Renewable Energy, Sustainability and the Environment",6,2215,Building and Construction,28425,0.0198
+2105,"Renewable Energy, Sustainability and the Environment",7,2505,Materials Chemistry,26358,0.0184
+2105,"Renewable Energy, Sustainability and the Environment",8,2312,Water Science and Technology,22333,0.0156
+2105,"Renewable Energy, Sustainability and the Environment",9,1312,Molecular Biology,20314,0.0142
+2105,"Renewable Energy, Sustainability and the Environment",10,2100,General Energy,16830,0.0117
+2105,"Renewable Energy, Sustainability and the Environment",,(other),242 others,482019,0.3359
+2200,General Engineering,1,2205,Civil and Structural Engineering,36857,0.5622
+2200,General Engineering,2,2213,"Safety, Risk, Reliability and Quality",11349,0.1731
+2200,General Engineering,3,2210,Mechanical Engineering,4170,0.0636
+2200,General Engineering,4,2215,Building and Construction,1791,0.0273
+2200,General Engineering,5,2211,Mechanics of Materials,1734,0.0265
+2200,General Engineering,6,2200,General Engineering,830,0.0127
+2200,General Engineering,7,,(no topic),718,0.011
+2200,General Engineering,8,1203,Language and Linguistics,641,0.0098
+2200,General Engineering,9,1803,Management Science and Operations Research,453,0.0069
+2200,General Engineering,10,2505,Materials Chemistry,443,0.0068
+2200,General Engineering,,(other),170 others,6567,0.1002
+2202,Aerospace Engineering,1,2202,Aerospace Engineering,1939110,0.0766
+2202,Aerospace Engineering,2,3312,Sociology and Political Science,1178189,0.0466
+2202,Aerospace Engineering,3,3304,Education,1123007,0.0444
+2202,Aerospace Engineering,4,3320,Political Science and International Relations,1104297,0.0436
+2202,Aerospace Engineering,5,,(no topic),1008670,0.0399
+2202,Aerospace Engineering,6,1208,Literature and Literary Theory,596495,0.0236
+2202,Aerospace Engineering,7,3106,Nuclear and High Energy Physics,553872,0.0219
+2202,Aerospace Engineering,8,3316,Cultural Studies,541123,0.0214
+2202,Aerospace Engineering,9,2208,Electrical and Electronic Engineering,521921,0.0206
+2202,Aerospace Engineering,10,2210,Mechanical Engineering,486119,0.0192
+2202,Aerospace Engineering,,(other),243 others,16256654,0.6423
+2203,Automotive Engineering,1,2203,Automotive Engineering,342421,0.4347
+2203,Automotive Engineering,2,2208,Electrical and Electronic Engineering,50124,0.0636
+2203,Automotive Engineering,3,2210,Mechanical Engineering,50005,0.0635
+2203,Automotive Engineering,4,2207,Control and Systems Engineering,22332,0.0283
+2203,Automotive Engineering,5,3313,Transportation,21598,0.0274
+2203,Automotive Engineering,6,2213,"Safety, Risk, Reliability and Quality",14953,0.019
+2203,Automotive Engineering,7,2202,Aerospace Engineering,13919,0.0177
+2203,Automotive Engineering,8,2205,Civil and Structural Engineering,13511,0.0172
+2203,Automotive Engineering,9,1507,Fluid Flow and Transfer Processes,11376,0.0144
+2203,Automotive Engineering,10,,(no topic),10303,0.0131
+2203,Automotive Engineering,,(other),242 others,237222,0.3011
+2204,Biomedical Engineering,1,2204,Biomedical Engineering,1750626,0.4139
+2204,Biomedical Engineering,2,2208,Electrical and Electronic Engineering,137210,0.0324
+2204,Biomedical Engineering,3,2210,Mechanical Engineering,126042,0.0298
+2204,Biomedical Engineering,4,2505,Materials Chemistry,99047,0.0234
+2204,Biomedical Engineering,5,,(no topic),96106,0.0227
+2204,Biomedical Engineering,6,2206,Computational Mechanics,81917,0.0194
+2204,Biomedical Engineering,7,3106,Nuclear and High Energy Physics,79329,0.0188
+2204,Biomedical Engineering,8,1312,Molecular Biology,63373,0.015
+2204,Biomedical Engineering,9,2202,Aerospace Engineering,61028,0.0144
+2204,Biomedical Engineering,10,3107,"Atomic and Molecular Physics, and Optics",54262,0.0128
+2204,Biomedical Engineering,,(other),243 others,1680899,0.3974
+2205,Civil and Structural Engineering,1,2205,Civil and Structural Engineering,1523942,0.5336
+2205,Civil and Structural Engineering,2,2210,Mechanical Engineering,137475,0.0481
+2205,Civil and Structural Engineering,3,2215,Building and Construction,108164,0.0379
+2205,Civil and Structural Engineering,4,2211,Mechanics of Materials,89066,0.0312
+2205,Civil and Structural Engineering,5,2213,"Safety, Risk, Reliability and Quality",57439,0.0201
+2205,Civil and Structural Engineering,6,,(no topic),51395,0.018
+2205,Civil and Structural Engineering,7,2207,Control and Systems Engineering,48362,0.0169
+2205,Civil and Structural Engineering,8,2202,Aerospace Engineering,43692,0.0153
+2205,Civil and Structural Engineering,9,2208,Electrical and Electronic Engineering,37431,0.0131
+2205,Civil and Structural Engineering,10,2505,Materials Chemistry,34346,0.012
+2205,Civil and Structural Engineering,,(other),242 others,724787,0.2538
+2206,Computational Mechanics,1,2206,Computational Mechanics,817664,0.4069
+2206,Computational Mechanics,2,,(no topic),76908,0.0383
+2206,Computational Mechanics,3,2210,Mechanical Engineering,76131,0.0379
+2206,Computational Mechanics,4,3103,Astronomy and Astrophysics,75254,0.0374
+2206,Computational Mechanics,5,2202,Aerospace Engineering,75204,0.0374
+2206,Computational Mechanics,6,2208,Electrical and Electronic Engineering,72075,0.0359
+2206,Computational Mechanics,7,2604,Applied Mathematics,35920,0.0179
+2206,Computational Mechanics,8,3107,"Atomic and Molecular Physics, and Optics",34319,0.0171
+2206,Computational Mechanics,9,2205,Civil and Structural Engineering,32654,0.0162
+2206,Computational Mechanics,10,3106,Nuclear and High Energy Physics,31444,0.0156
+2206,Computational Mechanics,,(other),242 others,681947,0.3394
+2207,Control and Systems Engineering,1,2207,Control and Systems Engineering,1113424,0.4273
+2207,Control and Systems Engineering,2,2208,Electrical and Electronic Engineering,195888,0.0752
+2207,Control and Systems Engineering,3,1702,Artificial Intelligence,92231,0.0354
+2207,Control and Systems Engineering,4,2210,Mechanical Engineering,92188,0.0354
+2207,Control and Systems Engineering,5,2202,Aerospace Engineering,77261,0.0297
+2207,Control and Systems Engineering,6,2205,Civil and Structural Engineering,57750,0.0222
+2207,Control and Systems Engineering,7,1705,Computer Networks and Communications,42863,0.0165
+2207,Control and Systems Engineering,8,,(no topic),35889,0.0138
+2207,Control and Systems Engineering,9,2203,Automotive Engineering,30853,0.0118
+2207,Control and Systems Engineering,10,2204,Biomedical Engineering,30240,0.0116
+2207,Control and Systems Engineering,,(other),242 others,836975,0.3212
+2208,Electrical and Electronic Engineering,1,2208,Electrical and Electronic Engineering,4363512,0.4791
+2208,Electrical and Electronic Engineering,2,3106,Nuclear and High Energy Physics,657848,0.0722
+2208,Electrical and Electronic Engineering,3,,(no topic),300678,0.033
+2208,Electrical and Electronic Engineering,4,2202,Aerospace Engineering,239735,0.0263
+2208,Electrical and Electronic Engineering,5,3107,"Atomic and Molecular Physics, and Optics",234752,0.0258
+2208,Electrical and Electronic Engineering,6,2505,Materials Chemistry,158659,0.0174
+2208,Electrical and Electronic Engineering,7,1705,Computer Networks and Communications,151154,0.0166
+2208,Electrical and Electronic Engineering,8,2204,Biomedical Engineering,134655,0.0148
+2208,Electrical and Electronic Engineering,9,2207,Control and Systems Engineering,117814,0.0129
+2208,Electrical and Electronic Engineering,10,1202,History,104392,0.0115
+2208,Electrical and Electronic Engineering,,(other),243 others,2645158,0.2904
+2209,Industrial and Manufacturing Engineering,1,2209,Industrial and Manufacturing Engineering,424524,0.349
+2209,Industrial and Manufacturing Engineering,2,2210,Mechanical Engineering,78227,0.0643
+2209,Industrial and Manufacturing Engineering,3,2207,Control and Systems Engineering,55962,0.046
+2209,Industrial and Manufacturing Engineering,4,1408,Strategy and Management,42386,0.0348
+2209,Industrial and Manufacturing Engineering,5,2208,Electrical and Electronic Engineering,37176,0.0306
+2209,Industrial and Manufacturing Engineering,6,1404,Management Information Systems,35391,0.0291
+2209,Industrial and Manufacturing Engineering,7,,(no topic),30778,0.0253
+2209,Industrial and Manufacturing Engineering,8,1702,Artificial Intelligence,27666,0.0227
+2209,Industrial and Manufacturing Engineering,9,1803,Management Science and Operations Research,26425,0.0217
+2209,Industrial and Manufacturing Engineering,10,1707,Computer Vision and Pattern Recognition,22106,0.0182
+2209,Industrial and Manufacturing Engineering,,(other),242 others,435844,0.3583
+2210,Mechanical Engineering,1,2210,Mechanical Engineering,2025933,0.4756
+2210,Mechanical Engineering,2,3106,Nuclear and High Energy Physics,229776,0.0539
+2210,Mechanical Engineering,3,2211,Mechanics of Materials,147142,0.0345
+2210,Mechanical Engineering,4,2505,Materials Chemistry,138419,0.0325
+2210,Mechanical Engineering,5,2205,Civil and Structural Engineering,131280,0.0308
+2210,Mechanical Engineering,6,2208,Electrical and Electronic Engineering,109836,0.0258
+2210,Mechanical Engineering,7,2207,Control and Systems Engineering,91455,0.0215
+2210,Mechanical Engineering,8,2202,Aerospace Engineering,85068,0.02
+2210,Mechanical Engineering,9,2206,Computational Mechanics,73916,0.0174
+2210,Mechanical Engineering,10,,(no topic),68623,0.0161
+2210,Mechanical Engineering,,(other),243 others,1158347,0.2719
+2211,Mechanics of Materials,1,2211,Mechanics of Materials,862517,0.4281
+2211,Mechanics of Materials,2,2210,Mechanical Engineering,202620,0.1006
+2211,Mechanics of Materials,3,2205,Civil and Structural Engineering,93682,0.0465
+2211,Mechanics of Materials,4,2505,Materials Chemistry,69838,0.0347
+2211,Mechanics of Materials,5,2206,Computational Mechanics,57044,0.0283
+2211,Mechanics of Materials,6,3106,Nuclear and High Energy Physics,45807,0.0227
+2211,Mechanics of Materials,7,2208,Electrical and Electronic Engineering,39771,0.0197
+2211,Mechanics of Materials,8,2202,Aerospace Engineering,36716,0.0182
+2211,Mechanics of Materials,9,2207,Control and Systems Engineering,35938,0.0178
+2211,Mechanics of Materials,10,3107,"Atomic and Molecular Physics, and Optics",31568,0.0157
+2211,Mechanics of Materials,,(other),240 others,539336,0.2677
+2212,Ocean Engineering,1,2212,Ocean Engineering,508813,0.3197
+2212,Ocean Engineering,2,1110,Plant Science,94927,0.0596
+2212,Ocean Engineering,3,2302,Ecological Modeling,75972,0.0477
+2212,Ocean Engineering,4,2306,Global and Planetary Change,36417,0.0229
+2212,Ocean Engineering,5,2210,Mechanical Engineering,36156,0.0227
+2212,Ocean Engineering,6,2205,Civil and Structural Engineering,33038,0.0208
+2212,Ocean Engineering,7,2211,Mechanics of Materials,32601,0.0205
+2212,Ocean Engineering,8,2202,Aerospace Engineering,32028,0.0201
+2212,Ocean Engineering,9,2303,Ecology,29068,0.0183
+2212,Ocean Engineering,10,2312,Water Science and Technology,27778,0.0175
+2212,Ocean Engineering,,(other),242 others,684901,0.4303
+2213,"Safety, Risk, Reliability and Quality",1,2213,"Safety, Risk, Reliability and Quality",283693,0.4084
+2213,"Safety, Risk, Reliability and Quality",2,2205,Civil and Structural Engineering,31404,0.0452
+2213,"Safety, Risk, Reliability and Quality",3,1803,Management Science and Operations Research,22713,0.0327
+2213,"Safety, Risk, Reliability and Quality",4,2202,Aerospace Engineering,21121,0.0304
+2213,"Safety, Risk, Reliability and Quality",5,2208,Electrical and Electronic Engineering,19000,0.0274
+2213,"Safety, Risk, Reliability and Quality",6,2207,Control and Systems Engineering,14836,0.0214
+2213,"Safety, Risk, Reliability and Quality",7,1408,Strategy and Management,12996,0.0187
+2213,"Safety, Risk, Reliability and Quality",8,2211,Mechanics of Materials,12026,0.0173
+2213,"Safety, Risk, Reliability and Quality",9,2210,Mechanical Engineering,10753,0.0155
+2213,"Safety, Risk, Reliability and Quality",10,3320,Political Science and International Relations,10375,0.0149
+2213,"Safety, Risk, Reliability and Quality",,(other),241 others,255760,0.3682
+2214,Media Technology,1,2214,Media Technology,259955,0.3851
+2214,Media Technology,2,3304,Education,37792,0.056
+2214,Media Technology,3,1707,Computer Vision and Pattern Recognition,37016,0.0548
+2214,Media Technology,4,2208,Electrical and Electronic Engineering,27547,0.0408
+2214,Media Technology,5,1710,Information Systems,22169,0.0328
+2214,Media Technology,6,2216,Architecture,18481,0.0274
+2214,Media Technology,7,,(no topic),16946,0.0251
+2214,Media Technology,8,1705,Computer Networks and Communications,15126,0.0224
+2214,Media Technology,9,3320,Political Science and International Relations,10715,0.0159
+2214,Media Technology,10,1408,Strategy and Management,10501,0.0156
+2214,Media Technology,,(other),241 others,218740,0.3241
+2215,Building and Construction,1,2215,Building and Construction,602670,0.4422
+2215,Building and Construction,2,2205,Civil and Structural Engineering,133743,0.0981
+2215,Building and Construction,3,2210,Mechanical Engineering,37348,0.0274
+2215,Building and Construction,4,3313,Transportation,26458,0.0194
+2215,Building and Construction,5,2207,Control and Systems Engineering,24028,0.0176
+2215,Building and Construction,6,1803,Management Science and Operations Research,23879,0.0175
+2215,Building and Construction,7,2216,Architecture,23188,0.017
+2215,Building and Construction,8,,(no topic),21487,0.0158
+2215,Building and Construction,9,2305,Environmental Engineering,14332,0.0105
+2215,Building and Construction,10,2213,"Safety, Risk, Reliability and Quality",14255,0.0105
+2215,Building and Construction,,(other),241 others,441582,0.324
+2216,Architecture,1,2216,Architecture,108998,0.3296
+2216,Architecture,2,1213,Visual Arts and Performing Arts,17358,0.0525
+2216,Architecture,3,2215,Building and Construction,16617,0.0502
+2216,Architecture,4,,(no topic),15720,0.0475
+2216,Architecture,5,1202,History,10729,0.0324
+2216,Architecture,6,3304,Education,8666,0.0262
+2216,Architecture,7,2205,Civil and Structural Engineering,7336,0.0222
+2216,Architecture,8,1209,Museology,6425,0.0194
+2216,Architecture,9,1206,Conservation,6263,0.0189
+2216,Architecture,10,1204,Archeology,5913,0.0179
+2216,Architecture,,(other),240 others,126713,0.3831
+2302,Ecological Modeling,1,1110,Plant Science,216804,0.1609
+2302,Ecological Modeling,2,2302,Ecological Modeling,180703,0.1341
+2302,Ecological Modeling,3,,(no topic),180503,0.134
+2302,Ecological Modeling,4,2303,Ecology,72062,0.0535
+2302,Ecological Modeling,5,1105,"Ecology, Evolution, Behavior and Systematics",58713,0.0436
+2302,Ecological Modeling,6,2306,Global and Planetary Change,57199,0.0425
+2302,Ecological Modeling,7,1311,Genetics,49427,0.0367
+2302,Ecological Modeling,8,1910,Oceanography,32265,0.0239
+2302,Ecological Modeling,9,1109,Insect Science,24366,0.0181
+2302,Ecological Modeling,10,2309,Nature and Landscape Conservation,20554,0.0153
+2302,Ecological Modeling,,(other),242 others,454597,0.3374
+2303,Ecology,1,2303,Ecology,1096086,0.3269
+2303,Ecology,2,,(no topic),174620,0.0521
+2303,Ecology,3,1105,"Ecology, Evolution, Behavior and Systematics",134238,0.04
+2303,Ecology,4,2306,Global and Planetary Change,110452,0.0329
+2303,Ecology,5,1110,Plant Science,97435,0.0291
+2303,Ecology,6,1311,Genetics,72405,0.0216
+2303,Ecology,7,1312,Molecular Biology,67004,0.02
+2303,Ecology,8,3106,Nuclear and High Energy Physics,64726,0.0193
+2303,Ecology,9,1910,Oceanography,59332,0.0177
+2303,Ecology,10,2309,Nature and Landscape Conservation,55919,0.0167
+2303,Ecology,,(other),242 others,1420916,0.4238
+2304,Environmental Chemistry,1,2304,Environmental Chemistry,248920,0.241
+2304,Environmental Chemistry,2,,(no topic),245987,0.2382
+2304,Environmental Chemistry,3,1605,Organic Chemistry,23183,0.0224
+2304,Environmental Chemistry,4,2303,Ecology,22848,0.0221
+2304,Environmental Chemistry,5,1110,Plant Science,20988,0.0203
+2304,Environmental Chemistry,6,2312,Water Science and Technology,20054,0.0194
+2304,Environmental Chemistry,7,3106,Nuclear and High Energy Physics,19293,0.0187
+2304,Environmental Chemistry,8,1910,Oceanography,19121,0.0185
+2304,Environmental Chemistry,9,1105,"Ecology, Evolution, Behavior and Systematics",17185,0.0166
+2304,Environmental Chemistry,10,1111,Soil Science,16726,0.0162
+2304,Environmental Chemistry,,(other),243 others,378538,0.3665
+2305,Environmental Engineering,1,2305,Environmental Engineering,415104,0.3577
+2305,Environmental Engineering,2,3106,Nuclear and High Energy Physics,89237,0.0769
+2305,Environmental Engineering,3,,(no topic),46289,0.0399
+2305,Environmental Engineering,4,2202,Aerospace Engineering,31781,0.0274
+2305,Environmental Engineering,5,1902,Atmospheric Science,30883,0.0266
+2305,Environmental Engineering,6,2205,Civil and Structural Engineering,26758,0.0231
+2305,Environmental Engineering,7,2312,Water Science and Technology,26715,0.023
+2305,Environmental Engineering,8,2306,Global and Planetary Change,24165,0.0208
+2305,Environmental Engineering,9,2212,Ocean Engineering,23500,0.0203
+2305,Environmental Engineering,10,2002,Economics and Econometrics,18958,0.0163
+2305,Environmental Engineering,,(other),242 others,427017,0.368
+2306,Global and Planetary Change,1,2306,Global and Planetary Change,914041,0.3968
+2306,Global and Planetary Change,2,1902,Atmospheric Science,93341,0.0405
+2306,Global and Planetary Change,3,3106,Nuclear and High Energy Physics,78894,0.0342
+2306,Global and Planetary Change,4,2303,Ecology,76546,0.0332
+2306,Global and Planetary Change,5,,(no topic),73658,0.032
+2306,Global and Planetary Change,6,1910,Oceanography,53726,0.0233
+2306,Global and Planetary Change,7,3312,Sociology and Political Science,49655,0.0216
+2306,Global and Planetary Change,8,1105,"Ecology, Evolution, Behavior and Systematics",44898,0.0195
+2306,Global and Planetary Change,9,2309,Nature and Landscape Conservation,37876,0.0164
+2306,Global and Planetary Change,10,2002,Economics and Econometrics,33834,0.0147
+2306,Global and Planetary Change,,(other),243 others,847290,0.3678
+2307,"Health, Toxicology and Mutagenesis",1,2307,"Health, Toxicology and Mutagenesis",474624,0.3581
+2307,"Health, Toxicology and Mutagenesis",2,3304,Education,62182,0.0469
+2307,"Health, Toxicology and Mutagenesis",3,,(no topic),42650,0.0322
+2307,"Health, Toxicology and Mutagenesis",4,3312,Sociology and Political Science,30393,0.0229
+2307,"Health, Toxicology and Mutagenesis",5,1902,Atmospheric Science,24651,0.0186
+2307,"Health, Toxicology and Mutagenesis",6,2310,Pollution,24565,0.0185
+2307,"Health, Toxicology and Mutagenesis",7,1208,Literature and Literary Theory,19561,0.0148
+2307,"Health, Toxicology and Mutagenesis",8,1203,Language and Linguistics,19540,0.0147
+2307,"Health, Toxicology and Mutagenesis",9,3106,Nuclear and High Energy Physics,18725,0.0141
+2307,"Health, Toxicology and Mutagenesis",10,2312,Water Science and Technology,18518,0.014
+2307,"Health, Toxicology and Mutagenesis",,(other),243 others,590130,0.4452
+2308,"Management, Monitoring, Policy and Law",1,2308,"Management, Monitoring, Policy and Law",497066,0.202
+2308,"Management, Monitoring, Policy and Law",2,3320,Political Science and International Relations,142494,0.0579
+2308,"Management, Monitoring, Policy and Law",3,3312,Sociology and Political Science,106589,0.0433
+2308,"Management, Monitoring, Policy and Law",4,2002,Economics and Econometrics,86749,0.0352
+2308,"Management, Monitoring, Policy and Law",5,1202,History,85464,0.0347
+2308,"Management, Monitoring, Policy and Law",6,,(no topic),72397,0.0294
+2308,"Management, Monitoring, Policy and Law",7,2306,Global and Planetary Change,66262,0.0269
+2308,"Management, Monitoring, Policy and Law",8,3305,"Geography, Planning and Development",62141,0.0252
+2308,"Management, Monitoring, Policy and Law",9,3308,Law,58197,0.0236
+2308,"Management, Monitoring, Policy and Law",10,1402,Accounting,56333,0.0229
+2308,"Management, Monitoring, Policy and Law",,(other),243 others,1227452,0.4987
+2309,Nature and Landscape Conservation,1,2309,Nature and Landscape Conservation,290464,0.2224
+2309,Nature and Landscape Conservation,2,2303,Ecology,79923,0.0612
+2309,Nature and Landscape Conservation,3,2306,Global and Planetary Change,58881,0.0451
+2309,Nature and Landscape Conservation,4,1104,Aquatic Science,52572,0.0403
+2309,Nature and Landscape Conservation,5,1110,Plant Science,48485,0.0371
+2309,Nature and Landscape Conservation,6,3316,Cultural Studies,45695,0.035
+2309,Nature and Landscape Conservation,7,,(no topic),43943,0.0337
+2309,Nature and Landscape Conservation,8,3312,Sociology and Political Science,37761,0.0289
+2309,Nature and Landscape Conservation,9,1105,"Ecology, Evolution, Behavior and Systematics",34983,0.0268
+2309,Nature and Landscape Conservation,10,1208,Literature and Literary Theory,23265,0.0178
+2309,Nature and Landscape Conservation,,(other),242 others,589793,0.4517
+2310,Pollution,1,2310,Pollution,381626,0.4915
+2310,Pollution,2,2307,"Health, Toxicology and Mutagenesis",31802,0.041
+2310,Pollution,3,2312,Water Science and Technology,21916,0.0282
+2310,Pollution,4,2105,"Renewable Energy, Sustainability and the Environment",19791,0.0255
+2310,Pollution,5,1110,Plant Science,17867,0.023
+2310,Pollution,6,,(no topic),12870,0.0166
+2310,Pollution,7,2205,Civil and Structural Engineering,12441,0.016
+2310,Pollution,8,2311,Waste Management and Disposal,11324,0.0146
+2310,Pollution,9,2305,Environmental Engineering,10910,0.0141
+2310,Pollution,10,2215,Building and Construction,10581,0.0136
+2310,Pollution,,(other),242 others,245353,0.316
+2311,Waste Management and Disposal,1,2311,Waste Management and Disposal,208349,0.3276
+2311,Waste Management and Disposal,2,2312,Water Science and Technology,54092,0.085
+2311,Waste Management and Disposal,3,2310,Pollution,24467,0.0385
+2311,Waste Management and Disposal,4,1111,Soil Science,14693,0.0231
+2311,Waste Management and Disposal,5,1602,Analytical Chemistry,13668,0.0215
+2311,Waste Management and Disposal,6,2307,"Health, Toxicology and Mutagenesis",13161,0.0207
+2311,Waste Management and Disposal,7,2210,Mechanical Engineering,12987,0.0204
+2311,Waste Management and Disposal,8,1604,Inorganic Chemistry,12002,0.0189
+2311,Waste Management and Disposal,9,2505,Materials Chemistry,11801,0.0186
+2311,Waste Management and Disposal,10,2105,"Renewable Energy, Sustainability and the Environment",11775,0.0185
+2311,Waste Management and Disposal,,(other),242 others,259087,0.4073
+2312,Water Science and Technology,1,2312,Water Science and Technology,595080,0.3941
+2312,Water Science and Technology,2,2306,Global and Planetary Change,51113,0.0338
+2312,Water Science and Technology,3,2305,Environmental Engineering,40432,0.0268
+2312,Water Science and Technology,4,3106,Nuclear and High Energy Physics,34655,0.0229
+2312,Water Science and Technology,5,2303,Ecology,32804,0.0217
+2312,Water Science and Technology,6,1111,Soil Science,32409,0.0215
+2312,Water Science and Technology,7,,(no topic),30749,0.0204
+2312,Water Science and Technology,8,2304,Environmental Chemistry,28341,0.0188
+2312,Water Science and Technology,9,2212,Ocean Engineering,27447,0.0182
+2312,Water Science and Technology,10,2310,Pollution,26279,0.0174
+2312,Water Science and Technology,,(other),242 others,610820,0.4045
+2402,Applied Microbiology and Biotechnology,1,2402,Applied Microbiology and Biotechnology,49115,0.5275
+2402,Applied Microbiology and Biotechnology,2,1313,Molecular Medicine,7138,0.0767
+2402,Applied Microbiology and Biotechnology,3,2725,Infectious Diseases,3689,0.0396
+2402,Applied Microbiology and Biotechnology,4,3004,Pharmacology,2684,0.0288
+2402,Applied Microbiology and Biotechnology,5,3106,Nuclear and High Energy Physics,2618,0.0281
+2402,Applied Microbiology and Biotechnology,6,2713,Epidemiology,1966,0.0211
+2402,Applied Microbiology and Biotechnology,7,1110,Plant Science,1903,0.0204
+2402,Applied Microbiology and Biotechnology,8,1312,Molecular Biology,1808,0.0194
+2402,Applied Microbiology and Biotechnology,9,2736,Pharmacology,1410,0.0151
+2402,Applied Microbiology and Biotechnology,10,2202,Aerospace Engineering,1199,0.0129
+2402,Applied Microbiology and Biotechnology,,(other),229 others,19571,0.2102
+2403,Immunology,1,2403,Immunology,739301,0.4627
+2403,Immunology,2,1312,Molecular Biology,75836,0.0475
+2403,Immunology,3,2730,Oncology,54442,0.0341
+2403,Immunology,4,1311,Genetics,44276,0.0277
+2403,Immunology,5,3106,Nuclear and High Energy Physics,41454,0.0259
+2403,Immunology,6,2713,Epidemiology,38447,0.0241
+2403,Immunology,7,2745,Rheumatology,30590,0.0191
+2403,Immunology,8,2720,Hematology,27465,0.0172
+2403,Immunology,9,,(no topic),27244,0.0171
+2403,Immunology,10,2725,Infectious Diseases,23610,0.0148
+2403,Immunology,,(other),243 others,495203,0.3099
+2404,Microbiology,1,2404,Microbiology,206173,0.4774
+2404,Microbiology,2,2725,Infectious Diseases,16006,0.0371
+2404,Microbiology,3,,(no topic),12979,0.0301
+2404,Microbiology,4,1312,Molecular Biology,11154,0.0258
+2404,Microbiology,5,3106,Nuclear and High Energy Physics,8761,0.0203
+2404,Microbiology,6,2713,Epidemiology,8310,0.0192
+2404,Microbiology,7,2403,Immunology,7891,0.0183
+2404,Microbiology,8,2202,Aerospace Engineering,7343,0.017
+2404,Microbiology,9,2746,Surgery,7168,0.0166
+2404,Microbiology,10,1311,Genetics,6562,0.0152
+2404,Microbiology,,(other),239 others,139514,0.3231
+2405,Parasitology,1,2405,Parasitology,295617,0.6298
+2405,Parasitology,2,,(no topic),12776,0.0272
+2405,Parasitology,3,3106,Nuclear and High Energy Physics,11932,0.0254
+2405,Parasitology,4,3404,Small Animals,11703,0.0249
+2405,Parasitology,5,1105,"Ecology, Evolution, Behavior and Systematics",9094,0.0194
+2405,Parasitology,6,2734,Pathology and Forensic Medicine,7843,0.0167
+2405,Parasitology,7,2303,Ecology,7580,0.0161
+2405,Parasitology,8,1312,Molecular Biology,6908,0.0147
+2405,Parasitology,9,2202,Aerospace Engineering,5844,0.0124
+2405,Parasitology,10,2739,"Public Health, Environmental and Occupational Health",5672,0.0121
+2405,Parasitology,,(other),237 others,94448,0.2012
+2406,Virology,1,2406,Virology,140984,0.5959
+2406,Virology,2,2725,Infectious Diseases,17250,0.0729
+2406,Virology,3,3106,Nuclear and High Energy Physics,7331,0.031
+2406,Virology,4,1312,Molecular Biology,4886,0.0207
+2406,Virology,5,2739,"Public Health, Environmental and Occupational Health",4491,0.019
+2406,Virology,6,,(no topic),3542,0.015
+2406,Virology,7,2713,Epidemiology,3423,0.0145
+2406,Virology,8,2403,Immunology,3346,0.0141
+2406,Virology,9,1311,Genetics,3341,0.0141
+2406,Virology,10,2746,Surgery,2683,0.0113
+2406,Virology,,(other),239 others,45330,0.1916
+2500,General Materials Science,1,2210,Mechanical Engineering,57692,0.1651
+2500,General Materials Science,2,,(no topic),36586,0.1047
+2500,General Materials Science,3,2505,Materials Chemistry,31507,0.0902
+2500,General Materials Science,4,2211,Mechanics of Materials,24038,0.0688
+2500,General Materials Science,5,3106,Nuclear and High Energy Physics,13284,0.038
+2500,General Materials Science,6,2507,Polymers and Plastics,13186,0.0377
+2500,General Materials Science,7,2205,Civil and Structural Engineering,13120,0.0375
+2500,General Materials Science,8,2202,Aerospace Engineering,12400,0.0355
+2500,General Materials Science,9,2500,General Materials Science,10297,0.0295
+2500,General Materials Science,10,2208,Electrical and Electronic Engineering,8054,0.023
+2500,General Materials Science,,(other),240 others,129278,0.37
+2502,Biomaterials,1,2502,Biomaterials,372933,0.3242
+2502,Biomaterials,2,,(no topic),50639,0.044
+2502,Biomaterials,3,1105,"Ecology, Evolution, Behavior and Systematics",46238,0.0402
+2502,Biomaterials,4,2204,Biomedical Engineering,32740,0.0285
+2502,Biomaterials,5,2507,Polymers and Plastics,32147,0.0279
+2502,Biomaterials,6,1110,Plant Science,31167,0.0271
+2502,Biomaterials,7,1312,Molecular Biology,30754,0.0267
+2502,Biomaterials,8,2505,Materials Chemistry,26214,0.0228
+2502,Biomaterials,9,1605,Organic Chemistry,20248,0.0176
+2502,Biomaterials,10,3106,Nuclear and High Energy Physics,19203,0.0167
+2502,Biomaterials,,(other),241 others,488019,0.4243
+2503,Ceramics and Composites,1,2503,Ceramics and Composites,136750,0.5681
+2503,Ceramics and Composites,2,2505,Materials Chemistry,20417,0.0848
+2503,Ceramics and Composites,3,2210,Mechanical Engineering,11567,0.0481
+2503,Ceramics and Composites,4,2211,Mechanics of Materials,9646,0.0401
+2503,Ceramics and Composites,5,2208,Electrical and Electronic Engineering,7388,0.0307
+2503,Ceramics and Composites,6,2202,Aerospace Engineering,3943,0.0164
+2503,Ceramics and Composites,7,1908,Geophysics,2769,0.0115
+2503,Ceramics and Composites,8,,(no topic),2260,0.0094
+2503,Ceramics and Composites,9,2504,"Electronic, Optical and Magnetic Materials",2006,0.0083
+2503,Ceramics and Composites,10,3106,Nuclear and High Energy Physics,1949,0.0081
+2503,Ceramics and Composites,,(other),237 others,42008,0.1745
+2504,"Electronic, Optical and Magnetic Materials",1,2504,"Electronic, Optical and Magnetic Materials",611147,0.6168
+2504,"Electronic, Optical and Magnetic Materials",2,2505,Materials Chemistry,55846,0.0564
+2504,"Electronic, Optical and Magnetic Materials",3,3107,"Atomic and Molecular Physics, and Optics",40719,0.0411
+2504,"Electronic, Optical and Magnetic Materials",4,2208,Electrical and Electronic Engineering,35654,0.036
+2504,"Electronic, Optical and Magnetic Materials",5,3104,Condensed Matter Physics,32810,0.0331
+2504,"Electronic, Optical and Magnetic Materials",6,2204,Biomedical Engineering,22798,0.023
+2504,"Electronic, Optical and Magnetic Materials",7,1604,Inorganic Chemistry,19882,0.0201
+2504,"Electronic, Optical and Magnetic Materials",8,3106,Nuclear and High Energy Physics,19046,0.0192
+2504,"Electronic, Optical and Magnetic Materials",9,1605,Organic Chemistry,18488,0.0187
+2504,"Electronic, Optical and Magnetic Materials",10,,(no topic),13851,0.014
+2504,"Electronic, Optical and Magnetic Materials",,(other),241 others,120540,0.1217
+2505,Materials Chemistry,1,2505,Materials Chemistry,2180992,0.4089
+2505,Materials Chemistry,2,1604,Inorganic Chemistry,959684,0.1799
+2505,Materials Chemistry,3,2210,Mechanical Engineering,173404,0.0325
+2505,Materials Chemistry,4,2208,Electrical and Electronic Engineering,144152,0.027
+2505,Materials Chemistry,5,3106,Nuclear and High Energy Physics,127503,0.0239
+2505,Materials Chemistry,6,,(no topic),119554,0.0224
+2505,Materials Chemistry,7,3107,"Atomic and Molecular Physics, and Optics",96290,0.0181
+2505,Materials Chemistry,8,1605,Organic Chemistry,96073,0.018
+2505,Materials Chemistry,9,2504,"Electronic, Optical and Magnetic Materials",85018,0.0159
+2505,Materials Chemistry,10,2211,Mechanics of Materials,76263,0.0143
+2505,Materials Chemistry,,(other),243 others,1274936,0.239
+2506,Metals and Alloys,1,2506,Metals and Alloys,34278,0.516
+2506,Metals and Alloys,2,2210,Mechanical Engineering,11218,0.1689
+2506,Metals and Alloys,3,2505,Materials Chemistry,9190,0.1383
+2506,Metals and Alloys,4,2211,Mechanics of Materials,1585,0.0239
+2506,Metals and Alloys,5,2202,Aerospace Engineering,1123,0.0169
+2506,Metals and Alloys,6,2208,Electrical and Electronic Engineering,676,0.0102
+2506,Metals and Alloys,7,1312,Molecular Biology,603,0.0091
+2506,Metals and Alloys,8,,(no topic),481,0.0072
+2506,Metals and Alloys,9,3106,Nuclear and High Energy Physics,341,0.0051
+2506,Metals and Alloys,10,2204,Biomedical Engineering,258,0.0039
+2506,Metals and Alloys,,(other),224 others,6682,0.1006
+2507,Polymers and Plastics,1,2507,Polymers and Plastics,418683,0.4888
+2507,Polymers and Plastics,2,2210,Mechanical Engineering,53758,0.0628
+2507,Polymers and Plastics,3,2505,Materials Chemistry,48175,0.0562
+2507,Polymers and Plastics,4,2208,Electrical and Electronic Engineering,42030,0.0491
+2507,Polymers and Plastics,5,1605,Organic Chemistry,34103,0.0398
+2507,Polymers and Plastics,6,,(no topic),23742,0.0277
+2507,Polymers and Plastics,7,2215,Building and Construction,20090,0.0235
+2507,Polymers and Plastics,8,2204,Biomedical Engineering,17261,0.0202
+2507,Polymers and Plastics,9,2211,Mechanics of Materials,15325,0.0179
+2507,Polymers and Plastics,10,2502,Biomaterials,13899,0.0162
+2507,Polymers and Plastics,,(other),241 others,169459,0.1978
+2508,"Surfaces, Coatings and Films",1,2508,"Surfaces, Coatings and Films",107080,0.2795
+2508,"Surfaces, Coatings and Films",2,3106,Nuclear and High Energy Physics,45577,0.119
+2508,"Surfaces, Coatings and Films",3,3107,"Atomic and Molecular Physics, and Optics",27292,0.0712
+2508,"Surfaces, Coatings and Films",4,2208,Electrical and Electronic Engineering,18653,0.0487
+2508,"Surfaces, Coatings and Films",5,1315,Structural Biology,17056,0.0445
+2508,"Surfaces, Coatings and Films",6,,(no topic),15782,0.0412
+2508,"Surfaces, Coatings and Films",7,2204,Biomedical Engineering,15379,0.0401
+2508,"Surfaces, Coatings and Films",8,2505,Materials Chemistry,13127,0.0343
+2508,"Surfaces, Coatings and Films",9,2206,Computational Mechanics,11029,0.0288
+2508,"Surfaces, Coatings and Films",10,2210,Mechanical Engineering,6861,0.0179
+2508,"Surfaces, Coatings and Films",,(other),239 others,105223,0.2747
+2602,Algebra and Number Theory,1,2602,Algebra and Number Theory,151084,0.567
+2602,Algebra and Number Theory,2,2610,Mathematical Physics,29356,0.1102
+2602,Algebra and Number Theory,3,2608,Geometry and Topology,25260,0.0948
+2602,Algebra and Number Theory,4,2607,Discrete Mathematics and Combinatorics,11289,0.0424
+2602,Algebra and Number Theory,5,2604,Applied Mathematics,9111,0.0342
+2602,Algebra and Number Theory,6,1703,Computational Theory and Mathematics,8836,0.0332
+2602,Algebra and Number Theory,7,3106,Nuclear and High Energy Physics,3839,0.0144
+2602,Algebra and Number Theory,8,,(no topic),2770,0.0104
+2602,Algebra and Number Theory,9,3103,Astronomy and Astrophysics,2522,0.0095
+2602,Algebra and Number Theory,10,2613,Statistics and Probability,1635,0.0061
+2602,Algebra and Number Theory,,(other),229 others,20764,0.0779
+2604,Applied Mathematics,1,2604,Applied Mathematics,511258,0.5773
+2604,Applied Mathematics,2,2610,Mathematical Physics,46998,0.0531
+2604,Applied Mathematics,3,2608,Geometry and Topology,43637,0.0493
+2604,Applied Mathematics,4,3103,Astronomy and Astrophysics,43595,0.0492
+2604,Applied Mathematics,5,2206,Computational Mechanics,24604,0.0278
+2604,Applied Mathematics,6,2613,Statistics and Probability,17492,0.0198
+2604,Applied Mathematics,7,3304,Education,15291,0.0173
+2604,Applied Mathematics,8,3106,Nuclear and High Energy Physics,14938,0.0169
+2604,Applied Mathematics,9,2602,Algebra and Number Theory,13097,0.0148
+2604,Applied Mathematics,10,1703,Computational Theory and Mathematics,10586,0.012
+2604,Applied Mathematics,,(other),240 others,144142,0.1628
+2605,Computational Mathematics,1,2605,Computational Mathematics,9818,0.4261
+2605,Computational Mathematics,2,1702,Artificial Intelligence,1248,0.0542
+2605,Computational Mathematics,3,1703,Computational Theory and Mathematics,1242,0.0539
+2605,Computational Mathematics,4,2608,Geometry and Topology,1012,0.0439
+2605,Computational Mathematics,5,1707,Computer Vision and Pattern Recognition,754,0.0327
+2605,Computational Mathematics,6,2613,Statistics and Probability,678,0.0294
+2605,Computational Mathematics,7,3106,Nuclear and High Energy Physics,647,0.0281
+2605,Computational Mathematics,8,,(no topic),379,0.0164
+2605,Computational Mathematics,9,1708,Hardware and Architecture,361,0.0157
+2605,Computational Mathematics,10,3103,Astronomy and Astrophysics,349,0.0151
+2605,Computational Mathematics,,(other),199 others,6552,0.2844
+2607,Discrete Mathematics and Combinatorics,1,2607,Discrete Mathematics and Combinatorics,90074,0.5501
+2607,Discrete Mathematics and Combinatorics,2,2608,Geometry and Topology,12124,0.074
+2607,Discrete Mathematics and Combinatorics,3,1703,Computational Theory and Mathematics,7889,0.0482
+2607,Discrete Mathematics and Combinatorics,4,2602,Algebra and Number Theory,7760,0.0474
+2607,Discrete Mathematics and Combinatorics,5,2610,Mathematical Physics,7752,0.0473
+2607,Discrete Mathematics and Combinatorics,6,,(no topic),2566,0.0157
+2607,Discrete Mathematics and Combinatorics,7,3106,Nuclear and High Energy Physics,2457,0.015
+2607,Discrete Mathematics and Combinatorics,8,1702,Artificial Intelligence,1905,0.0116
+2607,Discrete Mathematics and Combinatorics,9,2604,Applied Mathematics,1635,0.01
+2607,Discrete Mathematics and Combinatorics,10,2207,Control and Systems Engineering,1468,0.009
+2607,Discrete Mathematics and Combinatorics,,(other),231 others,28117,0.1717
+2608,Geometry and Topology,1,2608,Geometry and Topology,392960,0.5009
+2608,Geometry and Topology,2,2610,Mathematical Physics,65753,0.0838
+2608,Geometry and Topology,3,2602,Algebra and Number Theory,34966,0.0446
+2608,Geometry and Topology,4,2604,Applied Mathematics,32394,0.0413
+2608,Geometry and Topology,5,2607,Discrete Mathematics and Combinatorics,23023,0.0293
+2608,Geometry and Topology,6,1703,Computational Theory and Mathematics,20240,0.0258
+2608,Geometry and Topology,7,3106,Nuclear and High Energy Physics,18028,0.023
+2608,Geometry and Topology,8,3103,Astronomy and Astrophysics,16719,0.0213
+2608,Geometry and Topology,9,,(no topic),16629,0.0212
+2608,Geometry and Topology,10,2613,Statistics and Probability,6627,0.0084
+2608,Geometry and Topology,,(other),241 others,157093,0.2003
+2610,Mathematical Physics,1,2610,Mathematical Physics,331794,0.5105
+2610,Mathematical Physics,2,2604,Applied Mathematics,56921,0.0876
+2610,Mathematical Physics,3,2608,Geometry and Topology,55453,0.0853
+2610,Mathematical Physics,4,2602,Algebra and Number Theory,22406,0.0345
+2610,Mathematical Physics,5,2613,Statistics and Probability,14913,0.0229
+2610,Mathematical Physics,6,3106,Nuclear and High Energy Physics,14259,0.0219
+2610,Mathematical Physics,7,3103,Astronomy and Astrophysics,12007,0.0185
+2610,Mathematical Physics,8,2607,Discrete Mathematics and Combinatorics,11969,0.0184
+2610,Mathematical Physics,9,1703,Computational Theory and Mathematics,11611,0.0179
+2610,Mathematical Physics,10,3107,"Atomic and Molecular Physics, and Optics",8963,0.0138
+2610,Mathematical Physics,,(other),238 others,109663,0.1687
+2611,Modeling and Simulation,1,2611,Modeling and Simulation,104060,0.3613
+2611,Modeling and Simulation,2,2604,Applied Mathematics,21965,0.0763
+2611,Modeling and Simulation,3,2739,"Public Health, Environmental and Occupational Health",19845,0.0689
+2611,Modeling and Simulation,4,3304,Education,12670,0.044
+2611,Modeling and Simulation,5,3106,Nuclear and High Energy Physics,10370,0.036
+2611,Modeling and Simulation,6,,(no topic),10297,0.0358
+2611,Modeling and Simulation,7,3312,Sociology and Political Science,5689,0.0198
+2611,Modeling and Simulation,8,2202,Aerospace Engineering,5404,0.0188
+2611,Modeling and Simulation,9,2612,Numerical Analysis,4608,0.016
+2611,Modeling and Simulation,10,2725,Infectious Diseases,4266,0.0148
+2611,Modeling and Simulation,,(other),241 others,88822,0.3084
+2612,Numerical Analysis,1,2612,Numerical Analysis,87775,0.3674
+2612,Numerical Analysis,2,2604,Applied Mathematics,39787,0.1666
+2612,Numerical Analysis,3,1703,Computational Theory and Mathematics,16316,0.0683
+2612,Numerical Analysis,4,2206,Computational Mechanics,13531,0.0566
+2612,Numerical Analysis,5,2207,Control and Systems Engineering,9177,0.0384
+2612,Numerical Analysis,6,2611,Modeling and Simulation,8923,0.0374
+2612,Numerical Analysis,7,2608,Geometry and Topology,7350,0.0308
+2612,Numerical Analysis,8,2610,Mathematical Physics,7152,0.0299
+2612,Numerical Analysis,9,2613,Statistics and Probability,5074,0.0212
+2612,Numerical Analysis,10,3106,Nuclear and High Energy Physics,3832,0.016
+2612,Numerical Analysis,,(other),234 others,39970,0.1673
+2613,Statistics and Probability,1,2613,Statistics and Probability,431856,0.4684
+2613,Statistics and Probability,2,3106,Nuclear and High Energy Physics,38845,0.0421
+2613,Statistics and Probability,3,,(no topic),36753,0.0399
+2613,Statistics and Probability,4,2604,Applied Mathematics,19048,0.0207
+2613,Statistics and Probability,5,2610,Mathematical Physics,18842,0.0204
+2613,Statistics and Probability,6,1803,Management Science and Operations Research,18575,0.0201
+2613,Statistics and Probability,7,1702,Artificial Intelligence,18347,0.0199
+2613,Statistics and Probability,8,3304,Education,17309,0.0188
+2613,Statistics and Probability,9,3312,Sociology and Political Science,13644,0.0148
+2613,Statistics and Probability,10,2002,Economics and Econometrics,11833,0.0128
+2613,Statistics and Probability,,(other),242 others,296901,0.322
+2614,Theoretical Computer Science,1,2614,Theoretical Computer Science,60996,0.2158
+2614,Theoretical Computer Science,2,,(no topic),27131,0.096
+2614,Theoretical Computer Science,3,2608,Geometry and Topology,24778,0.0877
+2614,Theoretical Computer Science,4,2602,Algebra and Number Theory,12650,0.0447
+2614,Theoretical Computer Science,5,3304,Education,9158,0.0324
+2614,Theoretical Computer Science,6,2604,Applied Mathematics,8685,0.0307
+2614,Theoretical Computer Science,7,1202,History,7973,0.0282
+2614,Theoretical Computer Science,8,2611,Modeling and Simulation,7534,0.0267
+2614,Theoretical Computer Science,9,2610,Mathematical Physics,6884,0.0244
+2614,Theoretical Computer Science,10,3103,Astronomy and Astrophysics,6585,0.0233
+2614,Theoretical Computer Science,,(other),240 others,110314,0.3902
+2702,Anatomy,1,1202,History,20029,0.082
+2702,Anatomy,2,3505,Orthodontics,15749,0.0645
+2702,Anatomy,3,1207,History and Philosophy of Science,14753,0.0604
+2702,Anatomy,4,2746,Surgery,13868,0.0568
+2702,Anatomy,5,,(no topic),11869,0.0486
+2702,Anatomy,6,2702,Anatomy,9502,0.0389
+2702,Anatomy,7,2739,"Public Health, Environmental and Occupational Health",8686,0.0356
+2702,Anatomy,8,1203,Language and Linguistics,6303,0.0258
+2702,Anatomy,9,2713,Epidemiology,5821,0.0238
+2702,Anatomy,10,3600,General Health Professions,5462,0.0224
+2702,Anatomy,,(other),238 others,132110,0.5411
+2703,Anesthesiology and Pain Medicine,1,2703,Anesthesiology and Pain Medicine,187493,0.6098
+2703,Anesthesiology and Pain Medicine,2,2746,Surgery,23763,0.0773
+2703,Anesthesiology and Pain Medicine,3,2740,Pulmonary and Respiratory Medicine,12283,0.04
+2703,Anesthesiology and Pain Medicine,4,2739,"Public Health, Environmental and Occupational Health",6192,0.0201
+2703,Anesthesiology and Pain Medicine,5,2705,Cardiology and Cardiovascular Medicine,5295,0.0172
+2703,Anesthesiology and Pain Medicine,6,2737,Physiology,5141,0.0167
+2703,Anesthesiology and Pain Medicine,7,3504,Oral Surgery,4045,0.0132
+2703,Anesthesiology and Pain Medicine,8,2736,Pharmacology,3799,0.0124
+2703,Anesthesiology and Pain Medicine,9,,(no topic),3183,0.0104
+2703,Anesthesiology and Pain Medicine,10,3106,Nuclear and High Energy Physics,2743,0.0089
+2703,Anesthesiology and Pain Medicine,,(other),235 others,53506,0.174
+2704,Biochemistry,1,2704,Biochemistry,103782,0.469
+2704,Biochemistry,2,1110,Plant Science,17478,0.079
+2704,Biochemistry,3,1106,Food Science,14399,0.0651
+2704,Biochemistry,4,1312,Molecular Biology,9526,0.0431
+2704,Biochemistry,5,2916,Nutrition and Dietetics,4450,0.0201
+2704,Biochemistry,6,1605,Organic Chemistry,4400,0.0199
+2704,Biochemistry,7,2746,Surgery,4160,0.0188
+2704,Biochemistry,8,2712,"Endocrinology, Diabetes and Metabolism",2981,0.0135
+2704,Biochemistry,9,2739,"Public Health, Environmental and Occupational Health",2869,0.013
+2704,Biochemistry,10,2720,Hematology,2770,0.0125
+2704,Biochemistry,,(other),235 others,54460,0.2461
+2705,Cardiology and Cardiovascular Medicine,1,2705,Cardiology and Cardiovascular Medicine,1484118,0.6221
+2705,Cardiology and Cardiovascular Medicine,2,2746,Surgery,124590,0.0522
+2705,Cardiology and Cardiovascular Medicine,3,2740,Pulmonary and Respiratory Medicine,44346,0.0186
+2705,Cardiology and Cardiovascular Medicine,4,2713,Epidemiology,42828,0.018
+2705,Cardiology and Cardiovascular Medicine,5,1312,Molecular Biology,42356,0.0178
+2705,Cardiology and Cardiovascular Medicine,6,,(no topic),34821,0.0146
+2705,Cardiology and Cardiovascular Medicine,7,2741,"Radiology, Nuclear Medicine and Imaging",30617,0.0128
+2705,Cardiology and Cardiovascular Medicine,8,2739,"Public Health, Environmental and Occupational Health",30596,0.0128
+2705,Cardiology and Cardiovascular Medicine,9,2737,Physiology,27053,0.0113
+2705,Cardiology and Cardiovascular Medicine,10,3106,Nuclear and High Energy Physics,26691,0.0112
+2705,Cardiology and Cardiovascular Medicine,,(other),243 others,497513,0.2086
+2706,Critical Care and Intensive Care Medicine,1,2706,Critical Care and Intensive Care Medicine,109423,0.4121
+2706,Critical Care and Intensive Care Medicine,2,2713,Epidemiology,11373,0.0428
+2706,Critical Care and Intensive Care Medicine,3,2740,Pulmonary and Respiratory Medicine,11002,0.0414
+2706,Critical Care and Intensive Care Medicine,4,2746,Surgery,10761,0.0405
+2706,Critical Care and Intensive Care Medicine,5,2725,Infectious Diseases,8729,0.0329
+2706,Critical Care and Intensive Care Medicine,6,2703,Anesthesiology and Pain Medicine,7976,0.03
+2706,Critical Care and Intensive Care Medicine,7,2704,Biochemistry,7596,0.0286
+2706,Critical Care and Intensive Care Medicine,8,,(no topic),6345,0.0239
+2706,Critical Care and Intensive Care Medicine,9,3106,Nuclear and High Energy Physics,5967,0.0225
+2706,Critical Care and Intensive Care Medicine,10,2711,Emergency Medicine,5174,0.0195
+2706,Critical Care and Intensive Care Medicine,,(other),239 others,81158,0.3057
+2707,Complementary and alternative medicine,1,2707,Complementary and alternative medicine,313081,0.318
+2707,Complementary and alternative medicine,2,1110,Plant Science,52490,0.0533
+2707,Complementary and alternative medicine,3,2705,Cardiology and Cardiovascular Medicine,24240,0.0246
+2707,Complementary and alternative medicine,4,1312,Molecular Biology,22617,0.023
+2707,Complementary and alternative medicine,5,,(no topic),22113,0.0225
+2707,Complementary and alternative medicine,6,2737,Physiology,19632,0.0199
+2707,Complementary and alternative medicine,7,2746,Surgery,19050,0.0193
+2707,Complementary and alternative medicine,8,1106,Food Science,16484,0.0167
+2707,Complementary and alternative medicine,9,3312,Sociology and Political Science,15646,0.0159
+2707,Complementary and alternative medicine,10,3106,Nuclear and High Energy Physics,14004,0.0142
+2707,Complementary and alternative medicine,,(other),242 others,465145,0.4725
+2708,Dermatology,1,2708,Dermatology,325623,0.4277
+2708,Dermatology,2,1202,History,32614,0.0428
+2708,Dermatology,3,,(no topic),27322,0.0359
+2708,Dermatology,4,1207,History and Philosophy of Science,22443,0.0295
+2708,Dermatology,5,2746,Surgery,22186,0.0291
+2708,Dermatology,6,2713,Epidemiology,17682,0.0232
+2708,Dermatology,7,2734,Pathology and Forensic Medicine,17049,0.0224
+2708,Dermatology,8,3005,Toxicology,16315,0.0214
+2708,Dermatology,9,2739,"Public Health, Environmental and Occupational Health",10474,0.0138
+2708,Dermatology,10,2737,Physiology,9417,0.0124
+2708,Dermatology,,(other),241 others,260202,0.3418
+2711,Emergency Medicine,1,2711,Emergency Medicine,273132,0.4163
+2711,Emergency Medicine,2,2746,Surgery,26145,0.0398
+2711,Emergency Medicine,3,2739,"Public Health, Environmental and Occupational Health",20593,0.0314
+2711,Emergency Medicine,4,2740,Pulmonary and Respiratory Medicine,19007,0.029
+2711,Emergency Medicine,5,2713,Epidemiology,17767,0.0271
+2711,Emergency Medicine,6,2725,Infectious Diseases,15374,0.0234
+2711,Emergency Medicine,7,,(no topic),14634,0.0223
+2711,Emergency Medicine,8,2705,Cardiology and Cardiovascular Medicine,12934,0.0197
+2711,Emergency Medicine,9,3005,Toxicology,11498,0.0175
+2711,Emergency Medicine,10,2720,Hematology,9350,0.0142
+2711,Emergency Medicine,,(other),239 others,235727,0.3593
+2712,"Endocrinology, Diabetes and Metabolism",1,2712,"Endocrinology, Diabetes and Metabolism",829067,0.5652
+2712,"Endocrinology, Diabetes and Metabolism",2,2746,Surgery,59628,0.0406
+2712,"Endocrinology, Diabetes and Metabolism",3,2705,Cardiology and Cardiovascular Medicine,42788,0.0292
+2712,"Endocrinology, Diabetes and Metabolism",4,1312,Molecular Biology,34698,0.0237
+2712,"Endocrinology, Diabetes and Metabolism",5,1311,Genetics,22867,0.0156
+2712,"Endocrinology, Diabetes and Metabolism",6,2737,Physiology,22379,0.0153
+2712,"Endocrinology, Diabetes and Metabolism",7,2743,Reproductive Medicine,20639,0.0141
+2712,"Endocrinology, Diabetes and Metabolism",8,2727,Nephrology,20172,0.0138
+2712,"Endocrinology, Diabetes and Metabolism",9,3106,Nuclear and High Energy Physics,19028,0.013
+2712,"Endocrinology, Diabetes and Metabolism",10,2713,Epidemiology,18422,0.0126
+2712,"Endocrinology, Diabetes and Metabolism",,(other),242 others,377241,0.2572
+2713,Epidemiology,1,2713,Epidemiology,1966114,0.533
+2713,Epidemiology,2,2746,Surgery,95469,0.0259
+2713,Epidemiology,3,2725,Infectious Diseases,87486,0.0237
+2713,Epidemiology,4,3106,Nuclear and High Energy Physics,83924,0.0228
+2713,Epidemiology,5,2721,Hepatology,71307,0.0193
+2713,Epidemiology,6,,(no topic),67143,0.0182
+2713,Epidemiology,7,2739,"Public Health, Environmental and Occupational Health",59270,0.0161
+2713,Epidemiology,8,2740,Pulmonary and Respiratory Medicine,50400,0.0137
+2713,Epidemiology,9,1312,Molecular Biology,48656,0.0132
+2713,Epidemiology,10,2705,Cardiology and Cardiovascular Medicine,42071,0.0114
+2713,Epidemiology,,(other),243 others,1116684,0.3027
+2714,Family Practice,1,2714,Family Practice,31454,0.3797
+2714,Family Practice,2,2739,"Public Health, Environmental and Occupational Health",5231,0.0631
+2714,Family Practice,3,3600,General Health Professions,3563,0.043
+2714,Family Practice,4,2002,Economics and Econometrics,3388,0.0409
+2714,Family Practice,5,3106,Nuclear and High Energy Physics,2668,0.0322
+2714,Family Practice,6,,(no topic),2162,0.0261
+2714,Family Practice,7,3004,Pharmacology,2158,0.026
+2714,Family Practice,8,2717,Geriatrics and Gerontology,1597,0.0193
+2714,Family Practice,9,2705,Cardiology and Cardiovascular Medicine,1455,0.0176
+2714,Family Practice,10,3605,Health Information Management,1422,0.0172
+2714,Family Practice,,(other),228 others,27745,0.3349
+2715,Gastroenterology,1,2715,Gastroenterology,226895,0.6878
+2715,Gastroenterology,2,2746,Surgery,15894,0.0482
+2715,Gastroenterology,3,2740,Pulmonary and Respiratory Medicine,9367,0.0284
+2715,Gastroenterology,4,1311,Genetics,6603,0.02
+2715,Gastroenterology,5,2730,Oncology,4677,0.0142
+2715,Gastroenterology,6,1312,Molecular Biology,3947,0.012
+2715,Gastroenterology,7,3106,Nuclear and High Energy Physics,3575,0.0108
+2715,Gastroenterology,8,2734,Pathology and Forensic Medicine,3160,0.0096
+2715,Gastroenterology,9,,(no topic),2654,0.008
+2715,Gastroenterology,10,2916,Nutrition and Dietetics,2288,0.0069
+2715,Gastroenterology,,(other),236 others,50830,0.1541
+2716,Genetics,1,2716,Genetics,362377,0.5517
+2716,Genetics,2,2720,Hematology,40660,0.0619
+2716,Genetics,3,1312,Molecular Biology,16510,0.0251
+2716,Genetics,4,2746,Surgery,14413,0.0219
+2716,Genetics,5,2740,Pulmonary and Respiratory Medicine,13572,0.0207
+2716,Genetics,6,2734,Pathology and Forensic Medicine,12950,0.0197
+2716,Genetics,7,,(no topic),9920,0.0151
+2716,Genetics,8,3106,Nuclear and High Energy Physics,9593,0.0146
+2716,Genetics,9,1311,Genetics,8250,0.0126
+2716,Genetics,10,2741,"Radiology, Nuclear Medicine and Imaging",8166,0.0124
+2716,Genetics,,(other),240 others,160378,0.2442
+2717,Geriatrics and Gerontology,1,2717,Geriatrics and Gerontology,78521,0.3411
+2717,Geriatrics and Gerontology,2,3004,Pharmacology,48856,0.2123
+2717,Geriatrics and Gerontology,3,2739,"Public Health, Environmental and Occupational Health",9526,0.0414
+2717,Geriatrics and Gerontology,4,3600,General Health Professions,6526,0.0284
+2717,Geriatrics and Gerontology,5,3106,Nuclear and High Energy Physics,5078,0.0221
+2717,Geriatrics and Gerontology,6,3604,Emergency Medical Services,4746,0.0206
+2717,Geriatrics and Gerontology,7,2705,Cardiology and Cardiovascular Medicine,4605,0.02
+2717,Geriatrics and Gerontology,8,2713,Epidemiology,4217,0.0183
+2717,Geriatrics and Gerontology,9,,(no topic),4028,0.0175
+2717,Geriatrics and Gerontology,10,2002,Economics and Econometrics,3797,0.0165
+2717,Geriatrics and Gerontology,,(other),237 others,60267,0.2618
+2718,Health Informatics,1,2718,Health Informatics,53723,0.362
+2718,Health Informatics,2,1710,Information Systems,19046,0.1283
+2718,Health Informatics,3,1702,Artificial Intelligence,10870,0.0732
+2718,Health Informatics,4,3311,Safety Research,8618,0.0581
+2718,Health Informatics,5,3106,Nuclear and High Energy Physics,5358,0.0361
+2718,Health Informatics,6,,(no topic),3593,0.0242
+2718,Health Informatics,7,3605,Health Information Management,2807,0.0189
+2718,Health Informatics,8,1804,"Statistics, Probability and Uncertainty",2328,0.0157
+2718,Health Informatics,9,2739,"Public Health, Environmental and Occupational Health",2095,0.0141
+2718,Health Informatics,10,1207,History and Philosophy of Science,1931,0.013
+2718,Health Informatics,,(other),237 others,38039,0.2563
+2720,Hematology,1,2720,Hematology,570244,0.6857
+2720,Hematology,2,,(no topic),14725,0.0177
+2720,Hematology,3,2403,Immunology,14094,0.0169
+2720,Hematology,4,1312,Molecular Biology,13716,0.0165
+2720,Hematology,5,3106,Nuclear and High Energy Physics,11527,0.0139
+2720,Hematology,6,2739,"Public Health, Environmental and Occupational Health",10729,0.0129
+2720,Hematology,7,2704,Biochemistry,8619,0.0104
+2720,Hematology,8,2745,Rheumatology,8478,0.0102
+2720,Hematology,9,1311,Genetics,8202,0.0099
+2720,Hematology,10,2730,Oncology,8086,0.0097
+2720,Hematology,,(other),241 others,163236,0.1963
+2721,Hepatology,1,2721,Hepatology,350607,0.6695
+2721,Hepatology,2,2746,Surgery,22118,0.0422
+2721,Hepatology,3,2713,Epidemiology,19537,0.0373
+2721,Hepatology,4,2730,Oncology,15596,0.0298
+2721,Hepatology,5,2740,Pulmonary and Respiratory Medicine,9505,0.0182
+2721,Hepatology,6,2741,"Radiology, Nuclear Medicine and Imaging",7855,0.015
+2721,Hepatology,7,3106,Nuclear and High Energy Physics,7853,0.015
+2721,Hepatology,8,1312,Molecular Biology,6797,0.013
+2721,Hepatology,9,,(no topic),4588,0.0088
+2721,Hepatology,10,3004,Pharmacology,3917,0.0075
+2721,Hepatology,,(other),240 others,75295,0.1438
+2723,Immunology and Allergy,1,2723,Immunology and Allergy,140911,0.5017
+2723,Immunology and Allergy,2,1312,Molecular Biology,14552,0.0518
+2723,Immunology and Allergy,3,2403,Immunology,12156,0.0433
+2723,Immunology and Allergy,4,2737,Physiology,6686,0.0238
+2723,Immunology and Allergy,5,1307,Cell Biology,5736,0.0204
+2723,Immunology and Allergy,6,2730,Oncology,4741,0.0169
+2723,Immunology and Allergy,7,3106,Nuclear and High Energy Physics,4675,0.0166
+2723,Immunology and Allergy,8,,(no topic),4609,0.0164
+2723,Immunology and Allergy,9,2727,Nephrology,4151,0.0148
+2723,Immunology and Allergy,10,2745,Rheumatology,3624,0.0129
+2723,Immunology and Allergy,,(other),237 others,79015,0.2813
+2724,Internal Medicine,1,2724,Internal Medicine,102643,0.6281
+2724,Internal Medicine,2,2746,Surgery,12243,0.0749
+2724,Internal Medicine,3,2720,Hematology,9554,0.0585
+2724,Internal Medicine,4,2705,Cardiology and Cardiovascular Medicine,7829,0.0479
+2724,Internal Medicine,5,2740,Pulmonary and Respiratory Medicine,4584,0.0281
+2724,Internal Medicine,6,2713,Epidemiology,1794,0.011
+2724,Internal Medicine,7,2741,"Radiology, Nuclear Medicine and Imaging",1646,0.0101
+2724,Internal Medicine,8,3604,Emergency Medical Services,1423,0.0087
+2724,Internal Medicine,9,,(no topic),1412,0.0086
+2724,Internal Medicine,10,3106,Nuclear and High Energy Physics,1203,0.0074
+2724,Internal Medicine,,(other),225 others,19080,0.1168
+2725,Infectious Diseases,1,2725,Infectious Diseases,995175,0.6176
+2725,Infectious Diseases,2,3106,Nuclear and High Energy Physics,46219,0.0287
+2725,Infectious Diseases,3,2713,Epidemiology,42282,0.0262
+2725,Infectious Diseases,4,1312,Molecular Biology,28920,0.0179
+2725,Infectious Diseases,5,2739,"Public Health, Environmental and Occupational Health",28202,0.0175
+2725,Infectious Diseases,6,,(no topic),25934,0.0161
+2725,Infectious Diseases,7,2202,Aerospace Engineering,19607,0.0122
+2725,Infectious Diseases,8,2405,Parasitology,18310,0.0114
+2725,Infectious Diseases,9,2746,Surgery,16562,0.0103
+2725,Infectious Diseases,10,1311,Genetics,12770,0.0079
+2725,Infectious Diseases,,(other),241 others,377368,0.2342
+2726,Microbiology,1,2726,Microbiology,19152,0.3327
+2726,Microbiology,2,,(no topic),4327,0.0752
+2726,Microbiology,3,1110,Plant Science,3769,0.0655
+2726,Microbiology,4,2306,Global and Planetary Change,2812,0.0488
+2726,Microbiology,5,2736,Pharmacology,1380,0.024
+2726,Microbiology,6,1102,Agronomy and Crop Science,1161,0.0202
+2726,Microbiology,7,3312,Sociology and Political Science,1155,0.0201
+2726,Microbiology,8,1312,Molecular Biology,1142,0.0198
+2726,Microbiology,9,2202,Aerospace Engineering,935,0.0162
+2726,Microbiology,10,3320,Political Science and International Relations,914,0.0159
+2726,Microbiology,,(other),234 others,20824,0.3617
+2727,Nephrology,1,2727,Nephrology,345399,0.6259
+2727,Nephrology,2,2746,Surgery,22775,0.0413
+2727,Nephrology,3,2705,Cardiology and Cardiovascular Medicine,14282,0.0259
+2727,Nephrology,4,2740,Pulmonary and Respiratory Medicine,13771,0.025
+2727,Nephrology,5,3106,Nuclear and High Energy Physics,10850,0.0197
+2727,Nephrology,6,1312,Molecular Biology,9224,0.0167
+2727,Nephrology,7,2737,Physiology,8788,0.0159
+2727,Nephrology,8,2713,Epidemiology,6328,0.0115
+2727,Nephrology,9,2712,"Endocrinology, Diabetes and Metabolism",5853,0.0106
+2727,Nephrology,10,,(no topic),5520,0.01
+2727,Nephrology,,(other),240 others,109044,0.1976
+2728,Neurology,1,2728,Neurology,709400,0.5199
+2728,Neurology,2,2713,Epidemiology,41273,0.0302
+2728,Neurology,3,,(no topic),39665,0.0291
+2728,Neurology,4,2746,Surgery,37374,0.0274
+2728,Neurology,5,1202,History,33801,0.0248
+2728,Neurology,6,1207,History and Philosophy of Science,28399,0.0208
+2728,Neurology,7,2738,Psychiatry and Mental health,26686,0.0196
+2728,Neurology,8,2740,Pulmonary and Respiratory Medicine,24466,0.0179
+2728,Neurology,9,2734,Pathology and Forensic Medicine,19804,0.0145
+2728,Neurology,10,3106,Nuclear and High Energy Physics,15851,0.0116
+2728,Neurology,,(other),240 others,387827,0.2842
+2729,Obstetrics and Gynecology,1,2729,Obstetrics and Gynecology,394338,0.526
+2729,Obstetrics and Gynecology,2,3106,Nuclear and High Energy Physics,44867,0.0598
+2729,Obstetrics and Gynecology,3,2739,"Public Health, Environmental and Occupational Health",24543,0.0327
+2729,Obstetrics and Gynecology,4,,(no topic),23795,0.0317
+2729,Obstetrics and Gynecology,5,2735,"Pediatrics, Perinatology and Child Health",20258,0.027
+2729,Obstetrics and Gynecology,6,2746,Surgery,14205,0.0189
+2729,Obstetrics and Gynecology,7,2713,Epidemiology,10238,0.0137
+2729,Obstetrics and Gynecology,8,3600,General Health Professions,9620,0.0128
+2729,Obstetrics and Gynecology,9,2743,Reproductive Medicine,8285,0.0111
+2729,Obstetrics and Gynecology,10,1202,History,8082,0.0108
+2729,Obstetrics and Gynecology,,(other),241 others,191493,0.2554
+2730,Oncology,1,2730,Oncology,1120520,0.4579
+2730,Oncology,2,1312,Molecular Biology,103905,0.0425
+2730,Oncology,3,2740,Pulmonary and Respiratory Medicine,93903,0.0384
+2730,Oncology,4,,(no topic),70015,0.0286
+2730,Oncology,5,2746,Surgery,66682,0.0273
+2730,Oncology,6,1306,Cancer Research,59888,0.0245
+2730,Oncology,7,1605,Organic Chemistry,50543,0.0207
+2730,Oncology,8,2403,Immunology,46794,0.0191
+2730,Oncology,9,3106,Nuclear and High Energy Physics,40920,0.0167
+2730,Oncology,10,2739,"Public Health, Environmental and Occupational Health",37133,0.0152
+2730,Oncology,,(other),243 others,756694,0.3092
+2731,Ophthalmology,1,2731,Ophthalmology,461752,0.6297
+2731,Ophthalmology,2,2741,"Radiology, Nuclear Medicine and Imaging",34386,0.0469
+2731,Ophthalmology,3,2713,Epidemiology,16772,0.0229
+2731,Ophthalmology,4,2746,Surgery,13901,0.019
+2731,Ophthalmology,5,,(no topic),12009,0.0164
+2731,Ophthalmology,6,1312,Molecular Biology,10178,0.0139
+2731,Ophthalmology,7,2739,"Public Health, Environmental and Occupational Health",10166,0.0139
+2731,Ophthalmology,8,3106,Nuclear and High Energy Physics,8489,0.0116
+2731,Ophthalmology,9,2805,Cognitive Neuroscience,7313,0.01
+2731,Ophthalmology,10,1311,Genetics,6929,0.0094
+2731,Ophthalmology,,(other),241 others,151357,0.2064
+2732,Orthopedics and Sports Medicine,1,2732,Orthopedics and Sports Medicine,342033,0.5933
+2732,Orthopedics and Sports Medicine,2,2204,Biomedical Engineering,30607,0.0531
+2732,Orthopedics and Sports Medicine,3,2746,Surgery,16481,0.0286
+2732,Orthopedics and Sports Medicine,4,3204,Developmental and Educational Psychology,12391,0.0215
+2732,Orthopedics and Sports Medicine,5,3612,"Physical Therapy, Sports Therapy and Rehabilitation",10313,0.0179
+2732,Orthopedics and Sports Medicine,6,2707,Complementary and alternative medicine,9229,0.016
+2732,Orthopedics and Sports Medicine,7,3106,Nuclear and High Energy Physics,8670,0.015
+2732,Orthopedics and Sports Medicine,8,,(no topic),7972,0.0138
+2732,Orthopedics and Sports Medicine,9,2737,Physiology,7887,0.0137
+2732,Orthopedics and Sports Medicine,10,3312,Sociology and Political Science,7061,0.0122
+2732,Orthopedics and Sports Medicine,,(other),238 others,123897,0.2149
+2733,Otorhinolaryngology,1,2733,Otorhinolaryngology,183792,0.6635
+2733,Otorhinolaryngology,2,2746,Surgery,10973,0.0396
+2733,Otorhinolaryngology,3,2725,Infectious Diseases,9075,0.0328
+2733,Otorhinolaryngology,4,2740,Pulmonary and Respiratory Medicine,5130,0.0185
+2733,Otorhinolaryngology,5,2730,Oncology,4056,0.0146
+2733,Otorhinolaryngology,6,3506,Periodontics,3648,0.0132
+2733,Otorhinolaryngology,7,3108,Radiation,3457,0.0125
+2733,Otorhinolaryngology,8,3504,Oral Surgery,3372,0.0122
+2733,Otorhinolaryngology,9,3106,Nuclear and High Energy Physics,3255,0.0118
+2733,Otorhinolaryngology,10,2805,Cognitive Neuroscience,3223,0.0116
+2733,Otorhinolaryngology,,(other),236 others,47024,0.1698
+2734,Pathology and Forensic Medicine,1,2734,Pathology and Forensic Medicine,759695,0.5375
+2734,Pathology and Forensic Medicine,2,2746,Surgery,54885,0.0388
+2734,Pathology and Forensic Medicine,3,1312,Molecular Biology,31493,0.0223
+2734,Pathology and Forensic Medicine,4,2713,Epidemiology,26275,0.0186
+2734,Pathology and Forensic Medicine,5,2730,Oncology,25775,0.0182
+2734,Pathology and Forensic Medicine,6,2740,Pulmonary and Respiratory Medicine,25630,0.0181
+2734,Pathology and Forensic Medicine,7,,(no topic),18930,0.0134
+2734,Pathology and Forensic Medicine,8,3106,Nuclear and High Energy Physics,18807,0.0133
+2734,Pathology and Forensic Medicine,9,1311,Genetics,15078,0.0107
+2734,Pathology and Forensic Medicine,10,2745,Rheumatology,13620,0.0096
+2734,Pathology and Forensic Medicine,,(other),241 others,423087,0.2994
+2735,"Pediatrics, Perinatology and Child Health",1,2735,"Pediatrics, Perinatology and Child Health",515598,0.1768
+2735,"Pediatrics, Perinatology and Child Health",2,3106,Nuclear and High Energy Physics,268585,0.0921
+2735,"Pediatrics, Perinatology and Child Health",3,,(no topic),171362,0.0588
+2735,"Pediatrics, Perinatology and Child Health",4,2739,"Public Health, Environmental and Occupational Health",132310,0.0454
+2735,"Pediatrics, Perinatology and Child Health",5,2729,Obstetrics and Gynecology,58994,0.0202
+2735,"Pediatrics, Perinatology and Child Health",6,1110,Plant Science,55356,0.019
+2735,"Pediatrics, Perinatology and Child Health",7,3312,Sociology and Political Science,54871,0.0188
+2735,"Pediatrics, Perinatology and Child Health",8,3600,General Health Professions,52365,0.018
+2735,"Pediatrics, Perinatology and Child Health",9,2713,Epidemiology,49379,0.0169
+2735,"Pediatrics, Perinatology and Child Health",10,1202,History,47500,0.0163
+2735,"Pediatrics, Perinatology and Child Health",,(other),243 others,1509320,0.5177
+2736,Pharmacology,1,2736,Pharmacology,492037,0.2771
+2736,Pharmacology,2,1110,Plant Science,101393,0.0571
+2736,Pharmacology,3,,(no topic),87339,0.0492
+2736,Pharmacology,4,1312,Molecular Biology,54951,0.031
+2736,Pharmacology,5,2306,Global and Planetary Change,36776,0.0207
+2736,Pharmacology,6,1605,Organic Chemistry,33662,0.019
+2736,Pharmacology,7,2707,Complementary and alternative medicine,31757,0.0179
+2736,Pharmacology,8,3106,Nuclear and High Energy Physics,29779,0.0168
+2736,Pharmacology,9,3312,Sociology and Political Science,23658,0.0133
+2736,Pharmacology,10,2746,Surgery,23586,0.0133
+2736,Pharmacology,,(other),242 others,860456,0.4847
+2737,Physiology,1,2737,Physiology,1164546,0.4754
+2737,Physiology,2,1312,Molecular Biology,89048,0.0364
+2737,Physiology,3,2746,Surgery,50647,0.0207
+2737,Physiology,4,2739,"Public Health, Environmental and Occupational Health",50310,0.0205
+2737,Physiology,5,2712,"Endocrinology, Diabetes and Metabolism",49390,0.0202
+2737,Physiology,6,,(no topic),48714,0.0199
+2737,Physiology,7,3106,Nuclear and High Energy Physics,39632,0.0162
+2737,Physiology,8,2705,Cardiology and Cardiovascular Medicine,37647,0.0154
+2737,Physiology,9,2740,Pulmonary and Respiratory Medicine,35555,0.0145
+2737,Physiology,10,2916,Nutrition and Dietetics,34356,0.014
+2737,Physiology,,(other),243 others,849840,0.3469
+2738,Psychiatry and Mental health,1,2738,Psychiatry and Mental health,785298,0.5952
+2738,Psychiatry and Mental health,2,3203,Clinical Psychology,40539,0.0307
+2738,Psychiatry and Mental health,3,2739,"Public Health, Environmental and Occupational Health",23442,0.0178
+2738,Psychiatry and Mental health,4,,(no topic),21582,0.0164
+2738,Psychiatry and Mental health,5,3106,Nuclear and High Energy Physics,20055,0.0152
+2738,Psychiatry and Mental health,6,2805,Cognitive Neuroscience,18516,0.014
+2738,Psychiatry and Mental health,7,3600,General Health Professions,17420,0.0132
+2738,Psychiatry and Mental health,8,2713,Epidemiology,14161,0.0107
+2738,Psychiatry and Mental health,9,2737,Physiology,14069,0.0107
+2738,Psychiatry and Mental health,10,2736,Pharmacology,13758,0.0104
+2738,Psychiatry and Mental health,,(other),242 others,350604,0.2657
+2739,"Public Health, Environmental and Occupational Health",1,2739,"Public Health, Environmental and Occupational Health",1696995,0.4076
+2739,"Public Health, Environmental and Occupational Health",2,,(no topic),165092,0.0397
+2739,"Public Health, Environmental and Occupational Health",3,3600,General Health Professions,118156,0.0284
+2739,"Public Health, Environmental and Occupational Health",4,3312,Sociology and Political Science,84890,0.0204
+2739,"Public Health, Environmental and Occupational Health",5,3106,Nuclear and High Energy Physics,77043,0.0185
+2739,"Public Health, Environmental and Occupational Health",6,2746,Surgery,57188,0.0137
+2739,"Public Health, Environmental and Occupational Health",7,3308,Law,54484,0.0131
+2739,"Public Health, Environmental and Occupational Health",8,2737,Physiology,53017,0.0127
+2739,"Public Health, Environmental and Occupational Health",9,2713,Epidemiology,52847,0.0127
+2739,"Public Health, Environmental and Occupational Health",10,3320,Political Science and International Relations,52238,0.0125
+2739,"Public Health, Environmental and Occupational Health",,(other),243 others,1751225,0.4206
+2740,Pulmonary and Respiratory Medicine,1,2740,Pulmonary and Respiratory Medicine,2141308,0.572
+2740,Pulmonary and Respiratory Medicine,2,2746,Surgery,148212,0.0396
+2740,Pulmonary and Respiratory Medicine,3,,(no topic),125111,0.0334
+2740,Pulmonary and Respiratory Medicine,4,2730,Oncology,71619,0.0191
+2740,Pulmonary and Respiratory Medicine,5,2741,"Radiology, Nuclear Medicine and Imaging",68035,0.0182
+2740,Pulmonary and Respiratory Medicine,6,2713,Epidemiology,67538,0.018
+2740,Pulmonary and Respiratory Medicine,7,2737,Physiology,60100,0.0161
+2740,Pulmonary and Respiratory Medicine,8,3106,Nuclear and High Energy Physics,56298,0.015
+2740,Pulmonary and Respiratory Medicine,9,2705,Cardiology and Cardiovascular Medicine,53464,0.0143
+2740,Pulmonary and Respiratory Medicine,10,1312,Molecular Biology,47040,0.0126
+2740,Pulmonary and Respiratory Medicine,,(other),243 others,904564,0.2416
+2741,"Radiology, Nuclear Medicine and Imaging",1,2741,"Radiology, Nuclear Medicine and Imaging",1022936,0.4613
+2741,"Radiology, Nuclear Medicine and Imaging",2,,(no topic),80142,0.0361
+2741,"Radiology, Nuclear Medicine and Imaging",3,2705,Cardiology and Cardiovascular Medicine,50832,0.0229
+2741,"Radiology, Nuclear Medicine and Imaging",4,1312,Molecular Biology,49399,0.0223
+2741,"Radiology, Nuclear Medicine and Imaging",5,2740,Pulmonary and Respiratory Medicine,47398,0.0214
+2741,"Radiology, Nuclear Medicine and Imaging",6,2746,Surgery,44128,0.0199
+2741,"Radiology, Nuclear Medicine and Imaging",7,3106,Nuclear and High Energy Physics,42640,0.0192
+2741,"Radiology, Nuclear Medicine and Imaging",8,2731,Ophthalmology,41353,0.0186
+2741,"Radiology, Nuclear Medicine and Imaging",9,1707,Computer Vision and Pattern Recognition,35441,0.016
+2741,"Radiology, Nuclear Medicine and Imaging",10,3108,Radiation,34686,0.0156
+2741,"Radiology, Nuclear Medicine and Imaging",,(other),243 others,768500,0.3466
+2742,Rehabilitation,1,2742,Rehabilitation,180775,0.403
+2742,Rehabilitation,2,2713,Epidemiology,20062,0.0447
+2742,Rehabilitation,3,1210,Music,15734,0.0351
+2742,Rehabilitation,4,2746,Surgery,14140,0.0315
+2742,Rehabilitation,5,2204,Biomedical Engineering,12808,0.0286
+2742,Rehabilitation,6,,(no topic),12020,0.0268
+2742,Rehabilitation,7,3612,"Physical Therapy, Sports Therapy and Rehabilitation",11143,0.0248
+2742,Rehabilitation,8,2732,Orthopedics and Sports Medicine,9401,0.021
+2742,Rehabilitation,9,2737,Physiology,7551,0.0168
+2742,Rehabilitation,10,2739,"Public Health, Environmental and Occupational Health",7032,0.0157
+2742,Rehabilitation,,(other),240 others,157909,0.352
+2743,Reproductive Medicine,1,2743,Reproductive Medicine,391661,0.3137
+2743,Reproductive Medicine,2,,(no topic),225305,0.1805
+2743,Reproductive Medicine,3,3320,Political Science and International Relations,63173,0.0506
+2743,Reproductive Medicine,4,2739,"Public Health, Environmental and Occupational Health",47234,0.0378
+2743,Reproductive Medicine,5,3308,Law,41129,0.0329
+2743,Reproductive Medicine,6,3312,Sociology and Political Science,32737,0.0262
+2743,Reproductive Medicine,7,1202,History,25785,0.0207
+2743,Reproductive Medicine,8,1208,Literature and Literary Theory,24076,0.0193
+2743,Reproductive Medicine,9,2002,Economics and Econometrics,19725,0.0158
+2743,Reproductive Medicine,10,2729,Obstetrics and Gynecology,15584,0.0125
+2743,Reproductive Medicine,,(other),242 others,362020,0.29
+2745,Rheumatology,1,2745,Rheumatology,634471,0.5396
+2745,Rheumatology,2,2746,Surgery,48846,0.0415
+2745,Rheumatology,3,2740,Pulmonary and Respiratory Medicine,28210,0.024
+2745,Rheumatology,4,1312,Molecular Biology,25339,0.0215
+2745,Rheumatology,5,2748,Urology,20173,0.0172
+2745,Rheumatology,6,3106,Nuclear and High Energy Physics,18194,0.0155
+2745,Rheumatology,7,,(no topic),15694,0.0133
+2745,Rheumatology,8,2734,Pathology and Forensic Medicine,14328,0.0122
+2745,Rheumatology,9,2713,Epidemiology,13459,0.0114
+2745,Rheumatology,10,1311,Genetics,13456,0.0114
+2745,Rheumatology,,(other),243 others,343716,0.2923
+2746,Surgery,1,2746,Surgery,3358519,0.571
+2746,Surgery,2,2740,Pulmonary and Respiratory Medicine,189954,0.0323
+2746,Surgery,3,,(no topic),113807,0.0193
+2746,Surgery,4,2713,Epidemiology,103368,0.0176
+2746,Surgery,5,2705,Cardiology and Cardiovascular Medicine,89349,0.0152
+2746,Surgery,6,2715,Gastroenterology,72613,0.0123
+2746,Surgery,7,2741,"Radiology, Nuclear Medicine and Imaging",65167,0.0111
+2746,Surgery,8,2730,Oncology,63182,0.0107
+2746,Surgery,9,1312,Molecular Biology,61735,0.0105
+2746,Surgery,10,2204,Biomedical Engineering,61338,0.0104
+2746,Surgery,,(other),243 others,1702543,0.2895
+2747,Transplantation,1,2747,Transplantation,62845,0.5581
+2747,Transplantation,2,2746,Surgery,15312,0.136
+2747,Transplantation,3,2739,"Public Health, Environmental and Occupational Health",4398,0.0391
+2747,Transplantation,4,,(no topic),2389,0.0212
+2747,Transplantation,5,2720,Hematology,1881,0.0167
+2747,Transplantation,6,2403,Immunology,1821,0.0162
+2747,Transplantation,7,2727,Nephrology,1812,0.0161
+2747,Transplantation,8,3004,Pharmacology,1391,0.0124
+2747,Transplantation,9,3106,Nuclear and High Energy Physics,1093,0.0097
+2747,Transplantation,10,2713,Epidemiology,926,0.0082
+2747,Transplantation,,(other),221 others,18732,0.1664
+2748,Urology,1,2748,Urology,200073,0.5653
+2748,Urology,2,2746,Surgery,12222,0.0345
+2748,Urology,3,2735,"Pediatrics, Perinatology and Child Health",12072,0.0341
+2748,Urology,4,3504,Oral Surgery,7541,0.0213
+2748,Urology,5,2740,Pulmonary and Respiratory Medicine,6761,0.0191
+2748,Urology,6,2729,Obstetrics and Gynecology,5810,0.0164
+2748,Urology,7,1312,Molecular Biology,5655,0.016
+2748,Urology,8,3505,Orthodontics,5495,0.0155
+2748,Urology,9,,(no topic),5085,0.0144
+2748,Urology,10,2745,Rheumatology,5069,0.0143
+2748,Urology,,(other),239 others,88155,0.2491
+2802,Behavioral Neuroscience,1,2802,Behavioral Neuroscience,37125,0.3394
+2802,Behavioral Neuroscience,2,2804,Cellular and Molecular Neuroscience,10313,0.0943
+2802,Behavioral Neuroscience,3,2805,Cognitive Neuroscience,7050,0.0645
+2802,Behavioral Neuroscience,4,2712,"Endocrinology, Diabetes and Metabolism",5090,0.0465
+2802,Behavioral Neuroscience,5,3203,Clinical Psychology,4988,0.0456
+2802,Behavioral Neuroscience,6,2705,Cardiology and Cardiovascular Medicine,2845,0.026
+2802,Behavioral Neuroscience,7,2743,Reproductive Medicine,2777,0.0254
+2802,Behavioral Neuroscience,8,2737,Physiology,2480,0.0227
+2802,Behavioral Neuroscience,9,2738,Psychiatry and Mental health,2280,0.0208
+2802,Behavioral Neuroscience,10,2736,Pharmacology,2182,0.0199
+2802,Behavioral Neuroscience,,(other),228 others,32248,0.2948
+2803,Biological Psychiatry,1,2803,Biological Psychiatry,16724,0.2547
+2803,Biological Psychiatry,2,2738,Psychiatry and Mental health,8394,0.1278
+2803,Biological Psychiatry,3,2736,Pharmacology,5904,0.0899
+2803,Biological Psychiatry,4,1312,Molecular Biology,2884,0.0439
+2803,Biological Psychiatry,5,2804,Cellular and Molecular Neuroscience,2201,0.0335
+2803,Biological Psychiatry,6,2802,Behavioral Neuroscience,2061,0.0314
+2803,Biological Psychiatry,7,2403,Immunology,1924,0.0293
+2803,Biological Psychiatry,8,2737,Physiology,1910,0.0291
+2803,Biological Psychiatry,9,2808,Neurology,1792,0.0273
+2803,Biological Psychiatry,10,3203,Clinical Psychology,1640,0.025
+2803,Biological Psychiatry,,(other),218 others,20230,0.3081
+2804,Cellular and Molecular Neuroscience,1,2804,Cellular and Molecular Neuroscience,477864,0.463
+2804,Cellular and Molecular Neuroscience,2,1312,Molecular Biology,78427,0.076
+2804,Cellular and Molecular Neuroscience,3,2738,Psychiatry and Mental health,39891,0.0387
+2804,Cellular and Molecular Neuroscience,4,2805,Cognitive Neuroscience,36458,0.0353
+2804,Cellular and Molecular Neuroscience,5,2728,Neurology,30044,0.0291
+2804,Cellular and Molecular Neuroscience,6,2737,Physiology,20547,0.0199
+2804,Cellular and Molecular Neuroscience,7,3106,Nuclear and High Energy Physics,15155,0.0147
+2804,Cellular and Molecular Neuroscience,8,,(no topic),13394,0.013
+2804,Cellular and Molecular Neuroscience,9,1311,Genetics,11331,0.011
+2804,Cellular and Molecular Neuroscience,10,2808,Neurology,11298,0.0109
+2804,Cellular and Molecular Neuroscience,,(other),241 others,297596,0.2884
+2805,Cognitive Neuroscience,1,2805,Cognitive Neuroscience,994484,0.5078
+2805,Cognitive Neuroscience,2,3205,Experimental and Cognitive Psychology,91422,0.0467
+2805,Cognitive Neuroscience,3,2738,Psychiatry and Mental health,57044,0.0291
+2805,Cognitive Neuroscience,4,3106,Nuclear and High Energy Physics,43680,0.0223
+2805,Cognitive Neuroscience,5,,(no topic),38525,0.0197
+2805,Cognitive Neuroscience,6,3204,Developmental and Educational Psychology,34347,0.0175
+2805,Cognitive Neuroscience,7,3207,Social Psychology,30408,0.0155
+2805,Cognitive Neuroscience,8,2804,Cellular and Molecular Neuroscience,30123,0.0154
+2805,Cognitive Neuroscience,9,1211,Philosophy,28117,0.0144
+2805,Cognitive Neuroscience,10,3203,Clinical Psychology,24339,0.0124
+2805,Cognitive Neuroscience,,(other),242 others,585984,0.2992
+2806,Developmental Neuroscience,1,2806,Developmental Neuroscience,40795,0.2755
+2806,Developmental Neuroscience,2,2703,Anesthesiology and Pain Medicine,11674,0.0788
+2806,Developmental Neuroscience,3,2804,Cellular and Molecular Neuroscience,8700,0.0588
+2806,Developmental Neuroscience,4,2746,Surgery,6076,0.041
+2806,Developmental Neuroscience,5,1312,Molecular Biology,5320,0.0359
+2806,Developmental Neuroscience,6,2734,Pathology and Forensic Medicine,4604,0.0311
+2806,Developmental Neuroscience,7,3106,Nuclear and High Energy Physics,4012,0.0271
+2806,Developmental Neuroscience,8,,(no topic),3842,0.0259
+2806,Developmental Neuroscience,9,2735,"Pediatrics, Perinatology and Child Health",3508,0.0237
+2806,Developmental Neuroscience,10,2805,Cognitive Neuroscience,3292,0.0222
+2806,Developmental Neuroscience,,(other),236 others,56234,0.3798
+2807,Endocrine and Autonomic Systems,1,2807,Endocrine and Autonomic Systems,121156,0.4785
+2807,Endocrine and Autonomic Systems,2,2804,Cellular and Molecular Neuroscience,9026,0.0356
+2807,Endocrine and Autonomic Systems,3,2705,Cardiology and Cardiovascular Medicine,8335,0.0329
+2807,Endocrine and Autonomic Systems,4,2737,Physiology,8266,0.0326
+2807,Endocrine and Autonomic Systems,5,1312,Molecular Biology,6238,0.0246
+2807,Endocrine and Autonomic Systems,6,2740,Pulmonary and Respiratory Medicine,5296,0.0209
+2807,Endocrine and Autonomic Systems,7,2713,Epidemiology,5011,0.0198
+2807,Endocrine and Autonomic Systems,8,2805,Cognitive Neuroscience,4744,0.0187
+2807,Endocrine and Autonomic Systems,9,2712,"Endocrinology, Diabetes and Metabolism",4240,0.0167
+2807,Endocrine and Autonomic Systems,10,2743,Reproductive Medicine,4195,0.0166
+2807,Endocrine and Autonomic Systems,,(other),235 others,76688,0.3029
+2808,Neurology,1,2808,Neurology,217419,0.315
+2808,Neurology,2,2738,Psychiatry and Mental health,26048,0.0377
+2808,Neurology,3,1202,History,24816,0.036
+2808,Neurology,4,2805,Cognitive Neuroscience,24370,0.0353
+2808,Neurology,5,2713,Epidemiology,24080,0.0349
+2808,Neurology,6,,(no topic),23099,0.0335
+2808,Neurology,7,2728,Neurology,17779,0.0258
+2808,Neurology,8,1207,History and Philosophy of Science,17364,0.0252
+2808,Neurology,9,2804,Cellular and Molecular Neuroscience,15078,0.0218
+2808,Neurology,10,1208,Literature and Literary Theory,14716,0.0213
+2808,Neurology,,(other),241 others,285422,0.4135
+2809,Sensory Systems,1,2809,Sensory Systems,107656,0.4914
+2809,Sensory Systems,2,2805,Cognitive Neuroscience,13293,0.0607
+2809,Sensory Systems,3,1312,Molecular Biology,5816,0.0265
+2809,Sensory Systems,4,2804,Cellular and Molecular Neuroscience,4587,0.0209
+2809,Sensory Systems,5,,(no topic),4536,0.0207
+2809,Sensory Systems,6,3106,Nuclear and High Energy Physics,4140,0.0189
+2809,Sensory Systems,7,2737,Physiology,3434,0.0157
+2809,Sensory Systems,8,1110,Plant Science,3249,0.0148
+2809,Sensory Systems,9,2707,Complementary and alternative medicine,3113,0.0142
+2809,Sensory Systems,10,1106,Food Science,2810,0.0128
+2809,Sensory Systems,,(other),240 others,66432,0.3033
+2910,"Issues, ethics and legal aspects",1,2910,"Issues, ethics and legal aspects",35164,0.2258
+2910,"Issues, ethics and legal aspects",2,2922,Research and Theory,22377,0.1437
+2910,"Issues, ethics and legal aspects",3,3600,General Health Professions,16724,0.1074
+2910,"Issues, ethics and legal aspects",4,,(no topic),10669,0.0685
+2910,"Issues, ethics and legal aspects",5,3309,Library and Information Sciences,4596,0.0295
+2910,"Issues, ethics and legal aspects",6,3320,Political Science and International Relations,4376,0.0281
+2910,"Issues, ethics and legal aspects",7,3312,Sociology and Political Science,4291,0.0276
+2910,"Issues, ethics and legal aspects",8,2739,"Public Health, Environmental and Occupational Health",4194,0.0269
+2910,"Issues, ethics and legal aspects",9,3304,Education,3667,0.0236
+2910,"Issues, ethics and legal aspects",10,3605,Health Information Management,3527,0.0227
+2910,"Issues, ethics and legal aspects",,(other),232 others,46114,0.2962
+2911,Leadership and Management,1,2911,Leadership and Management,9577,0.157
+2911,Leadership and Management,2,3207,Social Psychology,5644,0.0925
+2911,Leadership and Management,3,1407,Organizational Behavior and Human Resource Management,5612,0.092
+2911,Leadership and Management,4,2922,Research and Theory,5035,0.0825
+2911,Leadership and Management,5,3304,Education,4731,0.0775
+2911,Leadership and Management,6,3600,General Health Professions,3959,0.0649
+2911,Leadership and Management,7,3204,Developmental and Educational Psychology,2441,0.04
+2911,Leadership and Management,8,2739,"Public Health, Environmental and Occupational Health",2354,0.0386
+2911,Leadership and Management,9,3203,Clinical Psychology,2041,0.0335
+2911,Leadership and Management,10,3312,Sociology and Political Science,2031,0.0333
+2911,Leadership and Management,,(other),193 others,17584,0.2882
+2916,Nutrition and Dietetics,1,2916,Nutrition and Dietetics,447538,0.4052
+2916,Nutrition and Dietetics,2,1106,Food Science,67867,0.0614
+2916,Nutrition and Dietetics,3,1110,Plant Science,41988,0.038
+2916,Nutrition and Dietetics,4,1312,Molecular Biology,37525,0.034
+2916,Nutrition and Dietetics,5,2739,"Public Health, Environmental and Occupational Health",20039,0.0181
+2916,Nutrition and Dietetics,6,2735,"Pediatrics, Perinatology and Child Health",18371,0.0166
+2916,Nutrition and Dietetics,7,2746,Surgery,15667,0.0142
+2916,Nutrition and Dietetics,8,3106,Nuclear and High Energy Physics,15536,0.0141
+2916,Nutrition and Dietetics,9,2307,"Health, Toxicology and Mutagenesis",14348,0.013
+2916,Nutrition and Dietetics,10,2312,Water Science and Technology,13972,0.0126
+2916,Nutrition and Dietetics,,(other),242 others,411672,0.3727
+2922,Research and Theory,1,2922,Research and Theory,23899,0.4173
+2922,Research and Theory,2,3600,General Health Professions,4216,0.0736
+2922,Research and Theory,3,2911,Leadership and Management,4211,0.0735
+2922,Research and Theory,4,2739,"Public Health, Environmental and Occupational Health",3177,0.0555
+2922,Research and Theory,5,2910,"Issues, ethics and legal aspects",2978,0.052
+2922,Research and Theory,6,3304,Education,2268,0.0396
+2922,Research and Theory,7,,(no topic),2261,0.0395
+2922,Research and Theory,8,3106,Nuclear and High Energy Physics,1530,0.0267
+2922,Research and Theory,9,3207,Social Psychology,864,0.0151
+2922,Research and Theory,10,3312,Sociology and Political Science,697,0.0122
+2922,Research and Theory,,(other),223 others,11166,0.195
+3002,Drug Discovery,1,1110,Plant Science,2206,0.1421
+3002,Drug Discovery,2,2707,Complementary and alternative medicine,1297,0.0836
+3002,Drug Discovery,3,3003,Pharmaceutical Science,1091,0.0703
+3002,Drug Discovery,4,2712,"Endocrinology, Diabetes and Metabolism",816,0.0526
+3002,Drug Discovery,5,1106,Food Science,623,0.0401
+3002,Drug Discovery,6,,(no topic),529,0.0341
+3002,Drug Discovery,7,3106,Nuclear and High Energy Physics,399,0.0257
+3002,Drug Discovery,8,2739,"Public Health, Environmental and Occupational Health",384,0.0247
+3002,Drug Discovery,9,2713,Epidemiology,261,0.0168
+3002,Drug Discovery,10,3506,Periodontics,223,0.0144
+3002,Drug Discovery,,(other),220 others,7694,0.4957
+3003,Pharmaceutical Science,1,3003,Pharmaceutical Science,168194,0.4483
+3003,Pharmaceutical Science,2,1605,Organic Chemistry,56659,0.151
+3003,Pharmaceutical Science,3,1312,Molecular Biology,13606,0.0363
+3003,Pharmaceutical Science,4,,(no topic),7772,0.0207
+3003,Pharmaceutical Science,5,2502,Biomaterials,6403,0.0171
+3003,Pharmaceutical Science,6,1607,Spectroscopy,6324,0.0169
+3003,Pharmaceutical Science,7,1604,Inorganic Chemistry,5850,0.0156
+3003,Pharmaceutical Science,8,2741,"Radiology, Nuclear Medicine and Imaging",5551,0.0148
+3003,Pharmaceutical Science,9,3106,Nuclear and High Energy Physics,5484,0.0146
+3003,Pharmaceutical Science,10,2206,Computational Mechanics,4627,0.0123
+3003,Pharmaceutical Science,,(other),241 others,94739,0.2525
+3004,Pharmacology,1,3004,Pharmacology,180231,0.2632
+3004,Pharmacology,2,,(no topic),39461,0.0576
+3004,Pharmacology,3,1110,Plant Science,38500,0.0562
+3004,Pharmacology,4,2707,Complementary and alternative medicine,25720,0.0376
+3004,Pharmacology,5,1312,Molecular Biology,24310,0.0355
+3004,Pharmacology,6,1106,Food Science,12495,0.0182
+3004,Pharmacology,7,2739,"Public Health, Environmental and Occupational Health",11583,0.0169
+3004,Pharmacology,8,1605,Organic Chemistry,10375,0.0151
+3004,Pharmacology,9,3106,Nuclear and High Energy Physics,10170,0.0148
+3004,Pharmacology,10,2736,Pharmacology,9268,0.0135
+3004,Pharmacology,,(other),242 others,322749,0.4713
+3005,Toxicology,1,3005,Toxicology,61538,0.4499
+3005,Toxicology,2,1605,Organic Chemistry,9156,0.0669
+3005,Toxicology,3,2713,Epidemiology,4516,0.033
+3005,Toxicology,4,1312,Molecular Biology,4307,0.0315
+3005,Toxicology,5,2736,Pharmacology,2717,0.0199
+3005,Toxicology,6,1110,Plant Science,2657,0.0194
+3005,Toxicology,7,1607,Spectroscopy,2312,0.0169
+3005,Toxicology,8,3106,Nuclear and High Energy Physics,2232,0.0163
+3005,Toxicology,9,2739,"Public Health, Environmental and Occupational Health",1943,0.0142
+3005,Toxicology,10,3004,Pharmacology,1938,0.0142
+3005,Toxicology,,(other),232 others,43478,0.3178
+3102,Acoustics and Ultrasonics,1,3102,Acoustics and Ultrasonics,12626,0.517
+3102,Acoustics and Ultrasonics,2,3107,"Atomic and Molecular Physics, and Optics",2548,0.1043
+3102,Acoustics and Ultrasonics,3,3106,Nuclear and High Energy Physics,1126,0.0461
+3102,Acoustics and Ultrasonics,4,2208,Electrical and Electronic Engineering,837,0.0343
+3102,Acoustics and Ultrasonics,5,2202,Aerospace Engineering,645,0.0264
+3102,Acoustics and Ultrasonics,6,1702,Artificial Intelligence,636,0.026
+3102,Acoustics and Ultrasonics,7,2204,Biomedical Engineering,610,0.025
+3102,Acoustics and Ultrasonics,8,2206,Computational Mechanics,543,0.0222
+3102,Acoustics and Ultrasonics,9,,(no topic),516,0.0211
+3102,Acoustics and Ultrasonics,10,2741,"Radiology, Nuclear Medicine and Imaging",431,0.0176
+3102,Acoustics and Ultrasonics,,(other),182 others,3902,0.1598
+3103,Astronomy and Astrophysics,1,3103,Astronomy and Astrophysics,1978031,0.4968
+3103,Astronomy and Astrophysics,2,3106,Nuclear and High Energy Physics,361359,0.0908
+3103,Astronomy and Astrophysics,3,,(no topic),148432,0.0373
+3103,Astronomy and Astrophysics,4,1202,History,97473,0.0245
+3103,Astronomy and Astrophysics,5,2202,Aerospace Engineering,68644,0.0172
+3103,Astronomy and Astrophysics,6,3320,Political Science and International Relations,67747,0.017
+3103,Astronomy and Astrophysics,7,3312,Sociology and Political Science,58232,0.0146
+3103,Astronomy and Astrophysics,8,1208,Literature and Literary Theory,54134,0.0136
+3103,Astronomy and Astrophysics,9,1207,History and Philosophy of Science,48677,0.0122
+3103,Astronomy and Astrophysics,10,1206,Conservation,43865,0.011
+3103,Astronomy and Astrophysics,,(other),243 others,1055185,0.265
+3104,Condensed Matter Physics,1,3104,Condensed Matter Physics,453645,0.4168
+3104,Condensed Matter Physics,2,3106,Nuclear and High Energy Physics,141606,0.1301
+3104,Condensed Matter Physics,3,,(no topic),57514,0.0528
+3104,Condensed Matter Physics,4,3107,"Atomic and Molecular Physics, and Optics",37914,0.0348
+3104,Condensed Matter Physics,5,2204,Biomedical Engineering,31190,0.0287
+3104,Condensed Matter Physics,6,1911,Paleontology,29959,0.0275
+3104,Condensed Matter Physics,7,2505,Materials Chemistry,28230,0.0259
+3104,Condensed Matter Physics,8,2504,"Electronic, Optical and Magnetic Materials",19609,0.018
+3104,Condensed Matter Physics,9,2208,Electrical and Electronic Engineering,16606,0.0153
+3104,Condensed Matter Physics,10,3103,Astronomy and Astrophysics,13457,0.0124
+3104,Condensed Matter Physics,,(other),241 others,258793,0.2377
+3105,Instrumentation,1,3103,Astronomy and Astrophysics,106304,0.3273
+3105,Instrumentation,2,,(no topic),47522,0.1463
+3105,Instrumentation,3,3105,Instrumentation,25653,0.079
+3105,Instrumentation,4,2208,Electrical and Electronic Engineering,10670,0.0329
+3105,Instrumentation,5,3106,Nuclear and High Energy Physics,8444,0.026
+3105,Instrumentation,6,1202,History,7538,0.0232
+3105,Instrumentation,7,3320,Political Science and International Relations,6494,0.02
+3105,Instrumentation,8,3312,Sociology and Political Science,5343,0.0165
+3105,Instrumentation,9,1208,Literature and Literary Theory,5222,0.0161
+3105,Instrumentation,10,2202,Aerospace Engineering,4459,0.0137
+3105,Instrumentation,,(other),241 others,97132,0.2991
+3106,Nuclear and High Energy Physics,1,3106,Nuclear and High Energy Physics,1688138,0.225
+3106,Nuclear and High Energy Physics,2,,(no topic),456854,0.0609
+3106,Nuclear and High Energy Physics,3,1202,History,357879,0.0477
+3106,Nuclear and High Energy Physics,4,3320,Political Science and International Relations,316624,0.0422
+3106,Nuclear and High Energy Physics,5,3312,Sociology and Political Science,259316,0.0346
+3106,Nuclear and High Energy Physics,6,1208,Literature and Literary Theory,257438,0.0343
+3106,Nuclear and High Energy Physics,7,3304,Education,179755,0.024
+3106,Nuclear and High Energy Physics,8,2002,Economics and Econometrics,115259,0.0154
+3106,Nuclear and High Energy Physics,9,3308,Law,114858,0.0153
+3106,Nuclear and High Energy Physics,10,1213,Visual Arts and Performing Arts,112259,0.015
+3106,Nuclear and High Energy Physics,,(other),243 others,3643647,0.4857
+3107,"Atomic and Molecular Physics, and Optics",1,3107,"Atomic and Molecular Physics, and Optics",1474527,0.4004
+3107,"Atomic and Molecular Physics, and Optics",2,3106,Nuclear and High Energy Physics,444720,0.1208
+3107,"Atomic and Molecular Physics, and Optics",3,2208,Electrical and Electronic Engineering,183247,0.0498
+3107,"Atomic and Molecular Physics, and Optics",4,,(no topic),90361,0.0245
+3107,"Atomic and Molecular Physics, and Optics",5,2505,Materials Chemistry,69689,0.0189
+3107,"Atomic and Molecular Physics, and Optics",6,3103,Astronomy and Astrophysics,63886,0.0173
+3107,"Atomic and Molecular Physics, and Optics",7,3109,Statistical and Nonlinear Physics,55711,0.0151
+3107,"Atomic and Molecular Physics, and Optics",8,2204,Biomedical Engineering,52916,0.0144
+3107,"Atomic and Molecular Physics, and Optics",9,3104,Condensed Matter Physics,48176,0.0131
+3107,"Atomic and Molecular Physics, and Optics",10,1202,History,48011,0.013
+3107,"Atomic and Molecular Physics, and Optics",,(other),243 others,1151554,0.3127
+3108,Radiation,1,3108,Radiation,255319,0.3793
+3108,Radiation,2,3106,Nuclear and High Energy Physics,91934,0.1366
+3108,Radiation,3,2202,Aerospace Engineering,24987,0.0371
+3108,Radiation,4,,(no topic),20707,0.0308
+3108,Radiation,5,2741,"Radiology, Nuclear Medicine and Imaging",14829,0.022
+3108,Radiation,6,2505,Materials Chemistry,14727,0.0219
+3108,Radiation,7,3107,"Atomic and Molecular Physics, and Optics",14727,0.0219
+3108,Radiation,8,2208,Electrical and Electronic Engineering,11075,0.0165
+3108,Radiation,9,2740,Pulmonary and Respiratory Medicine,10590,0.0157
+3108,Radiation,10,3103,Astronomy and Astrophysics,9873,0.0147
+3108,Radiation,,(other),242 others,204407,0.3036
+3109,Statistical and Nonlinear Physics,1,3109,Statistical and Nonlinear Physics,367918,0.3505
+3109,Statistical and Nonlinear Physics,2,3103,Astronomy and Astrophysics,49574,0.0472
+3109,Statistical and Nonlinear Physics,3,3107,"Atomic and Molecular Physics, and Optics",46466,0.0443
+3109,Statistical and Nonlinear Physics,4,3106,Nuclear and High Energy Physics,44807,0.0427
+3109,Statistical and Nonlinear Physics,5,2610,Mathematical Physics,43665,0.0416
+3109,Statistical and Nonlinear Physics,6,2207,Control and Systems Engineering,24166,0.023
+3109,Statistical and Nonlinear Physics,7,2604,Applied Mathematics,24000,0.0229
+3109,Statistical and Nonlinear Physics,8,1702,Artificial Intelligence,23064,0.022
+3109,Statistical and Nonlinear Physics,9,,(no topic),22809,0.0217
+3109,Statistical and Nonlinear Physics,10,2608,Geometry and Topology,21103,0.0201
+3109,Statistical and Nonlinear Physics,,(other),243 others,382187,0.3641
+3200,General Psychology,1,,(no topic),32152,0.1572
+3200,General Psychology,2,3200,General Psychology,31148,0.1523
+3200,General Psychology,3,1202,History,25791,0.1261
+3200,General Psychology,4,1208,Literature and Literary Theory,10986,0.0537
+3200,General Psychology,5,3203,Clinical Psychology,10776,0.0527
+3200,General Psychology,6,1207,History and Philosophy of Science,10127,0.0495
+3200,General Psychology,7,3312,Sociology and Political Science,8306,0.0406
+3200,General Psychology,8,3205,Experimental and Cognitive Psychology,6708,0.0328
+3200,General Psychology,9,3304,Education,5696,0.0278
+3200,General Psychology,10,1206,Conservation,5014,0.0245
+3200,General Psychology,,(other),233 others,57835,0.2828
+3202,Applied Psychology,1,3202,Applied Psychology,94130,0.3024
+3202,Applied Psychology,2,3207,Social Psychology,15278,0.0491
+3202,Applied Psychology,3,3203,Clinical Psychology,13638,0.0438
+3202,Applied Psychology,4,3304,Education,12666,0.0407
+3202,Applied Psychology,5,1407,Organizational Behavior and Human Resource Management,11037,0.0355
+3202,Applied Psychology,6,3312,Sociology and Political Science,10115,0.0325
+3202,Applied Psychology,7,3600,General Health Professions,8545,0.0275
+3202,Applied Psychology,8,3205,Experimental and Cognitive Psychology,8466,0.0272
+3202,Applied Psychology,9,3106,Nuclear and High Energy Physics,7579,0.0243
+3202,Applied Psychology,10,,(no topic),6895,0.0222
+3202,Applied Psychology,,(other),238 others,122917,0.3949
+3203,Clinical Psychology,1,3203,Clinical Psychology,1311507,0.4119
+3203,Clinical Psychology,2,3312,Sociology and Political Science,133716,0.042
+3203,Clinical Psychology,3,3207,Social Psychology,116514,0.0366
+3203,Clinical Psychology,4,1208,Literature and Literary Theory,104711,0.0329
+3203,Clinical Psychology,5,3304,Education,84326,0.0265
+3203,Clinical Psychology,6,,(no topic),75401,0.0237
+3203,Clinical Psychology,7,2738,Psychiatry and Mental health,73277,0.023
+3203,Clinical Psychology,8,3205,Experimental and Cognitive Psychology,71387,0.0224
+3203,Clinical Psychology,9,2739,"Public Health, Environmental and Occupational Health",70521,0.0221
+3203,Clinical Psychology,10,3600,General Health Professions,64894,0.0204
+3203,Clinical Psychology,,(other),242 others,1077740,0.3385
+3204,Developmental and Educational Psychology,1,3204,Developmental and Educational Psychology,531104,0.3855
+3204,Developmental and Educational Psychology,2,3304,Education,142018,0.1031
+3204,Developmental and Educational Psychology,3,1203,Language and Linguistics,63998,0.0465
+3204,Developmental and Educational Psychology,4,2805,Cognitive Neuroscience,50361,0.0366
+3204,Developmental and Educational Psychology,5,3207,Social Psychology,41088,0.0298
+3204,Developmental and Educational Psychology,6,3205,Experimental and Cognitive Psychology,40742,0.0296
+3204,Developmental and Educational Psychology,7,3203,Clinical Psychology,36517,0.0265
+3204,Developmental and Educational Psychology,8,3312,Sociology and Political Science,30662,0.0223
+3204,Developmental and Educational Psychology,9,,(no topic),29035,0.0211
+3204,Developmental and Educational Psychology,10,1710,Information Systems,22688,0.0165
+3204,Developmental and Educational Psychology,,(other),242 others,389428,0.2827
+3205,Experimental and Cognitive Psychology,1,3205,Experimental and Cognitive Psychology,575086,0.3914
+3205,Experimental and Cognitive Psychology,2,1203,Language and Linguistics,71033,0.0483
+3205,Experimental and Cognitive Psychology,3,2805,Cognitive Neuroscience,59869,0.0407
+3205,Experimental and Cognitive Psychology,4,1211,Philosophy,46108,0.0314
+3205,Experimental and Cognitive Psychology,5,1213,Visual Arts and Performing Arts,45931,0.0313
+3205,Experimental and Cognitive Psychology,6,,(no topic),40280,0.0274
+3205,Experimental and Cognitive Psychology,7,1208,Literature and Literary Theory,38176,0.026
+3205,Experimental and Cognitive Psychology,8,3203,Clinical Psychology,33993,0.0231
+3205,Experimental and Cognitive Psychology,9,3106,Nuclear and High Energy Physics,29507,0.0201
+3205,Experimental and Cognitive Psychology,10,3207,Social Psychology,29056,0.0198
+3205,Experimental and Cognitive Psychology,,(other),242 others,500413,0.3405
+3206,Neuropsychology and Physiological Psychology,1,3206,Neuropsychology and Physiological Psychology,24681,0.1746
+3206,Neuropsychology and Physiological Psychology,2,3304,Education,15713,0.1112
+3206,Neuropsychology and Physiological Psychology,3,3204,Developmental and Educational Psychology,9492,0.0672
+3206,Neuropsychology and Physiological Psychology,4,3600,General Health Professions,7476,0.0529
+3206,Neuropsychology and Physiological Psychology,5,2805,Cognitive Neuroscience,6946,0.0491
+3206,Neuropsychology and Physiological Psychology,6,2739,"Public Health, Environmental and Occupational Health",5362,0.0379
+3206,Neuropsychology and Physiological Psychology,7,2604,Applied Mathematics,4702,0.0333
+3206,Neuropsychology and Physiological Psychology,8,2738,Psychiatry and Mental health,3857,0.0273
+3206,Neuropsychology and Physiological Psychology,9,3205,Experimental and Cognitive Psychology,3750,0.0265
+3206,Neuropsychology and Physiological Psychology,10,3203,Clinical Psychology,3262,0.0231
+3206,Neuropsychology and Physiological Psychology,,(other),232 others,56108,0.3969
+3207,Social Psychology,1,3207,Social Psychology,872051,0.3171
+3207,Social Psychology,2,3312,Sociology and Political Science,123133,0.0448
+3207,Social Psychology,3,3203,Clinical Psychology,113772,0.0414
+3207,Social Psychology,4,3304,Education,112322,0.0408
+3207,Social Psychology,5,3205,Experimental and Cognitive Psychology,74663,0.0271
+3207,Social Psychology,6,,(no topic),67735,0.0246
+3207,Social Psychology,7,1208,Literature and Literary Theory,66068,0.024
+3207,Social Psychology,8,2805,Cognitive Neuroscience,56476,0.0205
+3207,Social Psychology,9,3204,Developmental and Educational Psychology,54467,0.0198
+3207,Social Psychology,10,1211,Philosophy,48972,0.0178
+3207,Social Psychology,,(other),241 others,1160719,0.422
+3300,General Social Sciences,1,3312,Sociology and Political Science,76077,0.1067
+3300,General Social Sciences,2,1211,Philosophy,51835,0.0727
+3300,General Social Sciences,3,,(no topic),47510,0.0666
+3300,General Social Sciences,4,3320,Political Science and International Relations,44646,0.0626
+3300,General Social Sciences,5,3304,Education,40682,0.057
+3300,General Social Sciences,6,3300,General Social Sciences,39530,0.0554
+3300,General Social Sciences,7,1202,History,36920,0.0518
+3300,General Social Sciences,8,1208,Literature and Literary Theory,32185,0.0451
+3300,General Social Sciences,9,3317,Demography,14972,0.021
+3300,General Social Sciences,10,3311,Safety Research,12615,0.0177
+3300,General Social Sciences,,(other),241 others,316304,0.4435
+3302,Archeology,1,3302,Archeology,18657,0.1215
+3302,Archeology,2,1204,Archeology,15617,0.1017
+3302,Archeology,3,2210,Mechanical Engineering,9598,0.0625
+3302,Archeology,4,3314,Anthropology,8234,0.0536
+3302,Archeology,5,,(no topic),7912,0.0515
+3302,Archeology,6,3320,Political Science and International Relations,6661,0.0434
+3302,Archeology,7,1202,History,4961,0.0323
+3302,Archeology,8,3312,Sociology and Political Science,4384,0.0286
+3302,Archeology,9,1208,Literature and Literary Theory,4293,0.028
+3302,Archeology,10,3316,Cultural Studies,3641,0.0237
+3302,Archeology,,(other),236 others,69591,0.4532
+3303,Development,1,3303,Development,76408,0.1701
+3303,Development,2,3320,Political Science and International Relations,64411,0.1434
+3303,Development,3,2002,Economics and Econometrics,43912,0.0977
+3303,Development,4,3312,Sociology and Political Science,39308,0.0875
+3303,Development,5,1408,Strategy and Management,20446,0.0455
+3303,Development,6,2000,"General Economics, Econometrics and Finance",18345,0.0408
+3303,Development,7,1100,General Agricultural and Biological Sciences,12461,0.0277
+3303,Development,8,2003,Finance,12386,0.0276
+3303,Development,9,1710,Information Systems,9925,0.0221
+3303,Development,10,3322,Urban Studies,8930,0.0199
+3303,Development,,(other),231 others,142784,0.3178
+3304,Education,1,3304,Education,3643541,0.371
+3304,Education,2,3312,Sociology and Political Science,496610,0.0506
+3304,Education,3,,(no topic),324475,0.033
+3304,Education,4,3320,Political Science and International Relations,319407,0.0325
+3304,Education,5,3204,Developmental and Educational Psychology,307091,0.0313
+3304,Education,6,1710,Information Systems,277335,0.0282
+3304,Education,7,1208,Literature and Literary Theory,247294,0.0252
+3304,Education,8,1203,Language and Linguistics,192557,0.0196
+3304,Education,9,1202,History,144857,0.0147
+3304,Education,10,3207,Social Psychology,134263,0.0137
+3304,Education,,(other),243 others,3733582,0.3802
+3305,"Geography, Planning and Development",1,3305,"Geography, Planning and Development",231578,0.2135
+3305,"Geography, Planning and Development",2,1202,History,66971,0.0618
+3305,"Geography, Planning and Development",3,3312,Sociology and Political Science,64048,0.0591
+3305,"Geography, Planning and Development",4,3320,Political Science and International Relations,56293,0.0519
+3305,"Geography, Planning and Development",5,,(no topic),48127,0.0444
+3305,"Geography, Planning and Development",6,1208,Literature and Literary Theory,47712,0.044
+3305,"Geography, Planning and Development",7,3314,Anthropology,32718,0.0302
+3305,"Geography, Planning and Development",8,2002,Economics and Econometrics,20462,0.0189
+3305,"Geography, Planning and Development",9,3316,Cultural Studies,19346,0.0178
+3305,"Geography, Planning and Development",10,3304,Education,18672,0.0172
+3305,"Geography, Planning and Development",,(other),242 others,478564,0.4413
+3306,Health,1,3306,Health,289596,0.3917
+3306,Health,2,3312,Sociology and Political Science,55017,0.0744
+3306,Health,3,3600,General Health Professions,25832,0.0349
+3306,Health,4,2739,"Public Health, Environmental and Occupational Health",23856,0.0323
+3306,Health,5,3304,Education,20325,0.0275
+3306,Health,6,3314,Anthropology,20181,0.0273
+3306,Health,7,3320,Political Science and International Relations,19537,0.0264
+3306,Health,8,3203,Clinical Psychology,16580,0.0224
+3306,Health,9,,(no topic),14819,0.02
+3306,Health,10,3106,Nuclear and High Energy Physics,14342,0.0194
+3306,Health,,(other),240 others,239169,0.3235
+3307,Human Factors and Ergonomics,1,3307,Human Factors and Ergonomics,125096,0.593
+3307,Human Factors and Ergonomics,2,3304,Education,15282,0.0724
+3307,Human Factors and Ergonomics,3,1407,Organizational Behavior and Human Resource Management,12962,0.0614
+3307,Human Factors and Ergonomics,4,3320,Political Science and International Relations,4016,0.019
+3307,Human Factors and Ergonomics,5,3312,Sociology and Political Science,3959,0.0188
+3307,Human Factors and Ergonomics,6,3311,Safety Research,2960,0.014
+3307,Human Factors and Ergonomics,7,3207,Social Psychology,2942,0.0139
+3307,Human Factors and Ergonomics,8,1710,Information Systems,2905,0.0138
+3307,Human Factors and Ergonomics,9,3204,Developmental and Educational Psychology,2672,0.0127
+3307,Human Factors and Ergonomics,10,,(no topic),2629,0.0125
+3307,Human Factors and Ergonomics,,(other),227 others,35515,0.1684
+3308,Law,1,3308,Law,1049826,0.3612
+3308,Law,2,3320,Political Science and International Relations,503674,0.1733
+3308,Law,3,3312,Sociology and Political Science,272565,0.0938
+3308,Law,4,,(no topic),128998,0.0444
+3308,Law,5,2002,Economics and Econometrics,80681,0.0278
+3308,Law,6,1408,Strategy and Management,68576,0.0236
+3308,Law,7,1402,Accounting,67096,0.0231
+3308,Law,8,1202,History,46397,0.016
+3308,Law,9,3304,Education,40184,0.0138
+3308,Law,10,1211,Philosophy,35528,0.0122
+3308,Law,,(other),242 others,612703,0.2108
+3309,Library and Information Sciences,1,3309,Library and Information Sciences,149133,0.4678
+3309,Library and Information Sciences,2,1710,Information Systems,65195,0.2045
+3309,Library and Information Sciences,3,,(no topic),18348,0.0576
+3309,Library and Information Sciences,4,1202,History,16643,0.0522
+3309,Library and Information Sciences,5,3304,Education,13460,0.0422
+3309,Library and Information Sciences,6,3312,Sociology and Political Science,6110,0.0192
+3309,Library and Information Sciences,7,3320,Political Science and International Relations,4449,0.014
+3309,Library and Information Sciences,8,1208,Literature and Literary Theory,3690,0.0116
+3309,Library and Information Sciences,9,1206,Conservation,3250,0.0102
+3309,Library and Information Sciences,10,1207,History and Philosophy of Science,2312,0.0073
+3309,Library and Information Sciences,,(other),237 others,36181,0.1135
+3310,Linguistics and Language,1,3310,Linguistics and Language,158875,0.2888
+3310,Linguistics and Language,2,1203,Language and Linguistics,95495,0.1736
+3310,Linguistics and Language,3,1208,Literature and Literary Theory,30830,0.0561
+3310,Linguistics and Language,4,3304,Education,24454,0.0445
+3310,Linguistics and Language,5,,(no topic),22323,0.0406
+3310,Linguistics and Language,6,3320,Political Science and International Relations,20327,0.037
+3310,Linguistics and Language,7,3312,Sociology and Political Science,19173,0.0349
+3310,Linguistics and Language,8,1202,History,18769,0.0341
+3310,Linguistics and Language,9,3204,Developmental and Educational Psychology,16185,0.0294
+3310,Linguistics and Language,10,3205,Experimental and Cognitive Psychology,12266,0.0223
+3310,Linguistics and Language,,(other),237 others,131329,0.2388
+3311,Safety Research,1,3311,Safety Research,325852,0.3385
+3311,Safety Research,2,3304,Education,67499,0.0701
+3311,Safety Research,3,3312,Sociology and Political Science,64257,0.0668
+3311,Safety Research,4,3320,Political Science and International Relations,41071,0.0427
+3311,Safety Research,5,2002,Economics and Econometrics,29647,0.0308
+3311,Safety Research,6,3308,Law,19123,0.0199
+3311,Safety Research,7,,(no topic),18319,0.019
+3311,Safety Research,8,1710,Information Systems,15576,0.0162
+3311,Safety Research,9,3207,Social Psychology,15297,0.0159
+3311,Safety Research,10,3318,Gender Studies,12847,0.0133
+3311,Safety Research,,(other),241 others,353050,0.3668
+3312,Sociology and Political Science,1,3312,Sociology and Political Science,4605964,0.3011
+3312,Sociology and Political Science,2,3320,Political Science and International Relations,1208588,0.079
+3312,Sociology and Political Science,3,1202,History,669966,0.0438
+3312,Sociology and Political Science,4,,(no topic),630844,0.0412
+3312,Sociology and Political Science,5,1208,Literature and Literary Theory,556469,0.0364
+3312,Sociology and Political Science,6,3304,Education,520045,0.034
+3312,Sociology and Political Science,7,3308,Law,393266,0.0257
+3312,Sociology and Political Science,8,1211,Philosophy,387454,0.0253
+3312,Sociology and Political Science,9,1212,Religious studies,295737,0.0193
+3312,Sociology and Political Science,10,2002,Economics and Econometrics,283739,0.0186
+3312,Sociology and Political Science,,(other),243 others,5742756,0.3755
+3313,Transportation,1,3313,Transportation,198682,0.2076
+3313,Transportation,2,,(no topic),154195,0.1611
+3313,Transportation,3,3312,Sociology and Political Science,53201,0.0556
+3313,Transportation,4,3320,Political Science and International Relations,43536,0.0455
+3313,Transportation,5,2002,Economics and Econometrics,18347,0.0192
+3313,Transportation,6,3304,Education,17783,0.0186
+3313,Transportation,7,2215,Building and Construction,16241,0.017
+3313,Transportation,8,2205,Civil and Structural Engineering,15651,0.0164
+3313,Transportation,9,1202,History,14185,0.0148
+3313,Transportation,10,3308,Law,13012,0.0136
+3313,Transportation,,(other),242 others,412075,0.4306
+3314,Anthropology,1,3314,Anthropology,680036,0.2599
+3314,Anthropology,2,1202,History,209259,0.08
+3314,Anthropology,3,1208,Literature and Literary Theory,154519,0.0591
+3314,Anthropology,4,3312,Sociology and Political Science,139929,0.0535
+3314,Anthropology,5,1204,Archeology,118314,0.0452
+3314,Anthropology,6,,(no topic),100160,0.0383
+3314,Anthropology,7,3320,Political Science and International Relations,99829,0.0382
+3314,Anthropology,8,1211,Philosophy,90051,0.0344
+3314,Anthropology,9,1213,Visual Arts and Performing Arts,74507,0.0285
+3314,Anthropology,10,1203,Language and Linguistics,73283,0.028
+3314,Anthropology,,(other),242 others,876583,0.335
+3315,Communication,1,3315,Communication,370254,0.3815
+3315,Communication,2,3312,Sociology and Political Science,77884,0.0802
+3315,Communication,3,3320,Political Science and International Relations,45848,0.0472
+3315,Communication,4,1203,Language and Linguistics,31964,0.0329
+3315,Communication,5,1208,Literature and Literary Theory,27787,0.0286
+3315,Communication,6,,(no topic),25649,0.0264
+3315,Communication,7,3304,Education,22935,0.0236
+3315,Communication,8,1705,Computer Networks and Communications,22678,0.0234
+3315,Communication,9,1202,History,22111,0.0228
+3315,Communication,10,1710,Information Systems,22085,0.0228
+3315,Communication,,(other),241 others,301393,0.3105
+3316,Cultural Studies,1,3316,Cultural Studies,631660,0.2332
+3316,Cultural Studies,2,1208,Literature and Literary Theory,242891,0.0897
+3316,Cultural Studies,3,3312,Sociology and Political Science,191787,0.0708
+3316,Cultural Studies,4,1213,Visual Arts and Performing Arts,138882,0.0513
+3316,Cultural Studies,5,,(no topic),126577,0.0467
+3316,Cultural Studies,6,1202,History,104620,0.0386
+3316,Cultural Studies,7,3320,Political Science and International Relations,86642,0.032
+3316,Cultural Studies,8,1203,Language and Linguistics,76931,0.0284
+3316,Cultural Studies,9,3304,Education,72933,0.0269
+3316,Cultural Studies,10,1210,Music,71394,0.0264
+3316,Cultural Studies,,(other),242 others,964599,0.3561
+3317,Demography,1,3317,Demography,377823,0.2263
+3317,Demography,2,3312,Sociology and Political Science,148468,0.0889
+3317,Demography,3,3320,Political Science and International Relations,94535,0.0566
+3317,Demography,4,3304,Education,76961,0.0461
+3317,Demography,5,1202,History,57814,0.0346
+3317,Demography,6,2002,Economics and Econometrics,51730,0.031
+3317,Demography,7,3600,General Health Professions,48504,0.0291
+3317,Demography,8,,(no topic),46648,0.0279
+3317,Demography,9,1402,Accounting,37502,0.0225
+3317,Demography,10,1406,Marketing,30054,0.018
+3317,Demography,,(other),242 others,699396,0.4189
+3318,Gender Studies,1,3318,Gender Studies,428720,0.3577
+3318,Gender Studies,2,3312,Sociology and Political Science,140331,0.1171
+3318,Gender Studies,3,,(no topic),40607,0.0339
+3318,Gender Studies,4,3320,Political Science and International Relations,35144,0.0293
+3318,Gender Studies,5,1208,Literature and Literary Theory,34753,0.029
+3318,Gender Studies,6,3304,Education,31258,0.0261
+3318,Gender Studies,7,3207,Social Psychology,26599,0.0222
+3318,Gender Studies,8,3317,Demography,26138,0.0218
+3318,Gender Studies,9,2002,Economics and Econometrics,25062,0.0209
+3318,Gender Studies,10,2739,"Public Health, Environmental and Occupational Health",24335,0.0203
+3318,Gender Studies,,(other),240 others,385498,0.3217
+3319,Life-span and Life-course Studies,1,3312,Sociology and Political Science,18330,0.2071
+3319,Life-span and Life-course Studies,2,3612,"Physical Therapy, Sports Therapy and Rehabilitation",9102,0.1028
+3319,Life-span and Life-course Studies,3,3319,Life-span and Life-course Studies,8276,0.0935
+3319,Life-span and Life-course Studies,4,3207,Social Psychology,4381,0.0495
+3319,Life-span and Life-course Studies,5,3318,Gender Studies,3644,0.0412
+3319,Life-span and Life-course Studies,6,2732,Orthopedics and Sports Medicine,3370,0.0381
+3319,Life-span and Life-course Studies,7,3304,Education,3232,0.0365
+3319,Life-span and Life-course Studies,8,3204,Developmental and Educational Psychology,2747,0.031
+3319,Life-span and Life-course Studies,9,2737,Physiology,2171,0.0245
+3319,Life-span and Life-course Studies,10,1202,History,1964,0.0222
+3319,Life-span and Life-course Studies,,(other),219 others,31307,0.3537
+3320,Political Science and International Relations,1,3320,Political Science and International Relations,3627927,0.3562
+3320,Political Science and International Relations,2,3312,Sociology and Political Science,854077,0.0839
+3320,Political Science and International Relations,3,,(no topic),738419,0.0725
+3320,Political Science and International Relations,4,1202,History,609564,0.0599
+3320,Political Science and International Relations,5,3308,Law,569829,0.0559
+3320,Political Science and International Relations,6,2002,Economics and Econometrics,278389,0.0273
+3320,Political Science and International Relations,7,1208,Literature and Literary Theory,248385,0.0244
+3320,Political Science and International Relations,8,3304,Education,202893,0.0199
+3320,Political Science and International Relations,9,1211,Philosophy,196495,0.0193
+3320,Political Science and International Relations,10,1212,Religious studies,158006,0.0155
+3320,Political Science and International Relations,,(other),243 others,2700814,0.2652
+3321,Public Administration,1,3321,Public Administration,161529,0.4188
+3321,Public Administration,2,3320,Political Science and International Relations,48405,0.1255
+3321,Public Administration,3,3312,Sociology and Political Science,27224,0.0706
+3321,Public Administration,4,3311,Safety Research,15572,0.0404
+3321,Public Administration,5,2002,Economics and Econometrics,14642,0.038
+3321,Public Administration,6,,(no topic),9150,0.0237
+3321,Public Administration,7,1407,Organizational Behavior and Human Resource Management,7834,0.0203
+3321,Public Administration,8,1410,Industrial relations,7249,0.0188
+3321,Public Administration,9,3304,Education,7108,0.0184
+3321,Public Administration,10,3318,Gender Studies,7053,0.0183
+3321,Public Administration,,(other),230 others,79894,0.2072
+3322,Urban Studies,1,3322,Urban Studies,256014,0.1913
+3322,Urban Studies,2,3312,Sociology and Political Science,131049,0.0979
+3322,Urban Studies,3,3320,Political Science and International Relations,77384,0.0578
+3322,Urban Studies,4,2002,Economics and Econometrics,67080,0.0501
+3322,Urban Studies,5,2216,Architecture,60893,0.0455
+3322,Urban Studies,6,,(no topic),48907,0.0365
+3322,Urban Studies,7,1213,Visual Arts and Performing Arts,45616,0.0341
+3322,Urban Studies,8,3305,"Geography, Planning and Development",41230,0.0308
+3322,Urban Studies,9,1202,History,30533,0.0228
+3322,Urban Studies,10,1408,Strategy and Management,24374,0.0182
+3322,Urban Studies,,(other),243 others,555448,0.415
+3402,Equine,1,3402,Equine,41962,0.6491
+3402,Equine,2,3404,Small Animals,4278,0.0662
+3402,Equine,3,1311,Genetics,1538,0.0238
+3402,Equine,4,1102,Agronomy and Crop Science,1371,0.0212
+3402,Equine,5,3106,Nuclear and High Energy Physics,1270,0.0196
+3402,Equine,6,1209,Museology,1030,0.0159
+3402,Equine,7,2748,Urology,932,0.0144
+3402,Equine,8,2737,Physiology,585,0.009
+3402,Equine,9,,(no topic),576,0.0089
+3402,Equine,10,2746,Surgery,514,0.008
+3402,Equine,,(other),219 others,10594,0.1639
+3404,Small Animals,1,3404,Small Animals,221092,0.482
+3404,Small Animals,2,1102,Agronomy and Crop Science,17655,0.0385
+3404,Small Animals,3,,(no topic),12953,0.0282
+3404,Small Animals,4,1103,Animal Science and Zoology,10908,0.0238
+3404,Small Animals,5,1311,Genetics,9154,0.02
+3404,Small Animals,6,3106,Nuclear and High Energy Physics,8778,0.0191
+3404,Small Animals,7,1110,Plant Science,7776,0.017
+3404,Small Animals,8,2405,Parasitology,7173,0.0156
+3404,Small Animals,9,2713,Epidemiology,6796,0.0148
+3404,Small Animals,10,2725,Infectious Diseases,6116,0.0133
+3404,Small Animals,,(other),238 others,150298,0.3277
+3500,General Dentistry,1,3505,Orthodontics,9950,0.1682
+3500,General Dentistry,2,3500,General Dentistry,9176,0.1551
+3500,General Dentistry,3,3506,Periodontics,7487,0.1266
+3500,General Dentistry,4,3600,General Health Professions,4295,0.0726
+3500,General Dentistry,5,2725,Infectious Diseases,4189,0.0708
+3500,General Dentistry,6,2739,"Public Health, Environmental and Occupational Health",3058,0.0517
+3500,General Dentistry,7,3504,Oral Surgery,2890,0.0489
+3500,General Dentistry,8,,(no topic),1088,0.0184
+3500,General Dentistry,9,3304,Education,1026,0.0173
+3500,General Dentistry,10,3309,Library and Information Sciences,926,0.0157
+3500,General Dentistry,,(other),224 others,15074,0.2548
+3504,Oral Surgery,1,3504,Oral Surgery,265167,0.6372
+3504,Oral Surgery,2,3505,Orthodontics,43062,0.1035
+3504,Oral Surgery,3,3506,Periodontics,15172,0.0365
+3504,Oral Surgery,4,2746,Surgery,13524,0.0325
+3504,Oral Surgery,5,2204,Biomedical Engineering,6040,0.0145
+3504,Oral Surgery,6,3106,Nuclear and High Energy Physics,4100,0.0099
+3504,Oral Surgery,7,1312,Molecular Biology,3870,0.0093
+3504,Oral Surgery,8,,(no topic),3638,0.0087
+3504,Oral Surgery,9,2740,Pulmonary and Respiratory Medicine,2999,0.0072
+3504,Oral Surgery,10,3600,General Health Professions,2841,0.0068
+3504,Oral Surgery,,(other),239 others,55735,0.1339
+3505,Orthodontics,1,3505,Orthodontics,205623,0.8085
+3505,Orthodontics,2,3506,Periodontics,7458,0.0293
+3505,Orthodontics,3,3504,Oral Surgery,7371,0.029
+3505,Orthodontics,4,3106,Nuclear and High Energy Physics,3523,0.0139
+3505,Orthodontics,5,,(no topic),2337,0.0092
+3505,Orthodontics,6,2204,Biomedical Engineering,1457,0.0057
+3505,Orthodontics,7,2210,Mechanical Engineering,1394,0.0055
+3505,Orthodontics,8,2746,Surgery,1128,0.0044
+3505,Orthodontics,9,2202,Aerospace Engineering,1076,0.0042
+3505,Orthodontics,10,3603,Complementary and Manual Therapy,981,0.0039
+3505,Orthodontics,,(other),239 others,21972,0.0864
+3506,Periodontics,1,3506,Periodontics,219192,0.6823
+3506,Periodontics,2,3505,Orthodontics,10007,0.0311
+3506,Periodontics,3,3106,Nuclear and High Energy Physics,6659,0.0207
+3506,Periodontics,4,3504,Oral Surgery,5923,0.0184
+3506,Periodontics,5,,(no topic),5215,0.0162
+3506,Periodontics,6,1312,Molecular Biology,3825,0.0119
+3506,Periodontics,7,3600,General Health Professions,3811,0.0119
+3506,Periodontics,8,2733,Otorhinolaryngology,3341,0.0104
+3506,Periodontics,9,2737,Physiology,2995,0.0093
+3506,Periodontics,10,2725,Infectious Diseases,2779,0.0086
+3506,Periodontics,,(other),242 others,57528,0.1791
+3600,General Health Professions,1,3600,General Health Professions,1149065,0.2572
+3600,General Health Professions,2,2739,"Public Health, Environmental and Occupational Health",290390,0.065
+3600,General Health Professions,3,3312,Sociology and Political Science,197128,0.0441
+3600,General Health Professions,4,,(no topic),176563,0.0395
+3600,General Health Professions,5,3203,Clinical Psychology,116596,0.0261
+3600,General Health Professions,6,3320,Political Science and International Relations,109767,0.0246
+3600,General Health Professions,7,2002,Economics and Econometrics,109549,0.0245
+3600,General Health Professions,8,3304,Education,74610,0.0167
+3600,General Health Professions,9,3605,Health Information Management,69410,0.0155
+3600,General Health Professions,10,2713,Epidemiology,69258,0.0155
+3600,General Health Professions,,(other),243 others,2105588,0.4713
+3603,Complementary and Manual Therapy,1,3603,Complementary and Manual Therapy,53299,0.4015
+3603,Complementary and Manual Therapy,2,3505,Orthodontics,12545,0.0945
+3603,Complementary and Manual Therapy,3,2746,Surgery,2452,0.0185
+3603,Complementary and Manual Therapy,4,3106,Nuclear and High Energy Physics,2430,0.0183
+3603,Complementary and Manual Therapy,5,2740,Pulmonary and Respiratory Medicine,2148,0.0162
+3603,Complementary and Manual Therapy,6,3504,Oral Surgery,2136,0.0161
+3603,Complementary and Manual Therapy,7,,(no topic),2094,0.0158
+3603,Complementary and Manual Therapy,8,2738,Psychiatry and Mental health,1713,0.0129
+3603,Complementary and Manual Therapy,9,2745,Rheumatology,1615,0.0122
+3603,Complementary and Manual Therapy,10,2707,Complementary and alternative medicine,1416,0.0107
+3603,Complementary and Manual Therapy,,(other),240 others,50888,0.3834
+3604,Emergency Medical Services,1,3604,Emergency Medical Services,196633,0.354
+3604,Emergency Medical Services,2,3600,General Health Professions,28289,0.0509
+3604,Emergency Medical Services,3,2739,"Public Health, Environmental and Occupational Health",19164,0.0345
+3604,Emergency Medical Services,4,3312,Sociology and Political Science,16658,0.03
+3604,Emergency Medical Services,5,,(no topic),14814,0.0267
+3604,Emergency Medical Services,6,2737,Physiology,14790,0.0266
+3604,Emergency Medical Services,7,2711,Emergency Medicine,14205,0.0256
+3604,Emergency Medical Services,8,2713,Epidemiology,13660,0.0246
+3604,Emergency Medical Services,9,2740,Pulmonary and Respiratory Medicine,11380,0.0205
+3604,Emergency Medical Services,10,2746,Surgery,10889,0.0196
+3604,Emergency Medical Services,,(other),240 others,214922,0.387
+3605,Health Information Management,1,3605,Health Information Management,148890,0.2534
+3605,Health Information Management,2,3600,General Health Professions,31416,0.0535
+3605,Health Information Management,3,2739,"Public Health, Environmental and Occupational Health",25834,0.044
+3605,Health Information Management,4,,(no topic),24648,0.042
+3605,Health Information Management,5,1710,Information Systems,15141,0.0258
+3605,Health Information Management,6,2705,Cardiology and Cardiovascular Medicine,11980,0.0204
+3605,Health Information Management,7,3312,Sociology and Political Science,11923,0.0203
+3605,Health Information Management,8,2002,Economics and Econometrics,10753,0.0183
+3605,Health Information Management,9,2735,"Pediatrics, Perinatology and Child Health",8855,0.0151
+3605,Health Information Management,10,3106,Nuclear and High Energy Physics,8742,0.0149
+3605,Health Information Management,,(other),241 others,289300,0.4924
+3607,Medical Laboratory Technology,1,3607,Medical Laboratory Technology,16087,0.1459
+3607,Medical Laboratory Technology,2,3605,Health Information Management,9388,0.0852
+3607,Medical Laboratory Technology,3,3609,Occupational Therapy,8135,0.0738
+3607,Medical Laboratory Technology,4,2213,"Safety, Risk, Reliability and Quality",6152,0.0558
+3607,Medical Laboratory Technology,5,3604,Emergency Medical Services,3768,0.0342
+3607,Medical Laboratory Technology,6,1408,Strategy and Management,3202,0.029
+3607,Medical Laboratory Technology,7,3600,General Health Professions,3167,0.0287
+3607,Medical Laboratory Technology,8,2737,Physiology,3035,0.0275
+3607,Medical Laboratory Technology,9,3207,Social Psychology,2862,0.026
+3607,Medical Laboratory Technology,10,2739,"Public Health, Environmental and Occupational Health",2827,0.0256
+3607,Medical Laboratory Technology,,(other),232 others,51612,0.4682
+3608,Medical Terminology,1,,(no topic),16470,0.2496
+3608,Medical Terminology,2,1207,History and Philosophy of Science,5187,0.0786
+3608,Medical Terminology,3,3600,General Health Professions,4198,0.0636
+3608,Medical Terminology,4,1710,Information Systems,3055,0.0463
+3608,Medical Terminology,5,1202,History,2925,0.0443
+3608,Medical Terminology,6,3605,Health Information Management,2000,0.0303
+3608,Medical Terminology,7,1208,Literature and Literary Theory,1597,0.0242
+3608,Medical Terminology,8,2746,Surgery,1585,0.024
+3608,Medical Terminology,9,3309,Library and Information Sciences,1486,0.0225
+3608,Medical Terminology,10,3320,Political Science and International Relations,1445,0.0219
+3608,Medical Terminology,,(other),234 others,26049,0.3947
+3609,Occupational Therapy,1,3609,Occupational Therapy,146468,0.326
+3609,Occupational Therapy,2,3207,Social Psychology,21712,0.0483
+3609,Occupational Therapy,3,3600,General Health Professions,13497,0.03
+3609,Occupational Therapy,4,,(no topic),11250,0.025
+3609,Occupational Therapy,5,1803,Management Science and Operations Research,10797,0.024
+3609,Occupational Therapy,6,1408,Strategy and Management,10026,0.0223
+3609,Occupational Therapy,7,3307,Human Factors and Ergonomics,8927,0.0199
+3609,Occupational Therapy,8,3614,Radiological and Ultrasound Technology,8511,0.0189
+3609,Occupational Therapy,9,3320,Political Science and International Relations,8237,0.0183
+3609,Occupational Therapy,10,2739,"Public Health, Environmental and Occupational Health",8152,0.0181
+3609,Occupational Therapy,,(other),241 others,201749,0.449
+3611,Pharmacy,1,3611,Pharmacy,70387,0.2106
+3611,Pharmacy,2,2739,"Public Health, Environmental and Occupational Health",29515,0.0883
+3611,Pharmacy,3,3600,General Health Professions,18108,0.0542
+3611,Pharmacy,4,3506,Periodontics,11280,0.0338
+3611,Pharmacy,5,3308,Law,10563,0.0316
+3611,Pharmacy,6,3203,Clinical Psychology,9681,0.029
+3611,Pharmacy,7,3604,Emergency Medical Services,9149,0.0274
+3611,Pharmacy,8,3605,Health Information Management,7691,0.023
+3611,Pharmacy,9,2746,Surgery,7245,0.0217
+3611,Pharmacy,10,2712,"Endocrinology, Diabetes and Metabolism",6524,0.0195
+3611,Pharmacy,,(other),238 others,154075,0.461
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",1,3612,"Physical Therapy, Sports Therapy and Rehabilitation",185374,0.3367
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",2,2732,Orthopedics and Sports Medicine,30322,0.0551
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",3,,(no topic),24156,0.0439
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",4,3304,Education,20768,0.0377
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",5,3204,Developmental and Educational Psychology,17980,0.0327
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",6,3312,Sociology and Political Science,16621,0.0302
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",7,2737,Physiology,15368,0.0279
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",8,3311,Safety Research,13509,0.0245
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",9,2746,Surgery,12436,0.0226
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",10,3207,Social Psychology,9858,0.0179
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",,(other),240 others,204160,0.3708
+3614,Radiological and Ultrasound Technology,1,3614,Radiological and Ultrasound Technology,92569,0.3361
+3614,Radiological and Ultrasound Technology,2,3609,Occupational Therapy,34170,0.1241
+3614,Radiological and Ultrasound Technology,3,3600,General Health Professions,10762,0.0391
+3614,Radiological and Ultrasound Technology,4,2213,"Safety, Risk, Reliability and Quality",9476,0.0344
+3614,Radiological and Ultrasound Technology,5,2739,"Public Health, Environmental and Occupational Health",5891,0.0214
+3614,Radiological and Ultrasound Technology,6,3207,Social Psychology,5784,0.021
+3614,Radiological and Ultrasound Technology,7,3611,Pharmacy,4432,0.0161
+3614,Radiological and Ultrasound Technology,8,3312,Sociology and Political Science,4424,0.0161
+3614,Radiological and Ultrasound Technology,9,3604,Emergency Medical Services,4167,0.0151
+3614,Radiological and Ultrasound Technology,10,3106,Nuclear and High Energy Physics,4157,0.0151
+3614,Radiological and Ultrasound Technology,,(other),237 others,99605,0.3616
+3616,Speech and Hearing,1,3616,Speech and Hearing,151010,0.2624
+3616,Speech and Hearing,2,,(no topic),40989,0.0712
+3616,Speech and Hearing,3,3600,General Health Professions,23441,0.0407
+3616,Speech and Hearing,4,3304,Education,17831,0.031
+3616,Speech and Hearing,5,1213,Visual Arts and Performing Arts,16257,0.0282
+3616,Speech and Hearing,6,1208,Literature and Literary Theory,15364,0.0267
+3616,Speech and Hearing,7,3312,Sociology and Political Science,14114,0.0245
+3616,Speech and Hearing,8,2737,Physiology,13984,0.0243
+3616,Speech and Hearing,9,3203,Clinical Psychology,10164,0.0177
+3616,Speech and Hearing,10,2739,"Public Health, Environmental and Occupational Health",9765,0.017
+3616,Speech and Hearing,,(other),241 others,262650,0.4563
+,(no topic),1,3106,Nuclear and High Energy Physics,30743417,0.312
+,(no topic),2,,(no topic),27269983,0.2768
+,(no topic),3,1110,Plant Science,8009157,0.0813
+,(no topic),4,1105,"Ecology, Evolution, Behavior and Systematics",1907243,0.0194
+,(no topic),5,1311,Genetics,1667875,0.0169
+,(no topic),6,1312,Molecular Biology,1501706,0.0152
+,(no topic),7,2202,Aerospace Engineering,1456406,0.0148
+,(no topic),8,2303,Ecology,1188989,0.0121
+,(no topic),9,2306,Global and Planetary Change,1083329,0.011
+,(no topic),10,1910,Oceanography,850436,0.0086
+,(no topic),,(other),243 others,22847717,0.2319

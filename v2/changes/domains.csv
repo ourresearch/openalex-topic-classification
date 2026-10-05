@@ -1,0 +1,5 @@
+domain_id,display_name,works_primary_old,works_primary_new,change,pct_change,old_works_still_here,share_of_old_works_still_here
+1,Life Sciences,47838714,58341675,10502961,22.0,26998505,0.5644
+2,Social Sciences,118680272,143907199,25226927,21.3,92582527,0.7801
+3,Physical Sciences,148039011,164021093,15982082,10.8,97663264,0.6597
+4,Health Sciences,62873842,64023531,1149689,1.8,44472300,0.7073

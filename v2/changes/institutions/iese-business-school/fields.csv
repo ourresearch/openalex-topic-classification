@@ -1,0 +1,24 @@
+field_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+14,"Business, Management and Accounting",1782,1906,124,0.4285,0.4584,2.99
+20,"Economics, Econometrics and Finance",870,912,42,0.2092,0.2193,1.02
+33,Social Sciences,639,531,-108,0.1536,0.1277,-2.59
+18,Decision Sciences,275,365,90,0.0661,0.0878,2.17
+32,Psychology,114,94,-20,0.0274,0.0226,-0.48
+22,Engineering,118,78,-40,0.0284,0.0188,-0.96
+17,Computer Science,72,52,-20,0.0173,0.0125,-0.48
+12,Arts and Humanities,49,60,11,0.0118,0.0144,0.26
+23,Environmental Science,51,20,-31,0.0123,0.0048,-0.75
+36,Health Professions,39,26,-13,0.0094,0.0063,-0.31
+27,Medicine,36,27,-9,0.0087,0.0065,-0.22
+26,Mathematics,16,20,4,0.0038,0.0048,0.1
+31,Physics and Astronomy,22,14,-8,0.0053,0.0034,-0.19
+11,Agricultural and Biological Sciences,21,14,-7,0.005,0.0034,-0.17
+21,Energy,15,16,1,0.0036,0.0038,0.02
+28,Neuroscience,17,7,-10,0.0041,0.0017,-0.24
+13,"Biochemistry, Genetics and Molecular Biology",9,8,-1,0.0022,0.0019,-0.02
+30,"Pharmacology, Toxicology and Pharmaceutics",7,4,-3,0.0017,0.001,-0.07
+25,Materials Science,3,1,-2,0.0007,0.0002,-0.05
+29,Nursing,1,2,1,0.0002,0.0005,0.02
+34,Veterinary,2,0,-2,0.0005,0.0,-0.05
+19,Earth and Planetary Sciences,1,0,-1,0.0002,0.0,-0.02
+35,Dentistry,0,1,1,0.0,0.0002,0.02

@@ -1,0 +1,1414 @@
+topic_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+T10082,HIV/AIDS Research and Interventions,217,259,42,0.0185,0.0221,0.36
+T10172,Cardiac Valve Diseases and Treatments,186,200,14,0.0159,0.0171,0.12
+T10193,Coronary Interventions and Diagnostics,135,153,18,0.0115,0.0131,0.15
+T10254,Innovations in Medical Education,57,175,118,0.0049,0.0149,1.01
+T10051,Asthma and respiratory diseases,90,128,38,0.0077,0.0109,0.33
+T11291,Intraocular Surgery and Lenses,74,142,68,0.0063,0.0121,0.58
+T10428,Reproductive tract infections research,90,115,25,0.0077,0.0098,0.21
+T10526,HIV/AIDS drug development and treatment,96,105,9,0.0082,0.009,0.08
+T10189,Anesthesia and Pain Management,81,112,31,0.0069,0.0096,0.27
+T11509,Hip and Femur Fractures,90,91,1,0.0077,0.0078,0.01
+T10563,Corneal surgery and disorders,85,91,6,0.0073,0.0078,0.05
+T10658,Bone fractures and treatments,67,94,27,0.0057,0.008,0.23
+T11930,"Cardiac, Anesthesia and Surgical Outcomes",135,21,-114,0.0115,0.0018,-0.97
+T10830,Airway Management and Intubation Techniques,72,75,3,0.0061,0.0064,0.03
+T10983,Aortic aneurysm repair treatments,67,73,6,0.0057,0.0062,0.05
+T10453,Maternal and Perinatal Health Interventions,49,86,37,0.0042,0.0073,0.32
+T10112,HIV Research and Treatment,74,60,-14,0.0063,0.0051,-0.12
+T10455,Foot and Ankle Surgery,58,73,15,0.0049,0.0062,0.13
+T10961,Hernia repair and management,63,61,-2,0.0054,0.0052,-0.02
+T11828,Corneal Surgery and Treatments,68,56,-12,0.0058,0.0048,-0.1
+T11427,Elbow and Forearm Trauma Treatment,59,63,4,0.005,0.0054,0.03
+T10916,Surgical Simulation and Training,53,67,14,0.0045,0.0057,0.12
+T10183,Breast Cancer Treatment Studies,55,63,8,0.0047,0.0054,0.07
+T11655,HIV-related health complications and treatments,64,52,-12,0.0055,0.0044,-0.1
+T10065,Atrial Fibrillation Management and Outcomes,56,60,4,0.0048,0.0051,0.03
+T10645,Cardiac Arrest and Resuscitation,57,57,0,0.0049,0.0049,0.0
+T10177,Palliative Care and End-of-Life Issues,59,55,-4,0.005,0.0047,-0.03
+T10861,Ear Surgery and Otitis Media,55,55,0,0.0047,0.0047,0.0
+T10630,Orthopedic Surgery and Rehabilitation,61,49,-12,0.0052,0.0042,-0.1
+T10436,Anesthesia and Sedative Agents,31,78,47,0.0026,0.0067,0.4
+T10335,Colorectal Cancer Surgical Treatments,56,52,-4,0.0048,0.0044,-0.03
+T12049,Tuberous Sclerosis Complex Research,51,52,1,0.0044,0.0044,0.01
+T10512,Orthopaedic implants and arthroplasty,55,47,-8,0.0047,0.004,-0.07
+T10292,Acute Myocardial Infarction Research,41,58,17,0.0035,0.005,0.15
+T10569,Bariatric Surgery and Outcomes,46,51,5,0.0039,0.0044,0.04
+T10280,Shoulder Injury and Treatment,47,49,2,0.004,0.0042,0.02
+T10418,Pelvic floor disorders treatments,52,42,-10,0.0044,0.0036,-0.08
+T11296,COVID-19 and healthcare impacts,58,34,-24,0.0049,0.0029,-0.2
+T10508,Patient Safety and Medication Errors,29,61,32,0.0025,0.0052,0.27
+T10134,Inflammatory Bowel Disease,43,46,3,0.0037,0.0039,0.03
+T10279,Urinary Bladder and Prostate Research,33,55,22,0.0028,0.0047,0.19
+T11934,Syphilis Diagnosis and Treatment,49,39,-10,0.0042,0.0033,-0.08
+T10195,Antimicrobial Resistance in Staphylococcus,40,47,7,0.0034,0.004,0.06
+T10562,Total Knee Arthroplasty Outcomes,45,41,-4,0.0038,0.0035,-0.03
+T11011,Frailty in Older Adults,42,43,1,0.0036,0.0037,0.01
+T10124,Prostate Cancer Diagnosis and Treatment,40,44,4,0.0034,0.0038,0.03
+T11467,Trauma and Emergency Care Studies,37,47,10,0.0032,0.004,0.09
+T11700,Hemodynamic Monitoring and Therapy,47,37,-10,0.004,0.0032,-0.08
+T11473,Appendicitis Diagnosis and Management,45,39,-6,0.0038,0.0033,-0.05
+T10118,SARS-CoV-2 and COVID-19 Research,43,40,-3,0.0037,0.0034,-0.03
+T10897,Antibiotic Use and Resistance,29,54,25,0.0025,0.0046,0.21
+T11377,Retinal and Macular Surgery,41,42,1,0.0035,0.0036,0.01
+T10137,Multiple Sclerosis Research Studies,35,47,12,0.003,0.004,0.1
+T10518,Gallbladder and Bile Duct Disorders,38,43,5,0.0032,0.0037,0.04
+T10151,Hepatitis C virus research,41,40,-1,0.0035,0.0034,-0.01
+T10285,Venous Thromboembolism Diagnosis and Management,43,38,-5,0.0037,0.0032,-0.04
+T10684,Acute Kidney Injury Research,37,43,6,0.0032,0.0037,0.05
+T10552,Colorectal Cancer Screening and Detection,37,42,5,0.0032,0.0036,0.04
+T11579,Cardiovascular and Diving-Related Complications,39,39,0,0.0033,0.0033,0.0
+T10543,Prostate Cancer Treatment and Research,36,38,2,0.0031,0.0032,0.02
+T10146,Cervical Cancer and HPV Research,43,31,-12,0.0037,0.0026,-0.1
+T10337,Liver Disease and Transplantation,35,38,3,0.003,0.0032,0.03
+T10549,Neonatal Respiratory Health Research,53,20,-33,0.0045,0.0017,-0.28
+T10084,Musculoskeletal pain and rehabilitation,31,42,11,0.0026,0.0036,0.09
+T11069,Testicular diseases and treatments,38,34,-4,0.0032,0.0029,-0.03
+T10218,Sepsis Diagnosis and Treatment,34,38,4,0.0029,0.0032,0.03
+T10858,Clinical Nutrition and Gastroenterology,29,43,14,0.0025,0.0037,0.12
+T10496,Pharmaceutical Practices and Patient Outcomes,39,32,-7,0.0033,0.0027,-0.06
+T11306,Nonmelanoma Skin Cancer Studies,35,35,0,0.003,0.003,0.0
+T10178,Cancer survivorship and care,31,38,7,0.0026,0.0032,0.06
+T11258,Breast Implant and Reconstruction,32,36,4,0.0027,0.0031,0.03
+T11134,Breast Lesions and Carcinomas,22,44,22,0.0019,0.0038,0.19
+T10598,Cardiac pacing and defibrillation studies,35,31,-4,0.003,0.0026,-0.03
+T13110,Colorectal and Anal Carcinomas,35,30,-5,0.003,0.0026,-0.04
+T10843,Diversity and Career in Medicine,32,33,1,0.0027,0.0028,0.01
+T11894,Radiology practices and education,23,42,19,0.002,0.0036,0.16
+T11865,Anorectal Disease Treatments and Outcomes,34,31,-3,0.0029,0.0026,-0.03
+T11314,Clinical Laboratory Practices and Quality Control,10,55,45,0.0009,0.0047,0.38
+T10307,Head and Neck Cancer Studies,29,36,7,0.0025,0.0031,0.06
+T10392,Cutaneous Melanoma Detection and Management,30,34,4,0.0026,0.0029,0.03
+T10041,COVID-19 Clinical Research Studies,21,43,22,0.0018,0.0037,0.19
+T10641,Central Venous Catheters and Hemodialysis,34,29,-5,0.0029,0.0025,-0.04
+T11080,Surgical site infection prevention,22,40,18,0.0019,0.0034,0.15
+T11861,Thermal Regulation in Medicine,32,30,-2,0.0027,0.0026,-0.02
+T11029,Renal Diseases and Glomerulopathies,24,37,13,0.002,0.0032,0.11
+T12020,Enhanced Recovery After Surgery,24,37,13,0.002,0.0032,0.11
+T10560,Diabetes Management and Research,24,36,12,0.002,0.0031,0.1
+T11095,Emergency and Acute Care Studies,26,34,8,0.0022,0.0029,0.07
+T12053,Minimally Invasive Surgical Techniques,19,40,21,0.0016,0.0034,0.18
+T10202,Lung Cancer Diagnosis and Treatment,27,32,5,0.0023,0.0027,0.04
+T11244,Climate Change and Health Impacts,50,8,-42,0.0043,0.0007,-0.36
+T11238,Simulation-Based Education in Healthcare,22,35,13,0.0019,0.003,0.11
+T10143,Chronic Obstructive Pulmonary Disease (COPD) Research,26,31,5,0.0022,0.0026,0.04
+T12847,Healthcare Systems and Challenges,35,22,-13,0.003,0.0019,-0.11
+T10458,Bladder and Urothelial Cancer Treatments,27,30,3,0.0023,0.0026,0.03
+T10989,Uterine Myomas and Treatments,28,28,0,0.0024,0.0024,0.0
+T10129,Glioma Diagnosis and Treatment,28,28,0,0.0024,0.0024,0.0
+T10250,Glaucoma and retinal disorders,30,26,-4,0.0026,0.0022,-0.03
+T11217,Cardiac Arrhythmias and Treatments,28,28,0,0.0024,0.0024,0.0
+T11855,Gastrointestinal disorders and treatments,30,25,-5,0.0026,0.0021,-0.04
+T11167,Hair Growth and Disorders,24,30,6,0.002,0.0026,0.05
+T10170,Retinal Diseases and Treatments,24,30,6,0.002,0.0026,0.05
+T11469,Lymphatic System and Diseases,25,28,3,0.0021,0.0024,0.03
+T11035,Salivary Gland Tumors Diagnosis and Treatment,29,24,-5,0.0025,0.002,-0.04
+T10291,Dialysis and Renal Disease Management,25,28,3,0.0021,0.0024,0.03
+T10516,Parathyroid Disorders and Treatments,29,24,-5,0.0025,0.002,-0.04
+T11153,Streptococcal Infections and Treatments,28,25,-3,0.0024,0.0021,-0.03
+T10522,Medical Imaging Techniques and Applications,23,29,6,0.002,0.0025,0.05
+T10665,Cystic Fibrosis Research Advances,27,25,-2,0.0023,0.0021,-0.02
+T10844,Radiation Dose and Imaging,26,25,-1,0.0022,0.0021,-0.01
+T12150,Intestinal Malrotation and Obstruction Disorders,25,26,1,0.0021,0.0022,0.01
+T10309,Acute Myeloid Leukemia Research,21,29,8,0.0018,0.0025,0.07
+T10693,Blood transfusion and management,16,34,18,0.0014,0.0029,0.15
+T12518,Diverticular Disease and Complications,27,22,-5,0.0023,0.0019,-0.04
+T10837,Dermatology and Skin Diseases,23,26,3,0.002,0.0022,0.03
+T11060,Infant Development and Preterm Care,15,34,19,0.0013,0.0029,0.16
+T10350,Electronic Health Records Systems,13,35,22,0.0011,0.003,0.19
+T11116,"Trauma, Hemostasis, Coagulopathy, Resuscitation",30,18,-12,0.0026,0.0015,-0.1
+T10185,Lymphoma Diagnosis and Treatment,21,27,6,0.0018,0.0023,0.05
+T11368,Long-Term Effects of COVID-19,26,22,-4,0.0022,0.0019,-0.03
+T10358,Advanced Radiotherapy Techniques,21,27,6,0.0018,0.0023,0.05
+T11554,Vascular Procedures and Complications,28,19,-9,0.0024,0.0016,-0.08
+T11267,Abdominal Trauma and Injuries,23,24,1,0.002,0.002,0.01
+T10827,Patient-Provider Communication in Healthcare,17,30,13,0.0015,0.0026,0.11
+T10912,Telemedicine and Telehealth Implementation,15,31,16,0.0013,0.0026,0.14
+T12339,Medical Malpractice and Liability Issues,32,14,-18,0.0027,0.0012,-0.15
+T10372,Cardiac Imaging and Diagnostics,27,19,-8,0.0023,0.0016,-0.07
+T10697,Vasculitis and related conditions,19,27,8,0.0016,0.0023,0.07
+T10582,Ethics in Clinical Research,16,30,14,0.0014,0.0026,0.12
+T12918,Healthcare Systems and Technology,31,15,-16,0.0026,0.0013,-0.14
+T11068,Tendon Structure and Treatment,22,24,2,0.0019,0.002,0.02
+T11293,Orthopedic Infections and Treatments,21,24,3,0.0018,0.002,0.03
+T10599,Reconstructive Surgery and Microvascular Techniques,24,21,-3,0.002,0.0018,-0.03
+T10649,Multiple Myeloma Research and Treatments,22,23,1,0.0019,0.002,0.01
+T12297,Otolaryngology and Infectious Diseases,18,27,9,0.0015,0.0023,0.08
+T10322,Respiratory Support and Mechanisms,21,23,2,0.0018,0.002,0.02
+T11636,Artificial Intelligence in Healthcare and Education,22,22,0,0.0019,0.0019,0.0
+T10685,Viral-associated cancers and disorders,13,31,18,0.0011,0.0026,0.15
+T11910,Foreign Body Medical Cases,20,24,4,0.0017,0.002,0.03
+T10935,Endometriosis Research and Treatment,24,20,-4,0.002,0.0017,-0.03
+T11731,Global Health and Surgery,21,22,1,0.0018,0.0019,0.01
+T10618,Aortic Disease and Treatment Approaches,18,25,7,0.0015,0.0021,0.06
+T11292,Pediatric Pain Management Techniques,28,15,-13,0.0024,0.0013,-0.11
+T11816,Nursing Roles and Practices,16,27,11,0.0014,0.0023,0.09
+T10158,Cancer Immunotherapy and Biomarkers,17,26,9,0.0015,0.0022,0.08
+T10550,Ovarian cancer diagnosis and treatment,23,20,-3,0.002,0.0017,-0.03
+T12769,Stoma care and complications,20,22,2,0.0017,0.0019,0.02
+T10144,Blood Pressure and Hypertension Studies,20,22,2,0.0017,0.0019,0.02
+T11815,Urological Disorders and Treatments,24,18,-6,0.002,0.0015,-0.05
+T13896,Health Services Management and Policy,5,37,32,0.0004,0.0032,0.27
+T12871,Healthcare Quality and Management,15,27,12,0.0013,0.0023,0.1
+T10381,Ophthalmology and Visual Impairment Studies,41,1,-40,0.0035,0.0001,-0.34
+T10408,Chronic Kidney Disease and Diabetes,15,27,12,0.0013,0.0023,0.1
+T11713,Genital Health and Disease,16,25,9,0.0014,0.0021,0.08
+T10094,Epilepsy research and treatment,17,24,7,0.0015,0.002,0.06
+T11738,Ultrasound in Clinical Applications,22,19,-3,0.0019,0.0016,-0.03
+T10760,Pancreatitis Pathology and Treatment,21,20,-1,0.0018,0.0017,-0.01
+T11538,Ophthalmology and Eye Disorders,16,25,9,0.0014,0.0021,0.08
+T10186,Nursing education and management,9,32,23,0.0008,0.0027,0.2
+T10217,Cardiac electrophysiology and arrhythmias,23,17,-6,0.002,0.0015,-0.05
+T10877,Allergic Rhinitis and Sensitization,22,18,-4,0.0019,0.0015,-0.03
+T11562,Facial Trauma and Fracture Management,20,20,0,0.0017,0.0017,0.0
+T12990,Medical History and Innovations,17,23,6,0.0015,0.002,0.05
+T11139,"Gout, Hyperuricemia, Uric Acid",18,22,4,0.0015,0.0019,0.03
+T10442,Knee injuries and reconstruction techniques,17,22,5,0.0015,0.0019,0.04
+T11826,Ocular Infections and Treatments,19,20,1,0.0016,0.0017,0.01
+T11260,Tracheal and airway disorders,24,15,-9,0.002,0.0013,-0.08
+T12664,Clinical practice guidelines implementation,26,13,-13,0.0022,0.0011,-0.11
+T10351,Liver Disease Diagnosis and Treatment,19,20,1,0.0016,0.0017,0.01
+T10793,Diabetes Management and Education,18,21,3,0.0015,0.0018,0.03
+T10290,Pregnancy and preeclampsia studies,16,23,7,0.0014,0.002,0.06
+T12840,Renal function and acid-base balance,22,17,-5,0.0019,0.0015,-0.04
+T11055,Cardiac and Coronary Surgery Techniques,17,21,4,0.0015,0.0018,0.03
+T11951,Trauma Management and Diagnosis,21,17,-4,0.0018,0.0015,-0.03
+T11288,Clostridium difficile and Clostridium perfringens research,24,14,-10,0.002,0.0012,-0.09
+T10329,Thyroid Cancer Diagnosis and Treatment,19,19,0,0.0016,0.0016,0.0
+T10009,Dementia and Cognitive Impairment Research,13,25,12,0.0011,0.0021,0.1
+T11064,Antiplatelet Therapy and Cardiovascular Diseases,16,21,5,0.0014,0.0018,0.04
+T11453,Diagnosis and Treatment of Venous Diseases,19,18,-1,0.0016,0.0015,-0.01
+T10397,Nutrition and Health in Aging,24,13,-11,0.002,0.0011,-0.09
+T11590,Primary Care and Health Outcomes,33,4,-29,0.0028,0.0003,-0.25
+T10238,Spine and Intervertebral Disc Pathology,15,21,6,0.0013,0.0018,0.05
+T10227,Acute Ischemic Stroke Management,17,19,2,0.0015,0.0016,0.02
+T11389,Maternal and fetal healthcare,20,16,-4,0.0017,0.0014,-0.03
+T10600,Reproductive Health and Contraception,10,26,16,0.0009,0.0022,0.14
+T10625,Herpesvirus Infections and Treatments,17,19,2,0.0015,0.0016,0.02
+T10394,Lipoproteins and Cardiovascular Health,18,18,0,0.0015,0.0015,0.0
+T10990,Infection Control and Ventilation,12,24,12,0.001,0.002,0.1
+T11658,Esophageal and GI Pathology,25,11,-14,0.0021,0.0009,-0.12
+T13123,Advances in Oncology and Radiotherapy,21,14,-7,0.0018,0.0012,-0.06
+T10706,Traumatic Brain Injury and Neurovascular Disturbances,20,15,-5,0.0017,0.0013,-0.04
+T10832,Pituitary Gland Disorders and Treatments,20,15,-5,0.0017,0.0013,-0.04
+T10038,Tuberculosis Research and Epidemiology,15,20,5,0.0013,0.0017,0.04
+T10420,Intracranial Aneurysms: Treatment and Complications,19,16,-3,0.0016,0.0014,-0.03
+T10452,Iron Metabolism and Disorders,17,18,1,0.0015,0.0015,0.01
+T12174,Hospital Admissions and Outcomes,17,18,1,0.0015,0.0015,0.01
+T11635,Poisoning and overdose treatments,13,22,9,0.0011,0.0019,0.08
+T10556,Global Cancer Incidence and Screening,26,9,-17,0.0022,0.0008,-0.14
+T10671,Gastroesophageal reflux and treatments,17,17,0,0.0015,0.0015,0.0
+T10981,Cytomegalovirus and herpesvirus research,18,16,-2,0.0015,0.0014,-0.02
+T11157,Chronic Lymphocytic Leukemia Research,17,17,0,0.0015,0.0015,0.0
+T11589,Gynecological conditions and treatments,13,21,8,0.0011,0.0018,0.07
+T10198,Heart Failure Treatment and Management,15,19,4,0.0013,0.0016,0.03
+T12906,Surgical Sutures and Adhesives,20,14,-6,0.0017,0.0012,-0.05
+T10926,Peripheral Artery Disease Management,18,16,-2,0.0015,0.0014,-0.02
+T10754,Neuroendocrine Tumor Research Advances,16,17,1,0.0014,0.0015,0.01
+T12523,Nasolacrimal Duct Obstruction Treatments,17,16,-1,0.0015,0.0014,-0.01
+T12634,Ureteral procedures and complications,18,14,-4,0.0015,0.0012,-0.03
+T10924,Cardiovascular Health and Disease Prevention,10,22,12,0.0009,0.0019,0.1
+T10984,Sinusitis and nasal conditions,19,13,-6,0.0016,0.0011,-0.05
+T13147,Ethics and bioethics in healthcare,0,32,32,0.0,0.0027,0.27
+T10668,Endometrial and Cervical Cancer Treatments,16,16,0,0.0014,0.0014,0.0
+T11000,Infection Control in Healthcare,5,27,22,0.0004,0.0023,0.19
+T10804,"Health Systems, Economic Evaluations, Quality of Life",13,18,5,0.0011,0.0015,0.04
+T10085,Parkinson's Disease Mechanisms and Treatments,15,16,1,0.0013,0.0014,0.01
+T11744,Health Sciences Research and Education,15,16,1,0.0013,0.0014,0.01
+T11174,Pediatric Urology and Nephrology Studies,17,14,-3,0.0015,0.0012,-0.03
+T11625,Abdominal vascular conditions and treatments,13,18,5,0.0011,0.0015,0.04
+T11984,Anatomy and Medical Technology,12,19,7,0.001,0.0016,0.06
+T10678,Inflammatory mediators and NSAID effects,17,14,-3,0.0015,0.0012,-0.03
+T11430,Disaster Response and Management,20,10,-10,0.0017,0.0009,-0.09
+T10863,Voice and Speech Disorders,14,16,2,0.0012,0.0014,0.02
+T10365,Gastrointestinal motility and disorders,9,21,12,0.0008,0.0018,0.1
+T10619,Esophageal Cancer Research and Treatment,17,13,-4,0.0015,0.0011,-0.03
+T10293,Thyroid Disorders and Treatments,13,17,4,0.0011,0.0015,0.03
+T12168,Health and Medical Research Impacts,11,19,8,0.0009,0.0016,0.07
+T11964,Pregnancy and Medication Impact,16,14,-2,0.0014,0.0012,-0.02
+T10867,Intensive Care Unit Cognitive Disorders,17,12,-5,0.0015,0.001,-0.04
+T10694,Menopause: Health Impacts and Treatments,9,20,11,0.0008,0.0017,0.09
+T10200,Rheumatoid Arthritis Research and Therapies,13,16,3,0.0011,0.0014,0.03
+T11866,Reconstructive Facial Surgery Techniques,12,17,5,0.001,0.0015,0.04
+T11623,Hyperglycemia and glycemic control in critically ill and hospitalized patients,20,9,-11,0.0017,0.0008,-0.09
+T11917,"Coagulation, Bradykinin, Polyphosphates, and Angioedema",16,13,-3,0.0014,0.0011,-0.03
+T10634,Food Allergy and Anaphylaxis Research,13,16,3,0.0011,0.0014,0.03
+T10554,Hemoglobinopathies and Related Disorders,16,13,-3,0.0014,0.0011,-0.03
+T11381,Infectious Diseases and Tuberculosis,18,11,-7,0.0015,0.0009,-0.06
+T10071,Bone health and osteoporosis research,12,17,5,0.001,0.0015,0.04
+T13457,"Dental Education, Practice, Research",24,5,-19,0.002,0.0004,-0.16
+T10542,Vestibular and auditory disorders,16,13,-3,0.0014,0.0011,-0.03
+T11551,Infective Endocarditis Diagnosis and Management,16,13,-3,0.0014,0.0011,-0.03
+T12027,Social Media in Health Education,17,12,-5,0.0015,0.001,-0.04
+T10975,Bone Tumor Diagnosis and Treatments,15,14,-1,0.0013,0.0012,-0.01
+T12411,Shoulder and Clavicle Injuries,17,11,-6,0.0015,0.0009,-0.05
+T12096,Ectopic Pregnancy Diagnosis and Management,14,14,0,0.0012,0.0012,0.0
+T10980,Vascular Malformations and Hemangiomas,18,10,-8,0.0015,0.0009,-0.07
+T11294,Infant Nutrition and Health,14,14,0,0.0012,0.0012,0.0
+T10510,Stroke Rehabilitation and Recovery,14,14,0,0.0012,0.0012,0.0
+T11328,Ocular Oncology and Treatments,8,20,12,0.0007,0.0017,0.1
+T11929,Cerebral Venous Sinus Thrombosis,16,12,-4,0.0014,0.001,-0.03
+T10997,Ocular Surface and Contact Lens,16,12,-4,0.0014,0.001,-0.03
+T11571,Sarcoidosis and Beryllium Toxicity Research,14,14,0,0.0012,0.0012,0.0
+T11722,Patient Satisfaction in Healthcare,11,17,6,0.0009,0.0015,0.05
+T10105,Osteoarthritis Treatment and Mechanisms,10,17,7,0.0009,0.0015,0.06
+T12089,Intestinal and Peritoneal Adhesions,16,11,-5,0.0014,0.0009,-0.04
+T11860,"HIV, Drug Use, Sexual Risk",12,15,3,0.001,0.0013,0.03
+T10833,Vaccine Coverage and Hesitancy,11,16,5,0.0009,0.0014,0.04
+T11987,COVID-19 Impact on Reproduction,20,6,-14,0.0017,0.0005,-0.12
+T14400,Medical Coding and Health Information,12,14,2,0.001,0.0012,0.02
+T11251,Meningioma and schwannoma management,13,13,0,0.0011,0.0011,0.0
+T10156,"LGBTQ Health, Identity, and Policy",14,12,-2,0.0012,0.001,-0.02
+T11395,Radiopharmaceutical Chemistry and Applications,13,13,0,0.0011,0.0011,0.0
+T10459,Sexual function and dysfunction studies,17,9,-8,0.0015,0.0008,-0.07
+T10696,Gastric Cancer Management and Outcomes,17,9,-8,0.0015,0.0008,-0.07
+T11868,Cancer and Skin Lesions,16,10,-6,0.0014,0.0009,-0.05
+T11967,Electrolyte and hormonal disorders,13,13,0,0.0011,0.0011,0.0
+T12453,Infectious Aortic and Vascular Conditions,14,12,-2,0.0012,0.001,-0.02
+T10873,Bacterial Infections and Vaccines,13,13,0,0.0011,0.0011,0.0
+T11356,Pleural and Pulmonary Diseases,13,13,0,0.0011,0.0011,0.0
+T10356,Orthodontics and Dentofacial Orthopedics,7,19,12,0.0006,0.0016,0.1
+T11027,Metabolism and Genetic Disorders,13,12,-1,0.0011,0.001,-0.01
+T13883,Child and Adolescent Health,15,10,-5,0.0013,0.0009,-0.04
+T10737,Health Literacy and Information Accessibility,9,16,7,0.0008,0.0014,0.06
+T10606,Kidney Stones and Urolithiasis Treatments,11,14,3,0.0009,0.0012,0.03
+T10253,Sarcoma Diagnosis and Treatment,9,16,7,0.0008,0.0014,0.06
+T10800,Forensic Toxicology and Drug Analysis,12,13,1,0.001,0.0011,0.01
+T12333,Abdominal Surgery and Complications,14,10,-4,0.0012,0.0009,-0.03
+T11518,Cervical and Thoracic Myelopathy,12,12,0,0.001,0.001,0.0
+T11221,Bone health and treatments,16,8,-8,0.0014,0.0007,-0.07
+T11785,Nausea and vomiting management,13,11,-2,0.0011,0.0009,-0.02
+T10498,Migraine and Headache Studies,12,12,0,0.001,0.001,0.0
+T11633,Prenatal Substance Exposure Effects,12,12,0,0.001,0.001,0.0
+T10206,Meta-analysis and systematic reviews,17,7,-10,0.0015,0.0006,-0.09
+T11196,Non-Invasive Vital Sign Monitoring,12,12,0,0.001,0.001,0.0
+T14384,Ophthalmology and Visual Health Research,13,11,-2,0.0011,0.0009,-0.02
+T10776,Spinal Fractures and Fixation Techniques,12,12,0,0.001,0.001,0.0
+T11305,"Amyloidosis: Diagnosis, Treatment, Outcomes",12,11,-1,0.001,0.0009,-0.01
+T11834,Liver Diseases and Immunity,12,11,-1,0.001,0.0009,-0.01
+T11497,Interprofessional Education and Collaboration,12,11,-1,0.001,0.0009,-0.01
+T10147,Antibiotic Resistance in Bacteria,8,15,7,0.0007,0.0013,0.06
+T10066,Gut microbiota and health,12,11,-1,0.001,0.0009,-0.01
+T10673,Gestational Diabetes Research and Management,11,12,1,0.0009,0.001,0.01
+T11109,Thermoregulation and physiological responses,12,11,-1,0.001,0.0009,-0.01
+T10795,Healthcare professionals’ stress and burnout,9,14,5,0.0008,0.0012,0.04
+T10755,HER2/EGFR in Cancer Research,12,10,-2,0.001,0.0009,-0.02
+T11660,Blood groups and transfusion,12,10,-2,0.001,0.0009,-0.02
+T11464,Homelessness and Social Issues,12,10,-2,0.001,0.0009,-0.02
+T11199,Pain Management and Opioid Use,5,17,12,0.0004,0.0015,0.1
+T10300,Congenital Heart Disease Studies,9,13,4,0.0008,0.0011,0.03
+T13946,Musculoskeletal Disorders and Rehabilitation,12,10,-2,0.001,0.0009,-0.02
+T11173,Neurofibromatosis and Schwannoma Cases,12,10,-2,0.001,0.0009,-0.02
+T12622,Neurosurgical Procedures and Complications,8,14,6,0.0007,0.0012,0.05
+T11773,Healthcare Operations and Scheduling Optimization,7,15,8,0.0006,0.0013,0.07
+T14475,History of Science and Medicine,1,21,20,0.0001,0.0018,0.17
+T10841,Economic and Environmental Valuation,20,2,-18,0.0017,0.0002,-0.15
+T10976,Viral gastroenteritis research and epidemiology,13,9,-4,0.0011,0.0008,-0.03
+T12154,Pelvic and Acetabular Injuries,17,5,-12,0.0015,0.0004,-0.1
+T13697,Biliary and Gastrointestinal Fistulas,11,10,-1,0.0009,0.0009,-0.01
+T11282,Fibromyalgia and Chronic Fatigue Syndrome Research,10,11,1,0.0009,0.0009,0.01
+T11316,Mycobacterium research and diagnosis,11,10,-1,0.0009,0.0009,-0.01
+T10486,Salmonella and Campylobacter epidemiology,7,14,7,0.0006,0.0012,0.06
+T10340,Hepatitis B Virus Studies,11,10,-1,0.0009,0.0009,-0.01
+T11194,Ocular Diseases and Behçet’s Syndrome,9,12,3,0.0008,0.001,0.03
+T11669,Head and Neck Surgical Oncology,15,6,-9,0.0013,0.0005,-0.08
+T11163,Organ Donation and Transplantation,12,9,-3,0.001,0.0008,-0.03
+T11232,Urinary Tract Infections Management,7,14,7,0.0006,0.0012,0.06
+T10449,Renal cell carcinoma treatment,12,9,-3,0.001,0.0008,-0.03
+T10234,Obstructive Sleep Apnea Research,14,7,-7,0.0012,0.0006,-0.06
+T11728,Thyroid and Parathyroid Surgery,6,14,8,0.0005,0.0012,0.07
+T10654,Pneumonia and Respiratory Infections,7,13,6,0.0006,0.0011,0.05
+T10327,Adolescent Sexual and Reproductive Health,9,11,2,0.0008,0.0009,0.02
+T10391,Healthcare Policy and Management,19,1,-18,0.0016,0.0001,-0.15
+T11867,Traumatic Ocular and Foreign Body Injuries,12,8,-4,0.001,0.0007,-0.03
+T11037,Fungal Infections and Studies,11,9,-2,0.0009,0.0008,-0.02
+T12547,Pharmaceutical studies and practices,11,9,-2,0.0009,0.0008,-0.02
+T10376,Suicide and Self-Harm Studies,7,13,6,0.0006,0.0011,0.05
+T12296,Autopsy Techniques and Outcomes,10,10,0,0.0009,0.0009,0.0
+T10401,Diabetes Treatment and Management,13,7,-6,0.0011,0.0006,-0.05
+T11629,"Birth, Development, and Health",12,8,-4,0.001,0.0007,-0.03
+T11310,Connective tissue disorders research,10,10,0,0.0009,0.0009,0.0
+T11681,Nosocomial Infections in ICU,11,9,-2,0.0009,0.0008,-0.02
+T12025,Hepatitis Viruses Studies and Epidemiology,11,8,-3,0.0009,0.0007,-0.03
+T12443,Delphi Technique in Research,11,8,-3,0.0009,0.0007,-0.03
+T10373,Renal Transplantation Outcomes and Treatments,11,8,-3,0.0009,0.0007,-0.03
+T11054,Adrenal and Paraganglionic Tumors,10,9,-1,0.0009,0.0008,-0.01
+T11950,Cardiovascular Syncope and Autonomic Disorders,13,6,-7,0.0011,0.0005,-0.06
+T10060,Smoking Behavior and Cessation,9,10,1,0.0008,0.0009,0.01
+T10675,Mechanical Circulatory Support Devices,9,10,1,0.0008,0.0009,0.01
+T12818,"Pneumothorax, Barotrauma, Emphysema",9,10,1,0.0008,0.0009,0.01
+T11827,Polyomavirus and related diseases,10,9,-1,0.0009,0.0008,-0.01
+T10283,Hearing Loss and Rehabilitation,6,13,7,0.0005,0.0011,0.06
+T12992,Metastasis and carcinoma case studies,4,15,11,0.0003,0.0013,0.09
+T11990,Global Health Workforce Issues,13,6,-7,0.0011,0.0005,-0.06
+T11374,Cleft Lip and Palate Research,9,10,1,0.0008,0.0009,0.01
+T11833,Spinal Dysraphism and Malformations,12,7,-5,0.001,0.0006,-0.04
+T13555,"Healthcare cost, quality, practices",11,8,-3,0.0009,0.0007,-0.03
+T12548,Hemostasis and retained surgical items,4,15,11,0.0003,0.0013,0.09
+T10435,Environmental Impact and Sustainability,0,19,19,0.0,0.0016,0.16
+T11018,Lower Extremity Biomechanics and Pathologies,9,10,1,0.0008,0.0009,0.01
+T11446,Mobile Health and mHealth Applications,8,10,2,0.0007,0.0009,0.02
+T10882,Cardiomyopathy and Myosin Studies,8,10,2,0.0007,0.0009,0.02
+T10954,Peripheral Nerve Disorders,8,10,2,0.0007,0.0009,0.02
+T12426,Lymphatic Disorders and Treatments,10,8,-2,0.0009,0.0007,-0.02
+T11348,Celiac Disease Research and Management,9,9,0,0.0008,0.0008,0.0
+T11021,ECG Monitoring and Analysis,7,11,4,0.0006,0.0009,0.03
+T11616,Autoimmune and Inflammatory Disorders Research,10,8,-2,0.0009,0.0007,-0.02
+T11337,Tryptophan and brain disorders,10,8,-2,0.0009,0.0007,-0.02
+T11271,Myasthenia Gravis and Thymoma,9,9,0,0.0008,0.0008,0.0
+T11330,Systemic Sclerosis and Related Diseases,12,6,-6,0.001,0.0005,-0.05
+T12317,Actinomycetales infections and treatment,9,9,0,0.0008,0.0008,0.0
+T10417,Lung Cancer Treatments and Mutations,10,8,-2,0.0009,0.0007,-0.02
+T11378,Gastrointestinal Bleeding Diagnosis and Treatment,4,14,10,0.0003,0.0012,0.09
+T10746,Platelet Disorders and Treatments,8,10,2,0.0007,0.0009,0.02
+T12328,Autoimmune and Inflammatory Disorders,11,6,-5,0.0009,0.0005,-0.04
+T11586,Congenital Diaphragmatic Hernia Studies,10,7,-3,0.0009,0.0006,-0.03
+T12199,Vascular Anomalies and Treatments,10,7,-3,0.0009,0.0006,-0.03
+T10881,Blood Coagulation and Thrombosis Mechanisms,7,10,3,0.0006,0.0009,0.03
+T12860,Family and Patient Care in Intensive Care Units,9,8,-1,0.0008,0.0007,-0.01
+T12291,Pericarditis and Cardiac Tamponade,8,9,1,0.0007,0.0008,0.01
+T10728,Pulmonary Hypertension Research and Treatments,10,7,-3,0.0009,0.0006,-0.03
+T11253,Nail Diseases and Treatments,9,8,-1,0.0008,0.0007,-0.01
+T12116,Dermatological diseases and infestations,8,9,1,0.0007,0.0008,0.01
+T12117,Muscle and Compartmental Disorders,10,7,-3,0.0009,0.0006,-0.03
+T11999,Empathy and Medical Education,12,5,-7,0.001,0.0004,-0.06
+T11438,Retinal Imaging and Analysis,9,8,-1,0.0008,0.0007,-0.01
+T12369,Pneumocystis jirovecii pneumonia detection and treatment,14,3,-11,0.0012,0.0003,-0.09
+T10334,"Hearing, Cochlea, Tinnitus, Genetics",8,9,1,0.0007,0.0008,0.01
+T10451,Mycorrhizal Fungi and Plant Interactions,17,0,-17,0.0015,0.0,-0.15
+T12108,Management of metastatic bone disease,9,8,-1,0.0008,0.0007,-0.01
+T11730,Autoimmune Bullous Skin Diseases,10,6,-4,0.0009,0.0005,-0.03
+T11358,Dysphagia Assessment and Management,9,7,-2,0.0008,0.0006,-0.02
+T11402,Vascular Malformations Diagnosis and Treatment,9,7,-2,0.0008,0.0006,-0.02
+T10570,Drug Transport and Resistance Mechanisms,9,7,-2,0.0008,0.0006,-0.02
+T10352,Physical Activity and Health,4,12,8,0.0003,0.001,0.07
+T11922,Cardiovascular Effects of Exercise,10,6,-4,0.0009,0.0005,-0.03
+T10852,Temporomandibular Joint Disorders,6,10,4,0.0005,0.0009,0.03
+T12421,Adrenal Hormones and Disorders,7,9,2,0.0006,0.0008,0.02
+T13467,Drug-Induced Ocular Toxicity,5,11,6,0.0004,0.0009,0.05
+T11627,Autoimmune Neurological Disorders and Treatments,8,8,0,0.0007,0.0007,0.0
+T14326,Ear and Head Tumors,11,5,-6,0.0009,0.0004,-0.05
+T11678,Healthcare Decision-Making and Restraints,8,8,0,0.0007,0.0007,0.0
+T11812,Nasal Surgery and Airway Studies,6,10,4,0.0005,0.0009,0.03
+T12715,Pregnancy-related medical research,10,6,-4,0.0009,0.0005,-0.03
+T11227,Diabetic Foot Ulcer Assessment and Management,9,7,-2,0.0008,0.0006,-0.02
+T12230,Cardiovascular Issues in Pregnancy,11,5,-6,0.0009,0.0004,-0.05
+T12845,Methemoglobinemia and Tumor Lysis Syndrome,9,6,-3,0.0008,0.0005,-0.03
+T12599,Retinal and Optic Conditions,13,2,-11,0.0011,0.0002,-0.09
+T11156,Reproductive Health and Technologies,8,7,-1,0.0007,0.0006,-0.01
+T10949,Genetic Neurodegenerative Diseases,8,7,-1,0.0007,0.0006,-0.01
+T12744,Medical Device Sterilization and Disinfection,5,10,5,0.0004,0.0009,0.04
+T10771,Wound Healing and Treatments,9,6,-3,0.0008,0.0005,-0.03
+T12379,Cancer Diagnosis and Treatment,11,4,-7,0.0009,0.0003,-0.06
+T10695,Parasites and Host Interactions,8,7,-1,0.0007,0.0006,-0.01
+T11376,Geriatric Care and Nursing Homes,6,9,3,0.0005,0.0008,0.03
+T10773,Extracellular vesicles in disease,8,7,-1,0.0007,0.0006,-0.01
+T10748,Growth Hormone and Insulin-like Growth Factors,6,9,3,0.0005,0.0008,0.03
+T11117,Drug-Induced Adverse Reactions,8,7,-1,0.0007,0.0006,-0.01
+T12068,Neonatal Health and Biochemistry,10,5,-5,0.0009,0.0004,-0.04
+T10375,Pharmacogenetics and Drug Metabolism,4,11,7,0.0003,0.0009,0.06
+T10708,Mindfulness and Compassion Interventions,7,8,1,0.0006,0.0007,0.01
+T11732,Assisted Reproductive Technology and Twin Pregnancy,10,5,-5,0.0009,0.0004,-0.04
+T12167,Bacterial Identification and Susceptibility Testing,7,8,1,0.0006,0.0007,0.01
+T10231,Pancreatic and Hepatic Oncology Research,8,7,-1,0.0007,0.0006,-0.01
+T12067,Renal and Vascular Pathologies,7,8,1,0.0006,0.0007,0.01
+T11759,Occupational Therapy Practice and Research,7,8,1,0.0006,0.0007,0.01
+T11171,Diabetes and associated disorders,9,6,-3,0.0008,0.0005,-0.03
+T11086,Parasitic Infections and Diagnostics,8,7,-1,0.0007,0.0006,-0.01
+T11207,Alcohol Consumption and Health Effects,8,7,-1,0.0007,0.0006,-0.01
+T10416,Traumatic Brain Injury Research,5,10,5,0.0004,0.0009,0.04
+T12422,Radiomics and Machine Learning in Medical Imaging,9,5,-4,0.0008,0.0004,-0.03
+T11767,Poxvirus research and outbreaks,8,6,-2,0.0007,0.0005,-0.02
+T12235,Child Abuse and Related Trauma,6,8,2,0.0005,0.0007,0.02
+T12963,Anesthesia and Neurotoxicity Research,10,4,-6,0.0009,0.0003,-0.05
+T10762,"Migration, Health and Trauma",11,3,-8,0.0009,0.0003,-0.07
+T12459,Nerve Injury and Rehabilitation,6,8,2,0.0005,0.0007,0.02
+T12708,Economic and Financial Impacts of Cancer,11,3,-8,0.0009,0.0003,-0.07
+T11406,Cerebrospinal fluid and hydrocephalus,8,6,-2,0.0007,0.0005,-0.02
+T10277,Vitamin D Research Studies,7,7,0,0.0006,0.0006,0.0
+T13944,Psychiatric care and mental health services,9,5,-4,0.0008,0.0004,-0.03
+T12488,Mental Health via Writing,8,6,-2,0.0007,0.0005,-0.02
+T13960,"Dietetics, Nutrition, and Education",6,8,2,0.0005,0.0007,0.02
+T12209,Bone and Joint Diseases,10,4,-6,0.0009,0.0003,-0.05
+T12246,Chronic Disease Management Strategies,10,4,-6,0.0009,0.0003,-0.05
+T12800,Musculoskeletal synovial abnormalities and treatments,8,6,-2,0.0007,0.0005,-0.02
+T12920,Healthcare and Environmental Waste Management,9,5,-4,0.0008,0.0004,-0.03
+T11361,Digital Radiography and Breast Imaging,6,8,2,0.0005,0.0007,0.02
+T11534,Erythropoietin and Anemia Treatment,4,10,6,0.0003,0.0009,0.05
+T13594,Healthcare innovation and challenges,13,0,-13,0.0011,0.0,-0.11
+T12301,Facial Nerve Paralysis Treatment and Research,9,4,-5,0.0008,0.0003,-0.04
+T12460,Pediatric Hepatobiliary Diseases and Treatments,9,4,-5,0.0008,0.0003,-0.04
+T10816,Cerebrovascular and Carotid Artery Diseases,7,6,-1,0.0006,0.0005,-0.01
+T11638,Cardiac tumors and thrombi,7,6,-1,0.0006,0.0005,-0.01
+T11092,Spondyloarthritis Studies and Treatments,9,4,-5,0.0008,0.0003,-0.04
+T11334,Psychosomatic Disorders and Their Treatments,8,5,-3,0.0007,0.0004,-0.03
+T11840,Pain Management and Treatment,6,7,1,0.0005,0.0006,0.01
+T12648,Academic Writing and Publishing,1,12,11,0.0001,0.001,0.09
+T10769,BRCA gene mutations in cancer,9,4,-5,0.0008,0.0003,-0.04
+T11057,Cardiac Ischemia and Reperfusion,7,6,-1,0.0006,0.0005,-0.01
+T10390,Ovarian function and disorders,5,8,3,0.0004,0.0007,0.03
+T12279,Body Composition Measurement Techniques,5,8,3,0.0004,0.0007,0.03
+T12499,"Diphtheria, Corynebacterium, and Tetanus",8,5,-3,0.0007,0.0004,-0.03
+T11322,Facial Rejuvenation and Surgery Techniques,9,4,-5,0.0008,0.0003,-0.04
+T12229,Pharmacological Effects and Toxicity Studies,11,2,-9,0.0009,0.0002,-0.08
+T11036,Antibiotics Pharmacokinetics and Efficacy,8,5,-3,0.0007,0.0004,-0.03
+T11218,Hip disorders and treatments,6,6,0,0.0005,0.0005,0.0
+T11735,Peripheral Neuropathies and Disorders,6,6,0,0.0005,0.0005,0.0
+T10915,Trace Elements in Health,7,5,-2,0.0006,0.0004,-0.02
+T12433,Skin Diseases and Diabetes,6,6,0,0.0005,0.0005,0.0
+T10141,Probiotics and Fermented Foods,5,7,2,0.0004,0.0006,0.02
+T10993,Complement system in diseases,7,5,-2,0.0006,0.0004,-0.02
+T12476,Intraoperative Neuromonitoring and Anesthetic Effects,9,3,-6,0.0008,0.0003,-0.05
+T12183,Teratomas and Epidermoid Cysts,7,5,-2,0.0006,0.0004,-0.02
+T10301,Mitochondrial Function and Pathology,7,5,-2,0.0006,0.0004,-0.02
+T13374,Hematological disorders and diagnostics,6,6,0,0.0005,0.0005,0.0
+T12402,Travel-related health issues,8,4,-4,0.0007,0.0003,-0.03
+T10469,Psoriasis: Treatment and Pathogenesis,5,7,2,0.0004,0.0006,0.02
+T11553,Acne and Rosacea Treatments and Effects,7,5,-2,0.0006,0.0004,-0.02
+T10378,Advanced MRI Techniques and Applications,6,6,0,0.0005,0.0005,0.0
+T12103,Cancer Risks and Factors,10,2,-8,0.0009,0.0002,-0.07
+T11184,Neonatal and fetal brain pathology,7,5,-2,0.0006,0.0004,-0.02
+T13735,History of Medical Practice,10,2,-8,0.0009,0.0002,-0.07
+T10862,AI in cancer detection,7,5,-2,0.0006,0.0004,-0.02
+T10499,Folate and B Vitamins Research,7,5,-2,0.0006,0.0004,-0.02
+T10308,Systemic Lupus Erythematosus Research,4,8,4,0.0003,0.0007,0.03
+T10073,Hepatocellular Carcinoma Treatment and Prognosis,9,3,-6,0.0008,0.0003,-0.05
+T11921,Electroconvulsive Therapy Studies,6,6,0,0.0005,0.0005,0.0
+T12598,Cardiac Structural Anomalies and Repair,6,6,0,0.0005,0.0005,0.0
+T12937,Chemotherapy-related skin toxicity,6,6,0,0.0005,0.0005,0.0
+T10979,Breastfeeding Practices and Influences,8,4,-4,0.0007,0.0003,-0.03
+T11460,Analytical Methods in Pharmaceuticals,6,6,0,0.0005,0.0005,0.0
+T10168,COVID-19 and Mental Health,6,6,0,0.0005,0.0005,0.0
+T12829,Advanced Breast Cancer Therapies,6,6,0,0.0005,0.0005,0.0
+T11649,Pharmaceutical industry and healthcare,2,9,7,0.0002,0.0008,0.06
+T11956,Sexual Differentiation and Disorders,5,6,1,0.0004,0.0005,0.01
+T12064,Intraperitoneal and Appendiceal Malignancies,7,4,-3,0.0006,0.0003,-0.03
+T12924,Dermatological and Skeletal Disorders,8,3,-5,0.0007,0.0003,-0.04
+T11787,Oral and Maxillofacial Pathology,4,7,3,0.0003,0.0006,0.03
+T12602,Medical Education and Admissions,3,8,5,0.0003,0.0007,0.04
+T11388,"Grief, Bereavement, and Mental Health",7,4,-3,0.0006,0.0003,-0.03
+T12790,Nursing Diagnosis and Documentation,5,6,1,0.0004,0.0005,0.01
+T11097,Cerebral Palsy and Movement Disorders,7,4,-3,0.0006,0.0003,-0.03
+T11465,Drug-Induced Hepatotoxicity and Protection,3,8,5,0.0003,0.0007,0.04
+T11422,Burn Injury Management and Outcomes,5,6,1,0.0004,0.0005,0.01
+T10839,Pancreatic function and diabetes,8,3,-5,0.0007,0.0003,-0.04
+T11452,Oral Health Pathology and Treatment,4,7,3,0.0003,0.0006,0.03
+T11521,Salivary Gland Disorders and Functions,5,6,1,0.0004,0.0005,0.01
+T11274,Botulinum Toxin and Related Neurological Disorders,9,2,-7,0.0008,0.0002,-0.06
+T13770,Pediatric health and respiratory diseases,8,3,-5,0.0007,0.0003,-0.04
+T10952,PI3K/AKT/mTOR signaling in cancer,11,0,-11,0.0009,0.0,-0.09
+T11243,Respiratory viral infections research,7,4,-3,0.0006,0.0003,-0.03
+T12352,Heparin-Induced Thrombocytopenia and Thrombosis,6,5,-1,0.0005,0.0004,-0.01
+T12172,Neutropenia and Cancer Infections,7,4,-3,0.0006,0.0003,-0.03
+T10209,Global Maternal and Child Health,8,3,-5,0.0007,0.0003,-0.04
+T11754,SARS-CoV-2 detection and testing,5,6,1,0.0004,0.0005,0.01
+T12631,Head and Neck Anomalies,6,5,-1,0.0005,0.0004,-0.01
+T11135,Virology and Viral Diseases,5,6,1,0.0004,0.0005,0.01
+T11824,Injury Epidemiology and Prevention,7,4,-3,0.0006,0.0003,-0.03
+T11576,IgG4-Related and Inflammatory Diseases,6,5,-1,0.0005,0.0004,-0.01
+T13597,Medicine and Dermatology Studies History,7,3,-4,0.0006,0.0003,-0.03
+T12324,History of Medicine Studies,7,3,-4,0.0006,0.0003,-0.03
+T13759,Medical Imaging and Pathology Studies,10,0,-10,0.0009,0.0,-0.09
+T11600,Brain Metastases and Treatment,5,5,0,0.0004,0.0004,0.0
+T13001,Restraint-Related Deaths,7,3,-4,0.0006,0.0003,-0.03
+T11639,Mental Health and Patient Involvement,6,4,-2,0.0005,0.0003,-0.02
+T13248,Healthcare Technology and Patient Monitoring,3,7,4,0.0003,0.0006,0.03
+T12198,Oral health in cancer treatment,5,5,0,0.0004,0.0004,0.0
+T12989,Ocular Disorders and Treatments,4,6,2,0.0003,0.0005,0.02
+T10368,Dental Health and Care Utilization,5,5,0,0.0004,0.0004,0.0
+T12552,Fetal and Pediatric Neurological Disorders,4,6,2,0.0003,0.0005,0.02
+T11539,Survey Methodology and Nonresponse,3,7,4,0.0003,0.0006,0.03
+T11246,Sports injuries and prevention,6,4,-2,0.0005,0.0003,-0.02
+T10943,Escherichia coli research studies,6,4,-2,0.0005,0.0003,-0.02
+T13690,Quality and Safety in Healthcare,4,6,2,0.0003,0.0005,0.02
+T11363,Dental Radiography and Imaging,8,2,-6,0.0007,0.0002,-0.05
+T11763,Intracerebral and Subarachnoid Hemorrhage Research,6,4,-2,0.0005,0.0003,-0.02
+T12695,Urinary and Genital Oncology Studies,5,5,0,0.0004,0.0004,0.0
+T12267,Diet and metabolism studies,10,0,-10,0.0009,0.0,-0.09
+T11811,Cutaneous lymphoproliferative disorders research,7,3,-4,0.0006,0.0003,-0.03
+T10150,Antifungal resistance and susceptibility,3,7,4,0.0003,0.0006,0.03
+T10113,Dental materials and restorations,3,7,4,0.0003,0.0006,0.03
+T11077,Genetic and Clinical Aspects of Sex Determination and Chromosomal Abnormalities,5,5,0,0.0004,0.0004,0.0
+T10709,Social Robot Interaction and HRI,5,5,0,0.0004,0.0004,0.0
+T11033,Contact Dermatitis and Allergies,6,4,-2,0.0005,0.0003,-0.02
+T12280,Magnesium in Health and Disease,5,5,0,0.0004,0.0004,0.0
+T14437,Ethics and Legal Issues in Pediatric Healthcare,8,2,-6,0.0007,0.0002,-0.05
+T12342,Vascular anomalies and interventions,4,6,2,0.0003,0.0005,0.02
+T11724,Inflammatory Myopathies and Dermatomyositis,5,5,0,0.0004,0.0004,0.0
+T11991,Soft tissue tumor case studies,7,3,-4,0.0006,0.0003,-0.03
+T11885,MRI in cancer diagnosis,5,5,0,0.0004,0.0004,0.0
+T12578,Diagnosis and treatment of tuberculosis,4,5,1,0.0003,0.0004,0.01
+T10745,Heart Rate Variability and Autonomic Control,6,3,-3,0.0005,0.0003,-0.03
+T10114,"Balance, Gait, and Falls Prevention",3,6,3,0.0003,0.0005,0.03
+T10364,Reproductive Biology and Fertility,5,4,-1,0.0004,0.0003,-0.01
+T11585,Exercise and Physiological Responses,6,3,-3,0.0005,0.0003,-0.03
+T11548,Sexual Assault and Victimization Studies,4,5,1,0.0003,0.0004,0.01
+T10576,Opioid Use Disorder Treatment,4,5,1,0.0003,0.0004,0.01
+T10978,Prenatal Screening and Diagnostics,4,5,1,0.0003,0.0004,0.01
+T10448,Memory and Neural Mechanisms,4,5,1,0.0003,0.0004,0.01
+T11961,Neonatal and Maternal Infections,1,8,7,0.0001,0.0007,0.06
+T11914,PARP inhibition in cancer therapy,4,5,1,0.0003,0.0004,0.01
+T13275,Medical and Health Sciences Research,1,8,7,0.0001,0.0007,0.06
+T10180,Analytical chemistry methods development,1,8,7,0.0001,0.0007,0.06
+T11213,Genomic variations and chromosomal abnormalities,2,7,5,0.0002,0.0006,0.04
+T12919,Blood disorders and treatments,6,3,-3,0.0005,0.0003,-0.03
+T11364,Cholangiocarcinoma and Gallbladder Cancer Studies,7,2,-5,0.0006,0.0002,-0.04
+T10263,Eating Disorders and Behaviors,2,7,5,0.0002,0.0006,0.04
+T10929,Wnt/β-catenin signaling in development and cancer,4,5,1,0.0003,0.0004,0.01
+T10116,Sperm and Testicular Function,4,5,1,0.0003,0.0004,0.01
+T13242,Male Reproductive Health Studies,4,5,1,0.0003,0.0004,0.01
+T12145,Dental Anxiety and Anesthesia Techniques,7,2,-5,0.0006,0.0002,-0.04
+T11628,Myeloproliferative Neoplasms: Diagnosis and Treatment,4,5,1,0.0003,0.0004,0.01
+T13314,Lymphadenopathy Diagnosis and Analysis,3,6,3,0.0003,0.0005,0.03
+T12237,Congenital gastrointestinal and neural anomalies,6,3,-3,0.0005,0.0003,-0.03
+T12418,Respiratory and Cough-Related Research,5,4,-1,0.0004,0.0003,-0.01
+T11535,Chemotherapy-induced cardiotoxicity and mitigation,5,4,-1,0.0004,0.0003,-0.01
+T12901,Tattoo and Body Piercing Complications,6,3,-3,0.0005,0.0003,-0.03
+T10855,Amyotrophic Lateral Sclerosis Research,6,3,-3,0.0005,0.0003,-0.03
+T11215,Chronic Myeloid Leukemia Treatments,5,4,-1,0.0004,0.0003,-0.01
+T10261,Genetic Associations and Epidemiology,2,7,5,0.0002,0.0006,0.04
+T11702,Parasitic Diseases Research and Treatment,4,5,1,0.0003,0.0004,0.01
+T13970,Pharmacy and Medical Practices,1,8,7,0.0001,0.0007,0.06
+T12355,Genetic and rare skin diseases.,5,4,-1,0.0004,0.0003,-0.01
+T11359,Effects of Radiation Exposure,5,4,-1,0.0004,0.0003,-0.01
+T13953,Digital Imaging in Medicine,7,2,-5,0.0006,0.0002,-0.04
+T10786,Maternal Mental Health During Pregnancy and Postpartum,4,4,0,0.0003,0.0003,0.0
+T11280,Hemophilia Treatment and Research,3,5,2,0.0003,0.0004,0.02
+T11141,Childhood Cancer Survivors' Quality of Life,7,1,-6,0.0006,0.0001,-0.05
+T12600,Eosinophilic Disorders and Syndromes,6,2,-4,0.0005,0.0002,-0.03
+T11350,Sex work and related issues,6,2,-4,0.0005,0.0002,-0.03
+T11892,Kawasaki Disease and Coronary Complications,4,4,0,0.0003,0.0003,0.0
+T11768,Music Therapy and Health,4,4,0,0.0003,0.0003,0.0
+T10629,Health Policy Implementation Science,1,7,6,0.0001,0.0006,0.05
+T12930,Biomedical and Chemical Research,0,8,8,0.0,0.0007,0.07
+T10196,Pain Mechanisms and Treatments,5,3,-2,0.0004,0.0003,-0.02
+T14189,Intravenous Infusion Technology and Safety,4,4,0,0.0003,0.0003,0.0
+T13328,Osteomyelitis and Bone Disorders Research,5,3,-2,0.0004,0.0003,-0.02
+T14354,Emergency Medicine Education and Research,0,8,8,0.0,0.0007,0.07
+T13098,Conferences and Exhibitions Management,5,3,-2,0.0004,0.0003,-0.02
+T11725,Immunodeficiency and Autoimmune Disorders,3,5,2,0.0003,0.0004,0.02
+T10529,Stress Responses and Cortisol,4,4,0,0.0003,0.0003,0.0
+T11290,Preterm Birth and Chorioamnionitis,4,4,0,0.0003,0.0003,0.0
+T10027,"Diabetes, Cardiovascular Risks, and Lipoproteins",6,2,-4,0.0005,0.0002,-0.03
+T12212,CNS Lymphoma Diagnosis and Treatment,5,3,-2,0.0004,0.0003,-0.02
+T10182,Child and Adolescent Psychosocial and Emotional Development,7,1,-6,0.0006,0.0001,-0.05
+T11412,Genetic and Kidney Cyst Diseases,6,2,-4,0.0005,0.0002,-0.03
+T13768,Oral and gingival health research,5,3,-2,0.0004,0.0003,-0.02
+T13966,Neurological and metabolic disorders,6,2,-4,0.0005,0.0002,-0.03
+T12867,Advanced Biosensing Techniques and Applications,3,5,2,0.0003,0.0004,0.02
+T12066,Obesity and Health Practices,8,0,-8,0.0007,0.0,-0.07
+T10908,Analytical Chemistry and Chromatography,3,5,2,0.0003,0.0004,0.02
+T12272,Cardiovascular Conditions and Treatments,2,6,4,0.0002,0.0005,0.03
+T13340,Palliative and Oncologic Care,0,8,8,0.0,0.0007,0.07
+T14152,Healthcare Facilities Design and Sustainability,0,8,8,0.0,0.0007,0.07
+T10536,Endodontics and Root Canal Treatments,4,4,0,0.0003,0.0003,0.0
+T10602,Glycosylation and Glycoproteins Research,7,1,-6,0.0006,0.0001,-0.05
+T12574,Clinical Reasoning and Diagnostic Skills,5,3,-2,0.0004,0.0003,-0.02
+T11067,Colorectal Cancer Treatments and Studies,3,5,2,0.0003,0.0004,0.02
+T11107,Selenium in Biological Systems,4,3,-1,0.0003,0.0003,-0.01
+T11721,Blood properties and coagulation,5,2,-3,0.0004,0.0002,-0.03
+T10412,Microfluidic and Capillary Electrophoresis Applications,3,4,1,0.0003,0.0003,0.01
+T12843,Human Resource and Talent Management,7,0,-7,0.0006,0.0,-0.06
+T11919,dental development and anomalies,4,3,-1,0.0003,0.0003,-0.01
+T11071,Treatment of Major Depression,5,2,-3,0.0004,0.0002,-0.03
+T11928,Genetic Syndromes and Imprinting,4,3,-1,0.0003,0.0003,-0.01
+T13370,Diverse Scientific and Economic Studies,7,0,-7,0.0006,0.0,-0.06
+T12716,Congenital Anomalies and Fetal Surgery,4,3,-1,0.0003,0.0003,-0.01
+T12286,Erythrocyte Function and Pathophysiology,4,3,-1,0.0003,0.0003,-0.01
+T13414,Radioactive Decay and Measurement Techniques,4,3,-1,0.0003,0.0003,-0.01
+T10043,Substance Abuse Treatment and Outcomes,2,5,3,0.0002,0.0004,0.03
+T11327,Acupuncture Treatment Research Studies,3,4,1,0.0003,0.0003,0.01
+T12960,Heterotopic Ossification and Related Conditions,3,4,1,0.0003,0.0003,0.01
+T10023,Schizophrenia research and treatment,3,4,1,0.0003,0.0003,0.01
+T11172,Dermatologic Treatments and Research,4,3,-1,0.0003,0.0003,-0.01
+T12625,Sympathectomy and Hyperhidrosis Treatments,5,2,-3,0.0004,0.0002,-0.03
+T10380,Intimate Partner and Family Violence,4,3,-1,0.0003,0.0003,-0.01
+T12663,Body Image and Dysmorphia Studies,6,1,-5,0.0005,0.0001,-0.04
+T10945,Lysosomal Storage Disorders Research,2,5,3,0.0002,0.0004,0.03
+T12626,"Cancer, Stress, Anesthesia, and Immune Response",5,2,-3,0.0004,0.0002,-0.03
+T11485,Gastrointestinal Tumor Research and Treatment,4,3,-1,0.0003,0.0003,-0.01
+T12439,Dental Research and COVID-19,6,1,-5,0.0005,0.0001,-0.04
+T10831,Cell Adhesion Molecules Research,7,0,-7,0.0006,0.0,-0.06
+T12849,Parvovirus B19 Infection Studies,7,0,-7,0.0006,0.0,-0.06
+T11780,Rabies epidemiology and control,7,0,-7,0.0006,0.0,-0.06
+T11752,Cancer Treatment and Pharmacology,7,0,-7,0.0006,0.0,-0.06
+T12876,Potassium and Related Disorders,5,2,-3,0.0004,0.0002,-0.03
+T10359,Dental Implant Techniques and Outcomes,4,3,-1,0.0003,0.0003,-0.01
+T13077,Cancer-related cognitive impairment studies,3,4,1,0.0003,0.0003,0.01
+T10086,Alzheimer's disease research and treatments,4,3,-1,0.0003,0.0003,-0.01
+T13383,Tumors and Oncological Cases,6,1,-5,0.0005,0.0001,-0.04
+T10902,Complementary and Alternative Medicine Studies,1,6,5,0.0001,0.0005,0.04
+T10870,Interstitial Lung Diseases and Idiopathic Pulmonary Fibrosis,3,4,1,0.0003,0.0003,0.01
+T11373,Sleep and Work-Related Fatigue,3,4,1,0.0003,0.0003,0.01
+T11369,Genetic factors in colorectal cancer,5,2,-3,0.0004,0.0002,-0.03
+T10387,Fatty Acid Research and Health,4,3,-1,0.0003,0.0003,-0.01
+T11112,Viral Infections and Immunology Research,4,3,-1,0.0003,0.0003,-0.01
+T10467,Psychometric Methodologies and Testing,3,4,1,0.0003,0.0003,0.01
+T13962,Omental and Epiploic Conditions,5,2,-3,0.0004,0.0002,-0.03
+T14316,"Nursing Education, Practice, and Leadership",3,4,1,0.0003,0.0003,0.01
+T11083,Cardiac Health and Mental Health,6,1,-5,0.0005,0.0001,-0.04
+T10235,Health disparities and outcomes,4,3,-1,0.0003,0.0003,-0.01
+T13363,Soft tissue tumors and treatment,3,4,1,0.0003,0.0003,0.01
+T12255,Biosimilars and Bioanalytical Methods,6,0,-6,0.0005,0.0,-0.05
+T12866,Urologic and reproductive health conditions,5,1,-4,0.0004,0.0001,-0.03
+T10620,Protease and Inhibitor Mechanisms,2,4,2,0.0002,0.0003,0.02
+T11537,Ethics in medical practice,6,0,-6,0.0005,0.0,-0.05
+T12464,Neurological Complications and Syndromes,4,2,-2,0.0003,0.0002,-0.02
+T10427,Visual perception and processing mechanisms,3,3,0,0.0003,0.0003,0.0
+T11016,Monoclonal and Polyclonal Antibodies Research,6,0,-6,0.0005,0.0,-0.05
+T11078,Inflammasome and immune disorders,3,3,0,0.0003,0.0003,0.0
+T10821,Cardiovascular Function and Risk Factors,5,1,-4,0.0004,0.0001,-0.03
+T12681,Global Healthcare and Medical Tourism,6,0,-6,0.0005,0.0,-0.05
+T11030,Scoliosis diagnosis and treatment,2,4,2,0.0002,0.0003,0.02
+T11491,CAR-T cell therapy research,4,2,-2,0.0003,0.0002,-0.02
+T11013,Skin Protection and Aging,4,2,-2,0.0003,0.0002,-0.02
+T12334,Lung Cancer Research Studies,5,1,-4,0.0004,0.0001,-0.03
+T11642,Genomics and Rare Diseases,3,3,0,0.0003,0.0003,0.0
+T12997,Outdoor and Experiential Education,4,2,-2,0.0003,0.0002,-0.02
+T11772,Genetics and Neurodevelopmental Disorders,3,3,0,0.0003,0.0003,0.0
+T10919,Neurological disorders and treatments,3,3,0,0.0003,0.0003,0.0
+T11620,Medication Adherence and Compliance,1,5,4,0.0001,0.0004,0.03
+T10010,"Obesity, Physical Activity, Diet",2,4,2,0.0002,0.0003,0.02
+T12994,Infrared Thermography in Medicine,2,4,2,0.0002,0.0003,0.02
+T14078,Multiple and Secondary Primary Cancers,1,5,4,0.0001,0.0004,0.03
+T14020,Medical research and treatments,0,6,6,0.0,0.0005,0.05
+T11570,Periodontal Regeneration and Treatments,3,3,0,0.0003,0.0003,0.0
+T10977,Optical Imaging and Spectroscopy Techniques,2,4,2,0.0002,0.0003,0.02
+T11519,Digital Mental Health Interventions,2,4,2,0.0002,0.0003,0.02
+T11845,Cancer therapeutics and mechanisms,3,3,0,0.0003,0.0003,0.0
+T10823,Research on Leishmaniasis Studies,3,3,0,0.0003,0.0003,0.0
+T10276,Helicobacter pylori-related gastroenterology studies,4,2,-2,0.0003,0.0002,-0.02
+T10015,Genomics and Phylogenetic Studies,5,1,-4,0.0004,0.0001,-0.03
+T14134,Medical and Biological Sciences,5,1,-4,0.0004,0.0001,-0.03
+T12947,"Health, psychology, and well-being",6,0,-6,0.0005,0.0,-0.05
+T10214,Psychotherapy Techniques and Applications,5,1,-4,0.0004,0.0001,-0.03
+T11761,Resilience and Mental Health,4,2,-2,0.0003,0.0002,-0.02
+T10493,Ion channel regulation and function,4,2,-2,0.0003,0.0002,-0.02
+T12823,Adolescent and Pediatric Healthcare,5,1,-4,0.0004,0.0001,-0.03
+T13878,Case Reports on Hematomas,2,4,2,0.0002,0.0003,0.02
+T10410,COVID-19 epidemiological studies,2,4,2,0.0002,0.0003,0.02
+T11651,Inhalation and Respiratory Drug Delivery,4,2,-2,0.0003,0.0002,-0.02
+T10059,Bone Tissue Engineering Materials,2,4,2,0.0002,0.0003,0.02
+T11968,High Altitude and Hypoxia,4,2,-2,0.0003,0.0002,-0.02
+T10056,Neurotransmitter Receptor Influence on Behavior,3,3,0,0.0003,0.0003,0.0
+T10756,Estrogen and related hormone effects,6,0,-6,0.0005,0.0,-0.05
+T11287,Cancer Genomics and Diagnostics,4,2,-2,0.0003,0.0002,-0.02
+T11533,Melanoma and MAPK Pathways,4,2,-2,0.0003,0.0002,-0.02
+T11335,Prion Diseases and Protein Misfolding,4,2,-2,0.0003,0.0002,-0.02
+T12308,Mental Health and Psychiatry,5,1,-4,0.0004,0.0001,-0.03
+T10441,Muscle Physiology and Disorders,4,2,-2,0.0003,0.0002,-0.02
+T11610,Food Security and Health in Diverse Populations,5,1,-4,0.0004,0.0001,-0.03
+T10836,Metabolomics and Mass Spectrometry Studies,3,3,0,0.0003,0.0003,0.0
+T14212,Health Promotion and Cardiovascular Prevention,4,2,-2,0.0003,0.0002,-0.02
+T10950,Acute Lymphoblastic Leukemia research,4,1,-3,0.0003,0.0001,-0.03
+T10638,Optical measurement and interference techniques,2,3,1,0.0002,0.0003,0.01
+T14090,Health and Conflict Studies,4,1,-3,0.0003,0.0001,-0.03
+T10371,Immune Response and Inflammation,4,1,-3,0.0003,0.0001,-0.03
+T12094,Hemoglobin structure and function,5,0,-5,0.0004,0.0,-0.04
+T11710,Biomedical Text Mining and Ontologies,5,0,-5,0.0004,0.0,-0.04
+T12554,Vitamin C and Antioxidants Research,3,2,-1,0.0003,0.0002,-0.01
+T11909,Histiocytic Disorders and Treatments,2,3,1,0.0002,0.0003,0.01
+T12193,Trigeminal Neuralgia and Treatments,3,2,-1,0.0003,0.0002,-0.01
+T11396,Artificial Intelligence in Healthcare,1,4,3,0.0001,0.0003,0.03
+T12082,Takotsubo Cardiomyopathy and Associated Phenomena,1,4,3,0.0001,0.0003,0.03
+T12553,Psychedelics and Drug Studies,3,2,-1,0.0003,0.0002,-0.01
+T12655,Female Genital Mutilation/Cutting Issues,3,2,-1,0.0003,0.0002,-0.01
+T12386,Advanced X-ray and CT Imaging,3,2,-1,0.0003,0.0002,-0.01
+T10241,Functional Brain Connectivity Studies,3,2,-1,0.0003,0.0002,-0.01
+T12587,Gestational Trophoblastic Disease Studies,3,2,-1,0.0003,0.0002,-0.01
+T12107,Leprosy Research and Treatment,3,2,-1,0.0003,0.0002,-0.01
+T12187,Glutathione Transferases and Polymorphisms,3,2,-1,0.0003,0.0002,-0.01
+T11943,Pharmacovigilance and Adverse Drug Reactions,3,2,-1,0.0003,0.0002,-0.01
+T12854,Neurology and Historical Studies,2,3,1,0.0002,0.0003,0.01
+T13986,Medical Practices and Rehabilitation,0,5,5,0.0,0.0004,0.04
+T12955,Atherosclerosis and Cardiovascular Diseases,2,3,1,0.0002,0.0003,0.01
+T10537,Attention Deficit Hyperactivity Disorder,4,1,-3,0.0003,0.0001,-0.03
+T12331,Hereditary Neurological Disorders,2,3,1,0.0002,0.0003,0.01
+T12538,Eosinophilic Esophagitis,5,0,-5,0.0004,0.0,-0.04
+T13761,HIV/AIDS oral health manifestations,4,1,-3,0.0003,0.0001,-0.03
+T10155,Nitric Oxide and Endothelin Effects,3,2,-1,0.0003,0.0002,-0.01
+T10102,scientometrics and bibliometrics research,4,1,-3,0.0003,0.0001,-0.03
+T12367,Dental Trauma and Treatments,3,2,-1,0.0003,0.0002,-0.01
+T10316,Sleep and related disorders,2,3,1,0.0002,0.0003,0.01
+T10167,Influenza Virus Research Studies,2,3,1,0.0002,0.0003,0.01
+T10868,Soft Robotics and Applications,3,2,-1,0.0003,0.0002,-0.01
+T12463,Amoebic Infections and Treatments,4,1,-3,0.0003,0.0001,-0.03
+T11002,Indoor Air Quality and Microbial Exposure,3,2,-1,0.0003,0.0002,-0.01
+T13607,Academic Publishing and Open Access,3,2,-1,0.0003,0.0002,-0.01
+T14057,Hypertrophic osteoarthropathy and related conditions,3,2,-1,0.0003,0.0002,-0.01
+T12018,Coronary Artery Anomalies,4,1,-3,0.0003,0.0001,-0.03
+T10414,Cannabis and Cannabinoid Research,2,3,1,0.0002,0.0003,0.01
+T11647,Workplace Violence and Bullying,3,2,-1,0.0003,0.0002,-0.01
+T12390,Comics and Graphic Narratives,2,3,1,0.0002,0.0003,0.01
+T11001,Renin-Angiotensin System Studies,2,3,1,0.0002,0.0003,0.01
+T13884,Educational Leadership and Practices,5,0,-5,0.0004,0.0,-0.04
+T10272,Mental Health Treatment and Access,1,4,3,0.0001,0.0003,0.03
+T10631,"Cancer, Hypoxia, and Metabolism",5,0,-5,0.0004,0.0,-0.04
+T10242,Posttraumatic Stress Disorder Research,2,3,1,0.0002,0.0003,0.01
+T11580,Veterinary Medicine and Surgery,0,5,5,0.0,0.0004,0.04
+T11692,Noise Effects and Management,2,2,0,0.0002,0.0002,0.0
+T12504,Mathematics and Applications,4,0,-4,0.0003,0.0,-0.03
+T12419,Phonocardiography and Auscultation Techniques,4,0,-4,0.0003,0.0,-0.03
+T13417,Biomedical Ethics and Regulation,4,0,-4,0.0003,0.0,-0.03
+T14510,Medical Imaging and Analysis,3,1,-2,0.0003,0.0001,-0.02
+T12914,Infectious Disease Case Reports and Treatments,4,0,-4,0.0003,0.0,-0.03
+T10580,Immunotherapy and Immune Responses,3,1,-2,0.0003,0.0001,-0.02
+T12539,Pharmacology and Obesity Treatment,3,1,-2,0.0003,0.0001,-0.02
+T12485,"Optimism, Hope, and Well-being",3,1,-2,0.0003,0.0001,-0.02
+T10509,"Religion, Spirituality, and Psychology",2,2,0,0.0002,0.0002,0.0
+T12484,Retinopathy of Prematurity Studies,2,2,0,0.0002,0.0002,0.0
+T12226,Neuroblastoma Research and Treatments,3,1,-2,0.0003,0.0001,-0.02
+T10062,MicroRNA in disease regulation,3,1,-2,0.0003,0.0001,-0.02
+T12441,Porphyrin Metabolism and Disorders,2,2,0,0.0002,0.0002,0.0
+T13381,Heart rate and cardiovascular health,1,3,2,0.0001,0.0003,0.02
+T10345,Hematopoietic Stem Cell Transplantation,1,3,2,0.0001,0.0003,0.02
+T10819,Mercury impact and mitigation studies,2,2,0,0.0002,0.0002,0.0
+T11304,Advanced Neuroimaging Techniques and Applications,1,3,2,0.0001,0.0003,0.02
+T13313,Dupuytren's Contracture and Treatments,3,1,-2,0.0003,0.0001,-0.02
+T10854,Bipolar Disorder and Treatment,1,3,2,0.0001,0.0003,0.02
+T10031,T-cell and B-cell Immunology,1,3,2,0.0001,0.0003,0.02
+T14226,"Migration, Racism, and Human Rights",0,4,4,0.0,0.0003,0.03
+T11353,Venomous Animal Envenomation and Studies,2,2,0,0.0002,0.0002,0.0
+T11265,Aging and Gerontology Research,3,1,-2,0.0003,0.0001,-0.02
+T11688,Microbial infections and disease research,2,2,0,0.0002,0.0002,0.0
+T11775,COVID-19 diagnosis using AI,3,1,-2,0.0003,0.0001,-0.02
+T10971,Olfactory and Sensory Function Studies,3,1,-2,0.0003,0.0001,-0.02
+T12035,Pain Management and Placebo Effect,2,2,0,0.0002,0.0002,0.0
+T10999,Organ Transplantation Techniques and Outcomes,2,2,0,0.0002,0.0002,0.0
+T13569,Microscopic Colitis,3,1,-2,0.0003,0.0001,-0.02
+T10691,Retinal Development and Disorders,2,2,0,0.0002,0.0002,0.0
+T12151,Interpreting and Communication in Healthcare,3,1,-2,0.0003,0.0001,-0.02
+T13289,Infant Health and Development,4,0,-4,0.0003,0.0,-0.03
+T12979,Cardiovascular Disease and Adiposity,4,0,-4,0.0003,0.0,-0.03
+T13393,Child Nutrition and Feeding Issues,4,0,-4,0.0003,0.0,-0.03
+T12500,Reflective Practices in Education,2,2,0,0.0002,0.0002,0.0
+T10648,Virtual Reality Applications and Impacts,2,2,0,0.0002,0.0002,0.0
+T11154,Parasitic infections in humans and animals,1,3,2,0.0001,0.0003,0.02
+T13206,Neonatal skin health care,3,1,-2,0.0003,0.0001,-0.02
+T11792,Pharmaceutical Economics and Policy,1,3,2,0.0001,0.0003,0.02
+T12005,Spaceflight effects on biology,3,1,-2,0.0003,0.0001,-0.02
+T11618,Cholesterol and Lipid Metabolism,2,2,0,0.0002,0.0002,0.0
+T11531,Healthcare Systems and Reforms,3,1,-2,0.0003,0.0001,-0.02
+T10162,Online and Blended Learning,3,1,-2,0.0003,0.0001,-0.02
+T12827,Biochemical and Molecular Research,3,1,-2,0.0003,0.0001,-0.02
+T11631,"Retirement, Disability, and Employment",2,2,0,0.0002,0.0002,0.0
+T11667,Advanced Chemical Sensor Technologies,3,1,-2,0.0003,0.0001,-0.02
+T12608,Spatial Neglect and Hemispheric Dysfunction,2,2,0,0.0002,0.0002,0.0
+T10957,Photodynamic Therapy Research Studies,3,1,-2,0.0003,0.0001,-0.02
+T11026,Occupational and environmental lung diseases,2,2,0,0.0002,0.0002,0.0
+T10596,Child Nutrition and Water Access,2,2,0,0.0002,0.0002,0.0
+T13869,Ocular and Laser Science Research,2,2,0,0.0002,0.0002,0.0
+T11542,Behavioral Health and Interventions,1,3,2,0.0001,0.0003,0.02
+T11132,Psychoanalysis and Psychopathology Research,1,3,2,0.0001,0.0003,0.02
+T14374,Statistical Methods in Epidemiology,0,4,4,0.0,0.0003,0.03
+T13791,Veterinary medicine and infectious diseases,2,2,0,0.0002,0.0002,0.0
+T12494,Alcoholism and Thiamine Deficiency,4,0,-4,0.0003,0.0,-0.03
+T11285,Hearing Impairment and Communication,4,0,-4,0.0003,0.0,-0.03
+T10091,Malaria Research and Control,2,2,0,0.0002,0.0002,0.0
+T13544,Women's cancer prevention and management,3,1,-2,0.0003,0.0001,-0.02
+T13522,Cardiovascular Health and Risk Factors,0,4,4,0.0,0.0003,0.03
+T10565,"Psychopathy, Forensic Psychiatry, Sexual Offending",1,2,1,0.0001,0.0002,0.01
+T11515,Bacillus and Francisella bacterial research,3,0,-3,0.0003,0.0,-0.03
+T13497,Hermeneutics and Narrative Identity,3,0,-3,0.0003,0.0,-0.03
+T12778,History of Medicine and Tropical Health,1,2,1,0.0001,0.0002,0.01
+T12138,Occupational Health and Performance,3,0,-3,0.0003,0.0,-0.03
+T14015,Otitis Media and Relapsing Polychondritis,2,1,-1,0.0002,0.0001,-0.01
+T13574,Family Support in Illness,3,0,-3,0.0003,0.0,-0.03
+T10296,Vector-borne infectious diseases,2,1,-1,0.0002,0.0001,-0.01
+T11684,Vibrio bacteria research studies,3,0,-3,0.0003,0.0,-0.03
+T12232,"Yersinia bacterium, plague, ectoparasites research",1,2,1,0.0001,0.0002,0.01
+T12666,Historical Psychiatry and Medical Practices,2,1,-1,0.0002,0.0001,-0.01
+T10790,Heavy Metal Exposure and Toxicity,1,2,1,0.0001,0.0002,0.01
+T12023,Cholinesterase and Neurodegenerative Diseases,2,1,-1,0.0002,0.0001,-0.01
+T13430,Lipid metabolism and disorders,2,1,-1,0.0002,0.0001,-0.01
+T12372,Art Therapy and Mental Health,2,1,-1,0.0002,0.0001,-0.01
+T11559,Retinoids in leukemia and cellular processes,3,0,-3,0.0003,0.0,-0.03
+T11650,Skin and Cellular Biology Research,1,2,1,0.0001,0.0002,0.01
+T10404,Enzyme Catalysis and Immobilization,0,3,3,0.0,0.0003,0.03
+T11289,Single-cell and spatial transcriptomics,1,2,1,0.0001,0.0002,0.01
+T10349,Migration and Labor Dynamics,2,1,-1,0.0002,0.0001,-0.01
+T11235,Statistical Methods in Clinical Trials,0,3,3,0.0,0.0003,0.03
+T11944,Participatory Visual Research Methods,1,2,1,0.0001,0.0002,0.01
+T10343,"Hydrogels: synthesis, properties, applications",1,2,1,0.0001,0.0002,0.01
+T10489,Regulation of Appetite and Obesity,0,3,3,0.0,0.0003,0.03
+T13726,International Science and Diplomacy,0,3,3,0.0,0.0003,0.03
+T10052,Medical Image Segmentation Techniques,0,3,3,0.0,0.0003,0.03
+T12824,Infections and bacterial resistance,2,1,-1,0.0002,0.0001,-0.01
+T13252,Sex and Gender in Healthcare,0,3,3,0.0,0.0003,0.03
+T11818,Nicotinic Acetylcholine Receptors Study,1,2,1,0.0001,0.0002,0.01
+T13533,Medical Case Reports and Studies,0,3,3,0.0,0.0003,0.03
+T13543,Oropharyngeal Anatomy and Pathologies,0,3,3,0.0,0.0003,0.03
+T11839,Hormonal Regulation and Hypertension,2,1,-1,0.0002,0.0001,-0.01
+T12741,Maternal and Neonatal Healthcare,0,3,3,0.0,0.0003,0.03
+T12245,"Counseling, Therapy, and Family Dynamics",2,1,-1,0.0002,0.0001,-0.01
+T11456,Neuroscience of respiration and sleep,2,1,-1,0.0002,0.0001,-0.01
+T13650,Computational Physics and Python Applications,3,0,-3,0.0003,0.0,-0.03
+T10207,Advanced biosensing and bioanalysis techniques,3,0,-3,0.0003,0.0,-0.03
+T13641,Historical Studies and Socio-cultural Analysis,3,0,-3,0.0003,0.0,-0.03
+T12781,Global Health Care Issues,3,0,-3,0.0003,0.0,-0.03
+T12278,Vascular Tumors and Angiosarcomas,3,0,-3,0.0003,0.0,-0.03
+T10176,Mesenchymal stem cell research,3,0,-3,0.0003,0.0,-0.03
+T13176,Winter Sports Injuries and Performance,3,0,-3,0.0003,0.0,-0.03
+T10875,Pesticide Exposure and Toxicity,3,0,-3,0.0003,0.0,-0.03
+T12173,Body Contouring and Surgery,2,1,-1,0.0002,0.0001,-0.01
+T12194,Cultural Competency in Health Care,1,2,1,0.0001,0.0002,0.01
+T11908,Protein Interaction Studies and Fluorescence Analysis,1,2,1,0.0001,0.0002,0.01
+T12610,RNA regulation and disease,3,0,-3,0.0003,0.0,-0.03
+T11094,Face Recognition and Perception,2,1,-1,0.0002,0.0001,-0.01
+T13280,Biomedical and Engineering Education,3,0,-3,0.0003,0.0,-0.03
+T13323,Spinal Hematomas and Complications,2,1,-1,0.0002,0.0001,-0.01
+T12878,Pharmaceutical Quality and Counterfeiting,2,1,-1,0.0002,0.0001,-0.01
+T10190,Air Quality and Health Impacts,1,2,1,0.0001,0.0002,0.01
+T12505,Peptidase Inhibition and Analysis,2,1,-1,0.0002,0.0001,-0.01
+T13107,Congenital limb and hand anomalies,2,1,-1,0.0002,0.0001,-0.01
+T13097,Male Breast Health Studies,1,2,1,0.0001,0.0002,0.01
+T11670,Pressure Ulcer Prevention and Management,2,1,-1,0.0002,0.0001,-0.01
+T11020,Immune Cell Function and Interaction,2,1,-1,0.0002,0.0001,-0.01
+T10422,Angiogenesis and VEGF in Cancer,2,1,-1,0.0002,0.0001,-0.01
+T13309,Reliability and Agreement in Measurement,1,2,1,0.0001,0.0002,0.01
+T11295,Counseling Practices and Supervision,3,0,-3,0.0003,0.0,-0.03
+T10445,Antioxidant Activity and Oxidative Stress,2,1,-1,0.0002,0.0001,-0.01
+T12492,Zoonotic diseases and public health,1,2,1,0.0001,0.0002,0.01
+T12009,Hedgehog Signaling Pathway Studies,3,0,-3,0.0003,0.0,-0.03
+T10370,Traffic and Road Safety,1,2,1,0.0001,0.0002,0.01
+T12935,Healthcare Systems and Public Health,2,1,-1,0.0002,0.0001,-0.01
+T11144,melanin and skin pigmentation,2,1,-1,0.0002,0.0001,-0.01
+T10934,Heat shock proteins research,2,1,-1,0.0002,0.0001,-0.01
+T12264,Tissue Engineering and Regenerative Medicine,1,2,1,0.0001,0.0002,0.01
+T10166,Mosquito-borne diseases and control,1,2,1,0.0001,0.0002,0.01
+T11552,"Global trade, sustainability, and social impact",0,3,3,0.0,0.0003,0.03
+T13813,Oral and Craniofacial Lesions,0,3,3,0.0,0.0003,0.03
+T12075,Sodium Intake and Health,0,3,3,0.0,0.0003,0.03
+T13474,Autobiographical and Biographical Writing,0,3,3,0.0,0.0003,0.03
+T12006,Ergonomics and Musculoskeletal Disorders,0,3,3,0.0,0.0003,0.03
+T11632,Family and Disability Support Research,2,1,-1,0.0002,0.0001,-0.01
+T12041,Public Health Policies and Education,2,1,-1,0.0002,0.0001,-0.01
+T14126,Intramuscular injections and effects,1,2,1,0.0001,0.0002,0.01
+T14240,E-Learning and COVID-19,1,1,0,0.0001,0.0001,0.0
+T12820,Chromatin Remodeling and Cancer,1,1,0,0.0001,0.0001,0.0
+T12633,Legal case studies and regulations,2,0,-2,0.0002,0.0,-0.02
+T10063,Nanoparticle-Based Drug Delivery,1,1,0,0.0001,0.0001,0.0
+T12299,Radiation Shielding Materials Analysis,2,0,-2,0.0002,0.0,-0.02
+T10211,Computational Drug Discovery Methods,1,1,0,0.0001,0.0001,0.0
+T14286,Parkinson's Disease and Spinal Disorders,2,0,-2,0.0002,0.0,-0.02
+T10925,Spinal Cord Injury Research,1,1,0,0.0001,0.0001,0.0
+T12051,Diversity and Impact of Dance,2,0,-2,0.0002,0.0,-0.02
+T13199,Digestive system and related health,2,0,-2,0.0002,0.0,-0.02
+T10007,Monetary Policy and Economic Impact,1,1,0,0.0001,0.0001,0.0
+T10809,Occupational Health and Safety Research,2,0,-2,0.0002,0.0,-0.02
+T12010,Evaluation and Performance Assessment,2,0,-2,0.0002,0.0,-0.02
+T10782,Nanoplatforms for cancer theranostics,2,0,-2,0.0002,0.0,-0.02
+T11715,Education and Critical Thinking Development,1,1,0,0.0001,0.0001,0.0
+T12281,Animal testing and alternatives,2,0,-2,0.0002,0.0,-0.02
+T13385,Infectious Diseases and Mycology,2,0,-2,0.0002,0.0,-0.02
+T10483,Nerve injury and regeneration,1,1,0,0.0001,0.0001,0.0
+T13481,Neurological diseases and metabolism,1,1,0,0.0001,0.0001,0.0
+T10888,Augmented Reality Applications,1,1,0,0.0001,0.0001,0.0
+T13060,Adventure Sports and Sensation Seeking,2,0,-2,0.0002,0.0,-0.02
+T13338,Pharmacological Effects and Assays,2,0,-2,0.0002,0.0,-0.02
+T13270,QR Code Applications and Technologies,1,1,0,0.0001,0.0001,0.0
+T10872,Veterinary Equine Medical Research,1,1,0,0.0001,0.0001,0.0
+T12054,Menstrual Health and Disorders,1,1,0,0.0001,0.0001,0.0
+T11526,Innovative Teaching Methods,2,0,-2,0.0002,0.0,-0.02
+T10992,Forensic Anthropology and Bioarchaeology Studies,1,1,0,0.0001,0.0001,0.0
+T10106,Autism Spectrum Disorder Research,1,1,0,0.0001,0.0001,0.0
+T11510,Reproductive System and Pregnancy,1,1,0,0.0001,0.0001,0.0
+T10985,Sleep and Wakefulness Research,2,0,-2,0.0002,0.0,-0.02
+T10419,Pharmaceutical and Antibiotic Environmental Impacts,1,1,0,0.0001,0.0001,0.0
+T11756,Mentoring and Academic Development,1,1,0,0.0001,0.0001,0.0
+T13561,Chemical Reactions and Isotopes,2,0,-2,0.0002,0.0,-0.02
+T11556,"Poverty, Education, and Child Welfare",1,1,0,0.0001,0.0001,0.0
+T11131,Proteoglycans and glycosaminoglycans research,2,0,-2,0.0002,0.0,-0.02
+T11852,Clay minerals and soil interactions,1,1,0,0.0001,0.0001,0.0
+T10519,Advanced Proteomics Techniques and Applications,1,1,0,0.0001,0.0001,0.0
+T12831,School Health and Nursing Education,2,0,-2,0.0002,0.0,-0.02
+T11679,Craniofacial Disorders and Treatments,1,1,0,0.0001,0.0001,0.0
+T13409,Paleopathology and ancient diseases,1,1,0,0.0001,0.0001,0.0
+T10336,Cancer Cells and Metastasis,1,1,0,0.0001,0.0001,0.0
+T10269,Epigenetics and DNA Methylation,1,1,0,0.0001,0.0001,0.0
+T13455,"Decadence, Literature, and Society",1,1,0,0.0001,0.0001,0.0
+T12140,Renal and related cancers,1,1,0,0.0001,0.0001,0.0
+T11899,"Brucella: diagnosis, epidemiology, treatment",1,1,0,0.0001,0.0001,0.0
+T12649,Alkaloids: synthesis and pharmacology,1,1,0,0.0001,0.0001,0.0
+T10759,Translation Studies and Practices,0,2,2,0.0,0.0002,0.02
+T11120,Nonprofit Sector and Volunteering,0,2,2,0.0,0.0002,0.02
+T13586,"HIV, TB, and STIs Epidemiology",0,2,2,0.0,0.0002,0.02
+T10515,Cancer-related molecular mechanisms research,1,1,0,0.0001,0.0001,0.0
+T13117,Health Education and Validation,0,2,2,0.0,0.0002,0.02
+T11189,Transplantation: Methods and Outcomes,0,2,2,0.0,0.0002,0.02
+T11332,"Genomics, phytochemicals, and oxidative stress",1,1,0,0.0001,0.0001,0.0
+T12962,Nephrotoxicity and Medicinal Plants,1,1,0,0.0001,0.0001,0.0
+T10866,Nutritional Studies and Diet,1,1,0,0.0001,0.0001,0.0
+T12830,Pectus Deformity Diagnosis and Treatment,1,1,0,0.0001,0.0001,0.0
+T10257,Oral microbiology and periodontitis research,1,1,0,0.0001,0.0001,0.0
+T11492,Academic integrity and plagiarism,0,2,2,0.0,0.0002,0.02
+T11996,Random lasers and scattering media,1,1,0,0.0001,0.0001,0.0
+T13921,Biological Stains and Phytochemicals,1,1,0,0.0001,0.0001,0.0
+T13656,"Science, Research, and Medicine",1,1,0,0.0001,0.0001,0.0
+T12534,Protein Degradation and Inhibitors,1,1,0,0.0001,0.0001,0.0
+T13657,Aortic Thrombus and Embolism,1,1,0,0.0001,0.0001,0.0
+T14093,Global Health and Epidemiology,0,2,2,0.0,0.0002,0.02
+T13397,Hallucinations in medical conditions,1,1,0,0.0001,0.0001,0.0
+T12833,Bartonella species infections research,1,1,0,0.0001,0.0001,0.0
+T10853,"Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",1,1,0,0.0001,0.0001,0.0
+T11047,Gender Diversity and Inequality,1,1,0,0.0001,0.0001,0.0
+T11487,Automotive and Human Injury Biomechanics,0,2,2,0.0,0.0002,0.02
+T13923,Nuclear and radioactivity studies,1,1,0,0.0001,0.0001,0.0
+T12070,Writing and Handwriting Education,1,1,0,0.0001,0.0001,0.0
+T10528,"Adipokines, Inflammation, and Metabolic Diseases",1,1,0,0.0001,0.0001,0.0
+T13207,Youth Substance Use and School Attendance,1,1,0,0.0001,0.0001,0.0
+T11048,Bacteriophages and microbial interactions,1,1,0,0.0001,0.0001,0.0
+T13495,Biographical and Historical Analysis,0,2,2,0.0,0.0002,0.02
+T13108,Therapeutic Uses of Natural Elements,1,1,0,0.0001,0.0001,0.0
+T11089,Radioactive contamination and transfer,2,0,-2,0.0002,0.0,-0.02
+T14514,Medical Research and Practices,2,0,-2,0.0002,0.0,-0.02
+T13600,Science Education and Perceptions,2,0,-2,0.0002,0.0,-0.02
+T14393,"Health, Environment, Cognitive Aging",2,0,-2,0.0002,0.0,-0.02
+T12405,Characterization and Applications of Magnetic Nanoparticles,2,0,-2,0.0002,0.0,-0.02
+T11399,Muscle metabolism and nutrition,2,0,-2,0.0002,0.0,-0.02
+T13943,Beetle Biology and Toxicology Studies,2,0,-2,0.0002,0.0,-0.02
+T14378,Entomological Studies and Ecology,2,0,-2,0.0002,0.0,-0.02
+T10781,Plasma Diagnostics and Applications,2,0,-2,0.0002,0.0,-0.02
+T14313,Health and Well-being Studies,2,0,-2,0.0002,0.0,-0.02
+T10604,RNA Research and Splicing,2,0,-2,0.0002,0.0,-0.02
+T13689,Underground infrastructure and sustainability,2,0,-2,0.0002,0.0,-0.02
+T14144,Neurological Disease Mechanisms and Treatments,2,0,-2,0.0002,0.0,-0.02
+T12157,Geochemistry and Geologic Mapping,2,0,-2,0.0002,0.0,-0.02
+T10583,Cancer-related Molecular Pathways,2,0,-2,0.0002,0.0,-0.02
+T14186,Healthcare Systems and Practices,2,0,-2,0.0002,0.0,-0.02
+T10426,Child Abuse and Trauma,2,0,-2,0.0002,0.0,-0.02
+T10605,Historical Economic and Social Studies,2,0,-2,0.0002,0.0,-0.02
+T13738,Congenital Ear and Nasal Anomalies,2,0,-2,0.0002,0.0,-0.02
+T12284,Emotional Labor in Professions,1,1,0,0.0001,0.0001,0.0
+T12996,Cancer Research and Treatments,1,1,0,0.0001,0.0001,0.0
+T13091,Human Health and Disease,2,0,-2,0.0002,0.0,-0.02
+T13095,Plant-based Medicinal Research,2,0,-2,0.0002,0.0,-0.02
+T12011,"Insurance, Mortality, Demography, Risk Management",1,1,0,0.0001,0.0001,0.0
+T14072,Immunotoxicology and immune responses,2,0,-2,0.0002,0.0,-0.02
+T10432,DNA and Nucleic Acid Chemistry,2,0,-2,0.0002,0.0,-0.02
+T12796,Dermatological and COVID-19 studies,2,0,-2,0.0002,0.0,-0.02
+T12755,Legal Education and Practice Innovations,2,0,-2,0.0002,0.0,-0.02
+T14415,Biomedical Research and Pathophysiology,1,1,0,0.0001,0.0001,0.0
+T11569,Optical Coherence Tomography Applications,1,1,0,0.0001,0.0001,0.0
+T11137,Historical Philosophy and Science,2,0,-2,0.0002,0.0,-0.02
+T11159,Manufacturing Process and Optimization,2,0,-2,0.0002,0.0,-0.02
+T12315,Older Adults Driving Studies,2,0,-2,0.0002,0.0,-0.02
+T10136,Statistical Methods and Inference,2,0,-2,0.0002,0.0,-0.02
+T14509,demographic modeling and climate adaptation,2,0,-2,0.0002,0.0,-0.02
+T11084,Workplace Health and Well-being,1,1,0,0.0001,0.0001,0.0
+T10797,Accounting and Organizational Management,1,1,0,0.0001,0.0001,0.0
+T11028,Social Work Education and Practice,1,1,0,0.0001,0.0001,0.0
+T11541,Neuroendocrine regulation and behavior,2,0,-2,0.0002,0.0,-0.02
+T11706,Forensic Entomology and Diptera Studies,1,1,0,0.0001,0.0001,0.0
+T11357,Risk and Safety Analysis,2,0,-2,0.0002,0.0,-0.02
+T12604,Glycogen Storage Diseases and Myoclonus,2,0,-2,0.0002,0.0,-0.02
+T10123,DNA Repair Mechanisms,1,1,0,0.0001,0.0001,0.0
+T14238,Historical Gender and Feminism Studies,2,0,-2,0.0002,0.0,-0.02
+T13648,Cerebrovascular and genetic disorders,1,1,0,0.0001,0.0001,0.0
+T10355,Impact of Technology on Adolescents,2,0,-2,0.0002,0.0,-0.02
+T11581,Viral Infections and Outbreaks Research,2,0,-2,0.0002,0.0,-0.02
+T13861,Health and Lifestyle Studies,2,0,-2,0.0002,0.0,-0.02
+T11336,Energy and Environment Impacts,2,0,-2,0.0002,0.0,-0.02
+T14101,Financial Crisis of the 21st Century,2,0,-2,0.0002,0.0,-0.02
+T13426,Kruppel-like factors research,1,1,0,0.0001,0.0001,0.0
+T10958,Ultrasound and Hyperthermia Applications,1,1,0,0.0001,0.0001,0.0
+T12480,Health and Wellbeing Research,1,1,0,0.0001,0.0001,0.0
+T13453,Alkaline Phosphatase Research Studies,1,1,0,0.0001,0.0001,0.0
+T12335,"Sexuality, Behavior, and Technology",1,1,0,0.0001,0.0001,0.0
+T11155,Toxoplasma gondii Research Studies,1,1,0,0.0001,0.0001,0.0
+T11665,Animal Vocal Communication and Behavior,1,1,0,0.0001,0.0001,0.0
+T10813,Sport Psychology and Performance,1,1,0,0.0001,0.0001,0.0
+T12207,Assistive Technology in Communication and Mobility,0,2,2,0.0,0.0002,0.02
+T13673,Library Science and Information,0,2,2,0.0,0.0002,0.02
+T13319,Film in Education and Therapy,0,2,2,0.0,0.0002,0.02
+T13695,"Aging, Elder Care, and Social Issues",0,2,2,0.0,0.0002,0.02
+T10727,Ultrasound Imaging and Elastography,0,2,2,0.0,0.0002,0.02
+T12400,Neurogenetic and Muscular Disorders Research,2,0,-2,0.0002,0.0,-0.02
+T12951,Burkholderia infections and melioidosis,1,1,0,0.0001,0.0001,0.0
+T10946,Radioactivity and Radon Measurements,1,1,0,0.0001,0.0001,0.0
+T11793,"Recreation, Leisure, Wilderness Management",1,1,0,0.0001,0.0001,0.0
+T13036,Veterinary Practice and Education Studies,2,0,-2,0.0002,0.0,-0.02
+T11482,RNA modifications and cancer,2,0,-2,0.0002,0.0,-0.02
+T13149,Organizational Change and Leadership,1,1,0,0.0001,0.0001,0.0
+T11386,Bee Products Chemical Analysis,1,1,0,0.0001,0.0001,0.0
+T11142,Advanced Glycation End Products research,0,2,2,0.0,0.0002,0.02
+T12704,Stress and Burnout Research,0,2,2,0.0,0.0002,0.02
+T11687,Teleoperation and Haptic Systems,0,2,2,0.0,0.0002,0.02
+T11517,Advanced optical system design,0,2,2,0.0,0.0002,0.02
+T11023,Prosthetics and Rehabilitation Robotics,0,2,2,0.0,0.0002,0.02
+T10081,"Auditing, Earnings Management, Governance",0,2,2,0.0,0.0002,0.02
+T12047,Viral Infections and Vectors,0,2,2,0.0,0.0002,0.02
+T12244,Healthcare Education and Workforce Issues,0,2,2,0.0,0.0002,0.02
+T11380,Child Welfare and Adoption,0,2,2,0.0,0.0002,0.02
+T10722,Work-Family Balance Challenges,0,2,2,0.0,0.0002,0.02
+T11219,Bone Metabolism and Diseases,0,2,2,0.0,0.0002,0.02
+T13998,"History, Medicine, and Leadership",0,2,2,0.0,0.0002,0.02
+T14356,Organizational Leadership and Management Strategies,0,2,2,0.0,0.0002,0.02
+T12932,Powder Metallurgy Techniques and Materials,1,0,-1,0.0001,0.0,-0.01
+T10783,Additive Manufacturing and 3D Printing Technologies,1,0,-1,0.0001,0.0,-0.01
+T12215,Phytochemical Studies and Bioactivities,1,0,-1,0.0001,0.0,-0.01
+T14164,Marine and Offshore Engineering Studies,1,0,-1,0.0001,0.0,-0.01
+T12159,T-cell and Retrovirus Studies,1,0,-1,0.0001,0.0,-0.01
+T10826,Behavioral and Psychological Studies,1,0,-1,0.0001,0.0,-0.01
+T12732,Agriculture and Farm Safety,1,0,-1,0.0001,0.0,-0.01
+T11831,Chemical Synthesis and Reactions,1,0,-1,0.0001,0.0,-0.01
+T13984,"Nutrition, Genetics, and Disease",1,0,-1,0.0001,0.0,-0.01
+T11890,Scientific Measurement and Uncertainty Evaluation,1,0,-1,0.0001,0.0,-0.01
+T11466,Innovative Education and Learning Practices,1,0,-1,0.0001,0.0,-0.01
+T11653,Financial Distress and Bankruptcy Prediction,1,0,-1,0.0001,0.0,-0.01
+T12863,Web and Library Services,1,0,-1,0.0001,0.0,-0.01
+T12797,History of Computing Technologies,1,0,-1,0.0001,0.0,-0.01
+T10017,Geology and Paleoclimatology Research,1,0,-1,0.0001,0.0,-0.01
+T11445,Origins and Evolution of Life,1,0,-1,0.0001,0.0,-0.01
+T10079,Nanoparticles: synthesis and applications,1,0,-1,0.0001,0.0,-0.01
+T11103,Antimicrobial Peptides and Activities,1,0,-1,0.0001,0.0,-0.01
+T13071,Digital Storytelling and Education,1,0,-1,0.0001,0.0,-0.01
+T11503,Cytokine Signaling Pathways and Interactions,1,0,-1,0.0001,0.0,-0.01
+T12868,Photography and Visual Culture,1,0,-1,0.0001,0.0,-0.01
+T12975,Paraoxonase enzyme and polymorphisms,1,0,-1,0.0001,0.0,-0.01
+T13332,"Historical Studies on Reproduction, Gender, Health, and Societal Changes",1,0,-1,0.0001,0.0,-0.01
+T12081,Aerodynamics and Fluid Dynamics Research,1,0,-1,0.0001,0.0,-0.01
+T11677,Congenital heart defects research,1,0,-1,0.0001,0.0,-0.01
+T10054,Parallel Computing and Optimization Techniques,1,0,-1,0.0001,0.0,-0.01
+T11994,Human Resource Development and Performance Evaluation,1,0,-1,0.0001,0.0,-0.01
+T12982,Legal principles and applications,1,0,-1,0.0001,0.0,-0.01
+T13702,Machine Learning in Healthcare,1,0,-1,0.0001,0.0,-0.01
+T13445,American Constitutional Law and Politics,1,0,-1,0.0001,0.0,-0.01
+T10318,Criminal Justice and Corrections Analysis,1,0,-1,0.0001,0.0,-0.01
+T11228,Bat Biology and Ecology Studies,1,0,-1,0.0001,0.0,-0.01
+T11809,Advanced NMR Techniques and Applications,1,0,-1,0.0001,0.0,-0.01
+T10538,Data Mining Algorithms and Applications,1,0,-1,0.0001,0.0,-0.01
+T10403,Phonetics and Phonology Research,1,0,-1,0.0001,0.0,-0.01
+T10251,Solar and Space Plasma Dynamics,1,0,-1,0.0001,0.0,-0.01
+T12593,Communication in Education and Healthcare,1,0,-1,0.0001,0.0,-0.01
+T12943,COVID-19 Digital Contact Tracing,1,0,-1,0.0001,0.0,-0.01
+T11443,Advanced Statistical Process Monitoring,1,0,-1,0.0001,0.0,-0.01
+T13913,Blockchain Technology in Education and Learning,1,0,-1,0.0001,0.0,-0.01
+T11211,3D Surveying and Cultural Heritage,1,0,-1,0.0001,0.0,-0.01
+T13888,Social Policies and Family,1,0,-1,0.0001,0.0,-0.01
+T10857,Advanced Electron Microscopy Techniques and Applications,1,0,-1,0.0001,0.0,-0.01
+T11434,Electrochemical Analysis and Applications,1,0,-1,0.0001,0.0,-0.01
+T12956,Asian Geopolitics and Ethnography,1,0,-1,0.0001,0.0,-0.01
+T13462,Spanish Philosophy and Literature,1,0,-1,0.0001,0.0,-0.01
+T14506,Historical and Architectural Studies,1,0,-1,0.0001,0.0,-0.01
+T12076,Renaissance and Early Modern Studies,1,0,-1,0.0001,0.0,-0.01
+T11063,Rough Sets and Fuzzy Logic,1,0,-1,0.0001,0.0,-0.01
+T11470,Legume Nitrogen Fixing Symbiosis,1,0,-1,0.0001,0.0,-0.01
+T13800,Earthquake and Disaster Impact Studies,1,0,-1,0.0001,0.0,-0.01
+T13410,Immune responses and vaccinations,1,0,-1,0.0001,0.0,-0.01
+T10415,International Business and FDI,1,0,-1,0.0001,0.0,-0.01
+T10900,Listeria monocytogenes in Food Safety,1,0,-1,0.0001,0.0,-0.01
+T10784,Muscle activation and electromyography studies,1,0,-1,0.0001,0.0,-0.01
+T12970,"Names, Identity, and Discrimination Research",1,0,-1,0.0001,0.0,-0.01
+T12558,Wittgensteinian philosophy and applications,1,0,-1,0.0001,0.0,-0.01
+T10154,Customer Service Quality and Loyalty,1,0,-1,0.0001,0.0,-0.01
+T13160,Synthesis and Biological Evaluation,1,0,-1,0.0001,0.0,-0.01
+T11149,Veterinary Oncology Research,1,0,-1,0.0001,0.0,-0.01
+T11786,Geomagnetism and Paleomagnetism Studies,1,0,-1,0.0001,0.0,-0.01
+T10360,Fluid Dynamics and Turbulent Flows,1,0,-1,0.0001,0.0,-0.01
+T11175,Gyrotron and Vacuum Electronics Research,1,0,-1,0.0001,0.0,-0.01
+T13143,Child Therapy and Development,1,0,-1,0.0001,0.0,-0.01
+T13048,Patient Dignity and Privacy,1,0,-1,0.0001,0.0,-0.01
+T10730,Language Development and Disorders,1,0,-1,0.0001,0.0,-0.01
+T10589,Early Childhood Education and Development,1,0,-1,0.0001,0.0,-0.01
+T13114,Image Processing Techniques and Applications,1,0,-1,0.0001,0.0,-0.01
+T13405,Educational Assessment and Improvement,1,0,-1,0.0001,0.0,-0.01
+T10077,Neuroscience and Neuropharmacology Research,1,0,-1,0.0001,0.0,-0.01
+T14406,Multidisciplinary Science and Engineering Research,1,0,-1,0.0001,0.0,-0.01
+T13775,Hydrogen's biological and therapeutic effects,1,0,-1,0.0001,0.0,-0.01
+T12236,Photoreceptor and optogenetics research,1,0,-1,0.0001,0.0,-0.01
+T12569,Restless Legs Syndrome Research,1,0,-1,0.0001,0.0,-0.01
+T10876,Fault Detection and Control Systems,1,0,-1,0.0001,0.0,-0.01
+T11913,Animal Ecology and Behavior Studies,1,0,-1,0.0001,0.0,-0.01
+T13175,Historical Astronomy and Related Studies,1,0,-1,0.0001,0.0,-0.01
+T10346,Magnetic confinement fusion research,1,0,-1,0.0001,0.0,-0.01
+T11745,Potato Plant Research,1,0,-1,0.0001,0.0,-0.01
+T13026,Natural Compounds in Disease Treatment,1,0,-1,0.0001,0.0,-0.01
+T12104,Protein Tyrosine Phosphatases,1,0,-1,0.0001,0.0,-0.01
+T13796,Neurological Disorders and Treatments,1,0,-1,0.0001,0.0,-0.01
+T11472,Analytical Chemistry and Sensors,1,0,-1,0.0001,0.0,-0.01
+T10683,Mass Spectrometry Techniques and Applications,1,0,-1,0.0001,0.0,-0.01
+T13163,Organizational Learning and Leadership,1,0,-1,0.0001,0.0,-0.01
+T11140,Natural Antidiabetic Agents Studies,1,0,-1,0.0001,0.0,-0.01
+T14208,"Death, Funerary Practices, and Mourning",0,1,1,0.0,0.0001,0.01
+T13112,Nutrition and Health Studies,0,1,1,0.0,0.0001,0.01
+T14388,Medieval European History and Architecture,0,1,1,0.0,0.0001,0.01
+T10042,Neural and Behavioral Psychology Studies,0,1,1,0.0,0.0001,0.01
+T10270,Blockchain Technology Applications and Security,0,1,1,0.0,0.0001,0.01
+T13979,Communication and COVID-19 Impact,0,1,1,0.0,0.0001,0.01
+T12417,Morphological variations and asymmetry,0,1,1,0.0,0.0001,0.01
+T14277,Social Skills and Education,0,1,1,0.0,0.0001,0.01
+T11331,Fecal contamination and water quality,0,1,1,0.0,0.0001,0.01
+T12413,Health and Medical Education,0,1,1,0.0,0.0001,0.01
+T11532,Chemokine receptors and signaling,0,1,1,0.0,0.0001,0.01
+T12444,"Art, Politics, and Modernism",0,1,1,0.0,0.0001,0.01
+T14199,Historical and Scientific Studies,0,1,1,0.0,0.0001,0.01
+T14136,Education and Military Integration,0,1,1,0.0,0.0001,0.01
+T13173,Gender Studies in Language,0,1,1,0.0,0.0001,0.01
+T13005,Religious Studies and Spiritual Practices,0,1,1,0.0,0.0001,0.01
+T10348,"Indigenous Health, Education, and Rights",0,1,1,0.0,0.0001,0.01
+T12912,"Shakespeare, Adaptation, and Literary Criticism",0,1,1,0.0,0.0001,0.01
+T13226,Appreciative Inquiry and Organizational Change,0,1,1,0.0,0.0001,0.01
+T14055,Consumer Packaging Perceptions and Trends,0,1,1,0.0,0.0001,0.01
+T10016,Adsorption and biosorption for pollutant removal,0,1,1,0.0,0.0001,0.01
+T12130,Contemporary Literature and Criticism,0,1,1,0.0,0.0001,0.01
+T10661,biodegradable polymer synthesis and properties,0,1,1,0.0,0.0001,0.01
+T12349,Food Chemistry and Fat Analysis,0,1,1,0.0,0.0001,0.01
+T11421,Labor Movements and Unions,0,1,1,0.0,0.0001,0.01
+T13131,Collaborative Teaching and Inclusion,0,1,1,0.0,0.0001,0.01
+T10639,Advanced Software Engineering Methodologies,0,1,1,0.0,0.0001,0.01
+T10791,Advanced Control Systems Optimization,1,0,-1,0.0001,0.0,-0.01
+T10049,Magnetic properties of thin films,1,0,-1,0.0001,0.0,-0.01
+T12735,Blood donation and transfusion practices,1,0,-1,0.0001,0.0,-0.01
+T11383,Advanced Antenna and Metasurface Technologies,1,0,-1,0.0001,0.0,-0.01
+T12321,Insect Pheromone Research and Control,1,0,-1,0.0001,0.0,-0.01
+T11072,Peroxisome Proliferator-Activated Receptors,1,0,-1,0.0001,0.0,-0.01
+T10259,Sociology and Education Studies,1,0,-1,0.0001,0.0,-0.01
+T13113,Engineering Technology and Methodologies,1,0,-1,0.0001,0.0,-0.01
+T12733,Vector-Borne Animal Diseases,1,0,-1,0.0001,0.0,-0.01
+T12722,Innovation Policy and R&D,1,0,-1,0.0001,0.0,-0.01
+T13194,ICT in Developing Communities,1,0,-1,0.0001,0.0,-0.01
+T13165,Agricultural safety and regulations,1,0,-1,0.0001,0.0,-0.01
+T14311,Electrical and Electromagnetic Research,1,0,-1,0.0001,0.0,-0.01
+T11480,Connexins and lens biology,1,0,-1,0.0001,0.0,-0.01
+T13213,Mechanical Failure Analysis and Simulation,1,0,-1,0.0001,0.0,-0.01
+T12980,Family Caregiving in Mental Illness,1,0,-1,0.0001,0.0,-0.01
+T10434,Chromosomal and Genetic Variations,1,0,-1,0.0001,0.0,-0.01
+T14142,Multicultural Socio-Legal Studies,1,0,-1,0.0001,0.0,-0.01
+T13877,Law in Society and Culture,1,0,-1,0.0001,0.0,-0.01
+T12265,Gun Ownership and Violence Research,1,0,-1,0.0001,0.0,-0.01
+T12060,Child Development and Digital Technology,1,0,-1,0.0001,0.0,-0.01
+T12223,Leptospirosis research and findings,1,0,-1,0.0001,0.0,-0.01
+T13605,"Homicide, Infanticide, and Child Abuse",1,0,-1,0.0001,0.0,-0.01
+T14106,Environmental and Sediment Control,1,0,-1,0.0001,0.0,-0.01
+T10799,Data Visualization and Analytics,1,0,-1,0.0001,0.0,-0.01
+T10215,Semantic Web and Ontologies,1,0,-1,0.0001,0.0,-0.01
+T10385,Plant Diversity and Evolution,1,0,-1,0.0001,0.0,-0.01
+T12872,Philippine History and Culture,1,0,-1,0.0001,0.0,-0.01
+T12836,History and Developments in Astronomy,1,0,-1,0.0001,0.0,-0.01
+T13638,Human auditory perception and evaluation,1,0,-1,0.0001,0.0,-0.01
+T12220,Quantum Electrodynamics and Casimir Effect,1,0,-1,0.0001,0.0,-0.01
+T12125,Aerospace and Aviation Technology,1,0,-1,0.0001,0.0,-0.01
+T14065,Biological Research and Disease Studies,1,0,-1,0.0001,0.0,-0.01
+T11848,Heme Oxygenase-1 and Carbon Monoxide,1,0,-1,0.0001,0.0,-0.01
+T12771,Plant pathogens and resistance mechanisms,1,0,-1,0.0001,0.0,-0.01
+T12801,Bluetooth and Wireless Communication Technologies,1,0,-1,0.0001,0.0,-0.01
+T14156,Engineering Applied Research,1,0,-1,0.0001,0.0,-0.01
+T12779,Public Procurement and Policy,1,0,-1,0.0001,0.0,-0.01
+T10571,Robotic Mechanisms and Dynamics,1,0,-1,0.0001,0.0,-0.01
+T12747,Moyamoya disease diagnosis and treatment,1,0,-1,0.0001,0.0,-0.01
+T11888,Gender Roles and Identity Studies,1,0,-1,0.0001,0.0,-0.01
+T13978,Foreign Language Teaching Methods,1,0,-1,0.0001,0.0,-0.01
+T14358,Healthcare Quality and Satisfaction,1,0,-1,0.0001,0.0,-0.01
+T14325,Diverse Specialized Academic Research,1,0,-1,0.0001,0.0,-0.01
+T12530,Bioactive Natural Diterpenoids Research,1,0,-1,0.0001,0.0,-0.01
+T12300,Advanced Electrical Measurement Techniques,1,0,-1,0.0001,0.0,-0.01
+T10828,Biometric Identification and Security,1,0,-1,0.0001,0.0,-0.01
+T12537,Flow Measurement and Analysis,1,0,-1,0.0001,0.0,-0.01
+T11499,ICT Impact and Policies,1,0,-1,0.0001,0.0,-0.01
+T12337,Italian Fascism and Post-war Society,1,0,-1,0.0001,0.0,-0.01
+T13283,Mental Health Research Topics,1,0,-1,0.0001,0.0,-0.01
+T10614,Transcranial Magnetic Stimulation Studies,1,0,-1,0.0001,0.0,-0.01
+T12693,"Migration, Ethnicity, and Economy",1,0,-1,0.0001,0.0,-0.01
+T10738,Posthumanist Ethics and Activism,1,0,-1,0.0001,0.0,-0.01
+T10465,Neurobiology of Language and Bilingualism,1,0,-1,0.0001,0.0,-0.01
+T10815,Parasite Biology and Host Interactions,1,0,-1,0.0001,0.0,-0.01
+T13599,Architecture and Cultural Influences,1,0,-1,0.0001,0.0,-0.01
+T13459,Public Administration and Political Analysis,1,0,-1,0.0001,0.0,-0.01
+T10733,Wheat and Barley Genetics and Pathology,1,0,-1,0.0001,0.0,-0.01
+T12465,"Cancer, Lipids, and Metabolism",1,0,-1,0.0001,0.0,-0.01
+T14334,HIV/AIDS Impact and Responses,1,0,-1,0.0001,0.0,-0.01
+T10778,Philosophy and History of Science,1,0,-1,0.0001,0.0,-0.01
+T11925,Culinary Culture and Tourism,1,0,-1,0.0001,0.0,-0.01
+T10753,Microplastics and Plastic Pollution,1,0,-1,0.0001,0.0,-0.01
+T10628,China's Socioeconomic Reforms and Governance,1,0,-1,0.0001,0.0,-0.01
+T12030,S100 Proteins and Annexins,1,0,-1,0.0001,0.0,-0.01
+T13139,Polish Legal and Social Issues,1,0,-1,0.0001,0.0,-0.01
+T10064,Complex Network Analysis Techniques,1,0,-1,0.0001,0.0,-0.01
+T13388,Rangeland and Wildlife Management,1,0,-1,0.0001,0.0,-0.01
+T11212,Cultural Heritage Materials Analysis,1,0,-1,0.0001,0.0,-0.01
+T12026,Explainable Artificial Intelligence (XAI),1,0,-1,0.0001,0.0,-0.01
+T14242,"Nutrition, Health, and Society Studies",1,0,-1,0.0001,0.0,-0.01
+T10594,Genetic and phenotypic traits in livestock,1,0,-1,0.0001,0.0,-0.01
+T12586,"Folklore, Mythology, and Literature Studies",1,0,-1,0.0001,0.0,-0.01
+T11423,Pesticide Residue Analysis and Safety,1,0,-1,0.0001,0.0,-0.01
+T11668,interferon and immune responses,1,0,-1,0.0001,0.0,-0.01
+T10433,Carcinogens and Genotoxicity Assessment,1,0,-1,0.0001,0.0,-0.01
+T12908,"Media, Gender, and Advertising",1,0,-1,0.0001,0.0,-0.01
+T10656,Child and Animal Learning Development,1,0,-1,0.0001,0.0,-0.01
+T13157,Cancer-related gene regulation,1,0,-1,0.0001,0.0,-0.01
+T12170,History and Theory of Mathematics,1,0,-1,0.0001,0.0,-0.01
+T10973,Radioactive element chemistry and processing,1,0,-1,0.0001,0.0,-0.01
+T10597,Nuclear reactor physics and engineering,1,0,-1,0.0001,0.0,-0.01
+T11385,Natural product bioactivities and synthesis,1,0,-1,0.0001,0.0,-0.01
+T14120,Thallium and Germanium Studies,1,0,-1,0.0001,0.0,-0.01
+T10103,Reading and Literacy Development,1,0,-1,0.0001,0.0,-0.01
+T11418,Plant Micronutrient Interactions and Effects,1,0,-1,0.0001,0.0,-0.01
+T11959,Employment and Welfare Studies,1,0,-1,0.0001,0.0,-0.01
+T12983,Satellite Image Processing and Photogrammetry,1,0,-1,0.0001,0.0,-0.01
+T11993,Atomic and Subatomic Physics Research,1,0,-1,0.0001,0.0,-0.01
+T11615,Control and Dynamics of Mobile Robots,1,0,-1,0.0001,0.0,-0.01
+T12527,Chemistry and Stereochemistry Studies,1,0,-1,0.0001,0.0,-0.01
+T11150,Endoplasmic Reticulum Stress and Disease,1,0,-1,0.0001,0.0,-0.01
+T12884,Educational Assessment and Pedagogy,1,0,-1,0.0001,0.0,-0.01
+T12362,Tribology and Wear Analysis,1,0,-1,0.0001,0.0,-0.01
+T10704,Advancements in Transdermal Drug Delivery,1,0,-1,0.0001,0.0,-0.01
+T10699,Primate Behavior and Ecology,1,0,-1,0.0001,0.0,-0.01
+T12683,Studies on Chitinases and Chitosanases,1,0,-1,0.0001,0.0,-0.01
+T13928,Advanced Sensor Technologies Research,1,0,-1,0.0001,0.0,-0.01
+T12770,Amino Acid Enzymes and Metabolism,1,0,-1,0.0001,0.0,-0.01
+T12745,Dietary Effects on Health,1,0,-1,0.0001,0.0,-0.01
+T13908,Scientific and Historical Analyses,1,0,-1,0.0001,0.0,-0.01
+T10889,Soil erosion and sediment transport,1,0,-1,0.0001,0.0,-0.01
+T11308,Sphingolipid Metabolism and Signaling,1,0,-1,0.0001,0.0,-0.01
+T10289,European Union Policy and Governance,1,0,-1,0.0001,0.0,-0.01
+T12477,Toxin Mechanisms and Immunotoxins,1,0,-1,0.0001,0.0,-0.01
+T14409,Educational Systems and Policies,1,0,-1,0.0001,0.0,-0.01
+T11540,"Gender, Feminism, and Media",1,0,-1,0.0001,0.0,-0.01
+T12211,Aluminum toxicity and tolerance in plants and animals,1,0,-1,0.0001,0.0,-0.01
+T14283,Diverse Academic Research Areas,1,0,-1,0.0001,0.0,-0.01
+T11180,Pesticide and Herbicide Environmental Studies,1,0,-1,0.0001,0.0,-0.01
+T12751,Leadership and Management in Organizations,1,0,-1,0.0001,0.0,-0.01
+T12438,Urticaria and Related Conditions,1,0,-1,0.0001,0.0,-0.01
+T12128,AI in Service Interactions,1,0,-1,0.0001,0.0,-0.01
+T12044,Advanced Physical and Chemical Molecular Interactions,1,0,-1,0.0001,0.0,-0.01
+T13007,Economic Sanctions and International Relations,1,0,-1,0.0001,0.0,-0.01
+T11863,"Gender, Security, and Conflict",1,0,-1,0.0001,0.0,-0.01
+T13576,"Cyprus History, Politics, Society",1,0,-1,0.0001,0.0,-0.01
+T14165,Inflammation biomarkers and pathways,1,0,-1,0.0001,0.0,-0.01
+T12227,Environmental and Social Impact Assessments,1,0,-1,0.0001,0.0,-0.01
+T10252,Microbial Natural Products and Biosynthesis,1,0,-1,0.0001,0.0,-0.01
+T13454,Phenothiazines and Benzothiazines Synthesis and Activities,1,0,-1,0.0001,0.0,-0.01
+T11425,Diverse Music Education Insights,1,0,-1,0.0001,0.0,-0.01
+T12873,"Nutrition, Health and Food Behavior",1,0,-1,0.0001,0.0,-0.01
+T12521,Death Anxiety and Social Exclusion,1,0,-1,0.0001,0.0,-0.01
+T11986,Scientific Computing and Data Management,1,0,-1,0.0001,0.0,-0.01
+T13158,Political and Economic history of UK and US,1,0,-1,0.0001,0.0,-0.01
+T11597,"Neutrophil, Myeloperoxidase and Oxidative Mechanisms",1,0,-1,0.0001,0.0,-0.01
+T13188,Synthesis and bioactivity of alkaloids,1,0,-1,0.0001,0.0,-0.01
+T12816,Global Public Health Policies and Epidemiology,1,0,-1,0.0001,0.0,-0.01
+T10677,Attachment and Relationship Dynamics,1,0,-1,0.0001,0.0,-0.01
+T11209,Cardiovascular and exercise physiology,1,0,-1,0.0001,0.0,-0.01
+T14209,Public health and occupational medicine,1,0,-1,0.0001,0.0,-0.01
+T12964,"Diet, Metabolism, and Disease",1,0,-1,0.0001,0.0,-0.01
+T11126,Metallurgical Processes and Thermodynamics,1,0,-1,0.0001,0.0,-0.01
+T12394,Insurance and Financial Risk Management,1,0,-1,0.0001,0.0,-0.01
+T10407,Lipid Membrane Structure and Behavior,1,0,-1,0.0001,0.0,-0.01
+T11736,Histone Deacetylase Inhibitors Research,1,0,-1,0.0001,0.0,-0.01
+T10525,Human-Automation Interaction and Safety,1,0,-1,0.0001,0.0,-0.01
+T12859,Cell Image Analysis Techniques,1,0,-1,0.0001,0.0,-0.01
+T10379,Cellular Mechanics and Interactions,1,0,-1,0.0001,0.0,-0.01
+T10546,Higher Education Governance and Development,1,0,-1,0.0001,0.0,-0.01
+T11737,Advanced Materials and Mechanics,1,0,-1,0.0001,0.0,-0.01
+T12929,Animal Genetics and Reproduction,1,0,-1,0.0001,0.0,-0.01
+T12942,Cultural Studies and Postmodernism,1,0,-1,0.0001,0.0,-0.01
+T10911,Chemical Synthesis and Analysis,1,0,-1,0.0001,0.0,-0.01
+T10383,"Language, Discourse, Communication Strategies",1,0,-1,0.0001,0.0,-0.01
+T13834,Whipple's Disease and Interleukins,1,0,-1,0.0001,0.0,-0.01
+T10212,Electrochemical sensors and biosensors,1,0,-1,0.0001,0.0,-0.01
+T11948,Machine Learning in Materials Science,1,0,-1,0.0001,0.0,-0.01
+T10724,Ion Transport and Channel Regulation,1,0,-1,0.0001,0.0,-0.01
+T11124,Protein purification and stability,1,0,-1,0.0001,0.0,-0.01
+T12712,Myofascial pain diagnosis and treatment,1,0,-1,0.0001,0.0,-0.01
+T12767,Conflict of Laws and Jurisdiction,1,0,-1,0.0001,0.0,-0.01
+T12346,Phytochemistry and biological activity of medicinal plants,1,0,-1,0.0001,0.0,-0.01
+T14520,Sustainable Urban and Rural Development,1,0,-1,0.0001,0.0,-0.01
+T11626,Metalloenzymes and iron-sulfur proteins,1,0,-1,0.0001,0.0,-0.01
+T12694,"Categorization, perception, and language",1,0,-1,0.0001,0.0,-0.01
+T12412,Enzyme function and inhibition,1,0,-1,0.0001,0.0,-0.01
+T13164,Quality and Management Systems,1,0,-1,0.0001,0.0,-0.01
+T13447,Educational and Psychological Assessments,1,0,-1,0.0001,0.0,-0.01
+T12449,Spacecraft Design and Technology,1,0,-1,0.0001,0.0,-0.01
+T13116,Heat Transfer and Numerical Methods,1,0,-1,0.0001,0.0,-0.01
+T13214,Powdery Mildew Fungal Diseases,1,0,-1,0.0001,0.0,-0.01
+T13866,Occupational health in dentistry,1,0,-1,0.0001,0.0,-0.01
+T11584,Biochemical Analysis and Sensing Techniques,1,0,-1,0.0001,0.0,-0.01
+T12445,Twentieth Century Scientific Developments,1,0,-1,0.0001,0.0,-0.01
+T13681,Engineering and Information Technology,1,0,-1,0.0001,0.0,-0.01
+T11147,Misinformation and Its Impacts,0,1,1,0.0,0.0001,0.01
+T10362,Biblical Studies and Interpretation,0,1,1,0.0,0.0001,0.01
+T10121,Building Energy and Comfort Optimization,0,1,1,0.0,0.0001,0.01
+T11714,Multimodal Machine Learning Applications,0,1,1,0.0,0.0001,0.01
+T11657,Digital and Traditional Archives Management,0,1,1,0.0,0.0001,0.01
+T10036,Advanced Neural Network Applications,0,1,1,0.0,0.0001,0.01
+T10768,Electric Vehicles and Infrastructure,0,1,1,0.0,0.0001,0.01
+T14333,Dermatoglyphics and Human Traits,0,1,1,0.0,0.0001,0.01
+T12766,Interdisciplinary Research and Collaboration,0,1,1,0.0,0.0001,0.01
+T11905,Veterinary Pharmacology and Anesthesia,0,1,1,0.0,0.0001,0.01
+T10747,Disaster Management and Resilience,0,1,1,0.0,0.0001,0.01
+T13922,Historical Art and Culture Studies,0,1,1,0.0,0.0001,0.01
+T11835,Sustainability in Higher Education,0,1,1,0.0,0.0001,0.01
+T11019,Image Enhancement Techniques,0,1,1,0.0,0.0001,0.01
+T13004,Vitamin K Research Studies,0,1,1,0.0,0.0001,0.01
+T10539,Sustainable Supply Chain Management,0,1,1,0.0,0.0001,0.01
+T12276,Risk Management in Financial Firms,0,1,1,0.0,0.0001,0.01
+T10011,"Literature: history, themes, analysis",0,1,1,0.0,0.0001,0.01
+T12731,Hidradenitis Suppurativa and Treatments,0,1,1,0.0,0.0001,0.01
+T10574,Crime Patterns and Interventions,0,1,1,0.0,0.0001,0.01
+T13633,Public Health and Social Inequalities,0,1,1,0.0,0.0001,0.01
+T13201,Infectious Encephalopathies and Encephalitis,0,1,1,0.0,0.0001,0.01
+T14259,Legal Rights and Human Rights,0,1,1,0.0,0.0001,0.01
+T10653,Robot Manipulation and Learning,0,1,1,0.0,0.0001,0.01
+T12615,Climate Change and Geoengineering,0,1,1,0.0,0.0001,0.01
+T14185,"Research, Science, and Academia",0,1,1,0.0,0.0001,0.01
+T11193,Adenosine and Purinergic Signaling,0,1,1,0.0,0.0001,0.01
+T13075,Legal Systems and Judicial Processes,0,1,1,0.0,0.0001,0.01
+T11003,Disability Rights and Representation,0,1,1,0.0,0.0001,0.01
+T10851,Optical Wireless Communication Technologies,1,0,-1,0.0001,0.0,-0.01
+T13205,Geological and Geophysical Studies Worldwide,1,0,-1,0.0001,0.0,-0.01
+T13844,Higher Education Learning Practices,1,0,-1,0.0001,0.0,-0.01
+T10298,Urban Transport and Accessibility,1,0,-1,0.0001,0.0,-0.01
+T13365,Medical and Biological Ozone Research,1,0,-1,0.0001,0.0,-0.01
+T12720,Multimedia Communication and Technology,1,0,-1,0.0001,0.0,-0.01
+T12032,Multisensory perception and integration,1,0,-1,0.0001,0.0,-0.01
+T11712,Intergenerational Family Dynamics and Caregiving,1,0,-1,0.0001,0.0,-0.01
+T14304,Transport Systems and Technology,1,0,-1,0.0001,0.0,-0.01
+T12783,"Migration, Aging, and Tourism Studies",1,0,-1,0.0001,0.0,-0.01
+T12467,Rangeland Management and Livestock Ecology,1,0,-1,0.0001,0.0,-0.01
+T11447,Blind Source Separation Techniques,1,0,-1,0.0001,0.0,-0.01
+T12289,Library Science and Administration,1,0,-1,0.0001,0.0,-0.01
+T11985,Marine Toxins and Detection Methods,1,0,-1,0.0001,0.0,-0.01
+T14431,Diverse Research and Applications,1,0,-1,0.0001,0.0,-0.01
+T12525,Australian History and Society,1,0,-1,0.0001,0.0,-0.01
+T12584,Hospitality and Tourism Education,1,0,-1,0.0001,0.0,-0.01
+T14370,"Economic, Social, and Health Studies",1,0,-1,0.0001,0.0,-0.01
+T13532,Education Systems and Policy,1,0,-1,0.0001,0.0,-0.01
+T11146,Hormonal and reproductive studies,1,0,-1,0.0001,0.0,-0.01
+T10472,Semiconductor materials and devices,1,0,-1,0.0001,0.0,-0.01
+T13184,Research in Social Sciences,1,0,-1,0.0001,0.0,-0.01
+T14344,Pathogenesis and Treatment of Hiccups,1,0,-1,0.0001,0.0,-0.01
+T11971,"World Wars: History, Literature, and Impact",0,1,1,0.0,0.0001,0.01
+T10613,Virus-based gene therapy research,0,1,1,0.0,0.0001,0.01
+T11696,Conflict Management and Negotiation,0,1,1,0.0,0.0001,0.01
+T13590,"Oral History, Memory, Narrative Analysis",0,1,1,0.0,0.0001,0.01
+T10338,Advanced Sensor and Energy Harvesting Materials,0,1,1,0.0,0.0001,0.01
+T12844,Psychology and Mental Health,0,1,1,0.0,0.0001,0.01
+T10626,High-Temperature Coating Behaviors,0,1,1,0.0,0.0001,0.01
+T10342,Circadian rhythm and melatonin,0,1,1,0.0,0.0001,0.01
+T13516,Publishing and Scholarly Communication,0,1,1,0.0,0.0001,0.01
+T14245,Biomarkers in Disease Mechanisms,0,1,1,0.0,0.0001,0.01
+T13076,"Torture, Ethics, and Law",0,1,1,0.0,0.0001,0.01
+T12635,African studies and sociopolitical issues,0,1,1,0.0,0.0001,0.01
+T14002,"Art, Technology, and Culture",0,1,1,0.0,0.0001,0.01
+T10540,Advanced Fluorescence Microscopy Techniques,0,1,1,0.0,0.0001,0.01
+T12354,Innovations in Educational Methods,0,1,1,0.0,0.0001,0.01
+T10664,Sentiment Analysis and Opinion Mining,0,1,1,0.0,0.0001,0.01
+T11957,Food Safety and Hygiene,0,1,1,0.0,0.0001,0.01
+T11236,Control Systems and Identification,0,1,1,0.0,0.0001,0.01
+T10258,Philosophy and Theoretical Science,0,1,1,0.0,0.0001,0.01
+T11279,Lanthanide and Transition Metal Complexes,0,1,1,0.0,0.0001,0.01
+T11484,Adaptive optics and wavefront sensing,0,1,1,0.0,0.0001,0.01
+T13315,Occupational Health and Safety in Workplaces,0,1,1,0.0,0.0001,0.01
+T11488,Climate Change Communication and Perception,0,1,1,0.0,0.0001,0.01
+T12948,Inclusion and Disability in Education and Sport,0,1,1,0.0,0.0001,0.01
+T11695,South African History and Culture,0,1,1,0.0,0.0001,0.01
+T11346,Mast cells and histamine,0,1,1,0.0,0.0001,0.01
+T10120,Bacterial Genetics and Biotechnology,0,1,1,0.0,0.0001,0.01
+T14230,Occupational and Professional Licensing Regulation,0,1,1,0.0,0.0001,0.01
+T13503,"Gender, Health, and Social Inequality",0,1,1,0.0,0.0001,0.01
+T12196,Community Health and Development,0,1,1,0.0,0.0001,0.01
+T11747,Metal-Catalyzed Oxygenation Mechanisms,0,1,1,0.0,0.0001,0.01
+T11015,Down syndrome and intellectual disability research,0,1,1,0.0,0.0001,0.01
+T14511,"Medicine, History, and Philosophy",0,1,1,0.0,0.0001,0.01
+T13779,Cancer Mechanisms and Therapy,0,1,1,0.0,0.0001,0.01
+T11977,Technology Use by Older Adults,0,1,1,0.0,0.0001,0.01

@@ -1,0 +1,246 @@
+topic_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+T10190,Air Quality and Health Impacts,24,31,7,0.0649,0.0833,1.85
+T10235,Health disparities and outcomes,18,13,-5,0.0486,0.0349,-1.37
+T11987,COVID-19 Impact on Reproduction,12,10,-2,0.0324,0.0269,-0.56
+T10118,SARS-CoV-2 and COVID-19 Research,8,8,0,0.0216,0.0215,-0.01
+T13702,Machine Learning in Healthcare,6,9,3,0.0162,0.0242,0.8
+T11692,Noise Effects and Management,8,5,-3,0.0216,0.0134,-0.82
+T12013,Sustainable Development and Environmental Policy,4,8,4,0.0108,0.0215,1.07
+T12011,"Insurance, Mortality, Demography, Risk Management",4,7,3,0.0108,0.0188,0.8
+T10410,COVID-19 epidemiological studies,3,8,5,0.0081,0.0215,1.34
+T10589,Early Childhood Education and Development,2,8,6,0.0054,0.0215,1.61
+T10368,Dental Health and Care Utilization,5,5,0,0.0135,0.0134,-0.01
+T10290,Pregnancy and preeclampsia studies,6,4,-2,0.0162,0.0108,-0.55
+T10556,Global Cancer Incidence and Screening,5,4,-1,0.0135,0.0108,-0.28
+T10261,Genetic Associations and Epidemiology,3,6,3,0.0081,0.0161,0.8
+T11895,Social and Cultural Dynamics,3,5,2,0.0081,0.0134,0.53
+T10600,Reproductive Health and Contraception,3,5,2,0.0081,0.0134,0.53
+T11645,"Urban, Neighborhood, and Segregation Studies",3,5,2,0.0081,0.0134,0.53
+T10605,Historical Economic and Social Studies,3,4,1,0.0081,0.0108,0.26
+T10673,Gestational Diabetes Research and Management,6,1,-5,0.0162,0.0027,-1.35
+T11539,Survey Methodology and Nonresponse,1,6,5,0.0027,0.0161,1.34
+T13546,Census and Population Estimation,4,3,-1,0.0108,0.0081,-0.27
+T11742,Economic Theory and Policy,2,5,3,0.0054,0.0134,0.8
+T10435,Environmental Impact and Sustainability,4,3,-1,0.0108,0.0081,-0.27
+T10064,Complex Network Analysis Techniques,2,5,3,0.0054,0.0134,0.8
+T12021,Social and Educational Sciences,6,0,-6,0.0162,0.0,-1.62
+T11510,Reproductive System and Pregnancy,2,4,2,0.0054,0.0108,0.53
+T10114,"Balance, Gait, and Falls Prevention",2,4,2,0.0054,0.0108,0.53
+T11937,Research Data Management Practices,1,5,4,0.0027,0.0134,1.07
+T10446,"Income, Poverty, and Inequality",1,5,4,0.0027,0.0134,1.07
+T10007,Monetary Policy and Economic Impact,5,1,-4,0.0135,0.0027,-1.08
+T10453,Maternal and Perinatal Health Interventions,2,4,2,0.0054,0.0108,0.53
+T11368,Long-Term Effects of COVID-19,3,3,0,0.0081,0.0081,-0.0
+T14509,demographic modeling and climate adaptation,6,0,-6,0.0162,0.0,-1.62
+T11631,"Retirement, Disability, and Employment",4,1,-3,0.0108,0.0027,-0.81
+T14173,"Education, Healthcare and Sociology Research",5,0,-5,0.0135,0.0,-1.35
+T10349,Migration and Labor Dynamics,1,4,3,0.0027,0.0108,0.8
+T10393,Economic Growth and Productivity,2,3,1,0.0054,0.0081,0.27
+T11084,Workplace Health and Well-being,3,2,-1,0.0081,0.0054,-0.27
+T11296,COVID-19 and healthcare impacts,4,1,-3,0.0108,0.0027,-0.81
+T10585,Family Dynamics and Relationships,3,2,-1,0.0081,0.0054,-0.27
+T10208,Labor market dynamics and wage inequality,0,5,5,0.0,0.0134,1.34
+T11875,Statistics Education and Methodologies,3,2,-1,0.0081,0.0054,-0.27
+T12088,Intergenerational and Educational Inequality Studies,1,3,2,0.0027,0.0081,0.54
+T10517,"Financial Literacy, Pension, Retirement Analysis",3,1,-2,0.0081,0.0027,-0.54
+T12502,Urbanization and City Planning,4,0,-4,0.0108,0.0,-1.08
+T11629,"Birth, Development, and Health",2,2,0,0.0054,0.0054,-0.0
+T10552,Colorectal Cancer Screening and Detection,2,2,0,0.0054,0.0054,-0.0
+T11388,"Grief, Bereavement, and Mental Health",2,2,0,0.0054,0.0054,-0.0
+T11964,Pregnancy and Medication Impact,1,3,2,0.0027,0.0081,0.54
+T10785,Economic Theory and Institutions,2,2,0,0.0054,0.0054,-0.0
+T12781,Global Health Care Issues,3,1,-2,0.0081,0.0027,-0.54
+T10937,"Telomeres, Telomerase, and Senescence",2,2,0,0.0054,0.0054,-0.0
+T10209,Global Maternal and Child Health,2,2,0,0.0054,0.0054,-0.0
+T10471,Climate Change Policy and Economics,3,1,-2,0.0081,0.0027,-0.54
+T10496,Pharmaceutical Practices and Patient Outcomes,1,3,2,0.0027,0.0081,0.54
+T11577,Cognitive Abilities and Testing,3,1,-2,0.0081,0.0027,-0.54
+T14400,Medical Coding and Health Information,1,3,2,0.0027,0.0081,0.54
+T10178,Cancer survivorship and care,2,2,0,0.0054,0.0054,-0.0
+T10676,"Genetics, Aging, and Longevity in Model Organisms",1,3,2,0.0027,0.0081,0.54
+T11719,Data Quality and Management,0,4,4,0.0,0.0108,1.08
+T13184,Research in Social Sciences,3,0,-3,0.0081,0.0,-0.81
+T10674,School Choice and Performance,1,2,1,0.0027,0.0054,0.27
+T10009,Dementia and Cognitive Impairment Research,1,2,1,0.0027,0.0054,0.27
+T10443,Social Policy and Reform Studies,2,1,-1,0.0054,0.0027,-0.27
+T11290,Preterm Birth and Chorioamnionitis,3,0,-3,0.0081,0.0,-0.81
+T11026,Occupational and environmental lung diseases,2,1,-1,0.0054,0.0027,-0.27
+T10116,Sperm and Testicular Function,1,2,1,0.0027,0.0054,0.27
+T12916,COVID-19 impact on air quality,2,1,-1,0.0054,0.0027,-0.27
+T10029,Climate variability and models,1,2,1,0.0027,0.0054,0.27
+T11389,Maternal and fetal healthcare,1,2,1,0.0027,0.0054,0.27
+T11732,Assisted Reproductive Technology and Twin Pregnancy,1,2,1,0.0027,0.0054,0.27
+T10357,Efficiency Analysis Using DEA,1,2,1,0.0027,0.0054,0.27
+T10102,scientometrics and bibliometrics research,1,2,1,0.0027,0.0054,0.27
+T14051,Regional Economic and Spatial Analysis,0,3,3,0.0,0.0081,0.81
+T12741,Maternal and Neonatal Healthcare,0,3,3,0.0,0.0081,0.81
+T10557,Social Media and Politics,3,0,-3,0.0081,0.0,-0.81
+T10841,Economic and Environmental Valuation,2,0,-2,0.0054,0.0,-0.54
+T10137,Multiple Sclerosis Research Studies,1,1,0,0.0027,0.0027,-0.0
+T10352,Physical Activity and Health,1,1,0,0.0027,0.0027,-0.0
+T12096,Ectopic Pregnancy Diagnosis and Management,2,0,-2,0.0054,0.0,-0.54
+T13042,Economic and Fiscal Studies,1,1,0,0.0027,0.0027,-0.0
+T11404,Irrigation Practices and Water Management,1,1,0,0.0027,0.0027,-0.0
+T10692,Urban Green Space and Health,1,1,0,0.0027,0.0027,-0.0
+T12137,Economic theories and models,2,0,-2,0.0054,0.0,-0.54
+T11959,Employment and Welfare Studies,1,1,0,0.0027,0.0027,-0.0
+T10330,Hydrology and Watershed Management Studies,1,1,0,0.0027,0.0027,-0.0
+T11348,Celiac Disease Research and Management,1,1,0,0.0027,0.0027,-0.0
+T14393,"Health, Environment, Cognitive Aging",1,1,0,0.0027,0.0027,-0.0
+T10981,Cytomegalovirus and herpesvirus research,1,1,0,0.0027,0.0027,-0.0
+T10128,Global trade and economics,1,1,0,0.0027,0.0027,-0.0
+T10760,Pancreatitis Pathology and Treatment,1,1,0,0.0027,0.0027,-0.0
+T11097,Cerebral Palsy and Movement Disorders,1,1,0,0.0027,0.0027,-0.0
+T10953,E-Government and Public Services,0,2,2,0.0,0.0054,0.54
+T10560,Diabetes Management and Research,1,1,0,0.0027,0.0027,-0.0
+T10167,Influenza Virus Research Studies,1,1,0,0.0027,0.0027,-0.0
+T13170,Discrimination and Equality Law,1,1,0,0.0027,0.0027,-0.0
+T10622,Quantum Mechanics and Applications,1,1,0,0.0027,0.0027,-0.0
+T13030,Survey Sampling and Estimation Techniques,1,1,0,0.0027,0.0027,-0.0
+T10537,Attention Deficit Hyperactivity Disorder,1,1,0,0.0027,0.0027,-0.0
+T10263,Eating Disorders and Behaviors,1,1,0,0.0027,0.0027,-0.0
+T12643,Sustainability and Ecological Systems Analysis,0,2,2,0.0,0.0054,0.54
+T12289,Library Science and Administration,0,2,2,0.0,0.0054,0.54
+T10845,Advanced Causal Inference Techniques,1,1,0,0.0027,0.0027,-0.0
+T13710,European and International Law Studies,2,0,-2,0.0054,0.0,-0.54
+T13593,Historical and Archaeological Studies,2,0,-2,0.0054,0.0,-0.54
+T12246,Chronic Disease Management Strategies,2,0,-2,0.0054,0.0,-0.54
+T10201,Speech Recognition and Synthesis,1,1,0,0.0027,0.0027,-0.0
+T11184,Neonatal and fetal brain pathology,1,1,0,0.0027,0.0027,-0.0
+T11711,COVID-19 Pandemic Impacts,1,1,0,0.0027,0.0027,-0.0
+T11642,Genomics and Rare Diseases,1,1,0,0.0027,0.0027,-0.0
+T11871,Advanced Statistical Methods and Models,2,0,-2,0.0054,0.0,-0.54
+T14320,Optics and Image Analysis,2,0,-2,0.0054,0.0,-0.54
+T11834,Liver Diseases and Immunity,1,1,0,0.0027,0.0027,-0.0
+T12033,Agricultural Economics and Policy,2,0,-2,0.0054,0.0,-0.54
+T11805,Agricultural economics and policies,0,2,2,0.0,0.0054,0.54
+T13141,Statistical Methods and Applications,0,2,2,0.0,0.0054,0.54
+T14405,Fisheries and Aquaculture Studies,0,2,2,0.0,0.0054,0.54
+T10065,Atrial Fibrillation Management and Outcomes,1,1,0,0.0027,0.0027,-0.0
+T11239,Social Capital and Networks,1,1,0,0.0027,0.0027,-0.0
+T13673,Library Science and Information,0,2,2,0.0,0.0054,0.54
+T12935,Healthcare Systems and Public Health,0,2,2,0.0,0.0054,0.54
+T10632,Housing Market and Economics,0,2,2,0.0,0.0054,0.54
+T10213,Public Policy and Administration Research,0,2,2,0.0,0.0054,0.54
+T14249,Water Quality Monitoring and Analysis,1,0,-1,0.0027,0.0,-0.27
+T12783,"Migration, Aging, and Tourism Studies",1,0,-1,0.0027,0.0,-0.27
+T11770,Fiscal Policy and Economic Growth,1,0,-1,0.0027,0.0,-0.27
+T10762,"Migration, Health and Trauma",1,0,-1,0.0027,0.0,-0.27
+T12961,Regional Development and Policy,1,0,-1,0.0027,0.0,-0.27
+T11141,Childhood Cancer Survivors' Quality of Life,1,0,-1,0.0027,0.0,-0.27
+T11464,Homelessness and Social Issues,1,0,-1,0.0027,0.0,-0.27
+T13825,Economic Policies and Impacts,1,0,-1,0.0027,0.0,-0.27
+T13439,Transport and Economic Policies,1,0,-1,0.0027,0.0,-0.27
+T10401,Diabetes Treatment and Management,1,0,-1,0.0027,0.0,-0.27
+T13989,Labour Market and Migration,1,0,-1,0.0027,0.0,-0.27
+T10466,Meteorological Phenomena and Simulations,1,0,-1,0.0027,0.0,-0.27
+T11541,Neuroendocrine regulation and behavior,1,0,-1,0.0027,0.0,-0.27
+T13920,Urban Planning and Valuation,1,0,-1,0.0027,0.0,-0.27
+T10804,"Health Systems, Economic Evaluations, Quality of Life",1,0,-1,0.0027,0.0,-0.27
+T13975,"Energy, Economy, and Technology Trends",1,0,-1,0.0027,0.0,-0.27
+T10596,Child Nutrition and Water Access,1,0,-1,0.0027,0.0,-0.27
+T10866,Nutritional Studies and Diet,1,0,-1,0.0027,0.0,-0.27
+T13396,Agriculture and Rural Development Research,1,0,-1,0.0027,0.0,-0.27
+T10085,Parkinson's Disease Mechanisms and Treatments,1,0,-1,0.0027,0.0,-0.27
+T13689,Underground infrastructure and sustainability,1,0,-1,0.0027,0.0,-0.27
+T14039,Ecology and biodiversity studies,1,0,-1,0.0027,0.0,-0.27
+T14094,Italy: Economic History and Contemporary Issues,1,0,-1,0.0027,0.0,-0.27
+T13910,Computational and Text Analysis Methods,1,0,-1,0.0027,0.0,-0.27
+T11710,Biomedical Text Mining and Ontologies,1,0,-1,0.0027,0.0,-0.27
+T11147,Misinformation and Its Impacts,1,0,-1,0.0027,0.0,-0.27
+T10168,COVID-19 and Mental Health,0,1,1,0.0,0.0027,0.27
+T13503,"Gender, Health, and Social Inequality",0,1,1,0.0,0.0027,0.27
+T11122,Online Learning and Analytics,0,1,1,0.0,0.0027,0.27
+T11552,"Global trade, sustainability, and social impact",0,1,1,0.0,0.0027,0.27
+T10968,Statistical Distribution Estimation and Applications,0,1,1,0.0,0.0027,0.27
+T10950,Acute Lymphoblastic Leukemia research,0,1,1,0.0,0.0027,0.27
+T10694,Menopause: Health Impacts and Treatments,0,1,1,0.0,0.0027,0.27
+T10236,Aquatic Ecosystems and Phytoplankton Dynamics,0,1,1,0.0,0.0027,0.27
+T14222,Knowledge Management and Technology,0,1,1,0.0,0.0027,0.27
+T10177,Palliative Care and End-of-Life Issues,0,1,1,0.0,0.0027,0.27
+T11499,ICT Impact and Policies,0,1,1,0.0,0.0027,0.27
+T10101,Cloud Computing and Resource Management,0,1,1,0.0,0.0027,0.27
+T12738,Corporate Identity and Reputation,0,1,1,0.0,0.0027,0.27
+T10751,Forensic and Genetic Research,0,1,1,0.0,0.0027,0.27
+T12779,Public Procurement and Policy,1,0,-1,0.0027,0.0,-0.27
+T10978,Prenatal Screening and Diagnostics,1,0,-1,0.0027,0.0,-0.27
+T13984,"Nutrition, Genetics, and Disease",1,0,-1,0.0027,0.0,-0.27
+T11405,Geophysics and Gravity Measurements,1,0,-1,0.0027,0.0,-0.27
+T13252,Sex and Gender in Healthcare,1,0,-1,0.0027,0.0,-0.27
+T14226,"Migration, Racism, and Human Rights",1,0,-1,0.0027,0.0,-0.27
+T11891,Big Data and Business Intelligence,1,0,-1,0.0027,0.0,-0.27
+T11040,Personality Traits and Psychology,1,0,-1,0.0027,0.0,-0.27
+T10121,Building Energy and Comfort Optimization,1,0,-1,0.0027,0.0,-0.27
+T10342,Circadian rhythm and melatonin,1,0,-1,0.0027,0.0,-0.27
+T13812,AI and HR Technologies,1,0,-1,0.0027,0.0,-0.27
+T11120,Nonprofit Sector and Volunteering,1,0,-1,0.0027,0.0,-0.27
+T10715,Distributed and Parallel Computing Systems,1,0,-1,0.0027,0.0,-0.27
+T10346,Magnetic confinement fusion research,1,0,-1,0.0027,0.0,-0.27
+T13594,Healthcare innovation and challenges,1,0,-1,0.0027,0.0,-0.27
+T11824,Injury Epidemiology and Prevention,1,0,-1,0.0027,0.0,-0.27
+T11171,Diabetes and associated disorders,1,0,-1,0.0027,0.0,-0.27
+T11542,Behavioral Health and Interventions,1,0,-1,0.0027,0.0,-0.27
+T13586,"HIV, TB, and STIs Epidemiology",1,0,-1,0.0027,0.0,-0.27
+T12698,3D Modeling in Geospatial Applications,1,0,-1,0.0027,0.0,-0.27
+T11980,Human Mobility and Location-Based Analysis,1,0,-1,0.0027,0.0,-0.27
+T12230,Cardiovascular Issues in Pregnancy,1,0,-1,0.0027,0.0,-0.27
+T10032,Marine and coastal ecosystems,1,0,-1,0.0027,0.0,-0.27
+T13377,Ecosystem dynamics and resilience,1,0,-1,0.0027,0.0,-0.27
+T13883,Child and Adolescent Health,1,0,-1,0.0027,0.0,-0.27
+T14030,Taxation and Legal Issues,1,0,-1,0.0027,0.0,-0.27
+T14166,European Monetary and Fiscal Policies,1,0,-1,0.0027,0.0,-0.27
+T11373,Sleep and Work-Related Fatigue,1,0,-1,0.0027,0.0,-0.27
+T12159,T-cell and Retrovirus Studies,1,0,-1,0.0027,0.0,-0.27
+T13497,Hermeneutics and Narrative Identity,1,0,-1,0.0027,0.0,-0.27
+T11474,Sport and Mega-Event Impacts,1,0,-1,0.0027,0.0,-0.27
+T11676,Parental Involvement in Education,1,0,-1,0.0027,0.0,-0.27
+T13407,Regional Development and Management Studies,1,0,-1,0.0027,0.0,-0.27
+T13173,Gender Studies in Language,1,0,-1,0.0027,0.0,-0.27
+T13068,Ancient Mediterranean Archaeology and History,1,0,-1,0.0027,0.0,-0.27
+T12746,Sustainable Industrial Ecology,1,0,-1,0.0027,0.0,-0.27
+T11396,Artificial Intelligence in Healthcare,1,0,-1,0.0027,0.0,-0.27
+T14212,Health Promotion and Cardiovascular Prevention,1,0,-1,0.0027,0.0,-0.27
+T11303,Bayesian Modeling and Causal Inference,1,0,-1,0.0027,0.0,-0.27
+T10227,Acute Ischemic Stroke Management,1,0,-1,0.0027,0.0,-0.27
+T12127,Software System Performance and Reliability,1,0,-1,0.0027,0.0,-0.27
+T11118,Evolutionary Psychology and Human Behavior,1,0,-1,0.0027,0.0,-0.27
+T10185,Lymphoma Diagnosis and Treatment,1,0,-1,0.0027,0.0,-0.27
+T10060,Smoking Behavior and Cessation,0,1,1,0.0,0.0027,0.27
+T10243,Statistical Methods and Bayesian Inference,0,1,1,0.0,0.0027,0.27
+T14374,Statistical Methods in Epidemiology,0,1,1,0.0,0.0027,0.27
+T13976,Web visibility and informetrics,0,1,1,0.0,0.0027,0.27
+T10364,Reproductive Biology and Fertility,0,1,1,0.0,0.0027,0.27
+T10055,Diverse Aspects of Tourism Research,0,1,1,0.0,0.0027,0.27
+T13084,Education during COVID-19 pandemic,0,1,1,0.0,0.0027,0.27
+T10019,Corporate Finance and Governance,1,0,-1,0.0027,0.0,-0.27
+T10392,Cutaneous Melanoma Detection and Management,1,0,-1,0.0027,0.0,-0.27
+T11257,Taxation and Compliance Studies,1,0,-1,0.0027,0.0,-0.27
+T11712,Intergenerational Family Dynamics and Caregiving,1,0,-1,0.0027,0.0,-0.27
+T11914,PARP inhibition in cancer therapy,1,0,-1,0.0027,0.0,-0.27
+T14503,"Globalization, Economics, and Policies",0,1,1,0.0,0.0027,0.27
+T10115,Corporate Social Responsibility Reporting,0,1,1,0.0,0.0027,0.27
+T13061,Literacy and Educational Practices,0,1,1,0.0,0.0027,0.27
+T11753,Forest Management and Policy,0,1,1,0.0,0.0027,0.27
+T14317,"Finance, Markets, and Regulation",0,1,1,0.0,0.0027,0.27
+T12121,Cooperative Studies and Economics,0,1,1,0.0,0.0027,0.27
+T13366,Accounting Theory and Financial Reporting,0,1,1,0.0,0.0027,0.27
+T10292,Acute Myocardial Infarction Research,0,1,1,0.0,0.0027,0.27
+T11410,Cultural Industries and Urban Development,0,1,1,0.0,0.0027,0.27
+T13911,"Employment, Labor, and Gender Studies",0,1,1,0.0,0.0027,0.27
+T10329,Thyroid Cancer Diagnosis and Treatment,0,1,1,0.0,0.0027,0.27
+T12908,"Media, Gender, and Advertising",0,1,1,0.0,0.0027,0.27
+T12428,Global Trade and Competitiveness,0,1,1,0.0,0.0027,0.27
+T10285,Venous Thromboembolism Diagnosis and Management,0,1,1,0.0,0.0027,0.27
+T12896,Sustainable Agricultural Systems Analysis,0,1,1,0.0,0.0027,0.27
+T10836,Metabolomics and Mass Spectrometry Studies,0,1,1,0.0,0.0027,0.27
+T11156,Reproductive Health and Technologies,0,1,1,0.0,0.0027,0.27
+T14201,Data Analysis and Archiving,0,1,1,0.0,0.0027,0.27
+T11743,Political Economy and Marxism,0,1,1,0.0,0.0027,0.27
+T11066,Organic Food and Agriculture,0,1,1,0.0,0.0027,0.27
+T12265,Gun Ownership and Violence Research,0,1,1,0.0,0.0027,0.27
+T11963,Impact of Light on Environment and Health,0,1,1,0.0,0.0027,0.27
+T10370,Traffic and Road Safety,0,1,1,0.0,0.0027,0.27
+T10226,Land Use and Ecosystem Services,0,1,1,0.0,0.0027,0.27
+T10081,"Auditing, Earnings Management, Governance",0,1,1,0.0,0.0027,0.27
+T10856,Intellectual Property and Patents,0,1,1,0.0,0.0027,0.27
+T10629,Health Policy Implementation Science,0,1,1,0.0,0.0027,0.27

@@ -1,0 +1,22 @@
+field_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+27,Medicine,99,88,-11,0.2676,0.2366,-3.1
+33,Social Sciences,78,82,4,0.2108,0.2204,0.96
+23,Environmental Science,42,55,13,0.1135,0.1478,3.43
+20,"Economics, Econometrics and Finance",31,31,0,0.0838,0.0833,-0.05
+36,Health Professions,21,20,-1,0.0568,0.0538,-0.3
+26,Mathematics,14,20,6,0.0378,0.0538,1.59
+17,Computer Science,11,20,9,0.0297,0.0538,2.4
+32,Psychology,17,5,-12,0.0459,0.0134,-3.25
+14,"Business, Management and Accounting",11,9,-2,0.0297,0.0242,-0.55
+13,"Biochemistry, Genetics and Molecular Biology",8,12,4,0.0216,0.0323,1.06
+18,Decision Sciences,8,9,1,0.0216,0.0242,0.26
+35,Dentistry,5,5,0,0.0135,0.0134,-0.01
+31,Physics and Astronomy,4,6,2,0.0108,0.0161,0.53
+11,Agricultural and Biological Sciences,4,4,0,0.0108,0.0108,-0.01
+24,Immunology and Microbiology,3,4,1,0.0081,0.0108,0.26
+22,Engineering,4,2,-2,0.0108,0.0054,-0.54
+12,Arts and Humanities,4,0,-4,0.0108,0.0,-1.08
+19,Earth and Planetary Sciences,3,0,-3,0.0081,0.0,-0.81
+21,Energy,1,0,-1,0.0027,0.0,-0.27
+29,Nursing,1,0,-1,0.0027,0.0,-0.27
+28,Neuroscience,1,0,-1,0.0027,0.0,-0.27

@@ -1,0 +1,27 @@
+field_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+27,Medicine,44900,46159,1259,0.4625,0.4755,1.3
+13,"Biochemistry, Genetics and Molecular Biology",20452,20847,395,0.2107,0.2148,0.41
+28,Neuroscience,6762,6627,-135,0.0697,0.0683,-0.14
+24,Immunology and Microbiology,5894,5826,-68,0.0607,0.06,-0.07
+11,Agricultural and Biological Sciences,4095,2810,-1285,0.0422,0.0289,-1.32
+36,Health Professions,1651,2072,421,0.017,0.0213,0.43
+33,Social Sciences,1885,1651,-234,0.0194,0.017,-0.24
+32,Psychology,1798,1514,-284,0.0185,0.0156,-0.29
+23,Environmental Science,1626,1045,-581,0.0167,0.0108,-0.6
+17,Computer Science,1082,1258,176,0.0111,0.013,0.18
+12,Arts and Humanities,752,1196,444,0.0077,0.0123,0.46
+29,Nursing,1047,856,-191,0.0108,0.0088,-0.2
+16,Chemistry,800,859,59,0.0082,0.0088,0.06
+22,Engineering,987,662,-325,0.0102,0.0068,-0.33
+20,"Economics, Econometrics and Finance",701,835,134,0.0072,0.0086,0.14
+26,Mathematics,598,651,53,0.0062,0.0067,0.05
+18,Decision Sciences,366,646,280,0.0038,0.0067,0.29
+25,Materials Science,373,393,20,0.0038,0.004,0.02
+34,Veterinary,265,329,64,0.0027,0.0034,0.07
+30,"Pharmacology, Toxicology and Pharmaceutics",233,353,120,0.0024,0.0036,0.12
+31,Physics and Astronomy,296,173,-123,0.003,0.0018,-0.13
+14,"Business, Management and Accounting",221,90,-131,0.0023,0.0009,-0.13
+19,Earth and Planetary Sciences,156,61,-95,0.0016,0.0006,-0.1
+35,Dentistry,64,79,15,0.0007,0.0008,0.02
+21,Energy,52,27,-25,0.0005,0.0003,-0.03
+15,Chemical Engineering,19,47,28,0.0002,0.0005,0.03

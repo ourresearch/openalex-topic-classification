@@ -1,0 +1,19 @@
+field_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+12,Arts and Humanities,67,48,-19,0.2154,0.1416,-7.38
+33,Social Sciences,52,41,-11,0.1672,0.1209,-4.63
+17,Computer Science,22,61,39,0.0707,0.1799,10.92
+18,Decision Sciences,9,55,46,0.0289,0.1622,13.33
+23,Environmental Science,36,27,-9,0.1158,0.0796,-3.61
+27,Medicine,31,29,-2,0.0997,0.0855,-1.41
+31,Physics and Astronomy,23,26,3,0.074,0.0767,0.27
+26,Mathematics,15,16,1,0.0482,0.0472,-0.1
+13,"Biochemistry, Genetics and Molecular Biology",15,8,-7,0.0482,0.0236,-2.46
+14,"Business, Management and Accounting",11,4,-7,0.0354,0.0118,-2.36
+36,Health Professions,4,5,1,0.0129,0.0147,0.19
+28,Neuroscience,5,3,-2,0.0161,0.0088,-0.72
+11,Agricultural and Biological Sciences,6,2,-4,0.0193,0.0059,-1.34
+20,"Economics, Econometrics and Finance",3,5,2,0.0096,0.0147,0.51
+32,Psychology,5,2,-3,0.0161,0.0059,-1.02
+19,Earth and Planetary Sciences,3,3,0,0.0096,0.0088,-0.08
+22,Engineering,1,3,2,0.0032,0.0088,0.56
+24,Immunology and Microbiology,3,1,-2,0.0096,0.0029,-0.67

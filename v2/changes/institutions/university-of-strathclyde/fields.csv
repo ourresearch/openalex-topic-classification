@@ -1,0 +1,27 @@
+field_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+22,Engineering,14877,15395,518,0.2118,0.2195,0.77
+33,Social Sciences,7243,7536,293,0.1031,0.1075,0.43
+27,Medicine,7385,6954,-431,0.1052,0.0992,-0.6
+31,Physics and Astronomy,4938,4664,-274,0.0703,0.0665,-0.38
+13,"Biochemistry, Genetics and Molecular Biology",4448,4262,-186,0.0633,0.0608,-0.26
+17,Computer Science,3839,3787,-52,0.0547,0.054,-0.07
+25,Materials Science,3502,3599,97,0.0499,0.0513,0.15
+16,Chemistry,3308,3681,373,0.0471,0.0525,0.54
+14,"Business, Management and Accounting",3063,3166,103,0.0436,0.0451,0.15
+23,Environmental Science,2569,2322,-247,0.0366,0.0331,-0.35
+20,"Economics, Econometrics and Finance",2493,2154,-339,0.0355,0.0307,-0.48
+32,Psychology,2031,1811,-220,0.0289,0.0258,-0.31
+12,Arts and Humanities,1281,1460,179,0.0182,0.0208,0.26
+11,Agricultural and Biological Sciences,1426,1243,-183,0.0203,0.0177,-0.26
+26,Mathematics,1118,1483,365,0.0159,0.0211,0.52
+18,Decision Sciences,1028,1104,76,0.0146,0.0157,0.11
+36,Health Professions,1112,900,-212,0.0158,0.0128,-0.3
+28,Neuroscience,959,781,-178,0.0137,0.0111,-0.25
+24,Immunology and Microbiology,825,912,87,0.0117,0.013,0.13
+19,Earth and Planetary Sciences,852,695,-157,0.0121,0.0099,-0.22
+30,"Pharmacology, Toxicology and Pharmaceutics",623,917,294,0.0089,0.0131,0.42
+21,Energy,456,539,83,0.0065,0.0077,0.12
+15,Chemical Engineering,419,404,-15,0.006,0.0058,-0.02
+29,Nursing,287,209,-78,0.0041,0.003,-0.11
+34,Veterinary,91,95,4,0.0013,0.0014,0.01
+35,Dentistry,57,57,0,0.0008,0.0008,0.0
