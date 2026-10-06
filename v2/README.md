@@ -48,6 +48,15 @@ real gain that is smaller.
 1,984 random arXiv papers, the field of the new model's topic matches the authors' category 83% of the time, against
 75% for the previous model.
 
+**On the previous model's own test, the new model ties.** The previous model was trained to reproduce CWTS's citation
+clusters, and its held-out test split is public ([Zenodo 10568402](https://zenodo.org/records/10568402)). On those
+110,245 publications, weighted by cluster size, the new model's primary topic is CWTS's cluster 55.4% of the time
+against 55.7% for the previous model, and CWTS's topic is in its top 3 more often (73.2% against 70.2%), though it never
+saw a CWTS label. Counted 25 works per cluster as the split was drawn, the previous model leads (50.0% against 42.7%),
+all of it in small clusters (under 5,000 works, 6% of clustered works), mostly catch-alls such as "Research in Social
+Sciences" whose works the new model files by subject. This test favors the previous model the way the judge test
+favors the new one.
+
 **Its scores mean what they say.** Each topic comes with a score. The new model's score is a calibrated probability:
 when it says 0.9 or more (64% of works), it is right 94% of the time. The previous model's scores carried little
 information: its answers scored 0.9 or more were right 49% of the time.
