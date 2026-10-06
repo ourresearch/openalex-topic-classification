@@ -5,27 +5,46 @@ How [OpenAlex](https://openalex.org) decides what a work is about. Every work ge
 work's topics to the model in this folder. This is **version 2.0.0** (see the [changelog](CHANGELOG.md)); version 1,
 the model it replaces, is in [v1/](../v1/).
 
-**The topics themselves do not change.** Same 4,516 topics, same names, same keywords, same hierarchy, same IDs. Only
-the assignments of topics to works change, and they get far more accurate.
+**The topics themselves do not change.** Same 4,516 topics, same names, same keywords, same hierarchy, same IDs. The
+topics are the citation clusters [CWTS](https://www.leidenmadtrics.nl/articles/an-open-approach-for-classifying-research-publications)
+built from OpenAlex in 2024; version 1 learned to predict a work's cluster. Version 2 assigns each work to the topics
+that match its title and abstract, which is what most people expect a topic to mean. Only the assignments change.
 
 > **Everything is here:** the code, the model weights, the 2 million teacher labels the model learned from, every
 > test set and every judge's answer, so you can check our numbers or build something better.
 
 ## Benchmarks
 
-**On random works, the new model picks the right topic 82% of the time. The previous model picked it 25% of the
-time.**
+**The new model's main topic matches the one independent judges pick from the title and abstract far more often,
+and most of all where the previous model had least to go on.** On random works it's 82%, from 25%. The spread between
+kinds of work is the story:
+
+| Kind of work | Share of random works | Previous model | New model |
+|---|---|---|---|
+| English articles and reviews with an abstract | 21% | 48% (66% within the judges' top 3) | 88% (98%) |
+| Works with no abstract | 40% | 20% | 75% |
+| Works not in English | 25% | 9% | 72% |
+| Datasets and other records that aren't publications | 30% | 6% (62% got no topic) | 86% |
+| Highly cited works (top 1%, separate sample) | | 70% (82%) | 89% (98%) |
 
 <img src="docs/img/accuracy.svg" alt="How often the primary topic is right, previous model then new model: topic on random works 25% and 82%; field on random works 44% and 90%; topic on highly cited works 70% and 89%; field compared with the arXiv category the authors chose 75% and 83%." width="720">
 
-**What right means.** Two frontier AI models from different labs, Claude Opus 5.5 and GPT-6.1 Sol, each read a work
+**What we measure.** Two frontier AI models from different labs, Claude Opus 5.5 and GPT-6.1 Sol, each read a work
 and chose its topic from the whole taxonomy, blind to each other and to every model being tested. Where they agree,
 that is the answer. We drew a fresh test set of 2,000 random works and 200 highly cited ones (the top 1% by
 citations), used none of it to build or tune anything, and scored it once. The two judges agreed on 1,503 of the
 random works and 168 of the cited ones; those are the numbers above. At the field level (26 fields), the new model is
 right 90% of the time and the previous one 44%.
 
-**On evidence no model produced, the gap holds.** When authors post a paper to arXiv they choose its category. On
+**Read these numbers with two caveats.** The exact topic out of 4,516 is a strict target: the two judges themselves
+pick the same topic on only 75% of random works. And the judges, like the new model's teacher, match text to topic
+names, while the previous model was trained to reproduce citation-cluster membership. So this test is built on the
+new model's terms: a work that sits sensibly in a cluster because of who cites it, though its text points elsewhere,
+counts against the previous model. (The new model agrees with each judge on its own at about the same rate, 70.3%
+and 69.0%, so it isn't just copying the judge from its teacher's lab.) The check with no AI in it, below, shows a
+real gain that is smaller.
+
+**On evidence no model produced, the gain is smaller but real.** When authors post a paper to arXiv they choose its category. On
 1,984 random arXiv papers, the field of the new model's topic matches the authors' category 83% of the time, against
 75% for the previous model.
 
@@ -45,8 +64,7 @@ The full test table, with the teacher the model learned from and the parts of th
 | **New model (v2)** | **81.7%** | **89.6%** | **0.047** | **89.3%** |
 | Teacher: Claude Opus 5.5 choosing from a shortlist | 86.7% | 92.1% | 0.214 | 93.5% |
 
-The gains are largest where the previous model was weakest: on works without an abstract (75% right, from 20%) and on
-works not in English (72%, from 9%). Every sub-benchmark, the method and the intervals are in
+Every sub-benchmark, the method and the intervals are in
 [benchmarks/](benchmarks/README.md).
 
 ## What changed

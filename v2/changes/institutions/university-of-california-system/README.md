@@ -1,6 +1,6 @@
 # University of California System: topics before and after the October 2026 model
 
-OpenAlex institution [I2803209242](https://openalex.org/I2803209242) and its child institutions. Each work counts once, by its primary topic. Publications (articles, reviews, books, chapters, preprints, letters, editorials, reports, dissertations; datasets and catalogue records left out): 25,938; with a topic: 25,827 before, 25,774 after.
+OpenAlex institution [I2803209242](https://openalex.org/I2803209242): works affiliated with the system itself. The 10 campuses have their own profiles in this folder. Each work counts once, by its primary topic. Publications (articles, reviews, books, chapters, preprints, letters, editorials, reports, dissertations; datasets and catalogue records left out): 25,938; with a topic: 25,827 before, 25,774 after.
 
 ## Fields
 
