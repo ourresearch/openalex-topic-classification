@@ -184,8 +184,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1706,Computer Science Applications,244,171,-73,0.0009,0.0007,-0.03
 2406,Virology,207,164,-43,0.0008,0.0006,-0.02
 1107,Forestry,188,180,-8,0.0007,0.0007,-0.0
-3108,Radiation,136,211,75,0.0005,0.0008,0.03
 1907,Geology,203,144,-59,0.0008,0.0006,-0.02
+3108,Radiation,136,211,75,0.0005,0.0008,0.03
 3005,Toxicology,160,182,22,0.0006,0.0007,0.01
 2714,Family Practice,168,164,-4,0.0007,0.0006,-0.0
 1503,Catalysis,160,168,8,0.0006,0.0007,0.0
@@ -203,15 +203,15 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1712,Software,107,122,15,0.0004,0.0005,0.01
 3300,General Social Sciences,106,118,12,0.0004,0.0005,0.0
 1508,Process Chemistry and Technology,146,77,-69,0.0006,0.0003,-0.03
-2802,Behavioral Neuroscience,130,87,-43,0.0005,0.0003,-0.02
 2602,Algebra and Number Theory,79,138,59,0.0003,0.0005,0.02
+2802,Behavioral Neuroscience,130,87,-43,0.0005,0.0003,-0.02
 2612,Numerical Analysis,95,110,15,0.0004,0.0004,0.01
 1708,Hardware and Architecture,93,107,14,0.0004,0.0004,0.01
 2216,Architecture,46,142,96,0.0002,0.0006,0.04
 1309,Developmental Biology,105,75,-30,0.0004,0.0003,-0.01
 2922,Research and Theory,73,101,28,0.0003,0.0004,0.01
-3303,Development,95,77,-18,0.0004,0.0003,-0.01
 1302,Aging,117,55,-62,0.0005,0.0002,-0.02
+3303,Development,95,77,-18,0.0004,0.0003,-0.01
 2503,Ceramics and Composites,81,83,2,0.0003,0.0003,0.0
 1315,Structural Biology,51,111,60,0.0002,0.0004,0.02
 1206,Conservation,87,61,-26,0.0003,0.0002,-0.01
@@ -232,8 +232,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2103,Fuel Technology,12,53,41,0.0,0.0002,0.02
 1603,Electrochemistry,51,13,-38,0.0002,0.0001,-0.01
 1704,Computer Graphics and Computer-Aided Design,33,30,-3,0.0001,0.0001,-0.0
-2614,Theoretical Computer Science,32,30,-2,0.0001,0.0001,-0.0
 2100,General Energy,24,38,14,0.0001,0.0001,0.01
+2614,Theoretical Computer Science,32,30,-2,0.0001,0.0001,-0.0
 2726,Microbiology,31,29,-2,0.0001,0.0001,-0.0
 1912,Space and Planetary Science,40,16,-24,0.0002,0.0001,-0.01
 2910,"Issues, ethics and legal aspects",30,24,-6,0.0001,0.0001,-0.0
@@ -248,6 +248,6 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1200,General Arts and Humanities,1,11,10,0.0,0.0,0.0
 1410,Industrial relations,0,7,7,0.0,0.0,0.0
 1504,Chemical Health and Safety,4,2,-2,0.0,0.0,-0.0
-3002,Drug Discovery,2,0,-2,0.0,0.0,-0.0
 2200,General Engineering,0,2,2,0.0,0.0,0.0
+3002,Drug Discovery,2,0,-2,0.0,0.0,-0.0
 2104,Nuclear Energy and Engineering,1,0,-1,0.0,0.0,-0.0

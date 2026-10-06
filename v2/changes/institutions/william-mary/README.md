@@ -29,8 +29,8 @@ OpenAlex institution [I16285277](https://openalex.org/I16285277) and its child i
 | Nursing | 51 | 49 | 0.2% | 0.2% |
 | Energy | 63 | 40 | 0.2% | 0.1% |
 | Veterinary | 11 | 15 | 0.0% | 0.1% |
-| Pharmacology, Toxicology and Pharmaceutics | 17 | 10 | 0.1% | 0.0% |
 | Dentistry | 11 | 10 | 0.0% | 0.0% |
+| Pharmacology, Toxicology and Pharmaceutics | 17 | 10 | 0.1% | 0.0% |
 | Chemical Engineering | 28 | 9 | 0.1% | 0.0% |
 
 Biggest shifts in share: Arts and Humanities +1.2 pts; Social Sciences +1.2 pts; Engineering -1.1 pts; Environmental Science -0.9 pts.

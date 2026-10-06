@@ -24,14 +24,14 @@ OpenAlex institution [I951315](https://openalex.org/I951315) and its child insti
 | Physics and Astronomy | 42 | 15 | 0.5% | 0.2% |
 | Immunology and Microbiology | 12 | 13 | 0.1% | 0.2% |
 | Nursing | 13 | 8 | 0.2% | 0.1% |
-| Dentistry | 7 | 5 | 0.1% | 0.1% |
 | Biochemistry, Genetics and Molecular Biology | 39 | 5 | 0.5% | 0.1% |
+| Dentistry | 7 | 5 | 0.1% | 0.1% |
 | Neuroscience | 3 | 2 | 0.0% | 0.0% |
-| Materials Science | 4 | 0 | 0.0% | 0.0% |
 | Chemical Engineering | 1 | 0 | 0.0% | 0.0% |
-| Veterinary | 1 | 0 | 0.0% | 0.0% |
 | Chemistry | 3 | 0 | 0.0% | 0.0% |
+| Materials Science | 4 | 0 | 0.0% | 0.0% |
 | Pharmacology, Toxicology and Pharmaceutics | 3 | 0 | 0.0% | 0.0% |
+| Veterinary | 1 | 0 | 0.0% | 0.0% |
 
 Biggest shifts in share: Social Sciences +7.7 pts; Computer Science -2.1 pts; Business, Management and Accounting -1.5 pts; Agricultural and Biological Sciences -1.2 pts.
 

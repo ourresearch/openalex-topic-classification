@@ -22,8 +22,8 @@ OpenAlex institution [I131077856](https://openalex.org/I131077856) and its child
 | Decision Sciences | 325 | 557 | 0.5% | 0.8% |
 | Nursing | 403 | 396 | 0.6% | 0.6% |
 | Mathematics | 290 | 361 | 0.4% | 0.6% |
-| Psychology | 424 | 285 | 0.6% | 0.4% |
 | Energy | 353 | 285 | 0.5% | 0.4% |
+| Psychology | 424 | 285 | 0.6% | 0.4% |
 | Materials Science | 435 | 260 | 0.7% | 0.4% |
 | Health Professions | 388 | 130 | 0.6% | 0.2% |
 | Veterinary | 100 | 118 | 0.2% | 0.2% |

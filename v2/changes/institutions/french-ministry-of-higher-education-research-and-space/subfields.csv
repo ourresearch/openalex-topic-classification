@@ -129,15 +129,15 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2738,Psychiatry and Mental health,165,176,11,0.0008,0.0008,0.0
 2712,"Endocrinology, Diabetes and Metabolism",182,157,-25,0.0008,0.0007,-0.01
 2209,Industrial and Manufacturing Engineering,166,153,-13,0.0008,0.0007,-0.01
-3404,Small Animals,180,135,-45,0.0008,0.0006,-0.02
 1409,"Tourism, Leisure and Hospitality Management",171,144,-27,0.0008,0.0007,-0.01
-2604,Applied Mathematics,137,170,33,0.0006,0.0008,0.02
+3404,Small Animals,180,135,-45,0.0008,0.0006,-0.02
 1402,Accounting,172,135,-37,0.0008,0.0006,-0.02
+2604,Applied Mathematics,137,170,33,0.0006,0.0008,0.02
 1209,Museology,98,192,94,0.0005,0.0009,0.04
 1108,Horticulture,200,85,-115,0.0009,0.0004,-0.05
 2711,Emergency Medicine,157,119,-38,0.0007,0.0006,-0.02
-2704,Biochemistry,142,133,-9,0.0007,0.0006,-0.0
 1309,Developmental Biology,164,111,-53,0.0008,0.0005,-0.02
+2704,Biochemistry,142,133,-9,0.0007,0.0006,-0.0
 1405,Management of Technology and Innovation,147,125,-22,0.0007,0.0006,-0.01
 2728,Neurology,151,111,-40,0.0007,0.0005,-0.02
 1103,Animal Science and Zoology,139,120,-19,0.0006,0.0006,-0.01
@@ -167,8 +167,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2716,Genetics,74,77,3,0.0003,0.0004,0.0
 2213,"Safety, Risk, Reliability and Quality",69,79,10,0.0003,0.0004,0.0
 2203,Automotive Engineering,86,59,-27,0.0004,0.0003,-0.01
-2809,Sensory Systems,69,75,6,0.0003,0.0003,0.0
 2708,Dermatology,81,63,-18,0.0004,0.0003,-0.01
+2809,Sensory Systems,69,75,6,0.0003,0.0003,0.0
 3506,Periodontics,64,77,13,0.0003,0.0004,0.01
 2508,"Surfaces, Coatings and Films",66,62,-4,0.0003,0.0003,-0.0
 2748,Urology,19,100,81,0.0001,0.0005,0.04
@@ -198,32 +198,32 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1708,Hardware and Architecture,23,33,10,0.0001,0.0002,0.0
 1403,Business and International Management,39,14,-25,0.0002,0.0001,-0.01
 2612,Numerical Analysis,24,27,3,0.0001,0.0001,0.0
-3609,Occupational Therapy,14,34,20,0.0001,0.0002,0.01
 1704,Computer Graphics and Computer-Aided Design,25,23,-2,0.0001,0.0001,-0.0
 1800,General Decision Sciences,13,35,22,0.0001,0.0002,0.01
-2726,Microbiology,20,27,7,0.0001,0.0001,0.0
+3609,Occupational Therapy,14,34,20,0.0001,0.0002,0.01
 1506,Filtration and Separation,25,22,-3,0.0001,0.0001,-0.0
-2733,Otorhinolaryngology,26,20,-6,0.0001,0.0001,-0.0
+2726,Microbiology,20,27,7,0.0001,0.0001,0.0
 2216,Architecture,9,37,28,0.0,0.0002,0.01
+2733,Otorhinolaryngology,26,20,-6,0.0001,0.0001,-0.0
 1502,Bioengineering,32,13,-19,0.0001,0.0001,-0.01
-2718,Health Informatics,19,23,4,0.0001,0.0001,0.0
 2614,Theoretical Computer Science,21,21,0,0.0001,0.0001,-0.0
+2718,Health Informatics,19,23,4,0.0001,0.0001,0.0
 3611,Pharmacy,15,21,6,0.0001,0.0001,0.0
 1712,Software,13,22,9,0.0001,0.0001,0.0
 3612,"Physical Therapy, Sports Therapy and Rehabilitation",11,24,13,0.0001,0.0001,0.01
 1709,Human-Computer Interaction,18,15,-3,0.0001,0.0001,-0.0
 2703,Anesthesiology and Pain Medicine,20,13,-7,0.0001,0.0001,-0.0
 1205,Classics,19,13,-6,0.0001,0.0001,-0.0
-3202,Applied Psychology,24,8,-16,0.0001,0.0,-0.01
 2102,Energy Engineering and Power Technology,10,22,12,0.0,0.0001,0.01
+3202,Applied Psychology,24,8,-16,0.0001,0.0,-0.01
 2602,Algebra and Number Theory,12,19,7,0.0001,0.0001,0.0
 3504,Oral Surgery,21,9,-12,0.0001,0.0,-0.01
 3505,Orthodontics,16,14,-2,0.0001,0.0001,-0.0
 3603,Complementary and Manual Therapy,26,4,-22,0.0001,0.0,-0.01
-3309,Library and Information Sciences,6,14,8,0.0,0.0001,0.0
 2715,Gastroenterology,12,8,-4,0.0001,0.0,-0.0
-2724,Internal Medicine,11,8,-3,0.0001,0.0,-0.0
+3309,Library and Information Sciences,6,14,8,0.0,0.0001,0.0
 1200,General Arts and Humanities,3,16,13,0.0,0.0001,0.01
+2724,Internal Medicine,11,8,-3,0.0001,0.0,-0.0
 2747,Transplantation,11,8,-3,0.0001,0.0,-0.0
 2607,Discrete Mathematics and Combinatorics,7,11,4,0.0,0.0001,0.0
 2702,Anatomy,10,5,-5,0.0,0.0,-0.0
@@ -246,6 +246,6 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2506,Metals and Alloys,2,2,0,0.0,0.0,-0.0
 3500,General Dentistry,3,1,-2,0.0,0.0,-0.0
 2103,Fuel Technology,1,1,0,0.0,0.0,-0.0
-2922,Research and Theory,0,2,2,0.0,0.0,0.0
 2911,Leadership and Management,0,2,2,0.0,0.0,0.0
+2922,Research and Theory,0,2,2,0.0,0.0,0.0
 3002,Drug Discovery,1,0,-1,0.0,0.0,-0.0

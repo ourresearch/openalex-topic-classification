@@ -48,6 +48,6 @@ Biggest shifts in share: Environmental Science -1.8 pts; Social Sciences +1.2 pt
 | 7 | Nuclear physics research studies | 259 | Plasma Applications and Diagnostics | 358 |
 | 8 | Fluid Dynamics and Turbulent Flows | 258 | Human-Automation Interaction and Safety | 279 |
 | 9 | Human-Automation Interaction and Safety | 257 | Counseling Practices and Supervision | 274 |
-| 10 | Oceanographic and Atmospheric Processes | 239 | Particle accelerators and beam dynamics | 265 |
+| 10 | Oceanographic and Atmospheric Processes | 239 | Fluid Dynamics and Turbulent Flows | 265 |
 
 Full tables: [fields.csv](fields.csv), [subfields.csv](subfields.csv), [topics.csv](topics.csv) (works before and after, share of the institution's works with a topic, change in points).

@@ -18,19 +18,19 @@ OpenAlex institution [I2802635041](https://openalex.org/I2802635041) and its chi
 | Engineering | 64 | 14 | 2.7% | 0.6% |
 | Psychology | 37 | 13 | 1.6% | 0.5% |
 | Environmental Science | 53 | 6 | 2.2% | 0.2% |
-| Physics and Astronomy | 16 | 6 | 0.7% | 0.2% |
 | Materials Science | 19 | 6 | 0.8% | 0.2% |
-| Neuroscience | 14 | 3 | 0.6% | 0.1% |
+| Physics and Astronomy | 16 | 6 | 0.7% | 0.2% |
 | Mathematics | 9 | 3 | 0.4% | 0.1% |
-| Economics, Econometrics and Finance | 29 | 2 | 1.2% | 0.1% |
+| Neuroscience | 14 | 3 | 0.6% | 0.1% |
 | Agricultural and Biological Sciences | 29 | 2 | 1.2% | 0.1% |
 | Chemistry | 10 | 2 | 0.4% | 0.1% |
+| Economics, Econometrics and Finance | 29 | 2 | 1.2% | 0.1% |
 | Nursing | 2 | 1 | 0.1% | 0.0% |
-| Pharmacology, Toxicology and Pharmaceutics | 1 | 0 | 0.0% | 0.0% |
-| Immunology and Microbiology | 12 | 0 | 0.5% | 0.0% |
 | Chemical Engineering | 1 | 0 | 0.0% | 0.0% |
 | Dentistry | 1 | 0 | 0.0% | 0.0% |
 | Energy | 2 | 0 | 0.1% | 0.0% |
+| Immunology and Microbiology | 12 | 0 | 0.5% | 0.0% |
+| Pharmacology, Toxicology and Pharmaceutics | 1 | 0 | 0.0% | 0.0% |
 
 Biggest shifts in share: Computer Science +21.2 pts; Decision Sciences +7.7 pts; Arts and Humanities -6.7 pts; Biochemistry, Genetics and Molecular Biology -4.1 pts.
 

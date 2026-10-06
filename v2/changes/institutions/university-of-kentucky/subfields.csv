@@ -126,8 +126,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3321,Public Administration,258,348,90,0.0017,0.0023,0.06
 2215,Building and Construction,337,266,-71,0.0023,0.0018,-0.05
 3505,Orthodontics,189,407,218,0.0013,0.0027,0.15
-2704,Biochemistry,255,325,70,0.0017,0.0022,0.05
 1802,Information Systems and Management,287,293,6,0.0019,0.002,0.0
+2704,Biochemistry,255,325,70,0.0017,0.0022,0.05
 2717,Geriatrics and Gerontology,387,191,-196,0.0026,0.0013,-0.13
 3609,Occupational Therapy,250,323,73,0.0017,0.0022,0.05
 1203,Language and Linguistics,267,302,35,0.0018,0.002,0.02
@@ -145,8 +145,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3109,Statistical and Nonlinear Physics,273,222,-51,0.0018,0.0015,-0.03
 1213,Visual Arts and Performing Arts,184,281,97,0.0012,0.0019,0.07
 1904,Earth-Surface Processes,199,253,54,0.0013,0.0017,0.04
-3309,Library and Information Sciences,154,292,138,0.001,0.002,0.09
 2707,Complementary and alternative medicine,219,227,8,0.0015,0.0015,0.01
+3309,Library and Information Sciences,154,292,138,0.001,0.002,0.09
 3605,Health Information Management,142,303,161,0.001,0.002,0.11
 1606,Physical and Theoretical Chemistry,241,200,-41,0.0016,0.0013,-0.03
 3316,Cultural Studies,245,194,-51,0.0016,0.0013,-0.03
@@ -171,9 +171,9 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3614,Radiological and Ultrasound Technology,189,125,-64,0.0013,0.0008,-0.04
 2715,Gastroenterology,142,170,28,0.001,0.0011,0.02
 1800,General Decision Sciences,79,221,142,0.0005,0.0015,0.1
-3005,Toxicology,142,157,15,0.001,0.0011,0.01
 2708,Dermatology,165,134,-31,0.0011,0.0009,-0.02
 2724,Internal Medicine,155,144,-11,0.001,0.001,-0.01
+3005,Toxicology,142,157,15,0.001,0.0011,0.01
 2203,Automotive Engineering,161,132,-29,0.0011,0.0009,-0.02
 2723,Immunology and Allergy,152,137,-15,0.001,0.0009,-0.01
 3603,Complementary and Manual Therapy,124,165,41,0.0008,0.0011,0.03
@@ -191,8 +191,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1314,Physiology,115,85,-30,0.0008,0.0006,-0.02
 2214,Media Technology,105,94,-11,0.0007,0.0006,-0.01
 1708,Hardware and Architecture,80,107,27,0.0005,0.0007,0.02
-2302,Ecological Modeling,115,71,-44,0.0008,0.0005,-0.03
 1706,Computer Science Applications,116,70,-46,0.0008,0.0005,-0.03
+2302,Ecological Modeling,115,71,-44,0.0008,0.0005,-0.03
 1502,Bioengineering,103,77,-26,0.0007,0.0005,-0.02
 3300,General Social Sciences,34,141,107,0.0002,0.0009,0.07
 2508,"Surfaces, Coatings and Films",113,60,-53,0.0008,0.0004,-0.04

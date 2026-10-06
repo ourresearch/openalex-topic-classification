@@ -7,8 +7,8 @@ field_id,display_name,works_old,works_new,change,share_old,share_new,share_chang
 27,Medicine,144,116,-28,0.0244,0.0206,-0.38
 12,Arts and Humanities,93,135,42,0.0157,0.0239,0.82
 25,Materials Science,117,88,-29,0.0198,0.0156,-0.42
-23,Environmental Science,106,74,-32,0.018,0.0131,-0.48
 18,Decision Sciences,86,94,8,0.0146,0.0167,0.21
+23,Environmental Science,106,74,-32,0.018,0.0131,-0.48
 32,Psychology,57,63,6,0.0097,0.0112,0.15
 26,Mathematics,51,64,13,0.0086,0.0113,0.27
 20,"Economics, Econometrics and Finance",75,39,-36,0.0127,0.0069,-0.58
@@ -21,6 +21,6 @@ field_id,display_name,works_old,works_new,change,share_old,share_new,share_chang
 16,Chemistry,9,2,-7,0.0015,0.0004,-0.12
 29,Nursing,3,1,-2,0.0005,0.0002,-0.03
 35,Dentistry,2,2,0,0.0003,0.0004,0.0
-30,"Pharmacology, Toxicology and Pharmaceutics",2,0,-2,0.0003,0.0,-0.03
 24,Immunology and Microbiology,1,1,0,0.0002,0.0002,0.0
+30,"Pharmacology, Toxicology and Pharmaceutics",2,0,-2,0.0003,0.0,-0.03
 15,Chemical Engineering,1,0,-1,0.0002,0.0,-0.02

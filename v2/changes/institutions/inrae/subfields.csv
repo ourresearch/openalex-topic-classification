@@ -208,24 +208,24 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2747,Transplantation,50,62,12,0.0001,0.0002,0.0
 3202,Applied Psychology,64,46,-18,0.0002,0.0001,-0.0
 1315,Structural Biology,26,76,50,0.0001,0.0002,0.01
-3612,"Physical Therapy, Sports Therapy and Rehabilitation",42,53,11,0.0001,0.0001,0.0
 2718,Health Informatics,52,43,-9,0.0001,0.0001,-0.0
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",42,53,11,0.0001,0.0001,0.0
 3504,Oral Surgery,53,39,-14,0.0001,0.0001,-0.0
 1603,Electrochemistry,65,26,-39,0.0002,0.0001,-0.01
 1704,Computer Graphics and Computer-Aided Design,42,46,4,0.0001,0.0001,0.0
 2714,Family Practice,34,50,16,0.0001,0.0001,0.0
-2612,Numerical Analysis,41,42,1,0.0001,0.0001,0.0
 1709,Human-Computer Interaction,47,36,-11,0.0001,0.0001,-0.0
 2506,Metals and Alloys,35,48,13,0.0001,0.0001,0.0
+2612,Numerical Analysis,41,42,1,0.0001,0.0001,0.0
 1206,Conservation,29,52,23,0.0001,0.0001,0.01
-3505,Orthodontics,37,36,-1,0.0001,0.0001,-0.0
 1506,Filtration and Separation,33,40,7,0.0001,0.0001,0.0
+3505,Orthodontics,37,36,-1,0.0001,0.0001,-0.0
 1205,Classics,32,37,5,0.0001,0.0001,0.0
 2733,Otorhinolaryngology,34,32,-2,0.0001,0.0001,-0.0
 1410,Industrial relations,34,30,-4,0.0001,0.0001,-0.0
 2216,Architecture,26,28,2,0.0001,0.0001,0.0
-3307,Human Factors and Ergonomics,9,44,35,0.0,0.0001,0.01
 1210,Music,21,32,11,0.0001,0.0001,0.0
+3307,Human Factors and Ergonomics,9,44,35,0.0,0.0001,0.01
 1708,Hardware and Architecture,25,27,2,0.0001,0.0001,0.0
 2102,Energy Engineering and Power Technology,18,21,3,0.0,0.0001,0.0
 2500,General Materials Science,36,1,-35,0.0001,0.0,-0.01
@@ -240,8 +240,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3607,Medical Laboratory Technology,21,0,-21,0.0001,0.0,-0.01
 3206,Neuropsychology and Physiological Psychology,9,10,1,0.0,0.0,0.0
 3309,Library and Information Sciences,7,9,2,0.0,0.0,0.0
-3608,Medical Terminology,13,0,-13,0.0,0.0,-0.0
 2103,Fuel Technology,9,4,-5,0.0,0.0,-0.0
+3608,Medical Terminology,13,0,-13,0.0,0.0,-0.0
 3319,Life-span and Life-course Studies,4,8,4,0.0,0.0,0.0
 3200,General Psychology,4,7,3,0.0,0.0,0.0
 3500,General Dentistry,9,0,-9,0.0,0.0,-0.0

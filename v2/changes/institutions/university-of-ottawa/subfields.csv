@@ -134,13 +134,13 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3103,Astronomy and Astrophysics,230,203,-27,0.0015,0.0013,-0.02
 2405,Parasitology,208,223,15,0.0013,0.0014,0.01
 3316,Cultural Studies,240,189,-51,0.0015,0.0012,-0.03
-2214,Media Technology,194,232,38,0.0012,0.0015,0.02
 1712,Software,203,223,20,0.0013,0.0014,0.01
+2214,Media Technology,194,232,38,0.0012,0.0015,0.02
 1304,Biophysics,199,226,27,0.0013,0.0014,0.02
 3004,Pharmacology,171,254,83,0.0011,0.0016,0.05
 2212,Ocean Engineering,224,196,-28,0.0014,0.0012,-0.02
-2802,Behavioral Neuroscience,224,189,-35,0.0014,0.0012,-0.02
 2718,Health Informatics,219,194,-25,0.0014,0.0012,-0.02
+2802,Behavioral Neuroscience,224,189,-35,0.0014,0.0012,-0.02
 2715,Gastroenterology,198,209,11,0.0013,0.0013,0.01
 3313,Transportation,203,194,-9,0.0013,0.0012,-0.01
 3611,Pharmacy,205,186,-19,0.0013,0.0012,-0.01
@@ -180,8 +180,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2302,Ecological Modeling,154,78,-76,0.001,0.0005,-0.05
 1503,Catalysis,134,97,-37,0.0009,0.0006,-0.02
 1910,Oceanography,134,96,-38,0.0009,0.0006,-0.02
-2809,Sensory Systems,106,123,17,0.0007,0.0008,0.01
 2203,Automotive Engineering,119,110,-9,0.0008,0.0007,-0.01
+2809,Sensory Systems,106,123,17,0.0007,0.0008,0.01
 2607,Discrete Mathematics and Combinatorics,73,155,82,0.0005,0.001,0.05
 1109,Insect Science,114,103,-11,0.0007,0.0007,-0.01
 1708,Hardware and Architecture,102,113,11,0.0006,0.0007,0.01
@@ -210,8 +210,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1508,Process Chemistry and Technology,63,29,-34,0.0004,0.0002,-0.02
 1800,General Decision Sciences,31,56,25,0.0002,0.0004,0.02
 1309,Developmental Biology,29,56,27,0.0002,0.0004,0.02
-3506,Periodontics,32,33,1,0.0002,0.0002,0.0
 1302,Aging,39,26,-13,0.0002,0.0002,-0.01
+3506,Periodontics,32,33,1,0.0002,0.0002,0.0
 1315,Structural Biology,18,43,25,0.0001,0.0003,0.02
 3309,Library and Information Sciences,27,33,6,0.0002,0.0002,0.0
 1403,Business and International Management,40,13,-27,0.0003,0.0001,-0.02
@@ -226,24 +226,24 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1502,Bioengineering,24,7,-17,0.0002,0.0,-0.01
 2503,Ceramics and Composites,17,13,-4,0.0001,0.0001,-0.0
 3105,Instrumentation,22,6,-16,0.0001,0.0,-0.01
-3504,Oral Surgery,19,8,-11,0.0001,0.0001,-0.01
 1410,Industrial relations,3,24,21,0.0,0.0002,0.01
+3504,Oral Surgery,19,8,-11,0.0001,0.0001,-0.01
 2102,Energy Engineering and Power Technology,10,15,5,0.0001,0.0001,0.0
-3603,Complementary and Manual Therapy,19,5,-14,0.0001,0.0,-0.01
-2500,General Materials Science,11,13,2,0.0001,0.0001,0.0
 1107,Forestry,20,4,-16,0.0001,0.0,-0.01
+2500,General Materials Science,11,13,2,0.0001,0.0001,0.0
+3603,Complementary and Manual Therapy,19,5,-14,0.0001,0.0,-0.01
 2100,General Energy,4,15,11,0.0,0.0001,0.01
 3319,Life-span and Life-course Studies,2,17,15,0.0,0.0001,0.01
-2506,Metals and Alloys,4,12,8,0.0,0.0001,0.01
 1200,General Arts and Humanities,5,11,6,0.0,0.0001,0.0
+2506,Metals and Alloys,4,12,8,0.0,0.0001,0.01
 3505,Orthodontics,9,5,-4,0.0001,0.0,-0.0
 2726,Microbiology,7,6,-1,0.0,0.0,-0.0
 3608,Medical Terminology,10,3,-7,0.0001,0.0,-0.0
 1504,Chemical Health and Safety,7,5,-2,0.0,0.0,-0.0
 2911,Leadership and Management,5,4,-1,0.0,0.0,-0.0
 2605,Computational Mathematics,6,2,-4,0.0,0.0,-0.0
-3302,Archeology,5,2,-3,0.0,0.0,-0.0
 1912,Space and Planetary Science,6,1,-5,0.0,0.0,-0.0
+3302,Archeology,5,2,-3,0.0,0.0,-0.0
 3500,General Dentistry,3,2,-1,0.0,0.0,-0.0
 2103,Fuel Technology,2,1,-1,0.0,0.0,-0.0
 3402,Equine,2,1,-1,0.0,0.0,-0.0

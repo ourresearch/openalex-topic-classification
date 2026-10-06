@@ -166,8 +166,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1904,Earth-Surface Processes,398,478,80,0.0008,0.0009,0.02
 3611,Pharmacy,463,341,-122,0.0009,0.0007,-0.02
 2209,Industrial and Manufacturing Engineering,552,234,-318,0.0011,0.0005,-0.06
-3310,Linguistics and Language,401,382,-19,0.0008,0.0008,-0.0
 1503,Catalysis,414,369,-45,0.0008,0.0007,-0.01
+3310,Linguistics and Language,401,382,-19,0.0008,0.0008,-0.0
 1313,Molecular Medicine,260,513,253,0.0005,0.001,0.05
 1907,Geology,237,523,286,0.0005,0.001,0.06
 1303,Biochemistry,405,335,-70,0.0008,0.0007,-0.01
@@ -176,8 +176,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1310,Endocrinology,393,300,-93,0.0008,0.0006,-0.02
 2704,Biochemistry,276,405,129,0.0005,0.0008,0.03
 2503,Ceramics and Composites,338,271,-67,0.0007,0.0005,-0.01
-3612,"Physical Therapy, Sports Therapy and Rehabilitation",293,304,11,0.0006,0.0006,0.0
 1100,General Agricultural and Biological Sciences,353,244,-109,0.0007,0.0005,-0.02
+3612,"Physical Therapy, Sports Therapy and Rehabilitation",293,304,11,0.0006,0.0006,0.0
 2213,"Safety, Risk, Reliability and Quality",285,309,24,0.0006,0.0006,0.0
 1109,Insect Science,322,244,-78,0.0006,0.0005,-0.02
 2614,Theoretical Computer Science,274,280,6,0.0005,0.0006,0.0
@@ -223,9 +223,9 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2702,Anatomy,60,96,36,0.0001,0.0002,0.01
 2500,General Materials Science,95,34,-61,0.0002,0.0001,-0.01
 3102,Acoustics and Ultrasonics,49,73,24,0.0001,0.0001,0.0
+1403,Business and International Management,76,40,-36,0.0002,0.0001,-0.01
 2910,"Issues, ethics and legal aspects",81,35,-46,0.0002,0.0001,-0.01
 2922,Research and Theory,27,89,62,0.0001,0.0002,0.01
-1403,Business and International Management,76,40,-36,0.0002,0.0001,-0.01
 3307,Human Factors and Ergonomics,29,62,33,0.0001,0.0001,0.01
 3309,Library and Information Sciences,46,43,-3,0.0001,0.0001,-0.0
 1508,Process Chemistry and Technology,56,27,-29,0.0001,0.0001,-0.01
@@ -235,8 +235,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1912,Space and Planetary Science,50,14,-36,0.0001,0.0,-0.01
 3607,Medical Laboratory Technology,28,25,-3,0.0001,0.0,-0.0
 1504,Chemical Health and Safety,13,37,24,0.0,0.0001,0.0
-3302,Archeology,33,16,-17,0.0001,0.0,-0.0
 2506,Metals and Alloys,21,28,7,0.0,0.0001,0.0
+3302,Archeology,33,16,-17,0.0001,0.0,-0.0
 1506,Filtration and Separation,20,19,-1,0.0,0.0,-0.0
 1200,General Arts and Humanities,15,22,7,0.0,0.0,0.0
 1107,Forestry,29,5,-24,0.0001,0.0,-0.0
@@ -247,6 +247,6 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2911,Leadership and Management,12,4,-8,0.0,0.0,-0.0
 3319,Life-span and Life-course Studies,6,10,4,0.0,0.0,0.0
 2103,Fuel Technology,8,5,-3,0.0,0.0,-0.0
-3500,General Dentistry,5,3,-2,0.0,0.0,-0.0
 2104,Nuclear Energy and Engineering,5,3,-2,0.0,0.0,-0.0
+3500,General Dentistry,5,3,-2,0.0,0.0,-0.0
 2200,General Engineering,4,0,-4,0.0,0.0,-0.0

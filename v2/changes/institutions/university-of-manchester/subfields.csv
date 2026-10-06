@@ -90,8 +90,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2743,Reproductive Medicine,923,880,-43,0.0032,0.003,-0.01
 1707,Computer Vision and Pattern Recognition,870,911,41,0.003,0.0031,0.01
 3311,Safety Research,609,1121,512,0.0021,0.0039,0.18
-2608,Geometry and Topology,811,900,89,0.0028,0.0031,0.03
 1406,Marketing,815,896,81,0.0028,0.0031,0.03
+2608,Geometry and Topology,811,900,89,0.0028,0.0031,0.03
 1204,Archeology,964,743,-221,0.0033,0.0026,-0.08
 2731,Ophthalmology,847,857,10,0.0029,0.003,0.0
 3306,Health,890,805,-85,0.0031,0.0028,-0.03
@@ -102,8 +102,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2807,Endocrine and Autonomic Systems,772,843,71,0.0027,0.0029,0.03
 3321,Public Administration,769,838,69,0.0026,0.0029,0.02
 2307,"Health, Toxicology and Mutagenesis",953,643,-310,0.0033,0.0022,-0.11
-2808,Neurology,814,778,-36,0.0028,0.0027,-0.01
 2000,"General Economics, Econometrics and Finance",813,779,-34,0.0028,0.0027,-0.01
+2808,Neurology,814,778,-36,0.0028,0.0027,-0.01
 3506,Periodontics,668,893,225,0.0023,0.0031,0.08
 3322,Urban Studies,767,788,21,0.0026,0.0027,0.01
 2916,Nutrition and Dietetics,836,696,-140,0.0029,0.0024,-0.05
@@ -119,8 +119,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1106,Food Science,744,500,-244,0.0026,0.0017,-0.08
 2308,"Management, Monitoring, Policy and Law",609,628,19,0.0021,0.0022,0.01
 2732,Orthopedics and Sports Medicine,591,629,38,0.002,0.0022,0.01
-3003,Pharmaceutical Science,579,614,35,0.002,0.0021,0.01
 1904,Earth-Surface Processes,579,614,35,0.002,0.0021,0.01
+3003,Pharmaceutical Science,579,614,35,0.002,0.0021,0.01
 2742,Rehabilitation,584,571,-13,0.002,0.002,-0.0
 3202,Applied Psychology,601,539,-62,0.0021,0.0019,-0.02
 3605,Health Information Management,414,721,307,0.0014,0.0025,0.11
@@ -201,9 +201,9 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2216,Architecture,74,217,143,0.0003,0.0007,0.05
 3307,Human Factors and Ergonomics,139,141,2,0.0005,0.0005,0.0
 2614,Theoretical Computer Science,168,104,-64,0.0006,0.0004,-0.02
-2922,Research and Theory,72,198,126,0.0002,0.0007,0.04
-1712,Software,135,135,0,0.0005,0.0005,0.0
 1310,Endocrinology,150,120,-30,0.0005,0.0004,-0.01
+1712,Software,135,135,0,0.0005,0.0005,0.0
+2922,Research and Theory,72,198,126,0.0002,0.0007,0.04
 2302,Ecological Modeling,178,91,-87,0.0006,0.0003,-0.03
 2704,Biochemistry,130,133,3,0.0004,0.0005,0.0
 2406,Virology,132,128,-4,0.0005,0.0004,-0.0
@@ -213,8 +213,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2803,Biological Psychiatry,157,64,-93,0.0005,0.0002,-0.03
 2802,Behavioral Neuroscience,136,79,-57,0.0005,0.0003,-0.02
 1704,Computer Graphics and Computer-Aided Design,86,126,40,0.0003,0.0004,0.01
-3300,General Social Sciences,87,119,32,0.0003,0.0004,0.01
 1302,Aging,114,92,-22,0.0004,0.0003,-0.01
+3300,General Social Sciences,87,119,32,0.0003,0.0004,0.01
 1102,Agronomy and Crop Science,109,96,-13,0.0004,0.0003,-0.0
 1103,Animal Science and Zoology,143,38,-105,0.0005,0.0001,-0.04
 1403,Business and International Management,124,57,-67,0.0004,0.0002,-0.02
@@ -242,12 +242,12 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3402,Equine,19,10,-9,0.0001,0.0,-0.0
 2605,Computational Mathematics,16,8,-8,0.0001,0.0,-0.0
 1504,Chemical Health and Safety,10,13,3,0.0,0.0,0.0
-3102,Acoustics and Ultrasonics,6,11,5,0.0,0.0,0.0
 2911,Leadership and Management,3,14,11,0.0,0.0,0.0
+3102,Acoustics and Ultrasonics,6,11,5,0.0,0.0,0.0
 2103,Fuel Technology,8,5,-3,0.0,0.0,-0.0
 3608,Medical Terminology,4,5,1,0.0,0.0,0.0
 1108,Horticulture,5,1,-4,0.0,0.0,-0.0
-3319,Life-span and Life-course Studies,3,1,-2,0.0,0.0,-0.0
 2104,Nuclear Energy and Engineering,4,0,-4,0.0,0.0,-0.0
-3002,Drug Discovery,1,1,0,0.0,0.0,0.0
+3319,Life-span and Life-course Studies,3,1,-2,0.0,0.0,-0.0
 2200,General Engineering,2,0,-2,0.0,0.0,-0.0
+3002,Drug Discovery,1,1,0,0.0,0.0,0.0

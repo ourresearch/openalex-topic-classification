@@ -127,8 +127,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1313,Molecular Medicine,393,586,193,0.0011,0.0016,0.05
 2733,Otorhinolaryngology,399,570,171,0.0011,0.0015,0.05
 2732,Orthopedics and Sports Medicine,481,479,-2,0.0013,0.0013,-0.0
-1204,Archeology,330,614,284,0.0009,0.0017,0.08
 1103,Animal Science and Zoology,520,424,-96,0.0014,0.0011,-0.03
+1204,Archeology,330,614,284,0.0009,0.0017,0.08
 2806,Developmental Neuroscience,389,550,161,0.0011,0.0015,0.04
 1408,Strategy and Management,472,465,-7,0.0013,0.0013,-0.0
 1906,Geochemistry and Petrology,407,464,57,0.0011,0.0013,0.02
@@ -160,8 +160,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2715,Gastroenterology,232,291,59,0.0006,0.0008,0.02
 1314,Physiology,332,178,-154,0.0009,0.0005,-0.04
 2704,Biochemistry,206,292,86,0.0006,0.0008,0.02
-2724,Internal Medicine,233,241,8,0.0006,0.0006,0.0
 1315,Structural Biology,126,348,222,0.0003,0.0009,0.06
+2724,Internal Medicine,233,241,8,0.0006,0.0006,0.0
 2506,Metals and Alloys,199,271,72,0.0005,0.0007,0.02
 1309,Developmental Biology,248,213,-35,0.0007,0.0006,-0.01
 2607,Discrete Mathematics and Combinatorics,218,242,24,0.0006,0.0007,0.01
@@ -177,8 +177,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3318,Gender Studies,178,207,29,0.0005,0.0006,0.01
 1708,Hardware and Architecture,171,193,22,0.0005,0.0005,0.01
 2706,Critical Care and Intensive Care Medicine,188,176,-12,0.0005,0.0005,-0.0
-3308,Law,153,203,50,0.0004,0.0005,0.01
 2500,General Materials Science,213,143,-70,0.0006,0.0004,-0.02
+3308,Law,153,203,50,0.0004,0.0005,0.01
 1704,Computer Graphics and Computer-Aided Design,187,161,-26,0.0005,0.0004,-0.01
 2717,Geriatrics and Gerontology,167,180,13,0.0005,0.0005,0.0
 3202,Applied Psychology,171,174,3,0.0005,0.0005,0.0
@@ -217,15 +217,15 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3303,Development,61,73,12,0.0002,0.0002,0.0
 2402,Applied Microbiology and Biotechnology,63,65,2,0.0002,0.0002,0.0
 2702,Anatomy,36,91,55,0.0001,0.0002,0.01
-3611,Pharmacy,73,48,-25,0.0002,0.0001,-0.01
 3321,Public Administration,51,70,19,0.0001,0.0002,0.01
+3611,Pharmacy,73,48,-25,0.0002,0.0001,-0.01
 1205,Classics,30,66,36,0.0001,0.0002,0.01
 3300,General Social Sciences,39,56,17,0.0001,0.0002,0.0
 2100,General Energy,40,50,10,0.0001,0.0001,0.0
 2714,Family Practice,35,50,15,0.0001,0.0001,0.0
 1210,Music,41,36,-5,0.0001,0.0001,-0.0
-3206,Neuropsychology and Physiological Psychology,28,45,17,0.0001,0.0001,0.0
 3102,Acoustics and Ultrasonics,41,32,-9,0.0001,0.0001,-0.0
+3206,Neuropsychology and Physiological Psychology,28,45,17,0.0001,0.0001,0.0
 2922,Research and Theory,9,62,53,0.0,0.0002,0.01
 1712,Software,50,19,-31,0.0001,0.0001,-0.01
 3402,Equine,40,25,-15,0.0001,0.0001,-0.0

@@ -24,8 +24,8 @@ OpenAlex institution [I2802499594](https://openalex.org/I2802499594) and its chi
 | Chemical Engineering | 11 | 14 | 0.2% | 0.3% |
 | Arts and Humanities | 49 | 12 | 1.0% | 0.2% |
 | Immunology and Microbiology | 30 | 8 | 0.6% | 0.2% |
-| Health Professions | 10 | 4 | 0.2% | 0.1% |
 | Dentistry | 2 | 4 | 0.0% | 0.1% |
+| Health Professions | 10 | 4 | 0.2% | 0.1% |
 | Business, Management and Accounting | 14 | 3 | 0.3% | 0.1% |
 | Economics, Econometrics and Finance | 22 | 2 | 0.4% | 0.0% |
 | Psychology | 7 | 2 | 0.1% | 0.0% |

@@ -28,8 +28,8 @@ OpenAlex institution [I878022262](https://openalex.org/I878022262) and its child
 | Health Professions | 25 | 10 | 0.6% | 0.2% |
 | Immunology and Microbiology | 13 | 8 | 0.3% | 0.2% |
 | Chemical Engineering | 8 | 4 | 0.2% | 0.1% |
-| Pharmacology, Toxicology and Pharmaceutics | 5 | 4 | 0.1% | 0.1% |
 | Dentistry | 6 | 4 | 0.1% | 0.1% |
+| Pharmacology, Toxicology and Pharmaceutics | 5 | 4 | 0.1% | 0.1% |
 | Nursing | 6 | 1 | 0.1% | 0.0% |
 
 Biggest shifts in share: Decision Sciences +1.7 pts; Physics and Astronomy +1.1 pts; Engineering -0.8 pts; Business, Management and Accounting +0.7 pts.
@@ -43,10 +43,10 @@ Biggest shifts in share: Decision Sciences +1.7 pts; Physics and Astronomy +1.1 
 | 3 | Pulsars and Gravitational Waves Research | 236 | Pulsars and Gravitational Waves Research | 256 |
 | 4 | Distributed and Parallel Computing Systems | 68 | Quantum Chromodynamics and Particle Interactions | 171 |
 | 5 | Technology and Data Analysis | 63 | scientometrics and bibliometrics research | 98 |
-| 6 | Quantum Chromodynamics and Particle Interactions | 43 | Distributed and Parallel Computing Systems | 72 |
-| 7 | Cloud Computing and Resource Management | 43 | Intellectual Property and Patents | 64 |
+| 6 | Cloud Computing and Resource Management | 43 | Distributed and Parallel Computing Systems | 72 |
+| 7 | Quantum Chromodynamics and Particle Interactions | 43 | Intellectual Property and Patents | 64 |
 | 8 | Intellectual Property and Patents | 40 | Parallel Computing and Optimization Techniques | 50 |
 | 9 | Research Data Management Practices | 38 | Cloud Computing and Resource Management | 44 |
-| 10 | Quantum Computing Algorithms and Architecture | 32 | Research Data Management Practices | 42 |
+| 10 | Network Security and Intrusion Detection | 32 | Research Data Management Practices | 42 |
 
 Full tables: [fields.csv](fields.csv), [subfields.csv](subfields.csv), [topics.csv](topics.csv) (works before and after, share of the institution's works with a topic, change in points).

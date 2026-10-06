@@ -89,8 +89,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2308,"Management, Monitoring, Policy and Law",607,522,-85,0.0034,0.0029,-0.05
 1404,Management Information Systems,540,542,2,0.003,0.003,0.0
 2610,Mathematical Physics,446,621,175,0.0025,0.0034,0.1
-2309,Nature and Landscape Conservation,504,559,55,0.0028,0.0031,0.03
 1705,Computer Networks and Communications,562,501,-61,0.0031,0.0028,-0.03
+2309,Nature and Landscape Conservation,504,559,55,0.0028,0.0031,0.03
 2708,Dermatology,526,526,0,0.0029,0.0029,0.0
 1902,Atmospheric Science,635,414,-221,0.0035,0.0023,-0.12
 2307,"Health, Toxicology and Mutagenesis",589,433,-156,0.0033,0.0024,-0.09
@@ -138,8 +138,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1212,Religious studies,200,364,164,0.0011,0.002,0.09
 2742,Rehabilitation,289,273,-16,0.0016,0.0015,-0.01
 1304,Biophysics,248,312,64,0.0014,0.0017,0.04
-3322,Urban Studies,263,269,6,0.0015,0.0015,0.0
 1313,Molecular Medicine,243,289,46,0.0013,0.0016,0.03
+3322,Urban Studies,263,269,6,0.0015,0.0015,0.0
 2404,Microbiology,257,265,8,0.0014,0.0015,0.0
 1109,Insect Science,320,199,-121,0.0018,0.0011,-0.07
 2711,Emergency Medicine,279,238,-41,0.0015,0.0013,-0.02
@@ -180,9 +180,9 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1315,Structural Biology,67,153,86,0.0004,0.0008,0.05
 2405,Parasitology,111,107,-4,0.0006,0.0006,-0.0
 3200,General Psychology,92,121,29,0.0005,0.0007,0.02
-2611,Modeling and Simulation,118,94,-24,0.0007,0.0005,-0.01
 1309,Developmental Biology,108,104,-4,0.0006,0.0006,-0.0
 2605,Computational Mathematics,106,106,0,0.0006,0.0006,0.0
+2611,Modeling and Simulation,118,94,-24,0.0007,0.0005,-0.01
 1709,Human-Computer Interaction,100,109,9,0.0006,0.0006,0.01
 3611,Pharmacy,85,118,33,0.0005,0.0007,0.02
 3603,Complementary and Manual Therapy,84,116,32,0.0005,0.0006,0.02
@@ -234,12 +234,12 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3500,General Dentistry,23,8,-15,0.0001,0.0,-0.01
 1410,Industrial relations,1,29,28,0.0,0.0002,0.02
 3302,Archeology,11,13,2,0.0001,0.0001,0.0
-2911,Leadership and Management,2,16,14,0.0,0.0001,0.01
-3608,Medical Terminology,17,1,-16,0.0001,0.0,-0.01
 2506,Metals and Alloys,11,7,-4,0.0001,0.0,-0.0
+2911,Leadership and Management,2,16,14,0.0,0.0001,0.01
 3102,Acoustics and Ultrasonics,7,11,4,0.0,0.0001,0.0
-3402,Equine,9,7,-2,0.0,0.0,-0.0
+3608,Medical Terminology,17,1,-16,0.0001,0.0,-0.01
 1409,"Tourism, Leisure and Hospitality Management",13,3,-10,0.0001,0.0,-0.01
+3402,Equine,9,7,-2,0.0,0.0,-0.0
 1506,Filtration and Separation,8,7,-1,0.0,0.0,-0.0
 3309,Library and Information Sciences,2,8,6,0.0,0.0,0.0
 3607,Medical Laboratory Technology,8,2,-6,0.0,0.0,-0.0

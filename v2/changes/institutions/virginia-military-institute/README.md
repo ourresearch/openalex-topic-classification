@@ -24,8 +24,8 @@ OpenAlex institution [I185641255](https://openalex.org/I185641255) and its child
 | Psychology | 60 | 33 | 3.8% | 2.1% |
 | Neuroscience | 24 | 22 | 1.5% | 1.4% |
 | Energy | 7 | 9 | 0.4% | 0.6% |
-| Immunology and Microbiology | 8 | 8 | 0.5% | 0.5% |
 | Earth and Planetary Sciences | 13 | 8 | 0.8% | 0.5% |
+| Immunology and Microbiology | 8 | 8 | 0.5% | 0.5% |
 | Health Professions | 14 | 7 | 0.9% | 0.4% |
 | Chemical Engineering | 5 | 5 | 0.3% | 0.3% |
 | Nursing | 2 | 4 | 0.1% | 0.3% |
@@ -41,11 +41,11 @@ Biggest shifts in share: Mathematics +2.2 pts; Engineering -2.2 pts; Psychology 
 | 2 | Fractional Differential Equations Solutions | 33 | International Relations and Foreign Policy | 40 |
 | 3 | Insect and Arachnid Ecology and Behavior | 32 | Glass properties and applications | 35 |
 | 4 | International Relations and Foreign Policy | 21 | Insect and Arachnid Ecology and Behavior | 30 |
-| 5 | Stability and Controllability of Differential Equations | 20 | Experimental and Theoretical Physics Studies | 28 |
-| 6 | Glass properties and applications | 20 | Astrophysics and Star Formation Studies | 23 |
-| 7 | Law, Economics, and Judicial Systems | 17 | Political Conflict and Governance | 21 |
-| 8 | Wittgensteinian philosophy and applications | 17 | Nuclear physics research studies | 21 |
-| 9 | Political Conflict and Governance | 16 | Wittgensteinian philosophy and applications | 18 |
-| 10 | Astrophysics and Star Formation Studies | 16 | Law, Economics, and Judicial Systems | 17 |
+| 5 | Glass properties and applications | 20 | Experimental and Theoretical Physics Studies | 28 |
+| 6 | Stability and Controllability of Differential Equations | 20 | Astrophysics and Star Formation Studies | 23 |
+| 7 | Law, Economics, and Judicial Systems | 17 | Nuclear physics research studies | 21 |
+| 8 | Wittgensteinian philosophy and applications | 17 | Political Conflict and Governance | 21 |
+| 9 | Astrophysics and Star Formation Studies | 16 | Wittgensteinian philosophy and applications | 18 |
+| 10 | Political Conflict and Governance | 16 | Information Technology Governance and Strategy | 17 |
 
 Full tables: [fields.csv](fields.csv), [subfields.csv](subfields.csv), [topics.csv](topics.csv) (works before and after, share of the institution's works with a topic, change in points).

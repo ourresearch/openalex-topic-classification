@@ -14,8 +14,8 @@ field_id,display_name,works_old,works_new,change,share_old,share_new,share_chang
 33,Social Sciences,49,25,-24,0.0098,0.005,-0.48
 28,Neuroscience,30,35,5,0.006,0.007,0.1
 12,Arts and Humanities,49,12,-37,0.0098,0.0024,-0.74
-26,Mathematics,18,20,2,0.0036,0.004,0.04
 24,Immunology and Microbiology,30,8,-22,0.006,0.0016,-0.44
+26,Mathematics,18,20,2,0.0036,0.004,0.04
 15,Chemical Engineering,11,14,3,0.0022,0.0028,0.06
 20,"Economics, Econometrics and Finance",22,2,-20,0.0044,0.0004,-0.4
 14,"Business, Management and Accounting",14,3,-11,0.0028,0.0006,-0.22

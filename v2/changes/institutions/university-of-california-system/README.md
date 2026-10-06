@@ -45,8 +45,8 @@ Biggest shifts in share: Arts and Humanities +0.8 pts; Engineering -0.8 pts; Env
 | 4 | Nuclear physics research studies | 105 | Dementia and Cognitive Impairment Research | 124 |
 | 5 | HIV/AIDS Research and Interventions | 104 | Genetic diversity and population structure | 123 |
 | 6 | Neural dynamics and brain function | 101 | Magnetic confinement fusion research | 108 |
-| 7 | Plant Pathogens and Fungal Diseases | 89 | Visual perception and processing mechanisms | 93 |
-| 8 | Obesity, Physical Activity, Diet | 85 | Ruminant Nutrition and Digestive Physiology | 93 |
+| 7 | Plant Pathogens and Fungal Diseases | 89 | Ruminant Nutrition and Digestive Physiology | 93 |
+| 8 | Obesity, Physical Activity, Diet | 85 | Visual perception and processing mechanisms | 93 |
 | 9 | Mosquito-borne diseases and control | 83 | Atomic and Molecular Physics | 91 |
 | 10 | Dementia and Cognitive Impairment Research | 75 | Genomics and Chromatin Dynamics | 89 |
 

@@ -1,0 +1,27 @@
+field_id,display_name,works_old,works_new,change,share_old,share_new,share_change_pts
+31,Physics and Astronomy,17542,18352,810,0.2619,0.2744,1.25
+13,"Biochemistry, Genetics and Molecular Biology",7598,7933,335,0.1134,0.1186,0.52
+23,Environmental Science,7081,6499,-582,0.1057,0.0972,-0.85
+19,Earth and Planetary Sciences,5090,5145,55,0.076,0.0769,0.09
+33,Social Sciences,4886,4752,-134,0.0729,0.071,-0.19
+17,Computer Science,3619,3572,-47,0.054,0.0534,-0.06
+22,Engineering,3277,2784,-493,0.0489,0.0416,-0.73
+27,Medicine,2599,2456,-143,0.0388,0.0367,-0.21
+11,Agricultural and Biological Sciences,2474,2310,-164,0.0369,0.0345,-0.24
+12,Arts and Humanities,1620,2193,573,0.0242,0.0328,0.86
+26,Mathematics,1621,1909,288,0.0242,0.0285,0.43
+20,"Economics, Econometrics and Finance",1767,1624,-143,0.0264,0.0243,-0.21
+32,Psychology,1668,1526,-142,0.0249,0.0228,-0.21
+28,Neuroscience,1465,1548,83,0.0219,0.0231,0.13
+25,Materials Science,1251,1106,-145,0.0187,0.0165,-0.21
+16,Chemistry,973,1177,204,0.0145,0.0176,0.31
+21,Energy,558,539,-19,0.0083,0.0081,-0.03
+18,Decision Sciences,494,474,-20,0.0074,0.0071,-0.03
+14,"Business, Management and Accounting",438,363,-75,0.0065,0.0054,-0.11
+24,Immunology and Microbiology,424,308,-116,0.0063,0.0046,-0.17
+36,Health Professions,282,174,-108,0.0042,0.0026,-0.16
+29,Nursing,115,65,-50,0.0017,0.001,-0.07
+15,Chemical Engineering,63,37,-26,0.0009,0.0006,-0.04
+30,"Pharmacology, Toxicology and Pharmaceutics",50,17,-33,0.0007,0.0003,-0.05
+34,Veterinary,20,19,-1,0.0003,0.0003,-0.0
+35,Dentistry,12,7,-5,0.0002,0.0001,-0.01

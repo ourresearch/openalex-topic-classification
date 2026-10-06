@@ -18,8 +18,8 @@ OpenAlex institution [I1339065421](https://openalex.org/I1339065421) and its chi
 | Computer Science | 91 | 71 | 2.9% | 2.3% |
 | Physics and Astronomy | 84 | 71 | 2.7% | 2.3% |
 | Pharmacology, Toxicology and Pharmaceutics | 29 | 56 | 0.9% | 1.8% |
-| Psychology | 59 | 46 | 1.9% | 1.5% |
 | Earth and Planetary Sciences | 37 | 46 | 1.2% | 1.5% |
+| Psychology | 59 | 46 | 1.9% | 1.5% |
 | Neuroscience | 43 | 44 | 1.4% | 1.4% |
 | Health Professions | 62 | 43 | 2.0% | 1.4% |
 | Decision Sciences | 32 | 37 | 1.0% | 1.2% |

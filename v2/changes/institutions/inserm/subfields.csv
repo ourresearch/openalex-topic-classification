@@ -126,8 +126,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3318,Gender Studies,301,488,187,0.0005,0.0009,0.03
 2206,Computational Mechanics,384,396,12,0.0007,0.0007,0.0
 2310,Pollution,417,343,-74,0.0007,0.0006,-0.01
-3314,Anthropology,336,347,11,0.0006,0.0006,0.0
 3109,Statistical and Nonlinear Physics,349,334,-15,0.0006,0.0006,-0.0
+3314,Anthropology,336,347,11,0.0006,0.0006,0.0
 3505,Orthodontics,277,395,118,0.0005,0.0007,0.02
 1602,Analytical Chemistry,223,441,218,0.0004,0.0008,0.04
 1803,Management Science and Operations Research,286,364,78,0.0005,0.0007,0.01
@@ -170,12 +170,12 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2308,"Management, Monitoring, Policy and Law",179,124,-55,0.0003,0.0002,-0.01
 3603,Complementary and Manual Therapy,176,122,-54,0.0003,0.0002,-0.01
 1203,Language and Linguistics,157,137,-20,0.0003,0.0002,-0.0
-2213,"Safety, Risk, Reliability and Quality",91,169,78,0.0002,0.0003,0.01
 1213,Visual Arts and Performing Arts,56,204,148,0.0001,0.0004,0.03
+2213,"Safety, Risk, Reliability and Quality",91,169,78,0.0002,0.0003,0.01
 1800,General Decision Sciences,80,173,93,0.0001,0.0003,0.02
 2205,Civil and Structural Engineering,159,94,-65,0.0003,0.0002,-0.01
-2212,Ocean Engineering,154,68,-86,0.0003,0.0001,-0.02
 1408,Strategy and Management,126,96,-30,0.0002,0.0002,-0.01
+2212,Ocean Engineering,154,68,-86,0.0003,0.0001,-0.02
 2726,Microbiology,118,96,-22,0.0002,0.0002,-0.0
 2604,Applied Mathematics,82,128,46,0.0001,0.0002,0.01
 3206,Neuropsychology and Physiological Psychology,79,129,50,0.0001,0.0002,0.01
@@ -193,8 +193,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1502,Bioengineering,89,39,-50,0.0002,0.0001,-0.01
 2209,Industrial and Manufacturing Engineering,92,33,-59,0.0002,0.0001,-0.01
 2311,Waste Management and Disposal,68,50,-18,0.0001,0.0001,-0.0
-1904,Earth-Surface Processes,64,51,-13,0.0001,0.0001,-0.0
 1212,Religious studies,59,56,-3,0.0001,0.0001,-0.0
+1904,Earth-Surface Processes,64,51,-13,0.0001,0.0001,-0.0
 1206,Conservation,37,75,38,0.0001,0.0001,0.01
 1906,Geochemistry and Petrology,71,40,-31,0.0001,0.0001,-0.01
 3200,General Psychology,42,69,27,0.0001,0.0001,0.0
@@ -222,18 +222,18 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3303,Development,23,23,0,0.0,0.0,0.0
 1503,Catalysis,29,15,-14,0.0001,0.0,-0.0
 2605,Computational Mathematics,21,21,0,0.0,0.0,0.0
-3105,Instrumentation,31,10,-21,0.0001,0.0,-0.0
 1504,Chemical Health and Safety,15,26,11,0.0,0.0,0.0
 2607,Discrete Mathematics and Combinatorics,17,24,7,0.0,0.0,0.0
-2910,"Issues, ethics and legal aspects",20,20,0,0.0,0.0,0.0
+3105,Instrumentation,31,10,-21,0.0001,0.0,-0.0
 1205,Classics,20,20,0,0.0,0.0,0.0
+2910,"Issues, ethics and legal aspects",20,20,0,0.0,0.0,0.0
 2614,Theoretical Computer Science,19,15,-4,0.0,0.0,-0.0
 3608,Medical Terminology,18,10,-8,0.0,0.0,-0.0
 1403,Business and International Management,18,9,-9,0.0,0.0,-0.0
-3302,Archeology,13,12,-1,0.0,0.0,-0.0
 2216,Architecture,9,16,7,0.0,0.0,0.0
-3307,Human Factors and Ergonomics,10,14,4,0.0,0.0,0.0
+3302,Archeology,13,12,-1,0.0,0.0,-0.0
 1912,Space and Planetary Science,11,13,2,0.0,0.0,0.0
+3307,Human Factors and Ergonomics,10,14,4,0.0,0.0,0.0
 1200,General Arts and Humanities,10,12,2,0.0,0.0,0.0
 1410,Industrial relations,9,10,1,0.0,0.0,0.0
 1508,Process Chemistry and Technology,13,4,-9,0.0,0.0,-0.0
@@ -247,5 +247,5 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2102,Energy Engineering and Power Technology,3,3,0,0.0,0.0,0.0
 3309,Library and Information Sciences,0,6,6,0.0,0.0,0.0
 1108,Horticulture,5,0,-5,0.0,0.0,-0.0
-2104,Nuclear Energy and Engineering,0,1,1,0.0,0.0,0.0
 2103,Fuel Technology,1,0,-1,0.0,0.0,-0.0
+2104,Nuclear Energy and Engineering,0,1,1,0.0,0.0,0.0

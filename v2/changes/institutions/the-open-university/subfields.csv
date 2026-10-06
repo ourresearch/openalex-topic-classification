@@ -8,8 +8,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1702,Artificial Intelligence,1091,845,-246,0.0245,0.019,-0.55
 1208,Literature and Literary Theory,722,817,95,0.0162,0.0184,0.22
 2739,"Public Health, Environmental and Occupational Health",602,829,227,0.0135,0.0187,0.51
-3600,General Health Professions,706,596,-110,0.0159,0.0134,-0.24
 1706,Computer Science Applications,681,621,-60,0.0153,0.014,-0.13
+3600,General Health Professions,706,596,-110,0.0159,0.0134,-0.24
 3204,Developmental and Educational Psychology,637,544,-93,0.0143,0.0123,-0.21
 1202,History,558,609,51,0.0125,0.0137,0.12
 1902,Atmospheric Science,700,454,-246,0.0157,0.0102,-0.55
@@ -81,8 +81,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1907,Geology,62,193,131,0.0014,0.0043,0.3
 2000,"General Economics, Econometrics and Finance",132,121,-11,0.003,0.0027,-0.02
 2214,Media Technology,145,104,-41,0.0033,0.0023,-0.09
-2604,Applied Mathematics,141,103,-38,0.0032,0.0023,-0.08
 1705,Computer Networks and Communications,151,93,-58,0.0034,0.0021,-0.13
+2604,Applied Mathematics,141,103,-38,0.0032,0.0023,-0.08
 3306,Health,120,119,-1,0.0027,0.0027,-0.0
 1204,Archeology,132,106,-26,0.003,0.0024,-0.06
 1209,Museology,123,111,-12,0.0028,0.0025,-0.03
@@ -108,8 +108,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2740,Pulmonary and Respiratory Medicine,74,75,1,0.0017,0.0017,0.0
 3313,Transportation,76,72,-4,0.0017,0.0016,-0.01
 2602,Algebra and Number Theory,63,75,12,0.0014,0.0017,0.03
-2712,"Endocrinology, Diabetes and Metabolism",66,71,5,0.0015,0.0016,0.01
 1111,Soil Science,54,83,29,0.0012,0.0019,0.07
+2712,"Endocrinology, Diabetes and Metabolism",66,71,5,0.0015,0.0016,0.01
 1604,Inorganic Chemistry,82,54,-28,0.0018,0.0012,-0.06
 1205,Classics,44,87,43,0.001,0.002,0.1
 2212,Ocean Engineering,83,45,-38,0.0019,0.001,-0.09
@@ -120,13 +120,13 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1606,Physical and Theoretical Chemistry,84,33,-51,0.0019,0.0007,-0.11
 2725,Infectious Diseases,60,56,-4,0.0013,0.0013,-0.01
 1206,Conservation,54,60,6,0.0012,0.0014,0.01
-2705,Cardiology and Cardiovascular Medicine,59,54,-5,0.0013,0.0012,-0.01
 1306,Cancer Research,59,54,-5,0.0013,0.0012,-0.01
 1403,Business and International Management,79,34,-45,0.0018,0.0008,-0.1
+2705,Cardiology and Cardiovascular Medicine,59,54,-5,0.0013,0.0012,-0.01
 2922,Research and Theory,40,70,30,0.0009,0.0016,0.07
 1307,Cell Biology,59,48,-11,0.0013,0.0011,-0.02
-2304,Environmental Chemistry,73,33,-40,0.0016,0.0007,-0.09
 2302,Ecological Modeling,89,17,-72,0.002,0.0004,-0.16
+2304,Environmental Chemistry,73,33,-40,0.0016,0.0007,-0.09
 2205,Civil and Structural Engineering,60,45,-15,0.0013,0.001,-0.03
 1602,Analytical Chemistry,54,49,-5,0.0012,0.0011,-0.01
 2216,Architecture,30,71,41,0.0007,0.0016,0.09
@@ -134,12 +134,12 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1712,Software,44,54,10,0.001,0.0012,0.02
 2311,Waste Management and Disposal,45,51,6,0.001,0.0011,0.01
 2736,Pharmacology,68,28,-40,0.0015,0.0006,-0.09
-3300,General Social Sciences,29,66,37,0.0007,0.0015,0.08
 2502,Biomaterials,50,45,-5,0.0011,0.001,-0.01
 3200,General Psychology,50,45,-5,0.0011,0.001,-0.01
+3300,General Social Sciences,29,66,37,0.0007,0.0015,0.08
 2209,Industrial and Manufacturing Engineering,65,27,-38,0.0015,0.0006,-0.09
-2403,Immunology,74,17,-57,0.0017,0.0004,-0.13
 2203,Automotive Engineering,59,32,-27,0.0013,0.0007,-0.06
+2403,Immunology,74,17,-57,0.0017,0.0004,-0.13
 3604,Emergency Medical Services,49,42,-7,0.0011,0.0009,-0.02
 2728,Neurology,60,27,-33,0.0013,0.0006,-0.07
 2731,Ophthalmology,12,75,63,0.0003,0.0017,0.14
@@ -154,8 +154,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2743,Reproductive Medicine,55,13,-42,0.0012,0.0003,-0.09
 2734,Pathology and Forensic Medicine,31,32,1,0.0007,0.0007,0.0
 3309,Library and Information Sciences,26,37,11,0.0006,0.0008,0.02
-2732,Orthopedics and Sports Medicine,27,34,7,0.0006,0.0008,0.02
 2507,Polymers and Plastics,27,34,7,0.0006,0.0008,0.02
+2732,Orthopedics and Sports Medicine,27,34,7,0.0006,0.0008,0.02
 2729,Obstetrics and Gynecology,32,27,-5,0.0007,0.0006,-0.01
 2806,Developmental Neuroscience,21,36,15,0.0005,0.0008,0.03
 1711,Signal Processing,42,14,-28,0.0009,0.0003,-0.06
@@ -166,29 +166,29 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1102,Agronomy and Crop Science,27,19,-8,0.0006,0.0004,-0.02
 1308,Clinical Biochemistry,26,20,-6,0.0006,0.0005,-0.01
 3005,Toxicology,14,31,17,0.0003,0.0007,0.04
-2718,Health Informatics,32,10,-22,0.0007,0.0002,-0.05
 2102,Energy Engineering and Power Technology,16,26,10,0.0004,0.0006,0.02
+2718,Health Informatics,32,10,-22,0.0007,0.0002,-0.05
 1109,Insect Science,24,17,-7,0.0005,0.0004,-0.02
 1304,Biophysics,19,22,3,0.0004,0.0005,0.01
 3612,"Physical Therapy, Sports Therapy and Rehabilitation",17,23,6,0.0004,0.0005,0.01
 1103,Animal Science and Zoology,35,4,-31,0.0008,0.0001,-0.07
 1704,Computer Graphics and Computer-Aided Design,19,18,-1,0.0004,0.0004,-0.0
+1800,General Decision Sciences,11,25,14,0.0002,0.0006,0.03
 2612,Numerical Analysis,23,13,-10,0.0005,0.0003,-0.02
 2809,Sensory Systems,14,22,8,0.0003,0.0005,0.02
-1800,General Decision Sciences,11,25,14,0.0002,0.0006,0.03
 1708,Hardware and Architecture,25,10,-15,0.0006,0.0002,-0.03
 2745,Rheumatology,23,12,-11,0.0005,0.0003,-0.02
 3004,Pharmacology,17,18,1,0.0004,0.0004,0.0
 3614,Radiological and Ultrasound Technology,25,10,-15,0.0006,0.0002,-0.03
 2503,Ceramics and Composites,20,14,-6,0.0004,0.0003,-0.01
 2807,Endocrine and Autonomic Systems,14,17,3,0.0003,0.0004,0.01
-2715,Gastroenterology,13,17,4,0.0003,0.0004,0.01
 1107,Forestry,9,21,12,0.0002,0.0005,0.03
+2715,Gastroenterology,13,17,4,0.0003,0.0004,0.01
 2742,Rehabilitation,21,9,-12,0.0005,0.0002,-0.03
 1303,Biochemistry,12,17,5,0.0003,0.0004,0.01
 2802,Behavioral Neuroscience,20,9,-11,0.0004,0.0002,-0.02
-2714,Family Practice,13,11,-2,0.0003,0.0002,-0.0
 2405,Parasitology,10,14,4,0.0002,0.0003,0.01
+2714,Family Practice,13,11,-2,0.0003,0.0002,-0.0
 2100,General Energy,12,11,-1,0.0003,0.0002,-0.0
 1314,Physiology,13,9,-4,0.0003,0.0002,-0.01
 1503,Catalysis,16,6,-10,0.0004,0.0001,-0.02
@@ -197,23 +197,23 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2717,Geriatrics and Gerontology,13,6,-7,0.0003,0.0001,-0.02
 3003,Pharmaceutical Science,11,8,-3,0.0002,0.0002,-0.01
 2605,Computational Mathematics,11,6,-5,0.0002,0.0001,-0.01
-2727,Nephrology,8,8,0,0.0002,0.0002,0.0
-2500,General Materials Science,8,8,0,0.0002,0.0002,0.0
-2404,Microbiology,9,7,-2,0.0002,0.0002,-0.0
 2402,Applied Microbiology and Biotechnology,6,10,4,0.0001,0.0002,0.01
-2708,Dermatology,14,1,-13,0.0003,0.0,-0.03
-1200,General Arts and Humanities,4,11,7,0.0001,0.0002,0.02
+2404,Microbiology,9,7,-2,0.0002,0.0002,-0.0
+2500,General Materials Science,8,8,0,0.0002,0.0002,0.0
+2727,Nephrology,8,8,0,0.0002,0.0002,0.0
 1104,Aquatic Science,8,7,-1,0.0002,0.0002,-0.0
-2748,Urology,8,6,-2,0.0002,0.0001,-0.0
+1200,General Arts and Humanities,4,11,7,0.0001,0.0002,0.02
+2708,Dermatology,14,1,-13,0.0003,0.0,-0.03
 1309,Developmental Biology,10,4,-6,0.0002,0.0001,-0.01
 1310,Endocrinology,11,3,-8,0.0002,0.0001,-0.02
+2748,Urology,8,6,-2,0.0002,0.0001,-0.0
 2703,Anesthesiology and Pain Medicine,4,9,5,0.0001,0.0002,0.01
 3302,Archeology,5,8,3,0.0001,0.0002,0.01
 3319,Life-span and Life-course Studies,1,12,11,0.0,0.0003,0.02
-1502,Bioengineering,9,3,-6,0.0002,0.0001,-0.01
-2911,Leadership and Management,1,11,10,0.0,0.0002,0.02
-2723,Immunology and Allergy,8,4,-4,0.0002,0.0001,-0.01
 1302,Aging,8,4,-4,0.0002,0.0001,-0.01
+1502,Bioengineering,9,3,-6,0.0002,0.0001,-0.01
+2723,Immunology and Allergy,8,4,-4,0.0002,0.0001,-0.01
+2911,Leadership and Management,1,11,10,0.0,0.0002,0.02
 1507,Fluid Flow and Transfer Processes,4,7,3,0.0001,0.0002,0.01
 1409,"Tourism, Leisure and Hospitality Management",7,3,-4,0.0002,0.0001,-0.01
 2706,Critical Care and Intensive Care Medicine,7,3,-4,0.0002,0.0001,-0.01
@@ -221,28 +221,28 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2716,Genetics,5,4,-1,0.0001,0.0001,-0.0
 1912,Space and Planetary Science,8,0,-8,0.0002,0.0,-0.02
 2406,Virology,5,3,-2,0.0001,0.0001,-0.0
-1315,Structural Biology,3,4,1,0.0001,0.0001,0.0
 1305,Biotechnology,6,1,-5,0.0001,0.0,-0.01
-2720,Hematology,4,3,-1,0.0001,0.0001,-0.0
+1315,Structural Biology,3,4,1,0.0001,0.0001,0.0
 1603,Electrochemistry,6,1,-5,0.0001,0.0,-0.01
-2733,Otorhinolaryngology,4,2,-2,0.0001,0.0,-0.0
-2721,Hepatology,3,3,0,0.0001,0.0001,0.0
-3500,General Dentistry,6,0,-6,0.0001,0.0,-0.01
+2720,Hematology,4,3,-1,0.0001,0.0001,-0.0
 2702,Anatomy,4,2,-2,0.0001,0.0,-0.0
-3402,Equine,1,4,3,0.0,0.0001,0.01
+2721,Hepatology,3,3,0,0.0001,0.0001,0.0
+2733,Otorhinolaryngology,4,2,-2,0.0001,0.0,-0.0
+3500,General Dentistry,6,0,-6,0.0001,0.0,-0.01
 2704,Biochemistry,1,4,3,0.0,0.0001,0.01
+2724,Internal Medicine,3,2,-1,0.0001,0.0,-0.0
+3402,Equine,1,4,3,0.0,0.0001,0.01
+3504,Oral Surgery,2,3,1,0.0,0.0001,0.0
 3505,Orthodontics,2,3,1,0.0,0.0001,0.0
 3607,Medical Laboratory Technology,5,0,-5,0.0001,0.0,-0.01
-3504,Oral Surgery,2,3,1,0.0,0.0001,0.0
 3608,Medical Terminology,4,1,-3,0.0001,0.0,-0.01
-2724,Internal Medicine,3,2,-1,0.0001,0.0,-0.0
 1410,Industrial relations,1,2,1,0.0,0.0,0.0
 1506,Filtration and Separation,2,1,-1,0.0,0.0,-0.0
-3102,Acoustics and Ultrasonics,1,1,0,0.0,0.0,0.0
 1108,Horticulture,2,0,-2,0.0,0.0,-0.0
+3102,Acoustics and Ultrasonics,1,1,0,0.0,0.0,0.0
 3506,Periodontics,1,1,0,0.0,0.0,0.0
-2726,Microbiology,1,0,-1,0.0,0.0,-0.0
-3603,Complementary and Manual Therapy,1,0,-1,0.0,0.0,-0.0
 1504,Chemical Health and Safety,1,0,-1,0.0,0.0,-0.0
-2747,Transplantation,0,1,1,0.0,0.0,0.0
 1508,Process Chemistry and Technology,1,0,-1,0.0,0.0,-0.0
+2726,Microbiology,1,0,-1,0.0,0.0,-0.0
+2747,Transplantation,0,1,1,0.0,0.0,0.0
+3603,Complementary and Manual Therapy,1,0,-1,0.0,0.0,-0.0

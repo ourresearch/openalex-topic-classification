@@ -10,8 +10,8 @@ field_id,display_name,works_old,works_new,change,share_old,share_new,share_chang
 36,Health Professions,3228,3212,-16,0.0378,0.0377,-0.02
 14,"Business, Management and Accounting",3125,3187,62,0.0366,0.0374,0.07
 25,Materials Science,2817,2667,-150,0.033,0.0313,-0.17
-13,"Biochemistry, Genetics and Molecular Biology",2615,2602,-13,0.0307,0.0305,-0.01
 11,Agricultural and Biological Sciences,2800,2417,-383,0.0328,0.0283,-0.45
+13,"Biochemistry, Genetics and Molecular Biology",2615,2602,-13,0.0307,0.0305,-0.01
 20,"Economics, Econometrics and Finance",2048,2027,-21,0.024,0.0238,-0.02
 18,Decision Sciences,1112,1375,263,0.013,0.0161,0.31
 12,Arts and Humanities,1056,1298,242,0.0124,0.0152,0.28

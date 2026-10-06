@@ -48,6 +48,6 @@ Biggest shifts in share: Engineering +1.2 pts; Arts and Humanities +0.8 pts; Med
 | 7 | Language, Discourse, Communication Strategies | 356 | Building Energy and Comfort Optimization | 392 |
 | 8 | Obesity, Physical Activity, Diet | 347 | Integrated Energy Systems Optimization | 349 |
 | 9 | Construction Project Management and Performance | 330 | Matrix Theory and Algorithms | 348 |
-| 10 | Building Energy and Comfort Optimization | 327 | Language, Discourse, Communication Strategies | 346 |
+| 10 | Building Energy and Comfort Optimization | 327 | Additive Manufacturing and 3D Printing Technologies | 346 |
 
 Full tables: [fields.csv](fields.csv), [subfields.csv](subfields.csv), [topics.csv](topics.csv) (works before and after, share of the institution's works with a topic, change in points).

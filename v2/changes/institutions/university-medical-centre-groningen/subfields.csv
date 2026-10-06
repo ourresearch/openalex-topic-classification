@@ -90,8 +90,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2707,Complementary and alternative medicine,81,145,64,0.0009,0.0017,0.07
 3603,Complementary and Manual Therapy,94,129,35,0.0011,0.0015,0.04
 2402,Applied Microbiology and Biotechnology,100,119,19,0.0012,0.0014,0.02
-1605,Organic Chemistry,99,99,0,0.0012,0.0012,0.0
 1211,Philosophy,182,16,-166,0.0021,0.0002,-0.19
+1605,Organic Chemistry,99,99,0,0.0012,0.0012,0.0
 3311,Safety Research,54,142,88,0.0006,0.0017,0.1
 3005,Toxicology,74,111,37,0.0009,0.0013,0.04
 2806,Developmental Neuroscience,99,85,-14,0.0012,0.001,-0.02
@@ -110,8 +110,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1304,Biophysics,64,55,-9,0.0007,0.0006,-0.01
 1314,Physiology,69,49,-20,0.0008,0.0006,-0.02
 1802,Information Systems and Management,44,64,20,0.0005,0.0007,0.02
-3318,Gender Studies,48,58,10,0.0006,0.0007,0.01
 2208,Electrical and Electronic Engineering,72,34,-38,0.0008,0.0004,-0.04
+3318,Gender Studies,48,58,10,0.0006,0.0007,0.01
 3614,Radiological and Ultrasound Technology,65,30,-35,0.0008,0.0004,-0.04
 1309,Developmental Biology,31,61,30,0.0004,0.0007,0.04
 1709,Human-Computer Interaction,36,54,18,0.0004,0.0006,0.02
@@ -123,8 +123,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1103,Animal Science and Zoology,45,22,-23,0.0005,0.0003,-0.03
 2406,Virology,32,34,2,0.0004,0.0004,0.0
 2210,Mechanical Engineering,35,29,-6,0.0004,0.0003,-0.01
-1703,Computational Theory and Mathematics,33,29,-4,0.0004,0.0003,-0.0
 1315,Structural Biology,23,39,16,0.0003,0.0005,0.02
+1703,Computational Theory and Mathematics,33,29,-4,0.0004,0.0003,-0.0
 1305,Biotechnology,50,11,-39,0.0006,0.0001,-0.05
 3106,Nuclear and High Energy Physics,47,14,-33,0.0005,0.0002,-0.04
 2611,Modeling and Simulation,24,35,11,0.0003,0.0004,0.01
@@ -145,26 +145,26 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2306,Global and Planetary Change,16,11,-5,0.0002,0.0001,-0.01
 1203,Language and Linguistics,17,9,-8,0.0002,0.0001,-0.01
 2507,Polymers and Plastics,17,7,-10,0.0002,0.0001,-0.01
-3103,Astronomy and Astrophysics,13,10,-3,0.0002,0.0001,-0.0
-1604,Inorganic Chemistry,11,12,1,0.0001,0.0001,0.0
-2312,Water Science and Technology,12,11,-1,0.0001,0.0001,-0.0
-1606,Physical and Theoretical Chemistry,11,12,1,0.0001,0.0001,0.0
 1402,Accounting,13,10,-3,0.0002,0.0001,-0.0
+1604,Inorganic Chemistry,11,12,1,0.0001,0.0001,0.0
+1606,Physical and Theoretical Chemistry,11,12,1,0.0001,0.0001,0.0
+2312,Water Science and Technology,12,11,-1,0.0001,0.0001,-0.0
+3103,Astronomy and Astrophysics,13,10,-3,0.0002,0.0001,-0.0
 2305,Environmental Engineering,11,11,0,0.0001,0.0001,0.0
 2702,Anatomy,7,15,8,0.0001,0.0002,0.01
-1911,Paleontology,11,9,-2,0.0001,0.0001,-0.0
-2212,Ocean Engineering,14,6,-8,0.0002,0.0001,-0.01
 1408,Strategy and Management,10,10,0,0.0001,0.0001,0.0
 1800,General Decision Sciences,9,11,2,0.0001,0.0001,0.0
-3315,Communication,9,10,1,0.0001,0.0001,0.0
+1911,Paleontology,11,9,-2,0.0001,0.0001,-0.0
+2212,Ocean Engineering,14,6,-8,0.0002,0.0001,-0.01
 1208,Literature and Literary Theory,16,3,-13,0.0002,0.0,-0.02
+3315,Communication,9,10,1,0.0001,0.0001,0.0
 1109,Insect Science,18,0,-18,0.0002,0.0,-0.02
 3109,Statistical and Nonlinear Physics,15,3,-12,0.0002,0.0,-0.01
-2215,Building and Construction,10,7,-3,0.0001,0.0001,-0.0
-1705,Computer Networks and Communications,15,2,-13,0.0002,0.0,-0.02
 1502,Bioengineering,8,9,1,0.0001,0.0001,0.0
-3308,Law,11,5,-6,0.0001,0.0001,-0.01
+1705,Computer Networks and Communications,15,2,-13,0.0002,0.0,-0.02
+2215,Building and Construction,10,7,-3,0.0001,0.0001,-0.0
 2207,Control and Systems Engineering,12,4,-8,0.0001,0.0,-0.01
+3308,Law,11,5,-6,0.0001,0.0001,-0.01
 2304,Environmental Chemistry,9,6,-3,0.0001,0.0001,-0.0
 1711,Signal Processing,11,3,-8,0.0001,0.0,-0.01
 1204,Archeology,7,6,-1,0.0001,0.0001,-0.0
@@ -177,52 +177,52 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1404,Management Information Systems,6,5,-1,0.0001,0.0001,-0.0
 3314,Anthropology,7,4,-3,0.0001,0.0,-0.0
 3608,Medical Terminology,11,0,-11,0.0001,0.0,-0.01
-3402,Equine,5,5,0,0.0001,0.0001,0.0
 1111,Soil Science,3,7,4,0.0,0.0001,0.0
 1706,Computer Science Applications,9,1,-8,0.0001,0.0,-0.01
-2504,"Electronic, Optical and Magnetic Materials",5,4,-1,0.0001,0.0,-0.0
+3402,Equine,5,5,0,0.0001,0.0001,0.0
 2211,Mechanics of Materials,7,2,-5,0.0001,0.0,-0.01
+2504,"Electronic, Optical and Magnetic Materials",5,4,-1,0.0001,0.0,-0.0
 2605,Computational Mathematics,2,7,5,0.0,0.0001,0.01
-2205,Civil and Structural Engineering,7,1,-6,0.0001,0.0,-0.01
-3607,Medical Laboratory Technology,6,2,-4,0.0001,0.0,-0.0
 1104,Aquatic Science,3,5,2,0.0,0.0001,0.0
-3321,Public Administration,4,4,0,0.0,0.0,0.0
 1213,Visual Arts and Performing Arts,6,2,-4,0.0001,0.0,-0.0
-3200,General Psychology,3,4,1,0.0,0.0,0.0
+2205,Civil and Structural Engineering,7,1,-6,0.0001,0.0,-0.01
+3321,Public Administration,4,4,0,0.0,0.0,0.0
+3607,Medical Laboratory Technology,6,2,-4,0.0001,0.0,-0.0
 2726,Microbiology,3,4,1,0.0,0.0,0.0
 3105,Instrumentation,5,2,-3,0.0001,0.0,-0.0
-2610,Mathematical Physics,3,3,0,0.0,0.0,0.0
-1910,Oceanography,5,1,-4,0.0001,0.0,-0.0
-3300,General Social Sciences,4,2,-2,0.0,0.0,-0.0
-1406,Marketing,5,1,-4,0.0001,0.0,-0.0
-2308,"Management, Monitoring, Policy and Law",5,1,-4,0.0001,0.0,-0.0
-3322,Urban Studies,2,4,2,0.0,0.0,0.0
+3200,General Psychology,3,4,1,0.0,0.0,0.0
 1210,Music,6,0,-6,0.0001,0.0,-0.01
+1406,Marketing,5,1,-4,0.0001,0.0,-0.0
+1910,Oceanography,5,1,-4,0.0001,0.0,-0.0
+2308,"Management, Monitoring, Policy and Law",5,1,-4,0.0001,0.0,-0.0
+2610,Mathematical Physics,3,3,0,0.0,0.0,0.0
+3300,General Social Sciences,4,2,-2,0.0,0.0,-0.0
+3322,Urban Studies,2,4,2,0.0,0.0,0.0
 1504,Chemical Health and Safety,5,0,-5,0.0001,0.0,-0.01
-1907,Geology,4,0,-4,0.0,0.0,-0.0
-2614,Theoretical Computer Science,4,0,-4,0.0,0.0,-0.0
-2309,Nature and Landscape Conservation,2,2,0,0.0,0.0,0.0
-3307,Human Factors and Ergonomics,2,2,0,0.0,0.0,0.0
 1206,Conservation,2,2,0,0.0,0.0,0.0
+1907,Geology,4,0,-4,0.0,0.0,-0.0
 2209,Industrial and Manufacturing Engineering,4,0,-4,0.0,0.0,-0.0
 2214,Media Technology,3,1,-2,0.0,0.0,-0.0
+2309,Nature and Landscape Conservation,2,2,0,0.0,0.0,0.0
+2614,Theoretical Computer Science,4,0,-4,0.0,0.0,-0.0
+3307,Human Factors and Ergonomics,2,2,0,0.0,0.0,0.0
 1100,General Agricultural and Biological Sciences,3,0,-3,0.0,0.0,-0.0
-1603,Electrochemistry,2,1,-1,0.0,0.0,-0.0
 1212,Religious studies,3,0,-3,0.0,0.0,-0.0
-2500,General Materials Science,3,0,-3,0.0,0.0,-0.0
-1902,Atmospheric Science,2,1,-1,0.0,0.0,-0.0
+1603,Electrochemistry,2,1,-1,0.0,0.0,-0.0
 1712,Software,1,2,1,0.0,0.0,0.0
+1902,Atmospheric Science,2,1,-1,0.0,0.0,-0.0
 2302,Ecological Modeling,3,0,-3,0.0,0.0,-0.0
+2500,General Materials Science,3,0,-3,0.0,0.0,-0.0
 1209,Museology,2,0,-2,0.0,0.0,-0.0
+1508,Process Chemistry and Technology,2,0,-2,0.0,0.0,-0.0
 2000,"General Economics, Econometrics and Finance",2,0,-2,0.0,0.0,-0.0
 2216,Architecture,0,2,2,0.0,0.0,0.0
 2503,Ceramics and Composites,2,0,-2,0.0,0.0,-0.0
-1508,Process Chemistry and Technology,2,0,-2,0.0,0.0,-0.0
-3319,Life-span and Life-course Studies,0,1,1,0.0,0.0,0.0
-2604,Applied Mathematics,1,0,-1,0.0,0.0,-0.0
-1704,Computer Graphics and Computer-Aided Design,1,0,-1,0.0,0.0,-0.0
-3303,Development,1,0,-1,0.0,0.0,-0.0
-2607,Discrete Mathematics and Combinatorics,1,0,-1,0.0,0.0,-0.0
 1200,General Arts and Humanities,0,1,1,0.0,0.0,0.0
 1503,Catalysis,1,0,-1,0.0,0.0,-0.0
+1704,Computer Graphics and Computer-Aided Design,1,0,-1,0.0,0.0,-0.0
+2604,Applied Mathematics,1,0,-1,0.0,0.0,-0.0
+2607,Discrete Mathematics and Combinatorics,1,0,-1,0.0,0.0,-0.0
+3303,Development,1,0,-1,0.0,0.0,-0.0
 3310,Linguistics and Language,0,1,1,0.0,0.0,0.0
+3319,Life-span and Life-course Studies,0,1,1,0.0,0.0,0.0

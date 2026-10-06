@@ -11,8 +11,8 @@ field_id,display_name,works_old,works_new,change,share_old,share_new,share_chang
 19,Earth and Planetary Sciences,53,14,-39,0.0225,0.0058,-1.67
 23,Environmental Science,53,6,-47,0.0225,0.0025,-2.0
 32,Psychology,37,13,-24,0.0157,0.0053,-1.03
-20,"Economics, Econometrics and Finance",29,2,-27,0.0123,0.0008,-1.15
 11,Agricultural and Biological Sciences,29,2,-27,0.0123,0.0008,-1.15
+20,"Economics, Econometrics and Finance",29,2,-27,0.0123,0.0008,-1.15
 25,Materials Science,19,6,-13,0.0081,0.0025,-0.56
 31,Physics and Astronomy,16,6,-10,0.0068,0.0025,-0.43
 28,Neuroscience,14,3,-11,0.0059,0.0012,-0.47
@@ -21,6 +21,6 @@ field_id,display_name,works_old,works_new,change,share_old,share_new,share_chang
 26,Mathematics,9,3,-6,0.0038,0.0012,-0.26
 29,Nursing,2,1,-1,0.0008,0.0004,-0.04
 21,Energy,2,0,-2,0.0008,0.0,-0.08
-30,"Pharmacology, Toxicology and Pharmaceutics",1,0,-1,0.0004,0.0,-0.04
 15,Chemical Engineering,1,0,-1,0.0004,0.0,-0.04
+30,"Pharmacology, Toxicology and Pharmaceutics",1,0,-1,0.0004,0.0,-0.04
 35,Dentistry,1,0,-1,0.0004,0.0,-0.04

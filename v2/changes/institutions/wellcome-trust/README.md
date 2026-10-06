@@ -45,8 +45,8 @@ Biggest shifts in share: Agricultural and Biological Sciences -1.3 pts; Medicine
 | 4 | Global Maternal and Child Health | 1,619 | Genomics and Phylogenetic Studies | 1,878 |
 | 5 | Mosquito-borne diseases and control | 1,431 | Genetic Associations and Epidemiology | 1,335 |
 | 6 | Functional Brain Connectivity Studies | 1,270 | Parasites and Host Interactions | 1,296 |
-| 7 | Parasites and Host Interactions | 1,173 | Mosquito-borne diseases and control | 1,275 |
-| 8 | Genomics and Phylogenetic Studies | 1,173 | Salmonella and Campylobacter epidemiology | 1,173 |
+| 7 | Genomics and Phylogenetic Studies | 1,173 | Mosquito-borne diseases and control | 1,275 |
+| 8 | Parasites and Host Interactions | 1,173 | Salmonella and Campylobacter epidemiology | 1,173 |
 | 9 | Salmonella and Campylobacter epidemiology | 1,089 | Pneumonia and Respiratory Infections | 1,032 |
 | 10 | SARS-CoV-2 and COVID-19 Research | 952 | SARS-CoV-2 and COVID-19 Research | 992 |
 

@@ -19,18 +19,18 @@ OpenAlex institution [I3132238960](https://openalex.org/I3132238960) and its chi
 | Mathematics | 51 | 64 | 0.9% | 1.1% |
 | Psychology | 57 | 63 | 1.0% | 1.1% |
 | Neuroscience | 47 | 42 | 0.8% | 0.7% |
-| Economics, Econometrics and Finance | 75 | 39 | 1.3% | 0.7% |
 | Biochemistry, Genetics and Molecular Biology | 53 | 39 | 0.9% | 0.7% |
+| Economics, Econometrics and Finance | 75 | 39 | 1.3% | 0.7% |
 | Health Professions | 41 | 32 | 0.7% | 0.6% |
 | Earth and Planetary Sciences | 34 | 31 | 0.6% | 0.5% |
 | Energy | 36 | 27 | 0.6% | 0.5% |
 | Agricultural and Biological Sciences | 26 | 15 | 0.4% | 0.3% |
 | Chemistry | 9 | 2 | 0.2% | 0.0% |
 | Dentistry | 2 | 2 | 0.0% | 0.0% |
-| Nursing | 3 | 1 | 0.1% | 0.0% |
 | Immunology and Microbiology | 1 | 1 | 0.0% | 0.0% |
-| Pharmacology, Toxicology and Pharmaceutics | 2 | 0 | 0.0% | 0.0% |
+| Nursing | 3 | 1 | 0.1% | 0.0% |
 | Chemical Engineering | 1 | 0 | 0.0% | 0.0% |
+| Pharmacology, Toxicology and Pharmaceutics | 2 | 0 | 0.0% | 0.0% |
 
 Biggest shifts in share: Computer Science +2.4 pts; Engineering +1.5 pts; Social Sciences -1.4 pts; Arts and Humanities +0.8 pts.
 
@@ -46,7 +46,7 @@ Biggest shifts in share: Computer Science +2.4 pts; Engineering +1.5 pts; Social
 | 6 | Hermeneutics and Narrative Identity | 52 | Publishing and Scholarly Communication | 57 |
 | 7 | ICT Impact and Policies | 51 | Remote-Sensing Image Classification | 55 |
 | 8 | Energy Efficient Wireless Sensor Networks | 50 | History of Computing Technologies | 51 |
-| 9 | Advanced MIMO Systems Optimization | 42 | Microwave Engineering and Waveguides | 42 |
-| 10 | Mobile Ad Hoc Networks | 42 | Parallel Computing and Optimization Techniques | 42 |
+| 9 | Advanced MIMO Systems Optimization | 42 | Energy Efficient Wireless Sensor Networks | 42 |
+| 10 | Mobile Ad Hoc Networks | 42 | Microwave Engineering and Waveguides | 42 |
 
 Full tables: [fields.csv](fields.csv), [subfields.csv](subfields.csv), [topics.csv](topics.csv) (works before and after, share of the institution's works with a topic, change in points).

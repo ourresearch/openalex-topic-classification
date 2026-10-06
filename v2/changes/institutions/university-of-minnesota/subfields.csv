@@ -80,8 +80,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2003,Finance,1289,1248,-41,0.0035,0.0034,-0.01
 2202,Aerospace Engineering,1441,1050,-391,0.0039,0.0028,-0.1
 2708,Dermatology,1245,1194,-51,0.0033,0.0032,-0.01
-3004,Pharmacology,802,1633,831,0.0022,0.0044,0.22
 2504,"Electronic, Optical and Magnetic Materials",1252,1183,-69,0.0034,0.0032,-0.02
+3004,Pharmacology,802,1633,831,0.0022,0.0044,0.22
 2808,Neurology,1265,1116,-149,0.0034,0.003,-0.04
 3109,Statistical and Nonlinear Physics,1380,999,-381,0.0037,0.0027,-0.1
 2747,Transplantation,1210,1159,-51,0.0033,0.0031,-0.01
@@ -178,8 +178,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1602,Analytical Chemistry,307,351,44,0.0008,0.0009,0.01
 2724,Internal Medicine,316,317,1,0.0008,0.0009,0.0
 3402,Equine,275,354,79,0.0007,0.001,0.02
-1209,Museology,286,329,43,0.0008,0.0009,0.01
 1204,Archeology,341,274,-67,0.0009,0.0007,-0.02
+1209,Museology,286,329,43,0.0008,0.0009,0.01
 1906,Geochemistry and Petrology,259,351,92,0.0007,0.0009,0.02
 2714,Family Practice,310,298,-12,0.0008,0.0008,-0.0
 1503,Catalysis,334,266,-68,0.0009,0.0007,-0.02
@@ -191,8 +191,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2302,Ecological Modeling,400,136,-264,0.0011,0.0004,-0.07
 2213,"Safety, Risk, Reliability and Quality",227,297,70,0.0006,0.0008,0.02
 1709,Human-Computer Interaction,248,269,21,0.0007,0.0007,0.01
-2718,Health Informatics,254,261,7,0.0007,0.0007,0.0
 1205,Classics,197,318,121,0.0005,0.0009,0.03
+2718,Health Informatics,254,261,7,0.0007,0.0007,0.0
 1704,Computer Graphics and Computer-Aided Design,219,291,72,0.0006,0.0008,0.02
 3603,Complementary and Manual Therapy,216,288,72,0.0006,0.0008,0.02
 1302,Aging,306,190,-116,0.0008,0.0005,-0.03
@@ -202,8 +202,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2311,Waste Management and Disposal,281,151,-130,0.0008,0.0004,-0.03
 1315,Structural Biology,111,307,196,0.0003,0.0008,0.05
 1603,Electrochemistry,252,166,-86,0.0007,0.0004,-0.02
-2806,Developmental Neuroscience,226,188,-38,0.0006,0.0005,-0.01
 1212,Religious studies,166,248,82,0.0004,0.0007,0.02
+2806,Developmental Neuroscience,226,188,-38,0.0006,0.0005,-0.01
 1502,Bioengineering,233,176,-57,0.0006,0.0005,-0.02
 1206,Conservation,170,211,41,0.0005,0.0006,0.01
 3614,Radiological and Ultrasound Technology,278,98,-180,0.0007,0.0003,-0.05
@@ -232,8 +232,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3500,General Dentistry,69,12,-57,0.0002,0.0,-0.02
 1504,Chemical Health and Safety,47,23,-24,0.0001,0.0001,-0.01
 2726,Microbiology,37,29,-8,0.0001,0.0001,-0.0
-2102,Energy Engineering and Power Technology,28,33,5,0.0001,0.0001,0.0
 1403,Business and International Management,43,18,-25,0.0001,0.0,-0.01
+2102,Energy Engineering and Power Technology,28,33,5,0.0001,0.0001,0.0
 2500,General Materials Science,43,11,-32,0.0001,0.0,-0.01
 3607,Medical Laboratory Technology,31,17,-14,0.0001,0.0,-0.0
 1409,"Tourism, Leisure and Hospitality Management",34,13,-21,0.0001,0.0,-0.01

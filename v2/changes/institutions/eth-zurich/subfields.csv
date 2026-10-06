@@ -94,8 +94,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2734,Pathology and Forensic Medicine,626,594,-32,0.0026,0.0025,-0.01
 1906,Geochemistry and Petrology,472,744,272,0.0019,0.0031,0.11
 1904,Earth-Surface Processes,494,624,130,0.002,0.0026,0.05
-3003,Pharmaceutical Science,619,459,-160,0.0026,0.0019,-0.07
 2720,Hematology,494,584,90,0.002,0.0024,0.04
+3003,Pharmaceutical Science,619,459,-160,0.0026,0.0019,-0.07
 1802,Information Systems and Management,414,632,218,0.0017,0.0026,0.09
 3311,Safety Research,398,596,198,0.0016,0.0025,0.08
 1907,Geology,326,665,339,0.0013,0.0027,0.14
@@ -183,8 +183,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2708,Dermatology,120,66,-54,0.0005,0.0003,-0.02
 3303,Development,121,65,-56,0.0005,0.0003,-0.02
 2748,Urology,93,89,-4,0.0004,0.0004,-0.0
-3616,Speech and Hearing,95,86,-9,0.0004,0.0004,-0.0
 2721,Hepatology,96,85,-11,0.0004,0.0004,-0.0
+3616,Speech and Hearing,95,86,-9,0.0004,0.0004,-0.0
 1209,Museology,148,23,-125,0.0006,0.0001,-0.05
 3614,Radiological and Ultrasound Technology,94,72,-22,0.0004,0.0003,-0.01
 2506,Metals and Alloys,54,108,54,0.0002,0.0004,0.02
@@ -210,8 +210,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2717,Geriatrics and Gerontology,48,41,-7,0.0002,0.0002,-0.0
 3321,Public Administration,36,44,8,0.0001,0.0002,0.0
 1206,Conservation,30,46,16,0.0001,0.0002,0.01
-2706,Critical Care and Intensive Care Medicine,49,25,-24,0.0002,0.0001,-0.01
 1205,Classics,45,29,-16,0.0002,0.0001,-0.01
+2706,Critical Care and Intensive Care Medicine,49,25,-24,0.0002,0.0001,-0.01
 2100,General Energy,36,36,0,0.0001,0.0001,0.0
 3402,Equine,34,32,-2,0.0001,0.0001,-0.0
 1108,Horticulture,46,19,-27,0.0002,0.0001,-0.01
@@ -230,22 +230,22 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1210,Music,15,9,-6,0.0001,0.0,-0.0
 1409,"Tourism, Leisure and Hospitality Management",15,8,-7,0.0001,0.0,-0.0
 3206,Neuropsychology and Physiological Psychology,8,10,2,0.0,0.0,0.0
-3310,Linguistics and Language,7,8,1,0.0,0.0,0.0
 3309,Library and Information Sciences,2,13,11,0.0,0.0001,0.0
+3310,Linguistics and Language,7,8,1,0.0,0.0,0.0
 1912,Space and Planetary Science,10,4,-6,0.0,0.0,-0.0
 2726,Microbiology,11,1,-10,0.0,0.0,-0.0
 3307,Human Factors and Ergonomics,4,7,3,0.0,0.0,0.0
-3200,General Psychology,5,5,0,0.0,0.0,0.0
 2747,Transplantation,5,5,0,0.0,0.0,0.0
+3200,General Psychology,5,5,0,0.0,0.0,0.0
 3607,Medical Laboratory Technology,7,0,-7,0.0,0.0,-0.0
-2724,Internal Medicine,4,2,-2,0.0,0.0,-0.0
 1200,General Arts and Humanities,4,2,-2,0.0,0.0,-0.0
 2103,Fuel Technology,3,3,0,0.0,0.0,0.0
+2724,Internal Medicine,4,2,-2,0.0,0.0,-0.0
 2200,General Engineering,2,1,-1,0.0,0.0,-0.0
 2910,"Issues, ethics and legal aspects",2,0,-2,0.0,0.0,-0.0
-2104,Nuclear Energy and Engineering,1,0,-1,0.0,0.0,-0.0
-3319,Life-span and Life-course Studies,0,1,1,0.0,0.0,0.0
 1410,Industrial relations,1,0,-1,0.0,0.0,-0.0
-3608,Medical Terminology,1,0,-1,0.0,0.0,-0.0
-3500,General Dentistry,1,0,-1,0.0,0.0,-0.0
+2104,Nuclear Energy and Engineering,1,0,-1,0.0,0.0,-0.0
 2922,Research and Theory,0,1,1,0.0,0.0,0.0
+3319,Life-span and Life-course Studies,0,1,1,0.0,0.0,0.0
+3500,General Dentistry,1,0,-1,0.0,0.0,-0.0
+3608,Medical Terminology,1,0,-1,0.0,0.0,-0.0

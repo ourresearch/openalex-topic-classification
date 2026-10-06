@@ -183,8 +183,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3609,Occupational Therapy,299,350,51,0.0007,0.0008,0.01
 1109,Insect Science,423,215,-208,0.0009,0.0005,-0.05
 1210,Music,316,282,-34,0.0007,0.0006,-0.01
-2405,Parasitology,305,285,-20,0.0007,0.0006,-0.0
 2302,Ecological Modeling,452,138,-314,0.001,0.0003,-0.07
+2405,Parasitology,305,285,-20,0.0007,0.0006,-0.0
 1305,Biotechnology,336,230,-106,0.0007,0.0005,-0.02
 2209,Industrial and Manufacturing Engineering,350,205,-145,0.0008,0.0004,-0.03
 1906,Geochemistry and Petrology,263,287,24,0.0006,0.0006,0.01
@@ -212,8 +212,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3614,Radiological and Ultrasound Technology,196,99,-97,0.0004,0.0002,-0.02
 1309,Developmental Biology,160,115,-45,0.0003,0.0003,-0.01
 2614,Theoretical Computer Science,162,102,-60,0.0004,0.0002,-0.01
-3307,Human Factors and Ergonomics,111,139,28,0.0002,0.0003,0.01
 1103,Animal Science and Zoology,197,53,-144,0.0004,0.0001,-0.03
+3307,Human Factors and Ergonomics,111,139,28,0.0002,0.0003,0.01
 2702,Anatomy,88,154,66,0.0002,0.0003,0.01
 2612,Numerical Analysis,118,111,-7,0.0003,0.0002,-0.0
 3309,Library and Information Sciences,96,131,35,0.0002,0.0003,0.01
@@ -240,8 +240,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2500,General Materials Science,34,6,-28,0.0001,0.0,-0.01
 2506,Metals and Alloys,21,19,-2,0.0,0.0,-0.0
 3608,Medical Terminology,28,11,-17,0.0001,0.0,-0.0
-3102,Acoustics and Ultrasonics,16,18,2,0.0,0.0,0.0
 1409,"Tourism, Leisure and Hospitality Management",31,3,-28,0.0001,0.0,-0.01
+3102,Acoustics and Ultrasonics,16,18,2,0.0,0.0,0.0
 2605,Computational Mathematics,16,14,-2,0.0,0.0,-0.0
 1504,Chemical Health and Safety,14,13,-1,0.0,0.0,-0.0
 2103,Fuel Technology,5,5,0,0.0,0.0,0.0

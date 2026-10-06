@@ -16,8 +16,8 @@ OpenAlex institution [I4405253577](https://openalex.org/I4405253577) and its chi
 | Computer Science | 72 | 52 | 1.7% | 1.3% |
 | Medicine | 36 | 27 | 0.9% | 0.6% |
 | Health Professions | 39 | 26 | 0.9% | 0.6% |
-| Mathematics | 16 | 20 | 0.4% | 0.5% |
 | Environmental Science | 51 | 20 | 1.2% | 0.5% |
+| Mathematics | 16 | 20 | 0.4% | 0.5% |
 | Energy | 15 | 16 | 0.4% | 0.4% |
 | Agricultural and Biological Sciences | 21 | 14 | 0.5% | 0.3% |
 | Physics and Astronomy | 22 | 14 | 0.5% | 0.3% |
@@ -25,10 +25,10 @@ OpenAlex institution [I4405253577](https://openalex.org/I4405253577) and its chi
 | Neuroscience | 17 | 7 | 0.4% | 0.2% |
 | Pharmacology, Toxicology and Pharmaceutics | 7 | 4 | 0.2% | 0.1% |
 | Nursing | 1 | 2 | 0.0% | 0.0% |
-| Materials Science | 3 | 1 | 0.1% | 0.0% |
 | Dentistry | 0 | 1 | 0.0% | 0.0% |
-| Veterinary | 2 | 0 | 0.0% | 0.0% |
+| Materials Science | 3 | 1 | 0.1% | 0.0% |
 | Earth and Planetary Sciences | 1 | 0 | 0.0% | 0.0% |
+| Veterinary | 2 | 0 | 0.0% | 0.0% |
 
 Biggest shifts in share: Business, Management and Accounting +3.0 pts; Social Sciences -2.6 pts; Decision Sciences +2.2 pts; Economics, Econometrics and Finance +1.0 pts.
 

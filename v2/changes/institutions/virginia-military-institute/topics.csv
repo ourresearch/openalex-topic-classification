@@ -8,16 +8,16 @@ T10477,Astrophysics and Star Formation Studies,16,23,7,0.01,0.0145,0.45
 T10070,Political Conflict and Governance,16,21,5,0.01,0.0132,0.32
 T10288,Fractional Differential Equations Solutions,33,3,-30,0.0207,0.0019,-1.88
 T12558,Wittgensteinian philosophy and applications,17,18,1,0.0106,0.0113,0.07
-T11762,"Law, Economics, and Judicial Systems",17,17,0,0.0106,0.0107,0.01
 T10093,Nuclear physics research studies,13,21,8,0.0081,0.0132,0.51
+T11762,"Law, Economics, and Judicial Systems",17,17,0,0.0106,0.0107,0.01
 T11228,Bat Biology and Ecology Studies,15,14,-1,0.0094,0.0088,-0.06
 T11572,Information Technology Governance and Strategy,11,17,6,0.0069,0.0107,0.38
 T11110,Stability and Controllability of Differential Equations,20,3,-17,0.0125,0.0019,-1.06
 T11303,Bayesian Modeling and Causal Inference,13,10,-3,0.0081,0.0063,-0.18
 T10224,Quantum Chromodynamics and Particle Interactions,10,11,1,0.0063,0.0069,0.07
-T11408,Advanced Optical Imaging Technologies,10,10,0,0.0063,0.0063,0.0
-T10270,Blockchain Technology Applications and Security,11,9,-2,0.0069,0.0057,-0.12
 T10108,Electoral Systems and Political Participation,11,9,-2,0.0069,0.0057,-0.12
+T10270,Blockchain Technology Applications and Security,11,9,-2,0.0069,0.0057,-0.12
+T11408,Advanced Optical Imaging Technologies,10,10,0,0.0063,0.0063,0.0
 T11070,Soviet and Russian History,8,10,2,0.005,0.0063,0.13
 T12321,Insect Pheromone Research and Control,1,17,16,0.0006,0.0107,1.01
 T10994,"Terrorism, Counterterrorism, and Political Violence",7,10,3,0.0044,0.0063,0.19
@@ -26,930 +26,930 @@ T11971,"World Wars: History, Literature, and Impact",5,12,7,0.0031,0.0076,0.44
 T10264,Asphalt Pavement Performance Evaluation,8,8,0,0.005,0.005,0.0
 T10315,Decision-Making and Behavioral Economics,7,9,2,0.0044,0.0057,0.13
 T13116,Heat Transfer and Numerical Methods,1,14,13,0.0006,0.0088,0.82
-T12312,"Culture, Economy, and Development Studies",10,4,-6,0.0063,0.0025,-0.37
 T10297,Philosophical Ethics and Theory,2,12,10,0.0013,0.0076,0.63
 T10400,Network Security and Intrusion Detection,8,6,-2,0.005,0.0038,-0.12
-T13445,American Constitutional Law and Politics,7,6,-1,0.0044,0.0038,-0.06
+T12312,"Culture, Economy, and Development Studies",10,4,-6,0.0063,0.0025,-0.37
 T11168,International Development and Aid,12,1,-11,0.0075,0.0006,-0.69
 T11856,Thermography and Photoacoustic Techniques,8,5,-3,0.005,0.0032,-0.19
-T13641,Historical Studies and Socio-cultural Analysis,11,1,-10,0.0069,0.0006,-0.63
+T13445,American Constitutional Law and Politics,7,6,-1,0.0044,0.0038,-0.06
 T10068,Technology Adoption and User Behaviour,5,7,2,0.0031,0.0044,0.13
 T11916,Legionella and Acanthamoeba research,6,6,0,0.0038,0.0038,0.0
+T13641,Historical Studies and Socio-cultural Analysis,11,1,-10,0.0069,0.0006,-0.63
 T10517,"Financial Literacy, Pension, Retirement Analysis",4,7,3,0.0025,0.0044,0.19
-T14343,Hispanic-African Historical Relations,6,5,-1,0.0038,0.0032,-0.06
-T12124,Engineering Education and Curriculum Development,5,6,1,0.0031,0.0038,0.07
-T12073,Isotope Analysis in Ecology,5,6,1,0.0031,0.0038,0.07
-T13802,Vietnamese History and Culture Studies,10,1,-9,0.0063,0.0006,-0.56
 T10564,Wastewater Treatment and Nitrogen Removal,5,6,1,0.0031,0.0038,0.07
-T14190,Military history and social perspectives,0,11,11,0.0,0.0069,0.69
 T10646,Experimental Behavioral Economics Studies,7,4,-3,0.0044,0.0025,-0.19
 T11283,Experimental Learning in Engineering,8,3,-5,0.005,0.0019,-0.31
-T12562,Synthesis and Characterization of Pyrroles,6,4,-2,0.0038,0.0025,-0.12
-T10998,Heat Transfer and Optimization,8,2,-6,0.005,0.0013,-0.37
+T12073,Isotope Analysis in Ecology,5,6,1,0.0031,0.0038,0.07
+T12124,Engineering Education and Curriculum Development,5,6,1,0.0031,0.0038,0.07
+T13802,Vietnamese History and Culture Studies,10,1,-9,0.0063,0.0006,-0.56
+T14190,Military history and social perspectives,0,11,11,0.0,0.0069,0.69
+T14343,Hispanic-African Historical Relations,6,5,-1,0.0038,0.0032,-0.06
+T10165,Classical Antiquity Studies,4,6,2,0.0025,0.0038,0.13
+T10349,Migration and Labor Dynamics,4,6,2,0.0025,0.0038,0.13
 T10529,Stress Responses and Cortisol,5,5,0,0.0031,0.0032,0.0
-T12092,Erosion and Abrasive Machining,5,5,0,0.0031,0.0032,0.0
+T10987,Microfinance and Financial Inclusion,5,5,0,0.0031,0.0032,0.0
+T10991,Game Theory and Voting Systems,4,6,2,0.0025,0.0038,0.13
+T10998,Heat Transfer and Optimization,8,2,-6,0.005,0.0013,-0.37
+T11031,Game Theory and Applications,5,5,0,0.0031,0.0032,0.0
 T11443,Advanced Statistical Process Monitoring,5,5,0,0.0031,0.0032,0.0
 T11685,Zebrafish Biomedical Research Applications,7,3,-4,0.0044,0.0019,-0.25
-T11031,Game Theory and Applications,5,5,0,0.0031,0.0032,0.0
-T10987,Microfinance and Financial Inclusion,5,5,0,0.0031,0.0032,0.0
-T10349,Migration and Labor Dynamics,4,6,2,0.0025,0.0038,0.13
-T10165,Classical Antiquity Studies,4,6,2,0.0025,0.0038,0.13
-T10991,Game Theory and Voting Systems,4,6,2,0.0025,0.0038,0.13
+T12092,Erosion and Abrasive Machining,5,5,0,0.0031,0.0032,0.0
+T12562,Synthesis and Characterization of Pyrroles,6,4,-2,0.0038,0.0025,-0.12
 T10039,"Stellar, planetary, and galactic studies",7,2,-5,0.0044,0.0013,-0.31
-T13494,Military History and Strategy,6,3,-3,0.0038,0.0019,-0.19
 T10242,Posttraumatic Stress Disorder Research,6,3,-3,0.0038,0.0019,-0.19
-T11982,Rhetoric and Communication Studies,3,6,3,0.0019,0.0038,0.19
 T11691,Forest Insect Ecology and Management,7,2,-5,0.0044,0.0013,-0.31
-T10553,Combustion and flame dynamics,4,4,0,0.0025,0.0025,0.0
-T10632,Housing Market and Economics,6,2,-4,0.0038,0.0013,-0.25
+T11982,Rhetoric and Communication Studies,3,6,3,0.0019,0.0038,0.19
+T13494,Military History and Strategy,6,3,-3,0.0038,0.0019,-0.19
+T10007,Monetary Policy and Economic Impact,4,4,0,0.0025,0.0025,0.0
+T10127,"Banking stability, regulation, efficiency",4,4,0,0.0025,0.0025,0.0
+T10162,Online and Blended Learning,4,4,0,0.0025,0.0025,0.0
+T10174,Animal Behavior and Reproduction,3,5,2,0.0019,0.0032,0.13
+T10393,Economic Growth and Productivity,3,5,2,0.0019,0.0032,0.13
 T10448,Memory and Neural Mechanisms,3,5,2,0.0019,0.0032,0.13
+T10553,Combustion and flame dynamics,4,4,0,0.0025,0.0025,0.0
+T10595,Medieval Literature and History,4,4,0,0.0025,0.0025,0.0
+T10632,Housing Market and Economics,6,2,-4,0.0038,0.0013,-0.25
 T10713,Structural Load-Bearing Analysis,3,5,2,0.0019,0.0032,0.13
 T10734,Information and Cyber Security,4,4,0,0.0025,0.0025,0.0
-T13682,Engineering Education and Pedagogy,2,6,4,0.0013,0.0038,0.25
-T12572,"Intelligence, Security, War Strategy",2,6,4,0.0013,0.0038,0.25
-T10595,Medieval Literature and History,4,4,0,0.0025,0.0025,0.0
-T10127,"Banking stability, regulation, efficiency",4,4,0,0.0025,0.0025,0.0
-T12221,Cybersecurity and Cyber Warfare Studies,4,4,0,0.0025,0.0025,0.0
-T10007,Monetary Policy and Economic Impact,4,4,0,0.0025,0.0025,0.0
-T10393,Economic Growth and Productivity,3,5,2,0.0019,0.0032,0.13
-T10174,Animal Behavior and Reproduction,3,5,2,0.0019,0.0032,0.13
 T10761,Vehicular Ad Hoc Networks (VANETs),3,5,2,0.0019,0.0032,0.13
-T10162,Online and Blended Learning,4,4,0,0.0025,0.0025,0.0
+T12221,Cybersecurity and Cyber Warfare Studies,4,4,0,0.0025,0.0025,0.0
+T12572,"Intelligence, Security, War Strategy",2,6,4,0.0013,0.0038,0.25
+T13682,Engineering Education and Pedagogy,2,6,4,0.0013,0.0038,0.25
 T13943,Beetle Biology and Toxicology Studies,0,8,8,0.0,0.005,0.5
-T11641,Insect and Pesticide Research,7,0,-7,0.0044,0.0,-0.44
-T11155,Toxoplasma gondii Research Studies,4,3,-1,0.0025,0.0019,-0.06
-T10482,Mathematical and Theoretical Epidemiology and Ecology Models,3,4,1,0.0019,0.0025,0.06
-T10328,Supply Chain and Inventory Management,2,5,3,0.0013,0.0032,0.19
-T13025,American History and Culture,7,0,-7,0.0044,0.0,-0.44
-T12135,Fuzzy Systems and Optimization,3,4,1,0.0019,0.0025,0.06
-T12671,Management and Marketing Education,4,3,-1,0.0025,0.0019,-0.06
-T10475,Psychological Well-being and Life Satisfaction,5,2,-3,0.0031,0.0013,-0.19
-T12233,Geotechnical Engineering and Underground Structures,4,3,-1,0.0025,0.0019,-0.06
-T10391,Healthcare Policy and Management,5,2,-3,0.0031,0.0013,-0.19
-T10121,Building Energy and Comfort Optimization,3,4,1,0.0019,0.0025,0.06
-T11432,Gender Politics and Representation,4,3,-1,0.0025,0.0019,-0.06
-T12702,Brain Tumor Detection and Classification,4,3,-1,0.0025,0.0019,-0.06
-T11042,Corruption and Economic Development,3,4,1,0.0019,0.0025,0.06
-T10096,Metal-Organic Frameworks: Synthesis and Applications,3,4,1,0.0019,0.0025,0.06
 T10043,Substance Abuse Treatment and Outcomes,2,5,3,0.0013,0.0032,0.19
+T10096,Metal-Organic Frameworks: Synthesis and Applications,3,4,1,0.0019,0.0025,0.06
+T10121,Building Energy and Comfort Optimization,3,4,1,0.0019,0.0025,0.06
+T10328,Supply Chain and Inventory Management,2,5,3,0.0013,0.0032,0.19
+T10391,Healthcare Policy and Management,5,2,-3,0.0031,0.0013,-0.19
+T10475,Psychological Well-being and Life Satisfaction,5,2,-3,0.0031,0.0013,-0.19
+T10482,Mathematical and Theoretical Epidemiology and Ecology Models,3,4,1,0.0019,0.0025,0.06
+T11042,Corruption and Economic Development,3,4,1,0.0019,0.0025,0.06
+T11155,Toxoplasma gondii Research Studies,4,3,-1,0.0025,0.0019,-0.06
+T11432,Gender Politics and Representation,4,3,-1,0.0025,0.0019,-0.06
+T11641,Insect and Pesticide Research,7,0,-7,0.0044,0.0,-0.44
+T12135,Fuzzy Systems and Optimization,3,4,1,0.0019,0.0025,0.06
+T12233,Geotechnical Engineering and Underground Structures,4,3,-1,0.0025,0.0019,-0.06
 T12263,Peacebuilding and International Security,4,3,-1,0.0025,0.0019,-0.06
+T12671,Management and Marketing Education,4,3,-1,0.0025,0.0019,-0.06
+T12702,Brain Tumor Detection and Classification,4,3,-1,0.0025,0.0019,-0.06
+T13025,American History and Culture,7,0,-7,0.0044,0.0,-0.44
 T13542,"Grit, Self-Efficacy, and Motivation",3,4,1,0.0019,0.0025,0.06
-T10262,Microwave Engineering and Waveguides,3,3,0,0.0019,0.0019,0.0
-T11421,Labor Movements and Unions,3,3,0,0.0019,0.0019,0.0
-T11926,Subterranean biodiversity and taxonomy,6,0,-6,0.0038,0.0,-0.38
-T11504,Advanced Authentication Protocols Security,1,5,4,0.0006,0.0032,0.25
-T14469,Renaissance Literature and Culture,1,5,4,0.0006,0.0032,0.25
-T11789,Land Rights and Reforms,2,4,2,0.0013,0.0025,0.13
-T12170,History and Theory of Mathematics,3,3,0,0.0019,0.0019,0.0
-T10128,Global trade and economics,3,3,0,0.0019,0.0019,0.0
-T10917,Smart Grid Security and Resilience,2,4,2,0.0013,0.0025,0.13
-T10193,Coronary Interventions and Diagnostics,3,3,0,0.0019,0.0019,0.0
-T13806,Mathematical and Computational Methods,0,6,6,0.0,0.0038,0.38
-T10376,Suicide and Self-Harm Studies,3,3,0,0.0019,0.0019,0.0
-T10743,Software Testing and Debugging Techniques,3,3,0,0.0019,0.0019,0.0
-T12765,"Race, History, and American Society",5,1,-4,0.0031,0.0006,-0.25
-T11017,Chaos-based Image/Signal Encryption,3,3,0,0.0019,0.0019,0.0
-T10058,Entrepreneurship Studies and Influences,2,4,2,0.0013,0.0025,0.13
-T11502,Facility Location and Emergency Management,2,4,2,0.0013,0.0025,0.13
-T10708,Mindfulness and Compassion Interventions,3,3,0,0.0019,0.0019,0.0
-T10893,Chinese history and philosophy,5,1,-4,0.0031,0.0006,-0.25
-T10438,"Energy, Environment, Economic Growth",2,4,2,0.0013,0.0025,0.13
-T11133,UAV Applications and Optimization,3,3,0,0.0019,0.0019,0.0
 T10047,Financial Markets and Investment Strategies,1,5,4,0.0006,0.0032,0.25
+T10058,Entrepreneurship Studies and Influences,2,4,2,0.0013,0.0025,0.13
+T10128,Global trade and economics,3,3,0,0.0019,0.0019,0.0
+T10193,Coronary Interventions and Diagnostics,3,3,0,0.0019,0.0019,0.0
+T10262,Microwave Engineering and Waveguides,3,3,0,0.0019,0.0019,0.0
+T10376,Suicide and Self-Harm Studies,3,3,0,0.0019,0.0019,0.0
+T10438,"Energy, Environment, Economic Growth",2,4,2,0.0013,0.0025,0.13
+T10440,Advanced Thermoelectric Materials and Devices,3,3,0,0.0019,0.0019,0.0
+T10708,Mindfulness and Compassion Interventions,3,3,0,0.0019,0.0019,0.0
+T10743,Software Testing and Debugging Techniques,3,3,0,0.0019,0.0019,0.0
+T10893,Chinese history and philosophy,5,1,-4,0.0031,0.0006,-0.25
+T10917,Smart Grid Security and Resilience,2,4,2,0.0013,0.0025,0.13
+T11017,Chaos-based Image/Signal Encryption,3,3,0,0.0019,0.0019,0.0
+T11120,Nonprofit Sector and Volunteering,0,6,6,0.0,0.0038,0.38
+T11133,UAV Applications and Optimization,3,3,0,0.0019,0.0019,0.0
+T11399,Muscle metabolism and nutrition,3,3,0,0.0019,0.0019,0.0
+T11421,Labor Movements and Unions,3,3,0,0.0019,0.0019,0.0
+T11502,Facility Location and Emergency Management,2,4,2,0.0013,0.0025,0.13
+T11504,Advanced Authentication Protocols Security,1,5,4,0.0006,0.0032,0.25
 T11695,South African History and Culture,2,4,2,0.0013,0.0025,0.13
 T11775,COVID-19 diagnosis using AI,3,3,0,0.0019,0.0019,0.0
-T11399,Muscle metabolism and nutrition,3,3,0,0.0019,0.0019,0.0
+T11789,Land Rights and Reforms,2,4,2,0.0013,0.0025,0.13
 T11838,"Crime, Illicit Activities, and Governance",3,3,0,0.0019,0.0019,0.0
-T13034,Information Systems Education and Curriculum Development,3,3,0,0.0019,0.0019,0.0
-T10440,Advanced Thermoelectric Materials and Devices,3,3,0,0.0019,0.0019,0.0
+T11926,Subterranean biodiversity and taxonomy,6,0,-6,0.0038,0.0,-0.38
 T12144,"Colonialism, slavery, and trade",1,5,4,0.0006,0.0032,0.25
-T11120,Nonprofit Sector and Volunteering,0,6,6,0.0,0.0038,0.38
+T12170,History and Theory of Mathematics,3,3,0,0.0019,0.0019,0.0
+T12765,"Race, History, and American Society",5,1,-4,0.0031,0.0006,-0.25
+T13034,Information Systems Education and Curriculum Development,3,3,0,0.0019,0.0019,0.0
+T13806,Mathematical and Computational Methods,0,6,6,0.0,0.0038,0.38
+T14469,Renaissance Literature and Culture,1,5,4,0.0006,0.0032,0.25
 T10081,"Auditing, Earnings Management, Governance",3,2,-1,0.0019,0.0013,-0.06
-T10451,Mycorrhizal Fungi and Plant Interactions,3,2,-1,0.0019,0.0013,-0.06
-T12430,Academic and Historical Perspectives in Psychology,3,2,-1,0.0019,0.0013,-0.06
-T10794,Islamic Studies and History,5,0,-5,0.0031,0.0,-0.31
-T10410,COVID-19 epidemiological studies,2,3,1,0.0013,0.0019,0.06
-T10180,Analytical chemistry methods development,3,2,-1,0.0019,0.0013,-0.06
-T10689,Remote-Sensing Image Classification,1,4,3,0.0006,0.0025,0.19
-T12327,Various Chemistry Research Topics,2,3,1,0.0013,0.0019,0.06
-T10660,Conducting polymers and applications,2,3,1,0.0013,0.0019,0.06
-T10163,Metal complexes synthesis and properties,3,2,-1,0.0019,0.0013,-0.06
-T10216,"Migration, Refugees, and Integration",1,4,3,0.0006,0.0025,0.19
-T10135,Insect-Plant Interactions and Control,3,2,-1,0.0019,0.0013,-0.06
-T11353,Venomous Animal Envenomation and Studies,0,5,5,0.0,0.0032,0.32
-T12398,Poetry Analysis and Criticism,0,5,5,0.0,0.0032,0.32
-T11544,"Gender, Labor, and Family Dynamics",4,1,-3,0.0025,0.0006,-0.19
-T11434,Electrochemical Analysis and Applications,5,0,-5,0.0031,0.0,-0.31
-T10208,Labor market dynamics and wage inequality,2,3,1,0.0013,0.0019,0.06
-T12550,"Politics and Conflicts in Afghanistan, Pakistan, and Middle East",4,1,-3,0.0025,0.0006,-0.19
-T11179,Nematode management and characterization studies,2,3,1,0.0013,0.0019,0.06
-T10964,Wireless Communication Security Techniques,2,3,1,0.0013,0.0019,0.06
-T14475,History of Science and Medicine,5,0,-5,0.0031,0.0,-0.31
-T11733,X-ray Spectroscopy and Fluorescence Analysis,3,2,-1,0.0019,0.0013,-0.06
-T13337,Korean Peninsula Historical and Political Studies,2,3,1,0.0013,0.0019,0.06
-T11119,Urban Stormwater Management Solutions,3,2,-1,0.0019,0.0013,-0.06
-T10908,Analytical Chemistry and Chromatography,2,3,1,0.0013,0.0019,0.06
-T10296,Vector-borne infectious diseases,2,3,1,0.0013,0.0019,0.06
-T10487,Plant and animal studies,5,0,-5,0.0031,0.0,-0.31
-T12571,Soybean genetics and cultivation,3,2,-1,0.0019,0.0013,-0.06
-T10605,Historical Economic and Social Studies,4,1,-3,0.0025,0.0006,-0.19
 T10130,Mathematics Education and Teaching Techniques,1,4,3,0.0006,0.0025,0.19
-T11499,ICT Impact and Policies,2,2,0,0.0013,0.0013,0.0
-T10470,Usability and User Interface Design,2,2,0,0.0013,0.0013,0.0
-T12752,Global Peace and Security Dynamics,2,2,0,0.0013,0.0013,0.0
-T11636,Artificial Intelligence in Healthcare and Education,3,1,-2,0.0019,0.0006,-0.12
-T11212,Cultural Heritage Materials Analysis,4,0,-4,0.0025,0.0,-0.25
-T14079,Mathematics Education and Programs,1,3,2,0.0006,0.0019,0.13
-T12454,European Political History Analysis,2,2,0,0.0013,0.0013,0.0
-T12506,Nuclear materials and radiation effects,4,0,-4,0.0025,0.0,-0.25
-T11806,Service-Learning and Community Engagement,2,2,0,0.0013,0.0013,0.0
-T10524,Traffic control and management,2,2,0,0.0013,0.0013,0.0
-T12022,Hydraulic flow and structures,1,3,2,0.0006,0.0019,0.13
-T11170,Biomimetic flight and propulsion mechanisms,2,2,0,0.0013,0.0013,0.0
-T10616,Smart Agriculture and AI,1,3,2,0.0006,0.0019,0.13
-T12289,Library Science and Administration,1,3,2,0.0006,0.0019,0.13
-T10355,Impact of Technology on Adolescents,3,1,-2,0.0019,0.0006,-0.12
-T10339,Advanced Numerical Methods in Computational Mathematics,1,3,2,0.0006,0.0019,0.13
-T14399,Invertebrate Taxonomy and Ecology,0,4,4,0.0,0.0025,0.25
-T10237,Cryptography and Data Security,2,2,0,0.0013,0.0013,0.0
-T12967,Molecular Spectroscopy and Structure,3,1,-2,0.0019,0.0006,-0.12
-T10747,Disaster Management and Resilience,2,2,0,0.0013,0.0013,0.0
-T13940,Philosophy and Literary Analysis,2,2,0,0.0013,0.0013,0.0
-T10533,Teaching and Learning Programming,1,3,2,0.0006,0.0019,0.13
-T13855,Aerospace Engineering and Control Systems,1,3,2,0.0006,0.0019,0.13
-T10287,Algebraic structures and combinatorial models,2,2,0,0.0013,0.0013,0.0
-T10712,Library Science and Information Literacy,2,2,0,0.0013,0.0013,0.0
-T12036,Argentine historical studies,1,3,2,0.0006,0.0019,0.13
-T11631,"Retirement, Disability, and Employment",2,2,0,0.0013,0.0013,0.0
-T10166,Mosquito-borne diseases and control,3,1,-2,0.0019,0.0006,-0.12
-T10714,Software-Defined Networks and 5G,3,1,-2,0.0019,0.0006,-0.12
-T10815,Parasite Biology and Host Interactions,3,1,-2,0.0019,0.0006,-0.12
-T11537,Ethics in medical practice,4,0,-4,0.0025,0.0,-0.25
-T10273,IoT and Edge/Fog Computing,4,0,-4,0.0025,0.0,-0.25
-T12500,Reflective Practices in Education,2,2,0,0.0013,0.0013,0.0
-T12727,Differential Equations and Numerical Methods,4,0,-4,0.0025,0.0,-0.25
-T13497,Hermeneutics and Narrative Identity,2,2,0,0.0013,0.0013,0.0
-T11879,Protist diversity and phylogeny,2,2,0,0.0013,0.0013,0.0
-T10415,International Business and FDI,1,3,2,0.0006,0.0019,0.13
-T10579,Cognitive Radio Networks and Spectrum Sensing,2,2,0,0.0013,0.0013,0.0
-T10764,Privacy-Preserving Technologies in Data,2,2,0,0.0013,0.0013,0.0
-T12485,"Optimism, Hope, and Well-being",4,0,-4,0.0025,0.0,-0.25
-T13210,Historical Turkish Studies,1,3,2,0.0006,0.0019,0.13
-T10745,Heart Rate Variability and Autonomic Control,1,3,2,0.0006,0.0019,0.13
-T10807,Synthesis and characterization of novel inorganic/organometallic compounds,1,3,2,0.0006,0.0019,0.13
-T10726,Career Development and Diversity,1,3,2,0.0006,0.0019,0.13
-T11784,CO2 Reduction Techniques and Catalysts,2,2,0,0.0013,0.0013,0.0
-T13495,Biographical and Historical Analysis,0,4,4,0.0,0.0025,0.25
-T13369,European and Russian Geopolitical Military Strategies,3,1,-2,0.0019,0.0006,-0.12
-T14005,Eastern European Communism and Reforms,2,2,0,0.0013,0.0013,0.0
-T10117,Advanced Combustion Engine Technologies,2,2,0,0.0013,0.0013,0.0
+T10135,Insect-Plant Interactions and Control,3,2,-1,0.0019,0.0013,-0.06
+T10163,Metal complexes synthesis and properties,3,2,-1,0.0019,0.0013,-0.06
+T10180,Analytical chemistry methods development,3,2,-1,0.0019,0.0013,-0.06
+T10208,Labor market dynamics and wage inequality,2,3,1,0.0013,0.0019,0.06
+T10216,"Migration, Refugees, and Integration",1,4,3,0.0006,0.0025,0.19
+T10296,Vector-borne infectious diseases,2,3,1,0.0013,0.0019,0.06
+T10410,COVID-19 epidemiological studies,2,3,1,0.0013,0.0019,0.06
+T10451,Mycorrhizal Fungi and Plant Interactions,3,2,-1,0.0019,0.0013,-0.06
+T10487,Plant and animal studies,5,0,-5,0.0031,0.0,-0.31
+T10605,Historical Economic and Social Studies,4,1,-3,0.0025,0.0006,-0.19
+T10660,Conducting polymers and applications,2,3,1,0.0013,0.0019,0.06
+T10689,Remote-Sensing Image Classification,1,4,3,0.0006,0.0025,0.19
+T10794,Islamic Studies and History,5,0,-5,0.0031,0.0,-0.31
+T10908,Analytical Chemistry and Chromatography,2,3,1,0.0013,0.0019,0.06
+T10964,Wireless Communication Security Techniques,2,3,1,0.0013,0.0019,0.06
+T11119,Urban Stormwater Management Solutions,3,2,-1,0.0019,0.0013,-0.06
+T11179,Nematode management and characterization studies,2,3,1,0.0013,0.0019,0.06
+T11353,Venomous Animal Envenomation and Studies,0,5,5,0.0,0.0032,0.32
+T11434,Electrochemical Analysis and Applications,5,0,-5,0.0031,0.0,-0.31
+T11544,"Gender, Labor, and Family Dynamics",4,1,-3,0.0025,0.0006,-0.19
+T11733,X-ray Spectroscopy and Fluorescence Analysis,3,2,-1,0.0019,0.0013,-0.06
+T12327,Various Chemistry Research Topics,2,3,1,0.0013,0.0019,0.06
+T12398,Poetry Analysis and Criticism,0,5,5,0.0,0.0032,0.32
+T12430,Academic and Historical Perspectives in Psychology,3,2,-1,0.0019,0.0013,-0.06
+T12550,"Politics and Conflicts in Afghanistan, Pakistan, and Middle East",4,1,-3,0.0025,0.0006,-0.19
+T12571,Soybean genetics and cultivation,3,2,-1,0.0019,0.0013,-0.06
+T13337,Korean Peninsula Historical and Political Studies,2,3,1,0.0013,0.0019,0.06
+T14475,History of Science and Medicine,5,0,-5,0.0031,0.0,-0.31
 T10001,Geological and Geochemical Analysis,0,4,4,0.0,0.0025,0.25
-T12447,Spider Taxonomy and Behavior Studies,0,4,4,0.0,0.0025,0.25
-T14032,History and International Relations,0,4,4,0.0,0.0025,0.25
+T10117,Advanced Combustion Engine Technologies,2,2,0,0.0013,0.0013,0.0
+T10166,Mosquito-borne diseases and control,3,1,-2,0.0019,0.0006,-0.12
+T10237,Cryptography and Data Security,2,2,0,0.0013,0.0013,0.0
+T10273,IoT and Edge/Fog Computing,4,0,-4,0.0025,0.0,-0.25
+T10287,Algebraic structures and combinatorial models,2,2,0,0.0013,0.0013,0.0
+T10339,Advanced Numerical Methods in Computational Mathematics,1,3,2,0.0006,0.0019,0.13
+T10355,Impact of Technology on Adolescents,3,1,-2,0.0019,0.0006,-0.12
+T10415,International Business and FDI,1,3,2,0.0006,0.0019,0.13
 T10443,Social Policy and Reform Studies,0,4,4,0.0,0.0025,0.25
+T10470,Usability and User Interface Design,2,2,0,0.0013,0.0013,0.0
+T10524,Traffic control and management,2,2,0,0.0013,0.0013,0.0
+T10533,Teaching and Learning Programming,1,3,2,0.0006,0.0019,0.13
+T10579,Cognitive Radio Networks and Spectrum Sensing,2,2,0,0.0013,0.0013,0.0
+T10616,Smart Agriculture and AI,1,3,2,0.0006,0.0019,0.13
+T10712,Library Science and Information Literacy,2,2,0,0.0013,0.0013,0.0
+T10714,Software-Defined Networks and 5G,3,1,-2,0.0019,0.0006,-0.12
+T10726,Career Development and Diversity,1,3,2,0.0006,0.0019,0.13
+T10745,Heart Rate Variability and Autonomic Control,1,3,2,0.0006,0.0019,0.13
+T10747,Disaster Management and Resilience,2,2,0,0.0013,0.0013,0.0
+T10764,Privacy-Preserving Technologies in Data,2,2,0,0.0013,0.0013,0.0
+T10807,Synthesis and characterization of novel inorganic/organometallic compounds,1,3,2,0.0006,0.0019,0.13
+T10815,Parasite Biology and Host Interactions,3,1,-2,0.0019,0.0006,-0.12
+T11170,Biomimetic flight and propulsion mechanisms,2,2,0,0.0013,0.0013,0.0
+T11212,Cultural Heritage Materials Analysis,4,0,-4,0.0025,0.0,-0.25
 T11237,Plant Gene Expression Analysis,0,4,4,0.0,0.0025,0.25
-T10066,Gut microbiota and health,2,1,-1,0.0013,0.0006,-0.06
-T10959,Student Assessment and Feedback,1,2,1,0.0006,0.0013,0.06
-T11718,Physical Education and Pedagogy,1,2,1,0.0006,0.0013,0.06
-T10089,Avian ecology and behavior,1,2,1,0.0006,0.0013,0.06
-T12748,Molecular spectroscopy and chirality,2,1,-1,0.0013,0.0006,-0.06
-T13655,Canadian Policy and Governance,2,1,-1,0.0013,0.0006,-0.06
-T11645,"Urban, Neighborhood, and Segregation Studies",1,2,1,0.0006,0.0013,0.06
-T10048,Particle physics theoretical and experimental studies,3,0,-3,0.0019,0.0,-0.19
-T13456,"Religion, Society, and Development",3,0,-3,0.0019,0.0,-0.19
-T10323,Analog and Mixed-Signal Circuit Design,2,1,-1,0.0013,0.0006,-0.06
-T11454,Cultural Differences and Values,3,0,-3,0.0019,0.0,-0.19
-T13558,"Philosophy, Science, and History",1,2,1,0.0006,0.0013,0.06
-T12825,"Defense, Military, and Policy Studies",1,2,1,0.0006,0.0013,0.06
-T11345,Cognitive and developmental aspects of mathematical skills,2,1,-1,0.0013,0.0006,-0.06
-T11976,Capital Investment and Risk Analysis,1,2,1,0.0006,0.0013,0.06
-T11065,Insect Pest Control Strategies,1,2,1,0.0006,0.0013,0.06
-T10894,Groundwater flow and contamination studies,1,2,1,0.0006,0.0013,0.06
-T12378,Accounting Education and Careers,1,2,1,0.0006,0.0013,0.06
-T10313,Surface Modification and Superhydrophobicity,1,2,1,0.0006,0.0013,0.06
-T12409,Reformation and Early Modern Christianity,1,2,1,0.0006,0.0013,0.06
-T10352,Physical Activity and Health,1,2,1,0.0006,0.0013,0.06
-T11205,Numerical methods in inverse problems,2,1,-1,0.0013,0.0006,-0.06
-T12504,Mathematics and Applications,1,2,1,0.0006,0.0013,0.06
-T10430,Software Engineering Techniques and Practices,1,2,1,0.0006,0.0013,0.06
-T14429,Global Political and Social Dynamics,0,3,3,0.0,0.0019,0.19
-T10904,Embedded Systems Design Techniques,2,1,-1,0.0013,0.0006,-0.06
-T13333,American Political and Social Dynamics,1,2,1,0.0006,0.0013,0.06
-T10941,Musicology and Musical Analysis,1,2,1,0.0006,0.0013,0.06
-T10258,Philosophy and Theoretical Science,2,1,-1,0.0013,0.0006,-0.06
-T12585,North African History and Literature,1,2,1,0.0006,0.0013,0.06
-T13923,Nuclear and radioactivity studies,2,1,-1,0.0013,0.0006,-0.06
-T12978,Innovative Teaching Methodologies in Social Sciences,1,2,1,0.0006,0.0013,0.06
-T13441,Ottoman Empire History and Society,0,3,3,0.0,0.0019,0.19
-T11918,Forecasting Techniques and Applications,1,2,1,0.0006,0.0013,0.06
-T10114,"Balance, Gait, and Falls Prevention",1,2,1,0.0006,0.0013,0.06
-T11657,Digital and Traditional Archives Management,1,2,1,0.0006,0.0013,0.06
-T10560,Diabetes Management and Research,2,1,-1,0.0013,0.0006,-0.06
-T10314,Social and Intergroup Psychology,2,1,-1,0.0013,0.0006,-0.06
-T10471,Climate Change Policy and Economics,3,0,-3,0.0019,0.0,-0.19
-T10067,Stochastic processes and financial applications,3,0,-3,0.0019,0.0,-0.19
-T13638,Human auditory perception and evaluation,3,0,-3,0.0019,0.0,-0.19
-T12028,Knowledge Management and Sharing,3,0,-3,0.0019,0.0,-0.19
-T10636,Innovative Teaching and Learning Methods,3,0,-3,0.0019,0.0,-0.19
-T11236,Control Systems and Identification,2,1,-1,0.0013,0.0006,-0.06
-T10056,Neurotransmitter Receptor Influence on Behavior,2,1,-1,0.0013,0.0006,-0.06
-T13575,Travel Writing and Literature,1,2,1,0.0006,0.0013,0.06
-T11437,Digital Platforms and Economics,2,1,-1,0.0013,0.0006,-0.06
-T11276,Solar Radiation and Photovoltaics,2,1,-1,0.0013,0.0006,-0.06
-T11751,Lattice Boltzmann Simulation Studies,3,0,-3,0.0019,0.0,-0.19
-T12225,Political Influence and Corporate Strategies,1,2,1,0.0006,0.0013,0.06
-T10455,Foot and Ankle Surgery,2,1,-1,0.0013,0.0006,-0.06
-T10157,Sports Performance and Training,1,2,1,0.0006,0.0013,0.06
-T11888,Gender Roles and Identity Studies,1,2,1,0.0006,0.0013,0.06
-T12897,Structural Analysis of Composite Materials,3,0,-3,0.0019,0.0,-0.19
-T10332,Amphibian and Reptile Biology,2,1,-1,0.0013,0.0006,-0.06
-T10611,Organic Light-Emitting Diodes Research,2,1,-1,0.0013,0.0006,-0.06
-T10918,Memory Processes and Influences,1,2,1,0.0006,0.0013,0.06
-T10973,Radioactive element chemistry and processing,3,0,-3,0.0019,0.0,-0.19
-T10092,Organometallic Complex Synthesis and Catalysis,1,2,1,0.0006,0.0013,0.06
-T11043,Merger and Competition Analysis,1,2,1,0.0006,0.0013,0.06
+T11499,ICT Impact and Policies,2,2,0,0.0013,0.0013,0.0
+T11537,Ethics in medical practice,4,0,-4,0.0025,0.0,-0.25
+T11631,"Retirement, Disability, and Employment",2,2,0,0.0013,0.0013,0.0
+T11636,Artificial Intelligence in Healthcare and Education,3,1,-2,0.0019,0.0006,-0.12
+T11784,CO2 Reduction Techniques and Catalysts,2,2,0,0.0013,0.0013,0.0
+T11806,Service-Learning and Community Engagement,2,2,0,0.0013,0.0013,0.0
+T11879,Protist diversity and phylogeny,2,2,0,0.0013,0.0013,0.0
+T12022,Hydraulic flow and structures,1,3,2,0.0006,0.0019,0.13
+T12036,Argentine historical studies,1,3,2,0.0006,0.0019,0.13
+T12289,Library Science and Administration,1,3,2,0.0006,0.0019,0.13
+T12447,Spider Taxonomy and Behavior Studies,0,4,4,0.0,0.0025,0.25
+T12454,European Political History Analysis,2,2,0,0.0013,0.0013,0.0
+T12485,"Optimism, Hope, and Well-being",4,0,-4,0.0025,0.0,-0.25
+T12500,Reflective Practices in Education,2,2,0,0.0013,0.0013,0.0
+T12506,Nuclear materials and radiation effects,4,0,-4,0.0025,0.0,-0.25
+T12727,Differential Equations and Numerical Methods,4,0,-4,0.0025,0.0,-0.25
+T12752,Global Peace and Security Dynamics,2,2,0,0.0013,0.0013,0.0
+T12967,Molecular Spectroscopy and Structure,3,1,-2,0.0019,0.0006,-0.12
+T13210,Historical Turkish Studies,1,3,2,0.0006,0.0019,0.13
+T13369,European and Russian Geopolitical Military Strategies,3,1,-2,0.0019,0.0006,-0.12
+T13495,Biographical and Historical Analysis,0,4,4,0.0,0.0025,0.25
+T13497,Hermeneutics and Narrative Identity,2,2,0,0.0013,0.0013,0.0
+T13855,Aerospace Engineering and Control Systems,1,3,2,0.0006,0.0019,0.13
+T13940,Philosophy and Literary Analysis,2,2,0,0.0013,0.0013,0.0
+T14005,Eastern European Communism and Reforms,2,2,0,0.0013,0.0013,0.0
+T14032,History and International Relations,0,4,4,0.0,0.0025,0.25
+T14079,Mathematics Education and Programs,1,3,2,0.0006,0.0019,0.13
+T14399,Invertebrate Taxonomy and Ecology,0,4,4,0.0,0.0025,0.25
 T10009,Dementia and Cognitive Impairment Research,1,2,1,0.0006,0.0013,0.06
-T11024,Information Systems Theories and Implementation,1,2,1,0.0006,0.0013,0.06
-T11598,Internet Traffic Analysis and Secure E-voting,1,2,1,0.0006,0.0013,0.06
-T12873,"Nutrition, Health and Food Behavior",0,3,3,0.0,0.0019,0.19
-T10927,Access Control and Trust,0,3,3,0.0,0.0019,0.19
-T13649,Advanced Synthetic Organic Chemistry,0,3,3,0.0,0.0019,0.19
-T11299,Problem and Project Based Learning,1,2,1,0.0006,0.0013,0.06
+T10048,Particle physics theoretical and experimental studies,3,0,-3,0.0019,0.0,-0.19
+T10056,Neurotransmitter Receptor Influence on Behavior,2,1,-1,0.0013,0.0006,-0.06
+T10066,Gut microbiota and health,2,1,-1,0.0013,0.0006,-0.06
+T10067,Stochastic processes and financial applications,3,0,-3,0.0019,0.0,-0.19
+T10089,Avian ecology and behavior,1,2,1,0.0006,0.0013,0.06
+T10092,Organometallic Complex Synthesis and Catalysis,1,2,1,0.0006,0.0013,0.06
+T10114,"Balance, Gait, and Falls Prevention",1,2,1,0.0006,0.0013,0.06
+T10157,Sports Performance and Training,1,2,1,0.0006,0.0013,0.06
+T10258,Philosophy and Theoretical Science,2,1,-1,0.0013,0.0006,-0.06
+T10313,Surface Modification and Superhydrophobicity,1,2,1,0.0006,0.0013,0.06
+T10314,Social and Intergroup Psychology,2,1,-1,0.0013,0.0006,-0.06
+T10323,Analog and Mixed-Signal Circuit Design,2,1,-1,0.0013,0.0006,-0.06
+T10332,Amphibian and Reptile Biology,2,1,-1,0.0013,0.0006,-0.06
+T10352,Physical Activity and Health,1,2,1,0.0006,0.0013,0.06
+T10430,Software Engineering Techniques and Practices,1,2,1,0.0006,0.0013,0.06
+T10455,Foot and Ankle Surgery,2,1,-1,0.0013,0.0006,-0.06
+T10471,Climate Change Policy and Economics,3,0,-3,0.0019,0.0,-0.19
+T10560,Diabetes Management and Research,2,1,-1,0.0013,0.0006,-0.06
+T10611,Organic Light-Emitting Diodes Research,2,1,-1,0.0013,0.0006,-0.06
+T10636,Innovative Teaching and Learning Methods,3,0,-3,0.0019,0.0,-0.19
 T10698,Transportation Planning and Optimization,2,1,-1,0.0013,0.0006,-0.06
-T13922,Historical Art and Culture Studies,1,2,1,0.0006,0.0013,0.06
-T12863,Web and Library Services,2,1,-1,0.0013,0.0006,-0.06
+T10894,Groundwater flow and contamination studies,1,2,1,0.0006,0.0013,0.06
+T10904,Embedded Systems Design Techniques,2,1,-1,0.0013,0.0006,-0.06
+T10918,Memory Processes and Influences,1,2,1,0.0006,0.0013,0.06
+T10927,Access Control and Trust,0,3,3,0.0,0.0019,0.19
+T10941,Musicology and Musical Analysis,1,2,1,0.0006,0.0013,0.06
+T10959,Student Assessment and Feedback,1,2,1,0.0006,0.0013,0.06
+T10973,Radioactive element chemistry and processing,3,0,-3,0.0019,0.0,-0.19
+T11024,Information Systems Theories and Implementation,1,2,1,0.0006,0.0013,0.06
+T11043,Merger and Competition Analysis,1,2,1,0.0006,0.0013,0.06
+T11065,Insect Pest Control Strategies,1,2,1,0.0006,0.0013,0.06
+T11205,Numerical methods in inverse problems,2,1,-1,0.0013,0.0006,-0.06
+T11236,Control Systems and Identification,2,1,-1,0.0013,0.0006,-0.06
+T11276,Solar Radiation and Photovoltaics,2,1,-1,0.0013,0.0006,-0.06
+T11299,Problem and Project Based Learning,1,2,1,0.0006,0.0013,0.06
+T11345,Cognitive and developmental aspects of mathematical skills,2,1,-1,0.0013,0.0006,-0.06
 T11394,Dynamics and Control of Mechanical Systems,2,1,-1,0.0013,0.0006,-0.06
+T11437,Digital Platforms and Economics,2,1,-1,0.0013,0.0006,-0.06
+T11454,Cultural Differences and Values,3,0,-3,0.0019,0.0,-0.19
 T11507,Religion and Society Interactions,2,1,-1,0.0013,0.0006,-0.06
-T13460,Historical Studies in Latin America,1,2,1,0.0006,0.0013,0.06
+T11598,Internet Traffic Analysis and Secure E-voting,1,2,1,0.0006,0.0013,0.06
+T11645,"Urban, Neighborhood, and Segregation Studies",1,2,1,0.0006,0.0013,0.06
+T11657,Digital and Traditional Archives Management,1,2,1,0.0006,0.0013,0.06
+T11718,Physical Education and Pedagogy,1,2,1,0.0006,0.0013,0.06
+T11751,Lattice Boltzmann Simulation Studies,3,0,-3,0.0019,0.0,-0.19
+T11888,Gender Roles and Identity Studies,1,2,1,0.0006,0.0013,0.06
+T11918,Forecasting Techniques and Applications,1,2,1,0.0006,0.0013,0.06
+T11976,Capital Investment and Risk Analysis,1,2,1,0.0006,0.0013,0.06
+T12028,Knowledge Management and Sharing,3,0,-3,0.0019,0.0,-0.19
+T12225,Political Influence and Corporate Strategies,1,2,1,0.0006,0.0013,0.06
+T12378,Accounting Education and Careers,1,2,1,0.0006,0.0013,0.06
+T12409,Reformation and Early Modern Christianity,1,2,1,0.0006,0.0013,0.06
+T12504,Mathematics and Applications,1,2,1,0.0006,0.0013,0.06
+T12585,North African History and Literature,1,2,1,0.0006,0.0013,0.06
+T12748,Molecular spectroscopy and chirality,2,1,-1,0.0013,0.0006,-0.06
+T12825,"Defense, Military, and Policy Studies",1,2,1,0.0006,0.0013,0.06
+T12863,Web and Library Services,2,1,-1,0.0013,0.0006,-0.06
+T12873,"Nutrition, Health and Food Behavior",0,3,3,0.0,0.0019,0.19
+T12897,Structural Analysis of Composite Materials,3,0,-3,0.0019,0.0,-0.19
+T12978,Innovative Teaching Methodologies in Social Sciences,1,2,1,0.0006,0.0013,0.06
 T13006,Spanish History and Politics,1,2,1,0.0006,0.0013,0.06
-T14104,Developmental and Educational Neuropsychology,0,3,3,0.0,0.0019,0.19
+T13333,American Political and Social Dynamics,1,2,1,0.0006,0.0013,0.06
+T13441,Ottoman Empire History and Society,0,3,3,0.0,0.0019,0.19
+T13456,"Religion, Society, and Development",3,0,-3,0.0019,0.0,-0.19
+T13460,Historical Studies in Latin America,1,2,1,0.0006,0.0013,0.06
+T13558,"Philosophy, Science, and History",1,2,1,0.0006,0.0013,0.06
+T13575,Travel Writing and Literature,1,2,1,0.0006,0.0013,0.06
+T13638,Human auditory perception and evaluation,3,0,-3,0.0019,0.0,-0.19
+T13649,Advanced Synthetic Organic Chemistry,0,3,3,0.0,0.0019,0.19
+T13655,Canadian Policy and Governance,2,1,-1,0.0013,0.0006,-0.06
+T13922,Historical Art and Culture Studies,1,2,1,0.0006,0.0013,0.06
+T13923,Nuclear and radioactivity studies,2,1,-1,0.0013,0.0006,-0.06
 T13929,Educational Outcomes and Influences,0,3,3,0.0,0.0019,0.19
+T14104,Developmental and Educational Neuropsychology,0,3,3,0.0,0.0019,0.19
 T14414,Artificial Intelligence in Education,0,3,3,0.0,0.0019,0.19
 T14417,Central Asia Education and Culture,0,3,3,0.0,0.0019,0.19
-T10718,Political Philosophy and Ethics,2,0,-2,0.0013,0.0,-0.13
-T10429,EEG and Brain-Computer Interfaces,1,1,0,0.0006,0.0006,0.0
-T10360,Fluid Dynamics and Turbulent Flows,2,0,-2,0.0013,0.0,-0.13
-T11183,Advanced X-ray Imaging Techniques,1,1,0,0.0006,0.0006,0.0
-T11295,Counseling Practices and Supervision,1,1,0,0.0006,0.0006,0.0
-T10897,Antibiotic Use and Resistance,1,1,0,0.0006,0.0006,0.0
+T14429,Global Political and Social Dynamics,0,3,3,0.0,0.0019,0.19
+T10002,Advanced Chemical Physics Studies,1,1,0,0.0006,0.0006,0.0
+T10003,Innovation and Knowledge Management,1,1,0,0.0006,0.0006,0.0
+T10010,"Obesity, Physical Activity, Diet",2,0,-2,0.0013,0.0,-0.13
+T10013,Asymmetric Synthesis and Catalysis,0,2,2,0.0,0.0013,0.13
+T10020,Quantum Information and Cryptography,1,1,0,0.0006,0.0006,0.0
+T10022,Semiconductor Quantum Structures and Devices,0,2,2,0.0,0.0013,0.13
+T10024,TiO2 Photocatalysis and Solar Cells,1,1,0,0.0006,0.0006,0.0
+T10026,"Galaxies: Formation, Evolution, Phenomena",1,1,0,0.0006,0.0006,0.0
+T10030,Electrocatalysts for Energy Conversion,1,1,0,0.0006,0.0006,0.0
+T10034,"Syntax, Semantics, Linguistic Variation",0,2,2,0.0,0.0013,0.13
+T10037,Physics of Superconductivity and Magnetism,2,0,-2,0.0013,0.0,-0.13
+T10060,Smoking Behavior and Cessation,1,1,0,0.0006,0.0006,0.0
+T10085,Parkinson's Disease Mechanisms and Treatments,0,2,2,0.0,0.0013,0.13
+T10106,Autism Spectrum Disorder Research,1,1,0,0.0006,0.0006,0.0
+T10110,earthquake and tectonic studies,1,1,0,0.0006,0.0006,0.0
+T10119,Sustainability and Climate Change Governance,1,1,0,0.0006,0.0006,0.0
+T10129,Glioma Diagnosis and Treatment,1,1,0,0.0006,0.0006,0.0
+T10197,Membrane Separation Technologies,1,1,0,0.0006,0.0006,0.0
+T10221,Composite Structure Analysis and Optimization,1,1,0,0.0006,0.0006,0.0
+T10233,Geotechnical Engineering and Soil Mechanics,1,1,0,0.0006,0.0006,0.0
+T10252,Microbial Natural Products and Biosynthesis,0,2,2,0.0,0.0013,0.13
+T10263,Eating Disorders and Behaviors,2,0,-2,0.0013,0.0,-0.13
+T10267,Higher Education Research Studies,1,1,0,0.0006,0.0006,0.0
+T10286,Information Retrieval and Search Behavior,0,2,2,0.0,0.0013,0.13
+T10302,Fish Ecology and Management Studies,1,1,0,0.0006,0.0006,0.0
 T10303,Photosynthetic Processes and Mechanisms,1,1,0,0.0006,0.0006,0.0
-T13844,Higher Education Learning Practices,2,0,-2,0.0013,0.0,-0.13
-T11938,ERP Systems Implementation and Impact,1,1,0,0.0006,0.0006,0.0
-T10663,Advanced Battery Technologies Research,1,1,0,0.0006,0.0006,0.0
-T11893,German Literature and Culture Studies,1,1,0,0.0006,0.0006,0.0
-T11686,Dendrimers and Hyperbranched Polymers,1,1,0,0.0006,0.0006,0.0
-T12521,Death Anxiety and Social Exclusion,1,1,0,0.0006,0.0006,0.0
-T12508,Functional Equations Stability Results,2,0,-2,0.0013,0.0,-0.13
-T12320,Feminist Epistemology and Gender Studies,2,0,-2,0.0013,0.0,-0.13
-T13134,Latin American Literature Studies,1,1,0,0.0006,0.0006,0.0
-T13051,Qualitative Comparative Analysis Research,1,1,0,0.0006,0.0006,0.0
-T12267,Diet and metabolism studies,1,1,0,0.0006,0.0006,0.0
+T10306,Liquid Crystal Research Advancements,1,1,0,0.0006,0.0006,0.0
+T10325,Astro and Planetary Science,0,2,2,0.0,0.0013,0.13
+T10330,Hydrology and Watershed Management Studies,1,1,0,0.0006,0.0006,0.0
+T10357,Efficiency Analysis Using DEA,1,1,0,0.0006,0.0006,0.0
+T10360,Fluid Dynamics and Turbulent Flows,2,0,-2,0.0013,0.0,-0.13
 T10366,Discourse Analysis in Language Studies,1,1,0,0.0006,0.0006,0.0
-T11592,Phenomenology and Existential Philosophy,1,1,0,0.0006,0.0006,0.0
-T11517,Advanced optical system design,1,1,0,0.0006,0.0006,0.0
-T11670,Pressure Ulcer Prevention and Management,1,1,0,0.0006,0.0006,0.0
-T12389,Infrared Target Detection Methodologies,2,0,-2,0.0013,0.0,-0.13
-T11947,Molten salt chemistry and electrochemical processes,1,1,0,0.0006,0.0006,0.0
-T13297,History and advancements in chemistry,1,1,0,0.0006,0.0006,0.0
-T11897,Digital Holography and Microscopy,1,1,0,0.0006,0.0006,0.0
-T12632,Visual Culture and Art Theory,2,0,-2,0.0013,0.0,-0.13
-T12884,Educational Assessment and Pedagogy,1,1,0,0.0006,0.0006,0.0
+T10381,Ophthalmology and Visual Impairment Studies,0,2,2,0.0,0.0013,0.13
+T10382,Quantum and electron transport phenomena,2,0,-2,0.0013,0.0,-0.13
 T10406,Planetary Science and Exploration,2,0,-2,0.0013,0.0,-0.13
+T10407,Lipid Membrane Structure and Behavior,1,1,0,0.0006,0.0006,0.0
+T10429,EEG and Brain-Computer Interfaces,1,1,0,0.0006,0.0006,0.0
+T10442,Knee injuries and reconstruction techniques,1,1,0,0.0006,0.0006,0.0
+T10476,Algal biology and biofuel production,1,1,0,0.0006,0.0006,0.0
+T10479,Structural Behavior of Reinforced Concrete,1,1,0,0.0006,0.0006,0.0
+T10484,Wood Treatment and Properties,0,2,2,0.0,0.0013,0.13
+T10503,Global Financial Crisis and Policies,2,0,-2,0.0013,0.0,-0.13
+T10592,Fusion materials and technologies,1,1,0,0.0006,0.0006,0.0
+T10603,Smart Grid Energy Management,2,0,-2,0.0013,0.0,-0.13
+T10621,Gene Regulatory Network Analysis,1,1,0,0.0006,0.0006,0.0
+T10638,Optical measurement and interference techniques,1,1,0,0.0006,0.0006,0.0
+T10663,Advanced Battery Technologies Research,1,1,0,0.0006,0.0006,0.0
+T10674,School Choice and Performance,2,0,-2,0.0013,0.0,-0.13
+T10679,Service-Oriented Architecture and Web Services,1,1,0,0.0006,0.0006,0.0
+T10683,Mass Spectrometry Techniques and Applications,0,2,2,0.0,0.0013,0.13
+T10716,Soil and Unsaturated Flow,1,1,0,0.0006,0.0006,0.0
+T10718,Political Philosophy and Ethics,2,0,-2,0.0013,0.0,-0.13
+T10723,Advanced Welding Techniques Analysis,1,1,0,0.0006,0.0006,0.0
+T10757,Geographic Information Systems Studies,1,1,0,0.0006,0.0006,0.0
+T10774,Weed Control and Herbicide Applications,1,1,0,0.0006,0.0006,0.0
+T10790,Heavy Metal Exposure and Toxicity,1,1,0,0.0006,0.0006,0.0
+T10806,Energetic Materials and Combustion,1,1,0,0.0006,0.0006,0.0
+T10829,Interconnection Networks and Systems,1,1,0,0.0006,0.0006,0.0
+T10833,Vaccine Coverage and Hesitancy,1,1,0,0.0006,0.0006,0.0
+T10845,Advanced Causal Inference Techniques,1,1,0,0.0006,0.0006,0.0
+T10846,Photonic Crystal and Fiber Optics,0,2,2,0.0,0.0013,0.13
+T10859,Polymer Surface Interaction Studies,1,1,0,0.0006,0.0006,0.0
+T10862,AI in cancer detection,1,1,0,0.0006,0.0006,0.0
+T10876,Fault Detection and Control Systems,2,0,-2,0.0013,0.0,-0.13
+T10884,Holomorphic and Operator Theory,1,1,0,0.0006,0.0006,0.0
+T10897,Antibiotic Use and Resistance,1,1,0,0.0006,0.0006,0.0
+T10914,Tactile and Sensory Interactions,1,1,0,0.0006,0.0006,0.0
+T10940,Navier-Stokes equation solutions,0,2,2,0.0,0.0013,0.13
+T10971,Olfactory and Sensory Function Studies,1,1,0,0.0006,0.0006,0.0
+T10972,Power Systems Fault Detection,1,1,0,0.0006,0.0006,0.0
+T10988,Advanced Fiber Laser Technologies,2,0,-2,0.0013,0.0,-0.13
+T11012,Gas Dynamics and Kinetic Theory,1,1,0,0.0006,0.0006,0.0
+T11048,Bacteriophages and microbial interactions,1,1,0,0.0006,0.0006,0.0
+T11050,Photorefractive and Nonlinear Optics,1,1,0,0.0006,0.0006,0.0
+T11058,Ethics in Business and Education,1,1,0,0.0006,0.0006,0.0
+T11122,Online Learning and Analytics,1,1,0,0.0006,0.0006,0.0
+T11127,Solid State Laser Technologies,0,2,2,0.0,0.0013,0.13
+T11183,Advanced X-ray Imaging Techniques,1,1,0,0.0006,0.0006,0.0
+T11197,Digital Games and Media,1,1,0,0.0006,0.0006,0.0
+T11203,Jewish and Middle Eastern Studies,2,0,-2,0.0013,0.0,-0.13
+T11225,Geothermal Energy Systems and Applications,1,1,0,0.0006,0.0006,0.0
+T11255,Microfluidic and Bio-sensing Technologies,2,0,-2,0.0013,0.0,-0.13
+T11259,Agriculture Sustainability and Environmental Impact,1,1,0,0.0006,0.0006,0.0
+T11270,Complex Systems and Time Series Analysis,2,0,-2,0.0013,0.0,-0.13
+T11275,Composting and Vermicomposting Techniques,0,2,2,0.0,0.0013,0.13
+T11295,Counseling Practices and Supervision,1,1,0,0.0006,0.0006,0.0
+T11340,Marine Sponges and Natural Products,2,0,-2,0.0013,0.0,-0.13
+T11357,Risk and Safety Analysis,1,1,0,0.0006,0.0006,0.0
+T11391,Theatre and Performance Studies,1,1,0,0.0006,0.0006,0.0
 T11397,"Populism, Right-Wing Movements",1,1,0,0.0006,0.0006,0.0
 T11416,Numerical methods for differential equations,2,0,-2,0.0013,0.0,-0.13
-T11585,Exercise and Physiological Responses,1,1,0,0.0006,0.0006,0.0
-T11607,Microwave and Dielectric Measurement Techniques,1,1,0,0.0006,0.0006,0.0
-T11567,semigroups and automata theory,1,1,0,0.0006,0.0006,0.0
-T11715,Education and Critical Thinking Development,2,0,-2,0.0013,0.0,-0.13
-T12645,European history and politics,2,0,-2,0.0013,0.0,-0.13
-T13332,"Historical Studies on Reproduction, Gender, Health, and Societal Changes",2,0,-2,0.0013,0.0,-0.13
-T12912,"Shakespeare, Adaptation, and Literary Criticism",1,1,0,0.0006,0.0006,0.0
-T10679,Service-Oriented Architecture and Web Services,1,1,0,0.0006,0.0006,0.0
-T10060,Smoking Behavior and Cessation,1,1,0,0.0006,0.0006,0.0
-T11891,Big Data and Business Intelligence,2,0,-2,0.0013,0.0,-0.13
-T12026,Explainable Artificial Intelligence (XAI),1,1,0,0.0006,0.0006,0.0
-T10914,Tactile and Sensory Interactions,1,1,0,0.0006,0.0006,0.0
-T10119,Sustainability and Climate Change Governance,1,1,0,0.0006,0.0006,0.0
-T12503,Social Acceptance of Renewable Energy,1,1,0,0.0006,0.0006,0.0
-T14163,Astronomical Observations and Instrumentation,1,1,0,0.0006,0.0006,0.0
-T10592,Fusion materials and technologies,1,1,0,0.0006,0.0006,0.0
-T10037,Physics of Superconductivity and Magnetism,2,0,-2,0.0013,0.0,-0.13
-T13229,Gothic Literature and Media Analysis,1,1,0,0.0006,0.0006,0.0
-T10806,Energetic Materials and Combustion,1,1,0,0.0006,0.0006,0.0
-T14342,"Military, Security, and Education Studies",1,1,0,0.0006,0.0006,0.0
-T11584,Biochemical Analysis and Sensing Techniques,1,1,0,0.0006,0.0006,0.0
-T11743,Political Economy and Marxism,1,1,0,0.0006,0.0006,0.0
-T12635,African studies and sociopolitical issues,1,1,0,0.0006,0.0006,0.0
-T10833,Vaccine Coverage and Hesitancy,1,1,0,0.0006,0.0006,0.0
-T10302,Fish Ecology and Management Studies,1,1,0,0.0006,0.0006,0.0
-T10790,Heavy Metal Exposure and Toxicity,1,1,0,0.0006,0.0006,0.0
-T12874,Digital Imaging for Blood Diseases,1,1,0,0.0006,0.0006,0.0
-T10085,Parkinson's Disease Mechanisms and Treatments,0,2,2,0.0,0.0013,0.13
-T10757,Geographic Information Systems Studies,1,1,0,0.0006,0.0006,0.0
-T10003,Innovation and Knowledge Management,1,1,0,0.0006,0.0006,0.0
 T11424,Security and Verification in Computing,0,2,2,0.0,0.0013,0.13
-T10286,Information Retrieval and Search Behavior,0,2,2,0.0,0.0013,0.13
-T10197,Membrane Separation Technologies,1,1,0,0.0006,0.0006,0.0
-T12938,Material Selection and Properties,1,1,0,0.0006,0.0006,0.0
-T12888,Military Strategy and Technology,1,1,0,0.0006,0.0006,0.0
-T11225,Geothermal Energy Systems and Applications,1,1,0,0.0006,0.0006,0.0
-T12428,Global Trade and Competitiveness,1,1,0,0.0006,0.0006,0.0
-T10859,Polymer Surface Interaction Studies,1,1,0,0.0006,0.0006,0.0
-T10638,Optical measurement and interference techniques,1,1,0,0.0006,0.0006,0.0
-T12649,Alkaloids: synthesis and pharmacology,1,1,0,0.0006,0.0006,0.0
-T11665,Animal Vocal Communication and Behavior,1,1,0,0.0006,0.0006,0.0
-T14311,Electrical and Electromagnetic Research,0,2,2,0.0,0.0013,0.13
-T14056,Safety Warnings and Signage,1,1,0,0.0006,0.0006,0.0
-T10829,Interconnection Networks and Systems,1,1,0,0.0006,0.0006,0.0
-T13147,Ethics and bioethics in healthcare,0,2,2,0.0,0.0013,0.13
-T11779,Higher Education and Employability,0,2,2,0.0,0.0013,0.13
-T10723,Advanced Welding Techniques Analysis,1,1,0,0.0006,0.0006,0.0
-T11777,Fixed Point Theorems Analysis,1,1,0,0.0006,0.0006,0.0
-T10484,Wood Treatment and Properties,0,2,2,0.0,0.0013,0.13
-T13198,"Historical, Religious, and Philosophical Studies",1,1,0,0.0006,0.0006,0.0
-T12949,South Asian Studies and Diaspora,0,2,2,0.0,0.0013,0.13
-T14386,"Libraries, Manuscripts, and Books",0,2,2,0.0,0.0013,0.13
-T13150,Study and Philosophy of Religion,0,2,2,0.0,0.0013,0.13
-T12488,Mental Health via Writing,1,1,0,0.0006,0.0006,0.0
-T11674,Sports Analytics and Performance,1,1,0,0.0006,0.0006,0.0
-T10716,Soil and Unsaturated Flow,1,1,0,0.0006,0.0006,0.0
-T11805,Agricultural economics and policies,0,2,2,0.0,0.0013,0.13
-T11479,Smart Cities and Technologies,1,1,0,0.0006,0.0006,0.0
-T13824,National Identity and Symbolism,0,2,2,0.0,0.0013,0.13
-T13721,Political Science Research and Education,0,2,2,0.0,0.0013,0.13
-T10267,Higher Education Research Studies,1,1,0,0.0006,0.0006,0.0
-T11050,Photorefractive and Nonlinear Optics,1,1,0,0.0006,0.0006,0.0
-T10233,Geotechnical Engineering and Soil Mechanics,1,1,0,0.0006,0.0006,0.0
-T12957,"War, Ethics, and Justification",1,1,0,0.0006,0.0006,0.0
-T11756,Mentoring and Academic Development,1,1,0,0.0006,0.0006,0.0
-T12735,Blood donation and transfusion practices,1,1,0,0.0006,0.0006,0.0
-T12693,"Migration, Ethnicity, and Economy",1,1,0,0.0006,0.0006,0.0
-T11391,Theatre and Performance Studies,1,1,0,0.0006,0.0006,0.0
-T10845,Advanced Causal Inference Techniques,1,1,0,0.0006,0.0006,0.0
-T10129,Glioma Diagnosis and Treatment,1,1,0,0.0006,0.0006,0.0
-T12624,Maritime and Coastal Archaeology,2,0,-2,0.0013,0.0,-0.13
-T11203,Jewish and Middle Eastern Studies,2,0,-2,0.0013,0.0,-0.13
-T10674,School Choice and Performance,2,0,-2,0.0013,0.0,-0.13
-T11835,Sustainability in Higher Education,2,0,-2,0.0013,0.0,-0.13
-T13800,Earthquake and Disaster Impact Studies,2,0,-2,0.0013,0.0,-0.13
-T10503,Global Financial Crisis and Policies,2,0,-2,0.0013,0.0,-0.13
-T10263,Eating Disorders and Behaviors,2,0,-2,0.0013,0.0,-0.13
-T11340,Marine Sponges and Natural Products,2,0,-2,0.0013,0.0,-0.13
-T13342,Art History and Market Analysis,2,0,-2,0.0013,0.0,-0.13
-T11965,"Quantum, superfluid, helium dynamics",2,0,-2,0.0013,0.0,-0.13
-T10382,Quantum and electron transport phenomena,2,0,-2,0.0013,0.0,-0.13
-T13002,Southeast Asian Sociopolitical Studies,2,0,-2,0.0013,0.0,-0.13
-T12797,History of Computing Technologies,2,0,-2,0.0013,0.0,-0.13
-T10010,"Obesity, Physical Activity, Diet",2,0,-2,0.0013,0.0,-0.13
-T10106,Autism Spectrum Disorder Research,1,1,0,0.0006,0.0006,0.0
-T10876,Fault Detection and Control Systems,2,0,-2,0.0013,0.0,-0.13
-T10988,Advanced Fiber Laser Technologies,2,0,-2,0.0013,0.0,-0.13
-T12231,Contemporary Sociological Theory and Practice,2,0,-2,0.0013,0.0,-0.13
-T10862,AI in cancer detection,1,1,0,0.0006,0.0006,0.0
-T11446,Mobile Health and mHealth Applications,1,1,0,0.0006,0.0006,0.0
-T12487,Structural Engineering and Vibration Analysis,2,0,-2,0.0013,0.0,-0.13
-T11492,Academic integrity and plagiarism,1,1,0,0.0006,0.0006,0.0
-T11058,Ethics in Business and Education,1,1,0,0.0006,0.0006,0.0
-T13400,Mathematical and Theoretical Analysis,1,1,0,0.0006,0.0006,0.0
-T13443,Mineralogy and Gemology Studies,1,1,0,0.0006,0.0006,0.0
-T10020,Quantum Information and Cryptography,1,1,0,0.0006,0.0006,0.0
-T10884,Holomorphic and Operator Theory,1,1,0,0.0006,0.0006,0.0
-T11493,Water Treatment and Disinfection,1,1,0,0.0006,0.0006,0.0
-T10442,Knee injuries and reconstruction techniques,1,1,0,0.0006,0.0006,0.0
-T11255,Microfluidic and Bio-sensing Technologies,2,0,-2,0.0013,0.0,-0.13
-T11981,Qualitative Research Methods and Ethics,2,0,-2,0.0013,0.0,-0.13
-T12375,Cuban History and Society,1,1,0,0.0006,0.0006,0.0
-T12799,Mobile and Web Applications,1,1,0,0.0006,0.0006,0.0
-T13124,Chemical synthesis and alkaloids,2,0,-2,0.0013,0.0,-0.13
-T11667,Advanced Chemical Sensor Technologies,2,0,-2,0.0013,0.0,-0.13
-T11472,Analytical Chemistry and Sensors,1,1,0,0.0006,0.0006,0.0
-T12756,Plant Toxicity and Pharmacological Properties,2,0,-2,0.0013,0.0,-0.13
-T10621,Gene Regulatory Network Analysis,1,1,0,0.0006,0.0006,0.0
-T14312,Historical Studies in Central America,2,0,-2,0.0013,0.0,-0.13
-T14172,Cultural and Social Studies in Latin America,1,1,0,0.0006,0.0006,0.0
-T11270,Complex Systems and Time Series Analysis,2,0,-2,0.0013,0.0,-0.13
-T13370,Diverse Scientific and Economic Studies,2,0,-2,0.0013,0.0,-0.13
-T11441,Organoboron and organosilicon chemistry,1,1,0,0.0006,0.0006,0.0
-T10407,Lipid Membrane Structure and Behavior,1,1,0,0.0006,0.0006,0.0
-T10026,"Galaxies: Formation, Evolution, Phenomena",1,1,0,0.0006,0.0006,0.0
-T11505,Reproductive biology and impacts on aquatic species,1,1,0,0.0006,0.0006,0.0
-T10030,Electrocatalysts for Energy Conversion,1,1,0,0.0006,0.0006,0.0
-T10221,Composite Structure Analysis and Optimization,1,1,0,0.0006,0.0006,0.0
-T13175,Historical Astronomy and Related Studies,1,1,0,0.0006,0.0006,0.0
-T10774,Weed Control and Herbicide Applications,1,1,0,0.0006,0.0006,0.0
-T13484,German History and Society,1,1,0,0.0006,0.0006,0.0
-T11886,Agricultural risk and resilience,1,1,0,0.0006,0.0006,0.0
-T10972,Power Systems Fault Detection,1,1,0,0.0006,0.0006,0.0
-T12070,Writing and Handwriting Education,2,0,-2,0.0013,0.0,-0.13
-T10330,Hydrology and Watershed Management Studies,1,1,0,0.0006,0.0006,0.0
-T11438,Retinal Imaging and Analysis,1,1,0,0.0006,0.0006,0.0
-T13667,French Literature and Criticism,2,0,-2,0.0013,0.0,-0.13
-T12358,Thermal and Kinetic Analysis,1,1,0,0.0006,0.0006,0.0
-T13414,Radioactive Decay and Measurement Techniques,1,1,0,0.0006,0.0006,0.0
-T12399,Wine Industry and Tourism,2,0,-2,0.0013,0.0,-0.13
-T10479,Structural Behavior of Reinforced Concrete,1,1,0,0.0006,0.0006,0.0
-T13352,International Relations in Latin America,1,1,0,0.0006,0.0006,0.0
-T10002,Advanced Chemical Physics Studies,1,1,0,0.0006,0.0006,0.0
-T10024,TiO2 Photocatalysis and Solar Cells,1,1,0,0.0006,0.0006,0.0
-T11122,Online Learning and Analytics,1,1,0,0.0006,0.0006,0.0
-T10325,Astro and Planetary Science,0,2,2,0.0,0.0013,0.13
 T11436,Entomopathogenic Microorganisms in Pest Control,0,2,2,0.0,0.0013,0.13
-T13174,American and British Literature Analysis,0,2,2,0.0,0.0013,0.13
-T11275,Composting and Vermicomposting Techniques,0,2,2,0.0,0.0013,0.13
-T11620,Medication Adherence and Compliance,0,2,2,0.0,0.0013,0.13
-T10940,Navier-Stokes equation solutions,0,2,2,0.0,0.0013,0.13
-T13812,AI and HR Technologies,0,2,2,0.0,0.0013,0.13
-T11968,High Altitude and Hypoxia,0,2,2,0.0,0.0013,0.13
-T10381,Ophthalmology and Visual Impairment Studies,0,2,2,0.0,0.0013,0.13
-T11808,Superconducting Materials and Applications,0,2,2,0.0,0.0013,0.13
-T10683,Mass Spectrometry Techniques and Applications,0,2,2,0.0,0.0013,0.13
-T10034,"Syntax, Semantics, Linguistic Variation",0,2,2,0.0,0.0013,0.13
-T10022,Semiconductor Quantum Structures and Devices,0,2,2,0.0,0.0013,0.13
-T14433,Post-Communist Economic and Political Transition,0,2,2,0.0,0.0013,0.13
-T12803,Cinema History and Criticism,0,2,2,0.0,0.0013,0.13
-T11651,Inhalation and Respiratory Drug Delivery,1,1,0,0.0006,0.0006,0.0
-T10110,earthquake and tectonic studies,1,1,0,0.0006,0.0006,0.0
-T10971,Olfactory and Sensory Function Studies,1,1,0,0.0006,0.0006,0.0
-T12138,Occupational Health and Performance,2,0,-2,0.0013,0.0,-0.13
-T11197,Digital Games and Media,1,1,0,0.0006,0.0006,0.0
-T13197,Spreadsheets and End-User Computing,2,0,-2,0.0013,0.0,-0.13
-T10357,Efficiency Analysis Using DEA,1,1,0,0.0006,0.0006,0.0
-T10603,Smart Grid Energy Management,2,0,-2,0.0013,0.0,-0.13
-T11749,Iterative Learning Control Systems,1,1,0,0.0006,0.0006,0.0
-T11904,Spatial Cognition and Navigation,2,0,-2,0.0013,0.0,-0.13
-T11540,"Gender, Feminism, and Media",1,1,0,0.0006,0.0006,0.0
-T11259,Agriculture Sustainability and Environmental Impact,1,1,0,0.0006,0.0006,0.0
-T12304,Radiative Heat Transfer Studies,2,0,-2,0.0013,0.0,-0.13
-T11535,Chemotherapy-induced cardiotoxicity and mitigation,1,1,0,0.0006,0.0006,0.0
-T10306,Liquid Crystal Research Advancements,1,1,0,0.0006,0.0006,0.0
-T10476,Algal biology and biofuel production,1,1,0,0.0006,0.0006,0.0
-T13138,Legal and Constitutional Studies,1,1,0,0.0006,0.0006,0.0
+T11438,Retinal Imaging and Analysis,1,1,0,0.0006,0.0006,0.0
+T11441,Organoboron and organosilicon chemistry,1,1,0,0.0006,0.0006,0.0
+T11446,Mobile Health and mHealth Applications,1,1,0,0.0006,0.0006,0.0
+T11472,Analytical Chemistry and Sensors,1,1,0,0.0006,0.0006,0.0
+T11479,Smart Cities and Technologies,1,1,0,0.0006,0.0006,0.0
+T11492,Academic integrity and plagiarism,1,1,0,0.0006,0.0006,0.0
+T11493,Water Treatment and Disinfection,1,1,0,0.0006,0.0006,0.0
+T11505,Reproductive biology and impacts on aquatic species,1,1,0,0.0006,0.0006,0.0
 T11512,Anomaly Detection Techniques and Applications,1,1,0,0.0006,0.0006,0.0
-T11048,Bacteriophages and microbial interactions,1,1,0,0.0006,0.0006,0.0
-T11357,Risk and Safety Analysis,1,1,0,0.0006,0.0006,0.0
-T11012,Gas Dynamics and Kinetic Theory,1,1,0,0.0006,0.0006,0.0
+T11517,Advanced optical system design,1,1,0,0.0006,0.0006,0.0
+T11535,Chemotherapy-induced cardiotoxicity and mitigation,1,1,0,0.0006,0.0006,0.0
+T11540,"Gender, Feminism, and Media",1,1,0,0.0006,0.0006,0.0
+T11567,semigroups and automata theory,1,1,0,0.0006,0.0006,0.0
+T11584,Biochemical Analysis and Sensing Techniques,1,1,0,0.0006,0.0006,0.0
+T11585,Exercise and Physiological Responses,1,1,0,0.0006,0.0006,0.0
+T11592,Phenomenology and Existential Philosophy,1,1,0,0.0006,0.0006,0.0
+T11607,Microwave and Dielectric Measurement Techniques,1,1,0,0.0006,0.0006,0.0
+T11620,Medication Adherence and Compliance,0,2,2,0.0,0.0013,0.13
+T11651,Inhalation and Respiratory Drug Delivery,1,1,0,0.0006,0.0006,0.0
+T11665,Animal Vocal Communication and Behavior,1,1,0,0.0006,0.0006,0.0
+T11667,Advanced Chemical Sensor Technologies,2,0,-2,0.0013,0.0,-0.13
+T11670,Pressure Ulcer Prevention and Management,1,1,0,0.0006,0.0006,0.0
+T11674,Sports Analytics and Performance,1,1,0,0.0006,0.0006,0.0
+T11686,Dendrimers and Hyperbranched Polymers,1,1,0,0.0006,0.0006,0.0
 T11696,Conflict Management and Negotiation,0,2,2,0.0,0.0013,0.13
-T10252,Microbial Natural Products and Biosynthesis,0,2,2,0.0,0.0013,0.13
-T14149,Historical and Literary Analyses,0,2,2,0.0,0.0013,0.13
-T10013,Asymmetric Synthesis and Catalysis,0,2,2,0.0,0.0013,0.13
-T13673,Library Science and Information,0,2,2,0.0,0.0013,0.13
-T10846,Photonic Crystal and Fiber Optics,0,2,2,0.0,0.0013,0.13
-T11127,Solid State Laser Technologies,0,2,2,0.0,0.0013,0.13
-T13208,Synthesis of heterocyclic compounds,0,2,2,0.0,0.0013,0.13
+T11715,Education and Critical Thinking Development,2,0,-2,0.0013,0.0,-0.13
+T11743,Political Economy and Marxism,1,1,0,0.0006,0.0006,0.0
+T11749,Iterative Learning Control Systems,1,1,0,0.0006,0.0006,0.0
+T11756,Mentoring and Academic Development,1,1,0,0.0006,0.0006,0.0
+T11777,Fixed Point Theorems Analysis,1,1,0,0.0006,0.0006,0.0
 T11778,Electrical and Bioimpedance Tomography,0,2,2,0.0,0.0013,0.13
+T11779,Higher Education and Employability,0,2,2,0.0,0.0013,0.13
+T11805,Agricultural economics and policies,0,2,2,0.0,0.0013,0.13
+T11808,Superconducting Materials and Applications,0,2,2,0.0,0.0013,0.13
+T11835,Sustainability in Higher Education,2,0,-2,0.0013,0.0,-0.13
+T11886,Agricultural risk and resilience,1,1,0,0.0006,0.0006,0.0
+T11891,Big Data and Business Intelligence,2,0,-2,0.0013,0.0,-0.13
+T11893,German Literature and Culture Studies,1,1,0,0.0006,0.0006,0.0
+T11897,Digital Holography and Microscopy,1,1,0,0.0006,0.0006,0.0
+T11904,Spatial Cognition and Navigation,2,0,-2,0.0013,0.0,-0.13
+T11938,ERP Systems Implementation and Impact,1,1,0,0.0006,0.0006,0.0
+T11947,Molten salt chemistry and electrochemical processes,1,1,0,0.0006,0.0006,0.0
+T11965,"Quantum, superfluid, helium dynamics",2,0,-2,0.0013,0.0,-0.13
+T11968,High Altitude and Hypoxia,0,2,2,0.0,0.0013,0.13
+T11981,Qualitative Research Methods and Ethics,2,0,-2,0.0013,0.0,-0.13
+T12026,Explainable Artificial Intelligence (XAI),1,1,0,0.0006,0.0006,0.0
+T12070,Writing and Handwriting Education,2,0,-2,0.0013,0.0,-0.13
+T12138,Occupational Health and Performance,2,0,-2,0.0013,0.0,-0.13
+T12231,Contemporary Sociological Theory and Practice,2,0,-2,0.0013,0.0,-0.13
+T12267,Diet and metabolism studies,1,1,0,0.0006,0.0006,0.0
+T12304,Radiative Heat Transfer Studies,2,0,-2,0.0013,0.0,-0.13
+T12320,Feminist Epistemology and Gender Studies,2,0,-2,0.0013,0.0,-0.13
+T12358,Thermal and Kinetic Analysis,1,1,0,0.0006,0.0006,0.0
+T12375,Cuban History and Society,1,1,0,0.0006,0.0006,0.0
+T12389,Infrared Target Detection Methodologies,2,0,-2,0.0013,0.0,-0.13
+T12399,Wine Industry and Tourism,2,0,-2,0.0013,0.0,-0.13
+T12428,Global Trade and Competitiveness,1,1,0,0.0006,0.0006,0.0
+T12487,Structural Engineering and Vibration Analysis,2,0,-2,0.0013,0.0,-0.13
+T12488,Mental Health via Writing,1,1,0,0.0006,0.0006,0.0
+T12503,Social Acceptance of Renewable Energy,1,1,0,0.0006,0.0006,0.0
+T12508,Functional Equations Stability Results,2,0,-2,0.0013,0.0,-0.13
+T12521,Death Anxiety and Social Exclusion,1,1,0,0.0006,0.0006,0.0
+T12624,Maritime and Coastal Archaeology,2,0,-2,0.0013,0.0,-0.13
+T12632,Visual Culture and Art Theory,2,0,-2,0.0013,0.0,-0.13
+T12635,African studies and sociopolitical issues,1,1,0,0.0006,0.0006,0.0
+T12645,European history and politics,2,0,-2,0.0013,0.0,-0.13
+T12649,Alkaloids: synthesis and pharmacology,1,1,0,0.0006,0.0006,0.0
+T12693,"Migration, Ethnicity, and Economy",1,1,0,0.0006,0.0006,0.0
+T12735,Blood donation and transfusion practices,1,1,0,0.0006,0.0006,0.0
+T12756,Plant Toxicity and Pharmacological Properties,2,0,-2,0.0013,0.0,-0.13
+T12797,History of Computing Technologies,2,0,-2,0.0013,0.0,-0.13
+T12799,Mobile and Web Applications,1,1,0,0.0006,0.0006,0.0
+T12803,Cinema History and Criticism,0,2,2,0.0,0.0013,0.13
+T12874,Digital Imaging for Blood Diseases,1,1,0,0.0006,0.0006,0.0
+T12884,Educational Assessment and Pedagogy,1,1,0,0.0006,0.0006,0.0
+T12888,Military Strategy and Technology,1,1,0,0.0006,0.0006,0.0
+T12912,"Shakespeare, Adaptation, and Literary Criticism",1,1,0,0.0006,0.0006,0.0
+T12938,Material Selection and Properties,1,1,0,0.0006,0.0006,0.0
+T12949,South Asian Studies and Diaspora,0,2,2,0.0,0.0013,0.13
+T12957,"War, Ethics, and Justification",1,1,0,0.0006,0.0006,0.0
+T13002,Southeast Asian Sociopolitical Studies,2,0,-2,0.0013,0.0,-0.13
+T13051,Qualitative Comparative Analysis Research,1,1,0,0.0006,0.0006,0.0
+T13124,Chemical synthesis and alkaloids,2,0,-2,0.0013,0.0,-0.13
+T13134,Latin American Literature Studies,1,1,0,0.0006,0.0006,0.0
+T13138,Legal and Constitutional Studies,1,1,0,0.0006,0.0006,0.0
+T13147,Ethics and bioethics in healthcare,0,2,2,0.0,0.0013,0.13
+T13150,Study and Philosophy of Religion,0,2,2,0.0,0.0013,0.13
+T13174,American and British Literature Analysis,0,2,2,0.0,0.0013,0.13
+T13175,Historical Astronomy and Related Studies,1,1,0,0.0006,0.0006,0.0
+T13197,Spreadsheets and End-User Computing,2,0,-2,0.0013,0.0,-0.13
+T13198,"Historical, Religious, and Philosophical Studies",1,1,0,0.0006,0.0006,0.0
+T13208,Synthesis of heterocyclic compounds,0,2,2,0.0,0.0013,0.13
+T13229,Gothic Literature and Media Analysis,1,1,0,0.0006,0.0006,0.0
+T13297,History and advancements in chemistry,1,1,0,0.0006,0.0006,0.0
+T13332,"Historical Studies on Reproduction, Gender, Health, and Societal Changes",2,0,-2,0.0013,0.0,-0.13
+T13342,Art History and Market Analysis,2,0,-2,0.0013,0.0,-0.13
+T13352,International Relations in Latin America,1,1,0,0.0006,0.0006,0.0
+T13370,Diverse Scientific and Economic Studies,2,0,-2,0.0013,0.0,-0.13
+T13400,Mathematical and Theoretical Analysis,1,1,0,0.0006,0.0006,0.0
+T13414,Radioactive Decay and Measurement Techniques,1,1,0,0.0006,0.0006,0.0
+T13443,Mineralogy and Gemology Studies,1,1,0,0.0006,0.0006,0.0
+T13484,German History and Society,1,1,0,0.0006,0.0006,0.0
 T13570,Historical Education Studies Worldwide,0,2,2,0.0,0.0013,0.13
-T13018,Seismology and Earthquake Studies,1,0,-1,0.0006,0.0,-0.06
-T10895,Species Distribution and Climate Change,1,0,-1,0.0006,0.0,-0.06
-T13546,Census and Population Estimation,1,0,-1,0.0006,0.0,-0.06
-T10015,Genomics and Phylogenetic Studies,1,0,-1,0.0006,0.0,-0.06
-T10784,Muscle activation and electromyography studies,1,0,-1,0.0006,0.0,-0.06
-T12837,American Environmental and Regional History,1,0,-1,0.0006,0.0,-0.06
-T10511,High voltage insulation and dielectric phenomena,1,0,-1,0.0006,0.0,-0.06
-T14176,Interdisciplinary Cultural and Social Studies,1,0,-1,0.0006,0.0,-0.06
-T11859,Educator Training and Historical Pedagogy,1,0,-1,0.0006,0.0,-0.06
-T10677,Attachment and Relationship Dynamics,1,0,-1,0.0006,0.0,-0.06
-T12016,Web Data Mining and Analysis,1,0,-1,0.0006,0.0,-0.06
-T12982,Legal principles and applications,1,0,-1,0.0006,0.0,-0.06
-T14500,Advanced Mathematical Theories,1,0,-1,0.0006,0.0,-0.06
-T14515,International Law and Aviation,1,0,-1,0.0006,0.0,-0.06
-T10802,Judicial and Constitutional Studies,1,0,-1,0.0006,0.0,-0.06
-T13330,"Theater, Performance, and Music History",1,0,-1,0.0006,0.0,-0.06
-T10547,"Education, Achievement, and Giftedness",1,0,-1,0.0006,0.0,-0.06
-T10454,Optimal Power Flow Distribution,1,0,-1,0.0006,0.0,-0.06
-T10190,Air Quality and Health Impacts,1,0,-1,0.0006,0.0,-0.06
-T14288,"Law, Rights, and Freedoms",1,0,-1,0.0006,0.0,-0.06
-T11902,Intelligent Tutoring Systems and Adaptive Learning,1,0,-1,0.0006,0.0,-0.06
-T13539,thermodynamics and calorimetric analyses,1,0,-1,0.0006,0.0,-0.06
-T10645,Cardiac Arrest and Resuscitation,1,0,-1,0.0006,0.0,-0.06
-T12609,Latin American socio-political dynamics,1,0,-1,0.0006,0.0,-0.06
-T12047,Viral Infections and Vectors,1,0,-1,0.0006,0.0,-0.06
-T10103,Reading and Literacy Development,1,0,-1,0.0006,0.0,-0.06
-T10046,Stability and Control of Uncertain Systems,1,0,-1,0.0006,0.0,-0.06
-T13194,ICT in Developing Communities,1,0,-1,0.0006,0.0,-0.06
-T10555,Fire effects on ecosystems,1,0,-1,0.0006,0.0,-0.06
-T10970,Team Dynamics and Performance,1,0,-1,0.0006,0.0,-0.06
-T14356,Organizational Leadership and Management Strategies,1,0,-1,0.0006,0.0,-0.06
-T11182,Auction Theory and Applications,1,0,-1,0.0006,0.0,-0.06
-T10814,Neuropeptides and Animal Physiology,1,0,-1,0.0006,0.0,-0.06
-T12520,Psychology of Moral and Emotional Judgment,1,0,-1,0.0006,0.0,-0.06
-T11281,Asymmetric Hydrogenation and Catalysis,1,0,-1,0.0006,0.0,-0.06
-T11626,Metalloenzymes and iron-sulfur proteins,1,0,-1,0.0006,0.0,-0.06
-T10913,Molecular Junctions and Nanostructures,1,0,-1,0.0006,0.0,-0.06
-T13521,Psychosocial Factors Impacting Youth,1,0,-1,0.0006,0.0,-0.06
-T12502,Urbanization and City Planning,1,0,-1,0.0006,0.0,-0.06
-T13684,Political Dynamics in Latin America,1,0,-1,0.0006,0.0,-0.06
-T11659,Advanced Image Fusion Techniques,1,0,-1,0.0006,0.0,-0.06
-T13634,Middle East and Rwanda Conflicts,1,0,-1,0.0006,0.0,-0.06
-T12455,Mediterranean and Iberian flora and fauna,1,0,-1,0.0006,0.0,-0.06
-T11978,Soil Mechanics and Vehicle Dynamics,1,0,-1,0.0006,0.0,-0.06
-T13092,Environmental Chemistry and Analysis,1,0,-1,0.0006,0.0,-0.06
-T11896,Opportunistic and Delay-Tolerant Networks,1,0,-1,0.0006,0.0,-0.06
-T10765,Marine Biology and Ecology Research,1,0,-1,0.0006,0.0,-0.06
-T12564,Sensor Technology and Measurement Systems,1,0,-1,0.0006,0.0,-0.06
-T12189,Sulfur-Based Synthesis Techniques,1,0,-1,0.0006,0.0,-0.06
-T11577,Cognitive Abilities and Testing,1,0,-1,0.0006,0.0,-0.06
-T11640,Linguistic Variation and Morphology,1,0,-1,0.0006,0.0,-0.06
-T13884,Educational Leadership and Practices,1,0,-1,0.0006,0.0,-0.06
-T13160,Synthesis and Biological Evaluation,1,0,-1,0.0006,0.0,-0.06
-T11320,Atmospheric Ozone and Climate,1,0,-1,0.0006,0.0,-0.06
-T13533,Medical Case Reports and Studies,1,0,-1,0.0006,0.0,-0.06
-T11435,Polynomial and algebraic computation,1,0,-1,0.0006,0.0,-0.06
-T12337,Italian Fascism and Post-war Society,1,0,-1,0.0006,0.0,-0.06
-T14142,Multicultural Socio-Legal Studies,1,0,-1,0.0006,0.0,-0.06
-T14470,Advanced Data Processing Techniques,1,0,-1,0.0006,0.0,-0.06
-T11156,Reproductive Health and Technologies,1,0,-1,0.0006,0.0,-0.06
-T10344,Management and Organizational Studies,1,0,-1,0.0006,0.0,-0.06
-T13518,Architecture and Computational Design,1,0,-1,0.0006,0.0,-0.06
-T11090,Dark Matter and Cosmic Phenomena,1,0,-1,0.0006,0.0,-0.06
-T11382,Fluid Dynamics and Heat Transfer,1,0,-1,0.0006,0.0,-0.06
-T12775,Legal Issues in South Africa,1,0,-1,0.0006,0.0,-0.06
-T13963,Organizational Management and Leadership,1,0,-1,0.0006,0.0,-0.06
-T11111,Spectroscopy and Laser Applications,1,0,-1,0.0006,0.0,-0.06
-T11463,Classical Philosophy and Thought,1,0,-1,0.0006,0.0,-0.06
-T10567,Vehicle Routing Optimization Methods,1,0,-1,0.0006,0.0,-0.06
-T12497,Traditional and Medicinal Uses of Annonaceae,1,0,-1,0.0006,0.0,-0.06
-T12999,Medieval History and Crusades,1,0,-1,0.0006,0.0,-0.06
-T11109,Thermoregulation and physiological responses,1,0,-1,0.0006,0.0,-0.06
-T12110,Bone and Dental Protein Studies,1,0,-1,0.0006,0.0,-0.06
-T11195,Simulation Techniques and Applications,1,0,-1,0.0006,0.0,-0.06
-T13743,Italian Literature and Culture,1,0,-1,0.0006,0.0,-0.06
-T12723,Hannah Arendt's Political Philosophy,1,0,-1,0.0006,0.0,-0.06
-T12519,Cybercrime and Law Enforcement Studies,1,0,-1,0.0006,0.0,-0.06
-T11663,Viral Infectious Diseases and Gene Expression in Insects,1,0,-1,0.0006,0.0,-0.06
-T12762,Crystallography and Radiation Phenomena,1,0,-1,0.0006,0.0,-0.06
-T13506,Botanical Research and Chemistry,1,0,-1,0.0006,0.0,-0.06
-T11761,Resilience and Mental Health,1,0,-1,0.0006,0.0,-0.06
-T14238,Historical Gender and Feminism Studies,0,1,1,0.0,0.0006,0.06
-T14466,"Migration, Health, Geopolitics, Historical Geography",0,1,1,0.0,0.0006,0.06
-T13120,Nuclear Issues and Defense,0,1,1,0.0,0.0006,0.06
-T11387,Ichthyology and Marine Biology,0,1,1,0.0,0.0006,0.06
-T13816,Advanced Signal Processing Techniques,0,1,1,0.0,0.0006,0.06
-T12544,Working Capital and Financial Performance,0,1,1,0.0,0.0006,0.06
-T12397,Critical Theory and Philosophy,0,1,1,0.0,0.0006,0.06
-T10380,Intimate Partner and Family Violence,0,1,1,0.0,0.0006,0.06
-T10493,Ion channel regulation and function,0,1,1,0.0,0.0006,0.06
-T10050,Multi-Criteria Decision Making,0,1,1,0.0,0.0006,0.06
-T14182,Technology-Enhanced Education Studies,0,1,1,0.0,0.0006,0.06
-T10691,Retinal Development and Disorders,0,1,1,0.0,0.0006,0.06
-T10588,Mathematical Dynamics and Fractals,0,1,1,0.0,0.0006,0.06
-T12536,Topological and Geometric Data Analysis,0,1,1,0.0,0.0006,0.06
-T14025,Educational Technology and Assessment,0,1,1,0.0,0.0006,0.06
-T11103,Antimicrobial Peptides and Activities,0,1,1,0.0,0.0006,0.06
-T14071,Healthcare during COVID-19 Pandemic,0,1,1,0.0,0.0006,0.06
-T14498,Educational Technology in Learning,0,1,1,0.0,0.0006,0.06
-T13865,Nationalism and Cultural Identity,0,1,1,0.0,0.0006,0.06
-T10965,Geological formations and processes,0,1,1,0.0,0.0006,0.06
-T10798,Crystallography and molecular interactions,0,1,1,0.0,0.0006,0.06
-T13074,Global Financial Regulation and Crises,0,1,1,0.0,0.0006,0.06
-T13951,Fluid dynamics and aerodynamics studies,0,1,1,0.0,0.0006,0.06
-T13793,Environmental and Analytical Chemistry Studies,0,1,1,0.0,0.0006,0.06
-T14275,Historical Medical Research and Treatments,0,1,1,0.0,0.0006,0.06
-T12105,Hygrothermal properties of building materials,0,1,1,0.0,0.0006,0.06
-T10463,Pulsars and Gravitational Waves Research,0,1,1,0.0,0.0006,0.06
-T12083,Karst Systems and Hydrogeology,0,1,1,0.0,0.0006,0.06
-T11977,Technology Use by Older Adults,0,1,1,0.0,0.0006,0.06
-T13247,Local Governance and Planning,0,1,1,0.0,0.0006,0.06
-T13215,Global Maritime and Colonial Histories,0,1,1,0.0,0.0006,0.06
-T11151,Advanced Topology and Set Theory,0,1,1,0.0,0.0006,0.06
-T10280,Shoulder Injury and Treatment,0,1,1,0.0,0.0006,0.06
-T10019,Corporate Finance and Governance,0,1,1,0.0,0.0006,0.06
-T11870,Structural Analysis and Optimization,0,1,1,0.0,0.0006,0.06
-T13864,Indigenous Cultures and History,0,1,1,0.0,0.0006,0.06
-T11265,Aging and Gerontology Research,0,1,1,0.0,0.0006,0.06
-T10444,Context-Aware Activity Recognition Systems,0,1,1,0.0,0.0006,0.06
-T10141,Probiotics and Fermented Foods,0,1,1,0.0,0.0006,0.06
-T11010,"Logic, Reasoning, and Knowledge",0,1,1,0.0,0.0006,0.06
-T12997,Outdoor and Experiential Education,0,1,1,0.0,0.0006,0.06
-T13230,Synthesis and Reactivity of Heterocycles,0,1,1,0.0,0.0006,0.06
-T13447,Educational and Psychological Assessments,0,1,1,0.0,0.0006,0.06
-T11014,Regional Economics and Spatial Analysis,0,1,1,0.0,0.0006,0.06
-T14206,Animal Law and Welfare,0,1,1,0.0,0.0006,0.06
-T11417,Advancements in PLL and VCO Technologies,0,1,1,0.0,0.0006,0.06
-T12457,Ecocriticism and Environmental Literature,0,1,1,0.0,0.0006,0.06
-T12345,Adult and Continuing Education Topics,0,1,1,0.0,0.0006,0.06
-T10942,"Sports, Gender, and Society",0,1,1,0.0,0.0006,0.06
-T13905,Telecommunications and Broadcasting Technologies,1,0,-1,0.0006,0.0,-0.06
-T14147,Innovative Approaches in Technology and Social Development,1,0,-1,0.0006,0.0,-0.06
-T11862,"Agriculture, Land Use, Rural Development",1,0,-1,0.0006,0.0,-0.06
-T10703,Business Process Modeling and Analysis,1,0,-1,0.0006,0.0,-0.06
-T11662,Legal Cases and Commentary,1,0,-1,0.0006,0.0,-0.06
-T10527,High-Energy Particle Collisions Research,1,0,-1,0.0006,0.0,-0.06
-T13379,"Multiculturalism, Politics, Migration, Gender",1,0,-1,0.0006,0.0,-0.06
-T11745,Potato Plant Research,1,0,-1,0.0006,0.0,-0.06
-T12279,Body Composition Measurement Techniques,1,0,-1,0.0006,0.0,-0.06
-T13221,Biological Activity of Diterpenoids and Biflavonoids,1,0,-1,0.0006,0.0,-0.06
-T12546,Smart Parking Systems Research,1,0,-1,0.0006,0.0,-0.06
-T13752,Mechanics and Biomechanics Studies,1,0,-1,0.0006,0.0,-0.06
-T13222,"Caribbean history, culture, and politics",1,0,-1,0.0006,0.0,-0.06
-T12848,Psychological Testing and Assessment,1,0,-1,0.0006,0.0,-0.06
-T12130,Contemporary Literature and Criticism,1,0,-1,0.0006,0.0,-0.06
-T13280,Biomedical and Engineering Education,1,0,-1,0.0006,0.0,-0.06
-T10978,Prenatal Screening and Diagnostics,1,0,-1,0.0006,0.0,-0.06
-T13371,Military Defense Systems Analysis,1,0,-1,0.0006,0.0,-0.06
-T14426,"Religion, Gender, and Enlightenment",1,0,-1,0.0006,0.0,-0.06
-T10091,Malaria Research and Control,1,0,-1,0.0006,0.0,-0.06
-T12894,Date Palm Research Studies,1,0,-1,0.0006,0.0,-0.06
-T10951,Cryptographic Implementations and Security,1,0,-1,0.0006,0.0,-0.06
-T11475,French Urban and Social Studies,1,0,-1,0.0006,0.0,-0.06
-T11447,Blind Source Separation Techniques,1,0,-1,0.0006,0.0,-0.06
-T13334,South Asian Cinema and Culture,1,0,-1,0.0006,0.0,-0.06
-T10207,Advanced biosensing and bioanalysis techniques,1,0,-1,0.0006,0.0,-0.06
-T13602,Educational Methods and Media Use,1,0,-1,0.0006,0.0,-0.06
-T11233,Advanced Adaptive Filtering Techniques,1,0,-1,0.0006,0.0,-0.06
-T12728,Demographic Trends and Gender Preferences,1,0,-1,0.0006,0.0,-0.06
-T13728,"Crime, Deviance, and Social Control",1,0,-1,0.0006,0.0,-0.06
-T13912,"Language, Linguistics, Cultural Analysis",1,0,-1,0.0006,0.0,-0.06
-T13718,Media Influence and Politics,1,0,-1,0.0006,0.0,-0.06
-T11414,Quantum optics and atomic interactions,1,0,-1,0.0006,0.0,-0.06
-T10230,Marine and fisheries research,1,0,-1,0.0006,0.0,-0.06
-T14293,Biotechnology and Related Fields,1,0,-1,0.0006,0.0,-0.06
-T13765,Social Science and Policy Research,1,0,-1,0.0006,0.0,-0.06
-T11849,Intellectual Capital and Performance Analysis,1,0,-1,0.0006,0.0,-0.06
-T12729,Tree Root and Stability Studies,1,0,-1,0.0006,0.0,-0.06
-T12388,Identification and Quantification in Food,1,0,-1,0.0006,0.0,-0.06
-T11388,"Grief, Bereavement, and Mental Health",1,0,-1,0.0006,0.0,-0.06
+T13667,French Literature and Criticism,2,0,-2,0.0013,0.0,-0.13
+T13673,Library Science and Information,0,2,2,0.0,0.0013,0.13
+T13721,Political Science Research and Education,0,2,2,0.0,0.0013,0.13
+T13800,Earthquake and Disaster Impact Studies,2,0,-2,0.0013,0.0,-0.13
+T13812,AI and HR Technologies,0,2,2,0.0,0.0013,0.13
+T13824,National Identity and Symbolism,0,2,2,0.0,0.0013,0.13
+T13844,Higher Education Learning Practices,2,0,-2,0.0013,0.0,-0.13
+T14056,Safety Warnings and Signage,1,1,0,0.0006,0.0006,0.0
+T14149,Historical and Literary Analyses,0,2,2,0.0,0.0013,0.13
+T14163,Astronomical Observations and Instrumentation,1,1,0,0.0006,0.0006,0.0
+T14172,Cultural and Social Studies in Latin America,1,1,0,0.0006,0.0006,0.0
+T14311,Electrical and Electromagnetic Research,0,2,2,0.0,0.0013,0.13
+T14312,Historical Studies in Central America,2,0,-2,0.0013,0.0,-0.13
+T14342,"Military, Security, and Education Studies",1,1,0,0.0006,0.0006,0.0
+T14386,"Libraries, Manuscripts, and Books",0,2,2,0.0,0.0013,0.13
+T14433,Post-Communist Economic and Political Transition,0,2,2,0.0,0.0013,0.13
+T10004,Soil Carbon and Nitrogen Dynamics,0,1,1,0.0,0.0006,0.06
 T10005,Ecology and Vegetation Dynamics Studies,1,0,-1,0.0006,0.0,-0.06
-T13086,Post-Soviet Geopolitical Dynamics,1,0,-1,0.0006,0.0,-0.06
-T13645,Thermodynamic and Structural Properties of Metals and Alloys,1,0,-1,0.0006,0.0,-0.06
-T12122,Physical Unclonable Functions (PUFs) and Hardware Security,1,0,-1,0.0006,0.0,-0.06
-T11266,Neuroinflammation and Neurodegeneration Mechanisms,1,0,-1,0.0006,0.0,-0.06
+T10006,Job Satisfaction and Organizational Behavior,0,1,1,0.0,0.0006,0.06
+T10011,"Literature: history, themes, analysis",1,0,-1,0.0006,0.0,-0.06
+T10014,Plant Stress Responses and Tolerance,1,0,-1,0.0006,0.0,-0.06
+T10015,Genomics and Phylogenetic Studies,1,0,-1,0.0006,0.0,-0.06
 T10017,Geology and Paleoclimatology Research,1,0,-1,0.0006,0.0,-0.06
+T10019,Corporate Finance and Governance,0,1,1,0.0,0.0006,0.06
+T10035,Phytochemicals and Antioxidant Activities,1,0,-1,0.0006,0.0,-0.06
+T10040,Adaptive Control of Nonlinear Systems,1,0,-1,0.0006,0.0,-0.06
+T10046,Stability and Control of Uncertain Systems,1,0,-1,0.0006,0.0,-0.06
+T10050,Multi-Criteria Decision Making,0,1,1,0.0,0.0006,0.06
+T10054,Parallel Computing and Optimization Techniques,0,1,1,0.0,0.0006,0.06
 T10064,Complex Network Analysis Techniques,1,0,-1,0.0006,0.0,-0.06
-T13389,German Economic Analysis & Policies,1,0,-1,0.0006,0.0,-0.06
+T10078,Advanced Photocatalysis Techniques,0,1,1,0.0,0.0006,0.06
+T10080,Energy Efficient Wireless Sensor Networks,1,0,-1,0.0006,0.0,-0.06
+T10091,Malaria Research and Control,1,0,-1,0.0006,0.0,-0.06
+T10102,scientometrics and bibliometrics research,0,1,1,0.0,0.0006,0.06
+T10103,Reading and Literacy Development,1,0,-1,0.0006,0.0,-0.06
+T10104,Nanofluid Flow and Heat Transfer,1,0,-1,0.0006,0.0,-0.06
 T10109,Paleontology and Stratigraphy of Fossils,1,0,-1,0.0006,0.0,-0.06
-T11614,Cloud Data Security Solutions,1,0,-1,0.0006,0.0,-0.06
-T12354,Innovations in Educational Methods,1,0,-1,0.0006,0.0,-0.06
-T14364,Clusterin in disease pathology,1,0,-1,0.0006,0.0,-0.06
-T10924,Cardiovascular Health and Disease Prevention,1,0,-1,0.0006,0.0,-0.06
-T10883,Ethics and Social Impacts of AI,1,0,-1,0.0006,0.0,-0.06
-T12366,"Philosophy, Ethics, and Existentialism",1,0,-1,0.0006,0.0,-0.06
-T11565,Thermoelastic and Magnetoelastic Phenomena,1,0,-1,0.0006,0.0,-0.06
-T13590,"Oral History, Memory, Narrative Analysis",1,0,-1,0.0006,0.0,-0.06
-T10860,Speech and Audio Processing,1,0,-1,0.0006,0.0,-0.06
-T13901,State Capitalism and Financial Governance,1,0,-1,0.0006,0.0,-0.06
-T12329,Hemiptera Insect Studies,1,0,-1,0.0006,0.0,-0.06
-T10439,Climate change impacts on agriculture,1,0,-1,0.0006,0.0,-0.06
-T12490,Software Engineering and Design Patterns,1,0,-1,0.0006,0.0,-0.06
-T10813,Sport Psychology and Performance,1,0,-1,0.0006,0.0,-0.06
-T11471,Block Copolymer Self-Assembly,1,0,-1,0.0006,0.0,-0.06
-T13216,Artistic and Creative Research,1,0,-1,0.0006,0.0,-0.06
-T11810,Complex Systems and Decision Making,1,0,-1,0.0006,0.0,-0.06
-T10260,Software Engineering Research,1,0,-1,0.0006,0.0,-0.06
-T11076,Policing Practices and Perceptions,1,0,-1,0.0006,0.0,-0.06
-T11317,Fire dynamics and safety research,1,0,-1,0.0006,0.0,-0.06
-T11202,Cavitation Phenomena in Pumps,1,0,-1,0.0006,0.0,-0.06
-T12581,Engineering Structural Analysis Methods,1,0,-1,0.0006,0.0,-0.06
-T11999,Empathy and Medical Education,1,0,-1,0.0006,0.0,-0.06
-T10514,Numerical methods in engineering,1,0,-1,0.0006,0.0,-0.06
-T11059,Market Dynamics and Volatility,1,0,-1,0.0006,0.0,-0.06
-T11798,Optimal Experimental Design Methods,1,0,-1,0.0006,0.0,-0.06
-T10265,Multilingual Education and Policy,1,0,-1,0.0006,0.0,-0.06
-T11885,MRI in cancer diagnosis,1,0,-1,0.0006,0.0,-0.06
-T13435,Animal and Plant Science Education,1,0,-1,0.0006,0.0,-0.06
-T12242,Latin American and Latino Studies,1,0,-1,0.0006,0.0,-0.06
-T11222,Magnetic Properties and Applications,1,0,-1,0.0006,0.0,-0.06
-T11549,Synthetic Organic Chemistry Methods,1,0,-1,0.0006,0.0,-0.06
-T13576,"Cyprus History, Politics, Society",1,0,-1,0.0006,0.0,-0.06
-T11312,Soil Moisture and Remote Sensing,1,0,-1,0.0006,0.0,-0.06
-T13122,Linguistics and Cultural Studies,1,0,-1,0.0006,0.0,-0.06
-T12220,Quantum Electrodynamics and Casimir Effect,1,0,-1,0.0006,0.0,-0.06
-T10770,Soil Geostatistics and Mapping,1,0,-1,0.0006,0.0,-0.06
-T14164,Marine and Offshore Engineering Studies,1,0,-1,0.0006,0.0,-0.06
-T13059,"Religion, Ecology, and Ethics",1,0,-1,0.0006,0.0,-0.06
-T10898,Environmental Education and Sustainability,1,0,-1,0.0006,0.0,-0.06
-T10320,Neural Networks and Applications,1,0,-1,0.0006,0.0,-0.06
-T11541,Neuroendocrine regulation and behavior,1,0,-1,0.0006,0.0,-0.06
-T11613,Phytochemistry and Biological Activities,1,0,-1,0.0006,0.0,-0.06
-T12256,Facilities and Workplace Management,1,0,-1,0.0006,0.0,-0.06
-T10361,Silicon Carbide Semiconductor Technologies,1,0,-1,0.0006,0.0,-0.06
-T11459,Arctic and Antarctic ice dynamics,1,0,-1,0.0006,0.0,-0.06
-T12191,Chemical Reaction Mechanisms,1,0,-1,0.0006,0.0,-0.06
-T12768,Linguistics and language evolution,1,0,-1,0.0006,0.0,-0.06
-T12743,Spanish Culture and Identity,1,0,-1,0.0006,0.0,-0.06
-T13993,Historical Geopolitical and Social Dynamics,1,0,-1,0.0006,0.0,-0.06
 T10122,Toxic Organic Pollutants Impact,1,0,-1,0.0006,0.0,-0.06
-T13551,Biochemical effects in animals,1,0,-1,0.0006,0.0,-0.06
-T10317,Advanced Database Systems and Queries,1,0,-1,0.0006,0.0,-0.06
-T13217,Pigment Synthesis and Properties,1,0,-1,0.0006,0.0,-0.06
-T12066,Obesity and Health Practices,1,0,-1,0.0006,0.0,-0.06
-T11693,Cryptography and Residue Arithmetic,1,0,-1,0.0006,0.0,-0.06
-T11949,Nuclear Physics and Applications,1,0,-1,0.0006,0.0,-0.06
-T13000,World Systems and Global Transformations,1,0,-1,0.0006,0.0,-0.06
-T12127,Software System Performance and Reliability,1,0,-1,0.0006,0.0,-0.06
-T12713,Forest Ecology and Biodiversity Studies,1,0,-1,0.0006,0.0,-0.06
-T11776,Irish and British Studies,1,0,-1,0.0006,0.0,-0.06
-T11084,Workplace Health and Well-being,1,0,-1,0.0006,0.0,-0.06
-T13434,Cancer Research and Treatment,1,0,-1,0.0006,0.0,-0.06
-T12166,Ion-surface interactions and analysis,1,0,-1,0.0006,0.0,-0.06
-T10715,Distributed and Parallel Computing Systems,1,0,-1,0.0006,0.0,-0.06
-T12236,Photoreceptor and optogenetics research,1,0,-1,0.0006,0.0,-0.06
-T14043,Historical and modern epidemiology studies,1,0,-1,0.0006,0.0,-0.06
-T11794,Early Modern Spanish Literature,1,0,-1,0.0006,0.0,-0.06
-T11022,Spectral Theory in Mathematical Physics,1,0,-1,0.0006,0.0,-0.06
-T12336,Insect Utilization and Effects,1,0,-1,0.0006,0.0,-0.06
-T10772,Distributed systems and fault tolerance,1,0,-1,0.0006,0.0,-0.06
+T10125,Advanced Wireless Communication Techniques,0,1,1,0.0,0.0006,0.06
+T10141,Probiotics and Fermented Foods,0,1,1,0.0,0.0006,0.06
+T10142,Formal Methods in Verification,1,0,-1,0.0006,0.0,-0.06
 T10155,Nitric Oxide and Endothelin Effects,1,0,-1,0.0006,0.0,-0.06
+T10168,COVID-19 and Mental Health,1,0,-1,0.0006,0.0,-0.06
+T10182,Child and Adolescent Psychosocial and Emotional Development,0,1,1,0.0,0.0006,0.06
+T10190,Air Quality and Health Impacts,1,0,-1,0.0006,0.0,-0.06
+T10192,Catalytic Processes in Materials Science,0,1,1,0.0,0.0006,0.06
+T10207,Advanced biosensing and bioanalysis techniques,1,0,-1,0.0006,0.0,-0.06
+T10209,Global Maternal and Child Health,1,0,-1,0.0006,0.0,-0.06
+T10210,Advanced oxidation water treatment,0,1,1,0.0,0.0006,0.06
+T10217,Cardiac electrophysiology and arrhythmias,0,1,1,0.0,0.0006,0.06
+T10230,Marine and fisheries research,1,0,-1,0.0006,0.0,-0.06
+T10260,Software Engineering Research,1,0,-1,0.0006,0.0,-0.06
+T10265,Multilingual Education and Policy,1,0,-1,0.0006,0.0,-0.06
+T10278,Electric Motor Design and Analysis,0,1,1,0.0,0.0006,0.06
+T10280,Shoulder Injury and Treatment,0,1,1,0.0,0.0006,0.06
+T10317,Advanced Database Systems and Queries,1,0,-1,0.0006,0.0,-0.06
+T10318,Criminal Justice and Corrections Analysis,1,0,-1,0.0006,0.0,-0.06
+T10320,Neural Networks and Applications,1,0,-1,0.0006,0.0,-0.06
+T10333,Meat and Animal Product Quality,1,0,-1,0.0006,0.0,-0.06
+T10344,Management and Organizational Studies,1,0,-1,0.0006,0.0,-0.06
+T10353,Zeolite Catalysis and Synthesis,0,1,1,0.0,0.0006,0.06
+T10361,Silicon Carbide Semiconductor Technologies,1,0,-1,0.0006,0.0,-0.06
+T10362,Biblical Studies and Interpretation,0,1,1,0.0,0.0006,0.06
+T10363,Low-power high-performance VLSI design,1,0,-1,0.0006,0.0,-0.06
+T10364,Reproductive Biology and Fertility,1,0,-1,0.0006,0.0,-0.06
+T10372,Cardiac Imaging and Diagnostics,0,1,1,0.0,0.0006,0.06
+T10380,Intimate Partner and Family Violence,0,1,1,0.0,0.0006,0.06
+T10388,Advanced Steganography and Watermarking Techniques,0,1,1,0.0,0.0006,0.06
+T10402,Phase Equilibria and Thermodynamics,0,1,1,0.0,0.0006,0.06
+T10411,Proteins in Food Systems,0,1,1,0.0,0.0006,0.06
+T10419,Pharmaceutical and Antibiotic Environmental Impacts,1,0,-1,0.0006,0.0,-0.06
+T10423,Neurobiology and Insect Physiology Research,1,0,-1,0.0006,0.0,-0.06
+T10424,Electric Power System Optimization,0,1,1,0.0,0.0006,0.06
+T10439,Climate change impacts on agriculture,1,0,-1,0.0006,0.0,-0.06
+T10444,Context-Aware Activity Recognition Systems,0,1,1,0.0,0.0006,0.06
+T10454,Optimal Power Flow Distribution,1,0,-1,0.0006,0.0,-0.06
+T10463,Pulsars and Gravitational Waves Research,0,1,1,0.0,0.0006,0.06
+T10489,Regulation of Appetite and Obesity,0,1,1,0.0,0.0006,0.06
+T10493,Ion channel regulation and function,0,1,1,0.0,0.0006,0.06
+T10511,High voltage insulation and dielectric phenomena,1,0,-1,0.0006,0.0,-0.06
+T10514,Numerical methods in engineering,1,0,-1,0.0006,0.0,-0.06
+T10527,High-Energy Particle Collisions Research,1,0,-1,0.0006,0.0,-0.06
+T10537,Attention Deficit Hyperactivity Disorder,0,1,1,0.0,0.0006,0.06
+T10538,Data Mining Algorithms and Applications,1,0,-1,0.0006,0.0,-0.06
+T10539,Sustainable Supply Chain Management,1,0,-1,0.0006,0.0,-0.06
+T10547,"Education, Achievement, and Giftedness",1,0,-1,0.0006,0.0,-0.06
+T10555,Fire effects on ecosystems,1,0,-1,0.0006,0.0,-0.06
+T10567,Vehicle Routing Optimization Methods,1,0,-1,0.0006,0.0,-0.06
+T10578,Supramolecular Chemistry and Complexes,1,0,-1,0.0006,0.0,-0.06
+T10585,Family Dynamics and Relationships,0,1,1,0.0,0.0006,0.06
+T10588,Mathematical Dynamics and Fractals,0,1,1,0.0,0.0006,0.06
+T10589,Early Childhood Education and Development,1,0,-1,0.0006,0.0,-0.06
+T10637,Advanced Clustering Algorithms Research,0,1,1,0.0,0.0006,0.06
+T10640,Spectroscopy and Chemometric Analyses,0,1,1,0.0,0.0006,0.06
+T10645,Cardiac Arrest and Resuscitation,1,0,-1,0.0006,0.0,-0.06
+T10665,Cystic Fibrosis Research Advances,1,0,-1,0.0006,0.0,-0.06
+T10677,Attachment and Relationship Dynamics,1,0,-1,0.0006,0.0,-0.06
+T10691,Retinal Development and Disorders,0,1,1,0.0,0.0006,0.06
+T10699,Primate Behavior and Ecology,0,1,1,0.0,0.0006,0.06
+T10703,Business Process Modeling and Analysis,1,0,-1,0.0006,0.0,-0.06
+T10715,Distributed and Parallel Computing Systems,1,0,-1,0.0006,0.0,-0.06
+T10721,Surfactants and Colloidal Systems,0,1,1,0.0,0.0006,0.06
+T10756,Estrogen and related hormone effects,0,1,1,0.0,0.0006,0.06
+T10759,Translation Studies and Practices,0,1,1,0.0,0.0006,0.06
+T10765,Marine Biology and Ecology Research,1,0,-1,0.0006,0.0,-0.06
+T10767,Advanced Photonic Communication Systems,0,1,1,0.0,0.0006,0.06
+T10770,Soil Geostatistics and Mapping,1,0,-1,0.0006,0.0,-0.06
+T10772,Distributed systems and fault tolerance,1,0,-1,0.0006,0.0,-0.06
+T10780,Reliability and Maintenance Optimization,0,1,1,0.0,0.0006,0.06
+T10783,Additive Manufacturing and 3D Printing Technologies,0,1,1,0.0,0.0006,0.06
+T10784,Muscle activation and electromyography studies,1,0,-1,0.0006,0.0,-0.06
+T10785,Economic Theory and Institutions,1,0,-1,0.0006,0.0,-0.06
+T10789,Interactive and Immersive Displays,1,0,-1,0.0006,0.0,-0.06
+T10798,Crystallography and molecular interactions,0,1,1,0.0,0.0006,0.06
+T10799,Data Visualization and Analytics,0,1,1,0.0,0.0006,0.06
+T10802,Judicial and Constitutional Studies,1,0,-1,0.0006,0.0,-0.06
+T10809,Occupational Health and Safety Research,1,0,-1,0.0006,0.0,-0.06
+T10813,Sport Psychology and Performance,1,0,-1,0.0006,0.0,-0.06
+T10814,Neuropeptides and Animal Physiology,1,0,-1,0.0006,0.0,-0.06
+T10839,Pancreatic function and diabetes,0,1,1,0.0,0.0006,0.06
+T10851,Optical Wireless Communication Technologies,0,1,1,0.0,0.0006,0.06
+T10860,Speech and Audio Processing,1,0,-1,0.0006,0.0,-0.06
+T10883,Ethics and Social Impacts of AI,1,0,-1,0.0006,0.0,-0.06
+T10895,Species Distribution and Climate Change,1,0,-1,0.0006,0.0,-0.06
+T10898,Environmental Education and Sustainability,1,0,-1,0.0006,0.0,-0.06
+T10905,Solar Thermal and Photovoltaic Systems,0,1,1,0.0,0.0006,0.06
+T10913,Molecular Junctions and Nanostructures,1,0,-1,0.0006,0.0,-0.06
+T10924,Cardiovascular Health and Disease Prevention,1,0,-1,0.0006,0.0,-0.06
+T10939,Crystal Structures and Properties,1,0,-1,0.0006,0.0,-0.06
+T10942,"Sports, Gender, and Society",0,1,1,0.0,0.0006,0.06
+T10951,Cryptographic Implementations and Security,1,0,-1,0.0006,0.0,-0.06
+T10965,Geological formations and processes,0,1,1,0.0,0.0006,0.06
+T10968,Statistical Distribution Estimation and Applications,0,1,1,0.0,0.0006,0.06
+T10970,Team Dynamics and Performance,1,0,-1,0.0006,0.0,-0.06
+T10978,Prenatal Screening and Diagnostics,1,0,-1,0.0006,0.0,-0.06
+T11005,Radiation Effects in Electronics,1,0,-1,0.0006,0.0,-0.06
+T11010,"Logic, Reasoning, and Knowledge",0,1,1,0.0,0.0006,0.06
+T11013,Skin Protection and Aging,0,1,1,0.0,0.0006,0.06
+T11014,Regional Economics and Spatial Analysis,0,1,1,0.0,0.0006,0.06
+T11022,Spectral Theory in Mathematical Physics,1,0,-1,0.0006,0.0,-0.06
+T11034,Digital Filter Design and Implementation,0,1,1,0.0,0.0006,0.06
+T11039,Evaluation of Teaching Practices,0,1,1,0.0,0.0006,0.06
+T11047,Gender Diversity and Inequality,1,0,-1,0.0006,0.0,-0.06
+T11059,Market Dynamics and Volatility,1,0,-1,0.0006,0.0,-0.06
+T11076,Policing Practices and Perceptions,1,0,-1,0.0006,0.0,-0.06
+T11084,Workplace Health and Well-being,1,0,-1,0.0006,0.0,-0.06
+T11090,Dark Matter and Cosmic Phenomena,1,0,-1,0.0006,0.0,-0.06
+T11103,Antimicrobial Peptides and Activities,0,1,1,0.0,0.0006,0.06
+T11104,"Memory, Trauma, and Commemoration",0,1,1,0.0,0.0006,0.06
+T11109,Thermoregulation and physiological responses,1,0,-1,0.0006,0.0,-0.06
+T11111,Spectroscopy and Laser Applications,1,0,-1,0.0006,0.0,-0.06
+T11121,Public Relations and Crisis Communication,0,1,1,0.0,0.0006,0.06
+T11129,Photochemistry and Electron Transfer Studies,0,1,1,0.0,0.0006,0.06
+T11137,Historical Philosophy and Science,1,0,-1,0.0006,0.0,-0.06
+T11147,Misinformation and Its Impacts,0,1,1,0.0,0.0006,0.06
+T11148,"Language, Metaphor, and Cognition",1,0,-1,0.0006,0.0,-0.06
+T11151,Advanced Topology and Set Theory,0,1,1,0.0,0.0006,0.06
+T11154,Parasitic infections in humans and animals,0,1,1,0.0,0.0006,0.06
+T11156,Reproductive Health and Technologies,1,0,-1,0.0006,0.0,-0.06
+T11161,Consumer Market Behavior and Pricing,1,0,-1,0.0006,0.0,-0.06
+T11182,Auction Theory and Applications,1,0,-1,0.0006,0.0,-0.06
+T11189,Transplantation: Methods and Outcomes,1,0,-1,0.0006,0.0,-0.06
+T11195,Simulation Techniques and Applications,1,0,-1,0.0006,0.0,-0.06
+T11202,Cavitation Phenomena in Pumps,1,0,-1,0.0006,0.0,-0.06
+T11209,Cardiovascular and exercise physiology,0,1,1,0.0,0.0006,0.06
+T11220,Water Systems and Optimization,0,1,1,0.0,0.0006,0.06
+T11222,Magnetic Properties and Applications,1,0,-1,0.0006,0.0,-0.06
+T11233,Advanced Adaptive Filtering Techniques,1,0,-1,0.0006,0.0,-0.06
+T11239,Social Capital and Networks,1,0,-1,0.0006,0.0,-0.06
+T11242,Nuclear Materials and Properties,0,1,1,0.0,0.0006,0.06
+T11244,Climate Change and Health Impacts,1,0,-1,0.0006,0.0,-0.06
+T11265,Aging and Gerontology Research,0,1,1,0.0,0.0006,0.06
+T11266,Neuroinflammation and Neurodegeneration Mechanisms,1,0,-1,0.0006,0.0,-0.06
+T11279,Lanthanide and Transition Metal Complexes,1,0,-1,0.0006,0.0,-0.06
+T11281,Asymmetric Hydrogenation and Catalysis,1,0,-1,0.0006,0.0,-0.06
+T11301,Advanced Surface Polishing Techniques,1,0,-1,0.0006,0.0,-0.06
+T11312,Soil Moisture and Remote Sensing,1,0,-1,0.0006,0.0,-0.06
+T11317,Fire dynamics and safety research,1,0,-1,0.0006,0.0,-0.06
+T11320,Atmospheric Ozone and Climate,1,0,-1,0.0006,0.0,-0.06
+T11382,Fluid Dynamics and Heat Transfer,1,0,-1,0.0006,0.0,-0.06
+T11387,Ichthyology and Marine Biology,0,1,1,0.0,0.0006,0.06
+T11388,"Grief, Bereavement, and Mental Health",1,0,-1,0.0006,0.0,-0.06
+T11412,Genetic and Kidney Cyst Diseases,0,1,1,0.0,0.0006,0.06
+T11414,Quantum optics and atomic interactions,1,0,-1,0.0006,0.0,-0.06
+T11417,Advancements in PLL and VCO Technologies,0,1,1,0.0,0.0006,0.06
+T11429,Semiconductor Lasers and Optical Devices,1,0,-1,0.0006,0.0,-0.06
+T11435,Polynomial and algebraic computation,1,0,-1,0.0006,0.0,-0.06
+T11447,Blind Source Separation Techniques,1,0,-1,0.0006,0.0,-0.06
+T11457,Adipose Tissue and Metabolism,0,1,1,0.0,0.0006,0.06
+T11458,Advanced Wireless Communication Technologies,0,1,1,0.0,0.0006,0.06
+T11459,Arctic and Antarctic ice dynamics,1,0,-1,0.0006,0.0,-0.06
+T11460,Analytical Methods in Pharmaceuticals,0,1,1,0.0,0.0006,0.06
+T11463,Classical Philosophy and Thought,1,0,-1,0.0006,0.0,-0.06
+T11470,Legume Nitrogen Fixing Symbiosis,1,0,-1,0.0006,0.0,-0.06
+T11471,Block Copolymer Self-Assembly,1,0,-1,0.0006,0.0,-0.06
+T11474,Sport and Mega-Event Impacts,1,0,-1,0.0006,0.0,-0.06
+T11475,French Urban and Social Studies,1,0,-1,0.0006,0.0,-0.06
+T11478,Caching and Content Delivery,1,0,-1,0.0006,0.0,-0.06
+T11531,Healthcare Systems and Reforms,0,1,1,0.0,0.0006,0.06
+T11541,Neuroendocrine regulation and behavior,1,0,-1,0.0006,0.0,-0.06
+T11549,Synthetic Organic Chemistry Methods,1,0,-1,0.0006,0.0,-0.06
+T11565,Thermoelastic and Magnetoelastic Phenomena,1,0,-1,0.0006,0.0,-0.06
+T11573,Risk Perception and Management,0,1,1,0.0,0.0006,0.06
+T11577,Cognitive Abilities and Testing,1,0,-1,0.0006,0.0,-0.06
+T11587,Second Language Acquisition and Learning,1,0,-1,0.0006,0.0,-0.06
+T11593,Carbon dioxide utilization in catalysis,1,0,-1,0.0006,0.0,-0.06
+T11611,Cyclopropane Reaction Mechanisms,1,0,-1,0.0006,0.0,-0.06
+T11613,Phytochemistry and Biological Activities,1,0,-1,0.0006,0.0,-0.06
+T11614,Cloud Data Security Solutions,1,0,-1,0.0006,0.0,-0.06
+T11615,Control and Dynamics of Mobile Robots,1,0,-1,0.0006,0.0,-0.06
+T11626,Metalloenzymes and iron-sulfur proteins,1,0,-1,0.0006,0.0,-0.06
+T11640,Linguistic Variation and Morphology,1,0,-1,0.0006,0.0,-0.06
+T11659,Advanced Image Fusion Techniques,1,0,-1,0.0006,0.0,-0.06
+T11662,Legal Cases and Commentary,1,0,-1,0.0006,0.0,-0.06
+T11663,Viral Infectious Diseases and Gene Expression in Insects,1,0,-1,0.0006,0.0,-0.06
+T11672,Recycling and utilization of industrial and municipal waste in materials production,1,0,-1,0.0006,0.0,-0.06
+T11693,Cryptography and Residue Arithmetic,1,0,-1,0.0006,0.0,-0.06
+T11734,Decision Support System Applications,0,1,1,0.0,0.0006,0.06
+T11737,Advanced Materials and Mechanics,1,0,-1,0.0006,0.0,-0.06
+T11745,Potato Plant Research,1,0,-1,0.0006,0.0,-0.06
+T11753,Forest Management and Policy,0,1,1,0.0,0.0006,0.06
+T11761,Resilience and Mental Health,1,0,-1,0.0006,0.0,-0.06
+T11772,Genetics and Neurodevelopmental Disorders,1,0,-1,0.0006,0.0,-0.06
+T11776,Irish and British Studies,1,0,-1,0.0006,0.0,-0.06
+T11788,Nonlinear Optical Materials Studies,0,1,1,0.0,0.0006,0.06
+T11794,Early Modern Spanish Literature,1,0,-1,0.0006,0.0,-0.06
+T11798,Optimal Experimental Design Methods,1,0,-1,0.0006,0.0,-0.06
+T11810,Complex Systems and Decision Making,1,0,-1,0.0006,0.0,-0.06
+T11821,Odor and Emission Control Technologies,0,1,1,0.0,0.0006,0.06
+T11823,Natural Resources and Economic Development,0,1,1,0.0,0.0006,0.06
+T11827,Polyomavirus and related diseases,1,0,-1,0.0006,0.0,-0.06
+T11829,Mathematical Biology Tumor Growth,0,1,1,0.0,0.0006,0.06
+T11846,Cultural Heritage Management and Preservation,0,1,1,0.0,0.0006,0.06
+T11849,Intellectual Capital and Performance Analysis,1,0,-1,0.0006,0.0,-0.06
+T11859,Educator Training and Historical Pedagogy,1,0,-1,0.0006,0.0,-0.06
+T11862,"Agriculture, Land Use, Rural Development",1,0,-1,0.0006,0.0,-0.06
+T11870,Structural Analysis and Optimization,0,1,1,0.0,0.0006,0.06
+T11875,Statistics Education and Methodologies,0,1,1,0.0,0.0006,0.06
+T11884,Redox biology and oxidative stress,0,1,1,0.0,0.0006,0.06
+T11885,MRI in cancer diagnosis,1,0,-1,0.0006,0.0,-0.06
+T11896,Opportunistic and Delay-Tolerant Networks,1,0,-1,0.0006,0.0,-0.06
+T11902,Intelligent Tutoring Systems and Adaptive Learning,1,0,-1,0.0006,0.0,-0.06
+T11913,Animal Ecology and Behavior Studies,1,0,-1,0.0006,0.0,-0.06
+T11937,Research Data Management Practices,1,0,-1,0.0006,0.0,-0.06
+T11949,Nuclear Physics and Applications,1,0,-1,0.0006,0.0,-0.06
+T11953,"Neuroethics, Human Enhancement, Biomedical Innovations",0,1,1,0.0,0.0006,0.06
+T11977,Technology Use by Older Adults,0,1,1,0.0,0.0006,0.06
+T11978,Soil Mechanics and Vehicle Dynamics,1,0,-1,0.0006,0.0,-0.06
+T11999,Empathy and Medical Education,1,0,-1,0.0006,0.0,-0.06
+T12016,Web Data Mining and Analysis,1,0,-1,0.0006,0.0,-0.06
+T12019,Calibration and Measurement Techniques,0,1,1,0.0,0.0006,0.06
+T12023,Cholinesterase and Neurodegenerative Diseases,1,0,-1,0.0006,0.0,-0.06
+T12027,Social Media in Health Education,1,0,-1,0.0006,0.0,-0.06
+T12047,Viral Infections and Vectors,1,0,-1,0.0006,0.0,-0.06
+T12059,Berberine and alkaloids research,1,0,-1,0.0006,0.0,-0.06
+T12066,Obesity and Health Practices,1,0,-1,0.0006,0.0,-0.06
+T12076,Renaissance and Early Modern Studies,0,1,1,0.0,0.0006,0.06
+T12083,Karst Systems and Hydrogeology,0,1,1,0.0,0.0006,0.06
+T12105,Hygrothermal properties of building materials,0,1,1,0.0,0.0006,0.06
+T12110,Bone and Dental Protein Studies,1,0,-1,0.0006,0.0,-0.06
+T12119,Linguistics and Discourse Analysis,0,1,1,0.0,0.0006,0.06
+T12122,Physical Unclonable Functions (PUFs) and Hardware Security,1,0,-1,0.0006,0.0,-0.06
+T12127,Software System Performance and Reliability,1,0,-1,0.0006,0.0,-0.06
+T12130,Contemporary Literature and Criticism,1,0,-1,0.0006,0.0,-0.06
+T12132,Hymenoptera taxonomy and phylogeny,0,1,1,0.0,0.0006,0.06
+T12157,Geochemistry and Geologic Mapping,1,0,-1,0.0006,0.0,-0.06
+T12166,Ion-surface interactions and analysis,1,0,-1,0.0006,0.0,-0.06
+T12175,Social Representations and Identity,1,0,-1,0.0006,0.0,-0.06
+T12178,Bird parasitology and diseases,1,0,-1,0.0006,0.0,-0.06
+T12184,Linguistics and Education Research,0,1,1,0.0,0.0006,0.06
+T12189,Sulfur-Based Synthesis Techniques,1,0,-1,0.0006,0.0,-0.06
+T12191,Chemical Reaction Mechanisms,1,0,-1,0.0006,0.0,-0.06
+T12207,Assistive Technology in Communication and Mobility,0,1,1,0.0,0.0006,0.06
+T12211,Aluminum toxicity and tolerance in plants and animals,1,0,-1,0.0006,0.0,-0.06
+T12220,Quantum Electrodynamics and Casimir Effect,1,0,-1,0.0006,0.0,-0.06
+T12236,Photoreceptor and optogenetics research,1,0,-1,0.0006,0.0,-0.06
+T12242,Latin American and Latino Studies,1,0,-1,0.0006,0.0,-0.06
+T12254,Machine Learning in Bioinformatics,1,0,-1,0.0006,0.0,-0.06
+T12256,Facilities and Workplace Management,1,0,-1,0.0006,0.0,-0.06
+T12266,Byzantine Studies and History,1,0,-1,0.0006,0.0,-0.06
+T12279,Body Composition Measurement Techniques,1,0,-1,0.0006,0.0,-0.06
+T12283,Latin American history and culture,1,0,-1,0.0006,0.0,-0.06
+T12329,Hemiptera Insect Studies,1,0,-1,0.0006,0.0,-0.06
+T12336,Insect Utilization and Effects,1,0,-1,0.0006,0.0,-0.06
+T12337,Italian Fascism and Post-war Society,1,0,-1,0.0006,0.0,-0.06
+T12341,Spanish Linguistics and Language Studies,0,1,1,0.0,0.0006,0.06
+T12345,Adult and Continuing Education Topics,0,1,1,0.0,0.0006,0.06
+T12354,Innovations in Educational Methods,1,0,-1,0.0006,0.0,-0.06
+T12366,"Philosophy, Ethics, and Existentialism",1,0,-1,0.0006,0.0,-0.06
+T12388,Identification and Quantification in Food,1,0,-1,0.0006,0.0,-0.06
+T12396,Advanced Differential Equations and Dynamical Systems,0,1,1,0.0,0.0006,0.06
+T12397,Critical Theory and Philosophy,0,1,1,0.0,0.0006,0.06
+T12414,Coastal and Marine Management,0,1,1,0.0,0.0006,0.06
+T12415,Employer Branding and e-HRM,1,0,-1,0.0006,0.0,-0.06
+T12420,Silicone and Siloxane Chemistry,1,0,-1,0.0006,0.0,-0.06
+T12423,Software Reliability and Analysis Research,0,1,1,0.0,0.0006,0.06
+T12449,Spacecraft Design and Technology,0,1,1,0.0,0.0006,0.06
+T12455,Mediterranean and Iberian flora and fauna,1,0,-1,0.0006,0.0,-0.06
+T12457,Ecocriticism and Environmental Literature,0,1,1,0.0,0.0006,0.06
+T12490,Software Engineering and Design Patterns,1,0,-1,0.0006,0.0,-0.06
+T12497,Traditional and Medicinal Uses of Annonaceae,1,0,-1,0.0006,0.0,-0.06
+T12502,Urbanization and City Planning,1,0,-1,0.0006,0.0,-0.06
+T12515,Gender and Technology in Education,1,0,-1,0.0006,0.0,-0.06
+T12517,Seventeenth-Century Political and Philosophical Thought,0,1,1,0.0,0.0006,0.06
+T12519,Cybercrime and Law Enforcement Studies,1,0,-1,0.0006,0.0,-0.06
+T12520,Psychology of Moral and Emotional Judgment,1,0,-1,0.0006,0.0,-0.06
+T12522,Mathematics Education and Pedagogy,0,1,1,0.0,0.0006,0.06
+T12536,Topological and Geometric Data Analysis,0,1,1,0.0,0.0006,0.06
+T12544,Working Capital and Financial Performance,0,1,1,0.0,0.0006,0.06
+T12546,Smart Parking Systems Research,1,0,-1,0.0006,0.0,-0.06
+T12557,Inorganic Chemistry and Materials,0,1,1,0.0,0.0006,0.06
+T12564,Sensor Technology and Measurement Systems,1,0,-1,0.0006,0.0,-0.06
+T12581,Engineering Structural Analysis Methods,1,0,-1,0.0006,0.0,-0.06
+T12609,Latin American socio-political dynamics,1,0,-1,0.0006,0.0,-0.06
+T12648,Academic Writing and Publishing,1,0,-1,0.0006,0.0,-0.06
+T12677,Sports Dynamics and Biomechanics,1,0,-1,0.0006,0.0,-0.06
+T12713,Forest Ecology and Biodiversity Studies,1,0,-1,0.0006,0.0,-0.06
+T12723,Hannah Arendt's Political Philosophy,1,0,-1,0.0006,0.0,-0.06
+T12728,Demographic Trends and Gender Preferences,1,0,-1,0.0006,0.0,-0.06
+T12729,Tree Root and Stability Studies,1,0,-1,0.0006,0.0,-0.06
+T12743,Spanish Culture and Identity,1,0,-1,0.0006,0.0,-0.06
+T12762,Crystallography and Radiation Phenomena,1,0,-1,0.0006,0.0,-0.06
+T12768,Linguistics and language evolution,1,0,-1,0.0006,0.0,-0.06
+T12772,Control and Stability of Dynamical Systems,1,0,-1,0.0006,0.0,-0.06
+T12775,Legal Issues in South Africa,1,0,-1,0.0006,0.0,-0.06
+T12788,Space Science and Extraterrestrial Life,1,0,-1,0.0006,0.0,-0.06
+T12836,History and Developments in Astronomy,0,1,1,0.0,0.0006,0.06
+T12837,American Environmental and Regional History,1,0,-1,0.0006,0.0,-0.06
+T12848,Psychological Testing and Assessment,1,0,-1,0.0006,0.0,-0.06
+T12862,Catholicism and Religious Studies,0,1,1,0.0,0.0006,0.06
+T12894,Date Palm Research Studies,1,0,-1,0.0006,0.0,-0.06
+T12916,COVID-19 impact on air quality,1,0,-1,0.0006,0.0,-0.06
+T12917,Astronomy and Astrophysical Research,0,1,1,0.0,0.0006,0.06
+T12966,Russian Literature and Bakhtin Studies,0,1,1,0.0,0.0006,0.06
+T12973,Synthesis of Indole Derivatives,0,1,1,0.0,0.0006,0.06
+T12977,Spanish Literature and Culture Studies,0,1,1,0.0,0.0006,0.06
+T12982,Legal principles and applications,1,0,-1,0.0006,0.0,-0.06
+T12997,Outdoor and Experiential Education,0,1,1,0.0,0.0006,0.06
+T12999,Medieval History and Crusades,1,0,-1,0.0006,0.0,-0.06
+T13000,World Systems and Global Transformations,1,0,-1,0.0006,0.0,-0.06
+T13007,Economic Sanctions and International Relations,1,0,-1,0.0006,0.0,-0.06
+T13018,Seismology and Earthquake Studies,1,0,-1,0.0006,0.0,-0.06
+T13059,"Religion, Ecology, and Ethics",1,0,-1,0.0006,0.0,-0.06
+T13073,China's Ethnic Minorities and Relations,0,1,1,0.0,0.0006,0.06
+T13074,Global Financial Regulation and Crises,0,1,1,0.0,0.0006,0.06
+T13076,"Torture, Ethics, and Law",1,0,-1,0.0006,0.0,-0.06
+T13086,Post-Soviet Geopolitical Dynamics,1,0,-1,0.0006,0.0,-0.06
+T13092,Environmental Chemistry and Analysis,1,0,-1,0.0006,0.0,-0.06
+T13120,Nuclear Issues and Defense,0,1,1,0.0,0.0006,0.06
+T13122,Linguistics and Cultural Studies,1,0,-1,0.0006,0.0,-0.06
+T13126,Scientific Research and Discoveries,0,1,1,0.0,0.0006,0.06
+T13135,"Communism, Protests, Social Movements",0,1,1,0.0,0.0006,0.06
+T13160,Synthesis and Biological Evaluation,1,0,-1,0.0006,0.0,-0.06
+T13163,Organizational Learning and Leadership,0,1,1,0.0,0.0006,0.06
+T13194,ICT in Developing Communities,1,0,-1,0.0006,0.0,-0.06
+T13215,Global Maritime and Colonial Histories,0,1,1,0.0,0.0006,0.06
+T13216,Artistic and Creative Research,1,0,-1,0.0006,0.0,-0.06
+T13217,Pigment Synthesis and Properties,1,0,-1,0.0006,0.0,-0.06
+T13221,Biological Activity of Diterpenoids and Biflavonoids,1,0,-1,0.0006,0.0,-0.06
+T13222,"Caribbean history, culture, and politics",1,0,-1,0.0006,0.0,-0.06
+T13230,Synthesis and Reactivity of Heterocycles,0,1,1,0.0,0.0006,0.06
+T13236,Geotechnical and construction materials studies,0,1,1,0.0,0.0006,0.06
+T13247,Local Governance and Planning,0,1,1,0.0,0.0006,0.06
+T13250,Semiotics and Representation Studies,0,1,1,0.0,0.0006,0.06
+T13268,Photographic and Visual Arts,0,1,1,0.0,0.0006,0.06
+T13280,Biomedical and Engineering Education,1,0,-1,0.0006,0.0,-0.06
+T13283,Mental Health Research Topics,1,0,-1,0.0006,0.0,-0.06
+T13303,Asian Culture and Media Studies,1,0,-1,0.0006,0.0,-0.06
+T13330,"Theater, Performance, and Music History",1,0,-1,0.0006,0.0,-0.06
+T13334,South Asian Cinema and Culture,1,0,-1,0.0006,0.0,-0.06
+T13346,Digital Transformation in Financial Services,0,1,1,0.0,0.0006,0.06
+T13371,Military Defense Systems Analysis,1,0,-1,0.0006,0.0,-0.06
+T13372,Archaeology and Historical Studies,1,0,-1,0.0006,0.0,-0.06
+T13379,"Multiculturalism, Politics, Migration, Gender",1,0,-1,0.0006,0.0,-0.06
+T13389,German Economic Analysis & Policies,1,0,-1,0.0006,0.0,-0.06
+T13395,"Education, Leadership, and Health Research",0,1,1,0.0,0.0006,0.06
+T13396,Agriculture and Rural Development Research,1,0,-1,0.0006,0.0,-0.06
+T13402,Business Strategy and Innovation,1,0,-1,0.0006,0.0,-0.06
+T13434,Cancer Research and Treatment,1,0,-1,0.0006,0.0,-0.06
+T13435,Animal and Plant Science Education,1,0,-1,0.0006,0.0,-0.06
+T13447,Educational and Psychological Assessments,0,1,1,0.0,0.0006,0.06
+T13459,Public Administration and Political Analysis,0,1,1,0.0,0.0006,0.06
+T13474,Autobiographical and Biographical Writing,0,1,1,0.0,0.0006,0.06
+T13506,Botanical Research and Chemistry,1,0,-1,0.0006,0.0,-0.06
+T13508,Agricultural Economics and Practices,0,1,1,0.0,0.0006,0.06
+T13518,Architecture and Computational Design,1,0,-1,0.0006,0.0,-0.06
+T13521,Psychosocial Factors Impacting Youth,1,0,-1,0.0006,0.0,-0.06
+T13533,Medical Case Reports and Studies,1,0,-1,0.0006,0.0,-0.06
+T13539,thermodynamics and calorimetric analyses,1,0,-1,0.0006,0.0,-0.06
+T13546,Census and Population Estimation,1,0,-1,0.0006,0.0,-0.06
+T13551,Biochemical effects in animals,1,0,-1,0.0006,0.0,-0.06
+T13576,"Cyprus History, Politics, Society",1,0,-1,0.0006,0.0,-0.06
+T13583,Jury Decision Making Processes,0,1,1,0.0,0.0006,0.06
+T13590,"Oral History, Memory, Narrative Analysis",1,0,-1,0.0006,0.0,-0.06
+T13602,Educational Methods and Media Use,1,0,-1,0.0006,0.0,-0.06
+T13634,Middle East and Rwanda Conflicts,1,0,-1,0.0006,0.0,-0.06
+T13645,Thermodynamic and Structural Properties of Metals and Alloys,1,0,-1,0.0006,0.0,-0.06
+T13679,Tardigrade Biology and Ecology,0,1,1,0.0,0.0006,0.06
+T13680,"Education, Psychology, and Complexity Research",1,0,-1,0.0006,0.0,-0.06
+T13684,Political Dynamics in Latin America,1,0,-1,0.0006,0.0,-0.06
+T13710,European and International Law Studies,1,0,-1,0.0006,0.0,-0.06
+T13712,Kantian Philosophy and Modern Interpretations,0,1,1,0.0,0.0006,0.06
+T13718,Media Influence and Politics,1,0,-1,0.0006,0.0,-0.06
+T13727,Linguistic and Sociocultural Studies,0,1,1,0.0,0.0006,0.06
+T13728,"Crime, Deviance, and Social Control",1,0,-1,0.0006,0.0,-0.06
+T13734,Advanced Computational Techniques and Applications,0,1,1,0.0,0.0006,0.06
+T13739,Medieval and Early Modern Justice,0,1,1,0.0,0.0006,0.06
+T13743,Italian Literature and Culture,1,0,-1,0.0006,0.0,-0.06
+T13752,Mechanics and Biomechanics Studies,1,0,-1,0.0006,0.0,-0.06
+T13765,Social Science and Policy Research,1,0,-1,0.0006,0.0,-0.06
+T13784,Jewish Identity and Society,0,1,1,0.0,0.0006,0.06
+T13793,Environmental and Analytical Chemistry Studies,0,1,1,0.0,0.0006,0.06
+T13816,Advanced Signal Processing Techniques,0,1,1,0.0,0.0006,0.06
+T13864,Indigenous Cultures and History,0,1,1,0.0,0.0006,0.06
+T13865,Nationalism and Cultural Identity,0,1,1,0.0,0.0006,0.06
+T13867,Economic Growth and Development,1,0,-1,0.0006,0.0,-0.06
+T13884,Educational Leadership and Practices,1,0,-1,0.0006,0.0,-0.06
+T13894,Indian Economic and Social Development,1,0,-1,0.0006,0.0,-0.06
+T13901,State Capitalism and Financial Governance,1,0,-1,0.0006,0.0,-0.06
+T13905,Telecommunications and Broadcasting Technologies,1,0,-1,0.0006,0.0,-0.06
+T13912,"Language, Linguistics, Cultural Analysis",1,0,-1,0.0006,0.0,-0.06
+T13920,Urban Planning and Valuation,0,1,1,0.0,0.0006,0.06
+T13927,Cyberloafing and Workplace Behavior,0,1,1,0.0,0.0006,0.06
+T13950,Collembola Taxonomy and Ecology Studies,0,1,1,0.0,0.0006,0.06
+T13951,Fluid dynamics and aerodynamics studies,0,1,1,0.0,0.0006,0.06
+T13963,Organizational Management and Leadership,1,0,-1,0.0006,0.0,-0.06
+T13983,Cybersecurity and Information Systems,0,1,1,0.0,0.0006,0.06
+T13993,Historical Geopolitical and Social Dynamics,1,0,-1,0.0006,0.0,-0.06
+T14025,Educational Technology and Assessment,0,1,1,0.0,0.0006,0.06
+T14043,Historical and modern epidemiology studies,1,0,-1,0.0006,0.0,-0.06
+T14059,"Nietzsche, Schopenhauer, and Hegel",0,1,1,0.0,0.0006,0.06
+T14071,Healthcare during COVID-19 Pandemic,0,1,1,0.0,0.0006,0.06
+T14081,Linguistic Education and Pedagogy,0,1,1,0.0,0.0006,0.06
+T14090,Health and Conflict Studies,1,0,-1,0.0006,0.0,-0.06
+T14091,Industrial and Mining Safety,0,1,1,0.0,0.0006,0.06
+T14092,"Ethics, Aesthetics, and Art",0,1,1,0.0,0.0006,0.06
+T14116,Aviation History and Innovations,0,1,1,0.0,0.0006,0.06
+T14142,Multicultural Socio-Legal Studies,1,0,-1,0.0006,0.0,-0.06
+T14147,Innovative Approaches in Technology and Social Development,1,0,-1,0.0006,0.0,-0.06
+T14159,Discourse Analysis and Cultural Communication,1,0,-1,0.0006,0.0,-0.06
+T14164,Marine and Offshore Engineering Studies,1,0,-1,0.0006,0.0,-0.06
+T14176,Interdisciplinary Cultural and Social Studies,1,0,-1,0.0006,0.0,-0.06
+T14182,Technology-Enhanced Education Studies,0,1,1,0.0,0.0006,0.06
+T14185,"Research, Science, and Academia",0,1,1,0.0,0.0006,0.06
+T14206,Animal Law and Welfare,0,1,1,0.0,0.0006,0.06
+T14208,"Death, Funerary Practices, and Mourning",0,1,1,0.0,0.0006,0.06
+T14224,"Oil, Gas, and Environmental Issues",0,1,1,0.0,0.0006,0.06
+T14230,Occupational and Professional Licensing Regulation,1,0,-1,0.0006,0.0,-0.06
+T14238,Historical Gender and Feminism Studies,0,1,1,0.0,0.0006,0.06
+T14250,Energy and Environmental Systems,0,1,1,0.0,0.0006,0.06
+T14275,Historical Medical Research and Treatments,0,1,1,0.0,0.0006,0.06
+T14288,"Law, Rights, and Freedoms",1,0,-1,0.0006,0.0,-0.06
+T14293,Biotechnology and Related Fields,1,0,-1,0.0006,0.0,-0.06
+T14316,"Nursing Education, Practice, and Leadership",1,0,-1,0.0006,0.0,-0.06
+T14335,Educational Robotics and Engineering,0,1,1,0.0,0.0006,0.06
+T14356,Organizational Leadership and Management Strategies,1,0,-1,0.0006,0.0,-0.06
+T14364,Clusterin in disease pathology,1,0,-1,0.0006,0.0,-0.06
 T14375,"Cultural, Linguistic, Economic Studies",1,0,-1,0.0006,0.0,-0.06
 T14388,Medieval European History and Architecture,1,0,-1,0.0006,0.0,-0.06
-T13402,Business Strategy and Innovation,1,0,-1,0.0006,0.0,-0.06
-T12916,COVID-19 impact on air quality,1,0,-1,0.0006,0.0,-0.06
-T11005,Radiation Effects in Electronics,1,0,-1,0.0006,0.0,-0.06
-T11148,"Language, Metaphor, and Cognition",1,0,-1,0.0006,0.0,-0.06
-T10011,"Literature: history, themes, analysis",1,0,-1,0.0006,0.0,-0.06
-T13303,Asian Culture and Media Studies,1,0,-1,0.0006,0.0,-0.06
-T13283,Mental Health Research Topics,1,0,-1,0.0006,0.0,-0.06
-T10419,Pharmaceutical and Antibiotic Environmental Impacts,1,0,-1,0.0006,0.0,-0.06
-T14506,Historical and Architectural Studies,1,0,-1,0.0006,0.0,-0.06
-T11239,Social Capital and Networks,1,0,-1,0.0006,0.0,-0.06
-T11470,Legume Nitrogen Fixing Symbiosis,1,0,-1,0.0006,0.0,-0.06
-T10939,Crystal Structures and Properties,1,0,-1,0.0006,0.0,-0.06
-T13710,European and International Law Studies,1,0,-1,0.0006,0.0,-0.06
-T11615,Control and Dynamics of Mobile Robots,1,0,-1,0.0006,0.0,-0.06
-T10809,Occupational Health and Safety Research,1,0,-1,0.0006,0.0,-0.06
-T12027,Social Media in Health Education,1,0,-1,0.0006,0.0,-0.06
-T10363,Low-power high-performance VLSI design,1,0,-1,0.0006,0.0,-0.06
-T10014,Plant Stress Responses and Tolerance,1,0,-1,0.0006,0.0,-0.06
-T11827,Polyomavirus and related diseases,1,0,-1,0.0006,0.0,-0.06
-T10364,Reproductive Biology and Fertility,1,0,-1,0.0006,0.0,-0.06
-T11279,Lanthanide and Transition Metal Complexes,1,0,-1,0.0006,0.0,-0.06
-T11593,Carbon dioxide utilization in catalysis,1,0,-1,0.0006,0.0,-0.06
-T10104,Nanofluid Flow and Heat Transfer,1,0,-1,0.0006,0.0,-0.06
-T10589,Early Childhood Education and Development,1,0,-1,0.0006,0.0,-0.06
-T13867,Economic Growth and Development,1,0,-1,0.0006,0.0,-0.06
-T13372,Archaeology and Historical Studies,1,0,-1,0.0006,0.0,-0.06
-T12059,Berberine and alkaloids research,1,0,-1,0.0006,0.0,-0.06
-T11137,Historical Philosophy and Science,1,0,-1,0.0006,0.0,-0.06
-T12254,Machine Learning in Bioinformatics,1,0,-1,0.0006,0.0,-0.06
-T11737,Advanced Materials and Mechanics,1,0,-1,0.0006,0.0,-0.06
-T13680,"Education, Psychology, and Complexity Research",1,0,-1,0.0006,0.0,-0.06
-T12175,Social Representations and Identity,1,0,-1,0.0006,0.0,-0.06
-T11189,Transplantation: Methods and Outcomes,1,0,-1,0.0006,0.0,-0.06
-T11913,Animal Ecology and Behavior Studies,1,0,-1,0.0006,0.0,-0.06
-T12788,Space Science and Extraterrestrial Life,1,0,-1,0.0006,0.0,-0.06
-T12677,Sports Dynamics and Biomechanics,1,0,-1,0.0006,0.0,-0.06
-T11474,Sport and Mega-Event Impacts,1,0,-1,0.0006,0.0,-0.06
-T11672,Recycling and utilization of industrial and municipal waste in materials production,1,0,-1,0.0006,0.0,-0.06
-T13396,Agriculture and Rural Development Research,1,0,-1,0.0006,0.0,-0.06
-T12515,Gender and Technology in Education,1,0,-1,0.0006,0.0,-0.06
-T11047,Gender Diversity and Inequality,1,0,-1,0.0006,0.0,-0.06
-T14230,Occupational and Professional Licensing Regulation,1,0,-1,0.0006,0.0,-0.06
-T10333,Meat and Animal Product Quality,1,0,-1,0.0006,0.0,-0.06
-T14090,Health and Conflict Studies,1,0,-1,0.0006,0.0,-0.06
-T11611,Cyclopropane Reaction Mechanisms,1,0,-1,0.0006,0.0,-0.06
-T12023,Cholinesterase and Neurodegenerative Diseases,1,0,-1,0.0006,0.0,-0.06
-T12211,Aluminum toxicity and tolerance in plants and animals,1,0,-1,0.0006,0.0,-0.06
-T11244,Climate Change and Health Impacts,1,0,-1,0.0006,0.0,-0.06
-T11587,Second Language Acquisition and Learning,1,0,-1,0.0006,0.0,-0.06
-T10539,Sustainable Supply Chain Management,1,0,-1,0.0006,0.0,-0.06
-T11161,Consumer Market Behavior and Pricing,1,0,-1,0.0006,0.0,-0.06
-T11875,Statistics Education and Methodologies,0,1,1,0.0,0.0006,0.06
-T11121,Public Relations and Crisis Communication,0,1,1,0.0,0.0006,0.06
-T11147,Misinformation and Its Impacts,0,1,1,0.0,0.0006,0.06
-T13983,Cybersecurity and Information Systems,0,1,1,0.0,0.0006,0.06
-T10278,Electric Motor Design and Analysis,0,1,1,0.0,0.0006,0.06
-T10767,Advanced Photonic Communication Systems,0,1,1,0.0,0.0006,0.06
-T12966,Russian Literature and Bakhtin Studies,0,1,1,0.0,0.0006,0.06
-T10353,Zeolite Catalysis and Synthesis,0,1,1,0.0,0.0006,0.06
-T13920,Urban Planning and Valuation,0,1,1,0.0,0.0006,0.06
-T12019,Calibration and Measurement Techniques,0,1,1,0.0,0.0006,0.06
-T11846,Cultural Heritage Management and Preservation,0,1,1,0.0,0.0006,0.06
-T12557,Inorganic Chemistry and Materials,0,1,1,0.0,0.0006,0.06
-T10780,Reliability and Maintenance Optimization,0,1,1,0.0,0.0006,0.06
-T14116,Aviation History and Innovations,0,1,1,0.0,0.0006,0.06
-T11412,Genetic and Kidney Cyst Diseases,0,1,1,0.0,0.0006,0.06
-T10078,Advanced Photocatalysis Techniques,0,1,1,0.0,0.0006,0.06
-T13395,"Education, Leadership, and Health Research",0,1,1,0.0,0.0006,0.06
-T10424,Electric Power System Optimization,0,1,1,0.0,0.0006,0.06
-T10102,scientometrics and bibliometrics research,0,1,1,0.0,0.0006,0.06
-T10637,Advanced Clustering Algorithms Research,0,1,1,0.0,0.0006,0.06
-T14208,"Death, Funerary Practices, and Mourning",0,1,1,0.0,0.0006,0.06
-T12341,Spanish Linguistics and Language Studies,0,1,1,0.0,0.0006,0.06
-T13739,Medieval and Early Modern Justice,0,1,1,0.0,0.0006,0.06
-T12973,Synthesis of Indole Derivatives,0,1,1,0.0,0.0006,0.06
-T13135,"Communism, Protests, Social Movements",0,1,1,0.0,0.0006,0.06
-T12184,Linguistics and Education Research,0,1,1,0.0,0.0006,0.06
-T11884,Redox biology and oxidative stress,0,1,1,0.0,0.0006,0.06
-T10759,Translation Studies and Practices,0,1,1,0.0,0.0006,0.06
-T11104,"Memory, Trauma, and Commemoration",0,1,1,0.0,0.0006,0.06
-T11531,Healthcare Systems and Reforms,0,1,1,0.0,0.0006,0.06
-T14081,Linguistic Education and Pedagogy,0,1,1,0.0,0.0006,0.06
-T10489,Regulation of Appetite and Obesity,0,1,1,0.0,0.0006,0.06
-T13583,Jury Decision Making Processes,0,1,1,0.0,0.0006,0.06
-T13163,Organizational Learning and Leadership,0,1,1,0.0,0.0006,0.06
-T10402,Phase Equilibria and Thermodynamics,0,1,1,0.0,0.0006,0.06
-T10968,Statistical Distribution Estimation and Applications,0,1,1,0.0,0.0006,0.06
-T14493,Criminal Law and Evidence,0,1,1,0.0,0.0006,0.06
-T13268,Photographic and Visual Arts,0,1,1,0.0,0.0006,0.06
-T10905,Solar Thermal and Photovoltaic Systems,0,1,1,0.0,0.0006,0.06
-T12414,Coastal and Marine Management,0,1,1,0.0,0.0006,0.06
-T10210,Advanced oxidation water treatment,0,1,1,0.0,0.0006,0.06
-T10721,Surfactants and Colloidal Systems,0,1,1,0.0,0.0006,0.06
-T12917,Astronomy and Astrophysical Research,0,1,1,0.0,0.0006,0.06
-T10411,Proteins in Food Systems,0,1,1,0.0,0.0006,0.06
-T12076,Renaissance and Early Modern Studies,0,1,1,0.0,0.0006,0.06
-T12119,Linguistics and Discourse Analysis,0,1,1,0.0,0.0006,0.06
-T14494,American Literature and Culture,0,1,1,0.0,0.0006,0.06
-T12157,Geochemistry and Geologic Mapping,1,0,-1,0.0006,0.0,-0.06
-T10318,Criminal Justice and Corrections Analysis,1,0,-1,0.0006,0.0,-0.06
-T13076,"Torture, Ethics, and Law",1,0,-1,0.0006,0.0,-0.06
-T11478,Caching and Content Delivery,1,0,-1,0.0006,0.0,-0.06
-T10035,Phytochemicals and Antioxidant Activities,1,0,-1,0.0006,0.0,-0.06
-T12415,Employer Branding and e-HRM,1,0,-1,0.0006,0.0,-0.06
-T11772,Genetics and Neurodevelopmental Disorders,1,0,-1,0.0006,0.0,-0.06
-T10785,Economic Theory and Institutions,1,0,-1,0.0006,0.0,-0.06
-T13894,Indian Economic and Social Development,1,0,-1,0.0006,0.0,-0.06
-T11429,Semiconductor Lasers and Optical Devices,1,0,-1,0.0006,0.0,-0.06
-T13007,Economic Sanctions and International Relations,1,0,-1,0.0006,0.0,-0.06
-T14316,"Nursing Education, Practice, and Leadership",1,0,-1,0.0006,0.0,-0.06
-T10665,Cystic Fibrosis Research Advances,1,0,-1,0.0006,0.0,-0.06
-T14451,Historical and Religious Studies of Rome,1,0,-1,0.0006,0.0,-0.06
-T10142,Formal Methods in Verification,1,0,-1,0.0006,0.0,-0.06
-T10080,Energy Efficient Wireless Sensor Networks,1,0,-1,0.0006,0.0,-0.06
-T12178,Bird parasitology and diseases,1,0,-1,0.0006,0.0,-0.06
-T10578,Supramolecular Chemistry and Complexes,1,0,-1,0.0006,0.0,-0.06
-T11301,Advanced Surface Polishing Techniques,1,0,-1,0.0006,0.0,-0.06
-T10538,Data Mining Algorithms and Applications,1,0,-1,0.0006,0.0,-0.06
-T10168,COVID-19 and Mental Health,1,0,-1,0.0006,0.0,-0.06
-T12266,Byzantine Studies and History,1,0,-1,0.0006,0.0,-0.06
-T10789,Interactive and Immersive Displays,1,0,-1,0.0006,0.0,-0.06
-T14159,Discourse Analysis and Cultural Communication,1,0,-1,0.0006,0.0,-0.06
-T12648,Academic Writing and Publishing,1,0,-1,0.0006,0.0,-0.06
-T10423,Neurobiology and Insect Physiology Research,1,0,-1,0.0006,0.0,-0.06
-T10209,Global Maternal and Child Health,1,0,-1,0.0006,0.0,-0.06
-T12772,Control and Stability of Dynamical Systems,1,0,-1,0.0006,0.0,-0.06
-T10040,Adaptive Control of Nonlinear Systems,1,0,-1,0.0006,0.0,-0.06
-T12420,Silicone and Siloxane Chemistry,1,0,-1,0.0006,0.0,-0.06
-T11937,Research Data Management Practices,1,0,-1,0.0006,0.0,-0.06
-T12283,Latin American history and culture,1,0,-1,0.0006,0.0,-0.06
-T10362,Biblical Studies and Interpretation,0,1,1,0.0,0.0006,0.06
-T14059,"Nietzsche, Schopenhauer, and Hegel",0,1,1,0.0,0.0006,0.06
-T11753,Forest Management and Policy,0,1,1,0.0,0.0006,0.06
-T13474,Autobiographical and Biographical Writing,0,1,1,0.0,0.0006,0.06
-T11013,Skin Protection and Aging,0,1,1,0.0,0.0006,0.06
-T11953,"Neuroethics, Human Enhancement, Biomedical Innovations",0,1,1,0.0,0.0006,0.06
-T13459,Public Administration and Political Analysis,0,1,1,0.0,0.0006,0.06
-T11823,Natural Resources and Economic Development,0,1,1,0.0,0.0006,0.06
-T14511,"Medicine, History, and Philosophy",0,1,1,0.0,0.0006,0.06
-T11734,Decision Support System Applications,0,1,1,0.0,0.0006,0.06
-T14224,"Oil, Gas, and Environmental Issues",0,1,1,0.0,0.0006,0.06
-T12449,Spacecraft Design and Technology,0,1,1,0.0,0.0006,0.06
-T11788,Nonlinear Optical Materials Studies,0,1,1,0.0,0.0006,0.06
-T12836,History and Developments in Astronomy,0,1,1,0.0,0.0006,0.06
-T10756,Estrogen and related hormone effects,0,1,1,0.0,0.0006,0.06
-T13712,Kantian Philosophy and Modern Interpretations,0,1,1,0.0,0.0006,0.06
-T10699,Primate Behavior and Ecology,0,1,1,0.0,0.0006,0.06
-T12132,Hymenoptera taxonomy and phylogeny,0,1,1,0.0,0.0006,0.06
-T12522,Mathematics Education and Pedagogy,0,1,1,0.0,0.0006,0.06
-T13734,Advanced Computational Techniques and Applications,0,1,1,0.0,0.0006,0.06
-T11209,Cardiovascular and exercise physiology,0,1,1,0.0,0.0006,0.06
-T10054,Parallel Computing and Optimization Techniques,0,1,1,0.0,0.0006,0.06
-T13236,Geotechnical and construction materials studies,0,1,1,0.0,0.0006,0.06
-T10192,Catalytic Processes in Materials Science,0,1,1,0.0,0.0006,0.06
-T13927,Cyberloafing and Workplace Behavior,0,1,1,0.0,0.0006,0.06
-T12207,Assistive Technology in Communication and Mobility,0,1,1,0.0,0.0006,0.06
-T12977,Spanish Literature and Culture Studies,0,1,1,0.0,0.0006,0.06
-T14250,Energy and Environmental Systems,0,1,1,0.0,0.0006,0.06
-T13727,Linguistic and Sociocultural Studies,0,1,1,0.0,0.0006,0.06
-T10585,Family Dynamics and Relationships,0,1,1,0.0,0.0006,0.06
-T11829,Mathematical Biology Tumor Growth,0,1,1,0.0,0.0006,0.06
-T11242,Nuclear Materials and Properties,0,1,1,0.0,0.0006,0.06
-T12396,Advanced Differential Equations and Dynamical Systems,0,1,1,0.0,0.0006,0.06
-T13250,Semiotics and Representation Studies,0,1,1,0.0,0.0006,0.06
-T10004,Soil Carbon and Nitrogen Dynamics,0,1,1,0.0,0.0006,0.06
-T11573,Risk Perception and Management,0,1,1,0.0,0.0006,0.06
-T10388,Advanced Steganography and Watermarking Techniques,0,1,1,0.0,0.0006,0.06
-T11458,Advanced Wireless Communication Technologies,0,1,1,0.0,0.0006,0.06
-T10537,Attention Deficit Hyperactivity Disorder,0,1,1,0.0,0.0006,0.06
-T14092,"Ethics, Aesthetics, and Art",0,1,1,0.0,0.0006,0.06
-T10182,Child and Adolescent Psychosocial and Emotional Development,0,1,1,0.0,0.0006,0.06
-T10217,Cardiac electrophysiology and arrhythmias,0,1,1,0.0,0.0006,0.06
-T13126,Scientific Research and Discoveries,0,1,1,0.0,0.0006,0.06
-T10799,Data Visualization and Analytics,0,1,1,0.0,0.0006,0.06
-T11220,Water Systems and Optimization,0,1,1,0.0,0.0006,0.06
-T12423,Software Reliability and Analysis Research,0,1,1,0.0,0.0006,0.06
-T10125,Advanced Wireless Communication Techniques,0,1,1,0.0,0.0006,0.06
-T11129,Photochemistry and Electron Transfer Studies,0,1,1,0.0,0.0006,0.06
-T11460,Analytical Methods in Pharmaceuticals,0,1,1,0.0,0.0006,0.06
-T13508,Agricultural Economics and Practices,0,1,1,0.0,0.0006,0.06
-T13784,Jewish Identity and Society,0,1,1,0.0,0.0006,0.06
-T12862,Catholicism and Religious Studies,0,1,1,0.0,0.0006,0.06
-T12517,Seventeenth-Century Political and Philosophical Thought,0,1,1,0.0,0.0006,0.06
-T10783,Additive Manufacturing and 3D Printing Technologies,0,1,1,0.0,0.0006,0.06
-T10006,Job Satisfaction and Organizational Behavior,0,1,1,0.0,0.0006,0.06
-T13950,Collembola Taxonomy and Ecology Studies,0,1,1,0.0,0.0006,0.06
-T11154,Parasitic infections in humans and animals,0,1,1,0.0,0.0006,0.06
-T11034,Digital Filter Design and Implementation,0,1,1,0.0,0.0006,0.06
-T10839,Pancreatic function and diabetes,0,1,1,0.0,0.0006,0.06
-T11457,Adipose Tissue and Metabolism,0,1,1,0.0,0.0006,0.06
-T11821,Odor and Emission Control Technologies,0,1,1,0.0,0.0006,0.06
-T14335,Educational Robotics and Engineering,0,1,1,0.0,0.0006,0.06
-T10851,Optical Wireless Communication Technologies,0,1,1,0.0,0.0006,0.06
-T10372,Cardiac Imaging and Diagnostics,0,1,1,0.0,0.0006,0.06
-T14185,"Research, Science, and Academia",0,1,1,0.0,0.0006,0.06
-T13073,China's Ethnic Minorities and Relations,0,1,1,0.0,0.0006,0.06
-T13679,Tardigrade Biology and Ecology,0,1,1,0.0,0.0006,0.06
-T14091,Industrial and Mining Safety,0,1,1,0.0,0.0006,0.06
-T10640,Spectroscopy and Chemometric Analyses,0,1,1,0.0,0.0006,0.06
 T14402,Political and Social Issues,0,1,1,0.0,0.0006,0.06
-T11039,Evaluation of Teaching Practices,0,1,1,0.0,0.0006,0.06
-T13346,Digital Transformation in Financial Services,0,1,1,0.0,0.0006,0.06
+T14426,"Religion, Gender, and Enlightenment",1,0,-1,0.0006,0.0,-0.06
+T14451,Historical and Religious Studies of Rome,1,0,-1,0.0006,0.0,-0.06
+T14466,"Migration, Health, Geopolitics, Historical Geography",0,1,1,0.0,0.0006,0.06
+T14470,Advanced Data Processing Techniques,1,0,-1,0.0006,0.0,-0.06
+T14493,Criminal Law and Evidence,0,1,1,0.0,0.0006,0.06
+T14494,American Literature and Culture,0,1,1,0.0,0.0006,0.06
+T14498,Educational Technology in Learning,0,1,1,0.0,0.0006,0.06
+T14500,Advanced Mathematical Theories,1,0,-1,0.0006,0.0,-0.06
+T14506,Historical and Architectural Studies,1,0,-1,0.0006,0.0,-0.06
+T14511,"Medicine, History, and Philosophy",0,1,1,0.0,0.0006,0.06
+T14515,International Law and Aviation,1,0,-1,0.0006,0.0,-0.06

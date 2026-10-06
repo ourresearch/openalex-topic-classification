@@ -84,8 +84,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1105,"Ecology, Evolution, Behavior and Systematics",767,552,-215,0.0039,0.0028,-0.11
 2310,Pollution,675,599,-76,0.0034,0.003,-0.04
 1803,Management Science and Operations Research,621,644,23,0.0031,0.0033,0.01
-2105,"Renewable Energy, Sustainability and the Environment",637,602,-35,0.0032,0.0031,-0.02
 1407,Organizational Behavior and Human Resource Management,679,560,-119,0.0034,0.0028,-0.06
+2105,"Renewable Energy, Sustainability and the Environment",637,602,-35,0.0032,0.0031,-0.02
 2000,"General Economics, Econometrics and Finance",609,625,16,0.0031,0.0032,0.01
 3321,Public Administration,521,705,184,0.0026,0.0036,0.09
 2727,Nephrology,569,656,87,0.0029,0.0033,0.05
@@ -137,8 +137,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3305,"Geography, Planning and Development",296,342,46,0.0015,0.0017,0.02
 1303,Biochemistry,246,388,142,0.0012,0.002,0.07
 2715,Gastroenterology,280,354,74,0.0014,0.0018,0.04
-2308,"Management, Monitoring, Policy and Law",340,292,-48,0.0017,0.0015,-0.02
 1405,Management of Technology and Innovation,305,327,22,0.0015,0.0017,0.01
+2308,"Management, Monitoring, Policy and Law",340,292,-48,0.0017,0.0015,-0.02
 2604,Applied Mathematics,231,399,168,0.0012,0.002,0.09
 1310,Endocrinology,337,270,-67,0.0017,0.0014,-0.03
 1904,Earth-Surface Processes,265,331,66,0.0013,0.0017,0.03
@@ -152,8 +152,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 2718,Health Informatics,250,244,-6,0.0013,0.0012,-0.0
 2213,"Safety, Risk, Reliability and Quality",215,267,52,0.0011,0.0014,0.03
 3313,Transportation,272,208,-64,0.0014,0.0011,-0.03
-3202,Applied Psychology,290,189,-101,0.0015,0.001,-0.05
 2311,Waste Management and Disposal,275,204,-71,0.0014,0.001,-0.04
+3202,Applied Psychology,290,189,-101,0.0015,0.001,-0.05
 2733,Otorhinolaryngology,230,247,17,0.0012,0.0013,0.01
 2708,Dermatology,279,192,-87,0.0014,0.001,-0.04
 2508,"Surfaces, Coatings and Films",249,221,-28,0.0013,0.0011,-0.01
@@ -183,8 +183,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 3614,Radiological and Ultrasound Technology,209,88,-121,0.0011,0.0004,-0.06
 2703,Anesthesiology and Pain Medicine,139,155,16,0.0007,0.0008,0.01
 1503,Catalysis,156,127,-29,0.0008,0.0006,-0.01
-1711,Signal Processing,141,130,-11,0.0007,0.0007,-0.01
 1100,General Agricultural and Biological Sciences,159,112,-47,0.0008,0.0006,-0.02
+1711,Signal Processing,141,130,-11,0.0007,0.0007,-0.01
 2704,Biochemistry,99,164,65,0.0005,0.0008,0.03
 1800,General Decision Sciences,98,157,59,0.0005,0.0008,0.03
 2406,Virology,122,132,10,0.0006,0.0007,0.01
@@ -201,8 +201,8 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1603,Electrochemistry,120,67,-53,0.0006,0.0003,-0.03
 1315,Structural Biology,42,143,101,0.0002,0.0007,0.05
 2602,Algebra and Number Theory,95,83,-12,0.0005,0.0004,-0.01
-2500,General Materials Science,75,97,22,0.0004,0.0005,0.01
 2102,Energy Engineering and Power Technology,95,77,-18,0.0005,0.0004,-0.01
+2500,General Materials Science,75,97,22,0.0004,0.0005,0.01
 3105,Instrumentation,90,72,-18,0.0005,0.0004,-0.01
 2806,Developmental Neuroscience,78,77,-1,0.0004,0.0004,-0.0
 2922,Research and Theory,56,95,39,0.0003,0.0005,0.02
@@ -213,10 +213,10 @@ subfield_id,display_name,works_old,works_new,change,share_old,share_new,share_ch
 1502,Bioengineering,98,34,-64,0.0005,0.0002,-0.03
 2506,Metals and Alloys,68,59,-9,0.0003,0.0003,-0.0
 3307,Human Factors and Ergonomics,69,56,-13,0.0003,0.0003,-0.01
-1506,Filtration and Separation,54,67,13,0.0003,0.0003,0.01
 1403,Business and International Management,82,39,-43,0.0004,0.0002,-0.02
-1712,Software,67,46,-21,0.0003,0.0002,-0.01
+1506,Filtration and Separation,54,67,13,0.0003,0.0003,0.01
 1708,Hardware and Architecture,61,52,-9,0.0003,0.0003,-0.0
+1712,Software,67,46,-21,0.0003,0.0002,-0.01
 1206,Conservation,57,55,-2,0.0003,0.0003,-0.0
 1104,Aquatic Science,72,39,-33,0.0004,0.0002,-0.02
 2702,Anatomy,38,68,30,0.0002,0.0003,0.02

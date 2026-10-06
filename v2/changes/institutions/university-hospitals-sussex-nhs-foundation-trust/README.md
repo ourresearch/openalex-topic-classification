@@ -29,8 +29,8 @@ OpenAlex institution [I4210151332](https://openalex.org/I4210151332) and its chi
 | Mathematics | 9 | 12 | 0.1% | 0.1% |
 | Veterinary | 8 | 10 | 0.1% | 0.1% |
 | Materials Science | 6 | 4 | 0.1% | 0.0% |
-| Earth and Planetary Sciences | 3 | 0 | 0.0% | 0.0% |
 | Chemical Engineering | 1 | 0 | 0.0% | 0.0% |
+| Earth and Planetary Sciences | 3 | 0 | 0.0% | 0.0% |
 | Energy | 1 | 0 | 0.0% | 0.0% |
 
 Biggest shifts in share: Medicine +2.6 pts; Biochemistry, Genetics and Molecular Biology -0.9 pts; Economics, Econometrics and Finance -0.5 pts; Psychology -0.4 pts.
@@ -41,11 +41,11 @@ Biggest shifts in share: Medicine +2.6 pts; Biochemistry, Genetics and Molecular
 |---|---|---|---|---|
 | 1 | HIV/AIDS Research and Interventions | 217 | HIV/AIDS Research and Interventions | 259 |
 | 2 | Cardiac Valve Diseases and Treatments | 186 | Cardiac Valve Diseases and Treatments | 200 |
-| 3 | Coronary Interventions and Diagnostics | 135 | Innovations in Medical Education | 175 |
-| 4 | Cardiac, Anesthesia and Surgical Outcomes | 135 | Coronary Interventions and Diagnostics | 153 |
+| 3 | Cardiac, Anesthesia and Surgical Outcomes | 135 | Innovations in Medical Education | 175 |
+| 4 | Coronary Interventions and Diagnostics | 135 | Coronary Interventions and Diagnostics | 153 |
 | 5 | HIV/AIDS drug development and treatment | 96 | Intraocular Surgery and Lenses | 142 |
-| 6 | Hip and Femur Fractures | 90 | Asthma and respiratory diseases | 128 |
-| 7 | Asthma and respiratory diseases | 90 | Reproductive tract infections research | 115 |
+| 6 | Asthma and respiratory diseases | 90 | Asthma and respiratory diseases | 128 |
+| 7 | Hip and Femur Fractures | 90 | Reproductive tract infections research | 115 |
 | 8 | Reproductive tract infections research | 90 | Anesthesia and Pain Management | 112 |
 | 9 | Corneal surgery and disorders | 85 | HIV/AIDS drug development and treatment | 105 |
 | 10 | Anesthesia and Pain Management | 81 | Bone fractures and treatments | 94 |

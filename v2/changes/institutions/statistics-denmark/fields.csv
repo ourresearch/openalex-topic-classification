@@ -7,16 +7,16 @@ field_id,display_name,works_old,works_new,change,share_old,share_new,share_chang
 26,Mathematics,14,20,6,0.0378,0.0538,1.59
 17,Computer Science,11,20,9,0.0297,0.0538,2.4
 32,Psychology,17,5,-12,0.0459,0.0134,-3.25
-14,"Business, Management and Accounting",11,9,-2,0.0297,0.0242,-0.55
 13,"Biochemistry, Genetics and Molecular Biology",8,12,4,0.0216,0.0323,1.06
+14,"Business, Management and Accounting",11,9,-2,0.0297,0.0242,-0.55
 18,Decision Sciences,8,9,1,0.0216,0.0242,0.26
-35,Dentistry,5,5,0,0.0135,0.0134,-0.01
 31,Physics and Astronomy,4,6,2,0.0108,0.0161,0.53
+35,Dentistry,5,5,0,0.0135,0.0134,-0.01
 11,Agricultural and Biological Sciences,4,4,0,0.0108,0.0108,-0.01
 24,Immunology and Microbiology,3,4,1,0.0081,0.0108,0.26
 22,Engineering,4,2,-2,0.0108,0.0054,-0.54
 12,Arts and Humanities,4,0,-4,0.0108,0.0,-1.08
 19,Earth and Planetary Sciences,3,0,-3,0.0081,0.0,-0.81
 21,Energy,1,0,-1,0.0027,0.0,-0.27
-29,Nursing,1,0,-1,0.0027,0.0,-0.27
 28,Neuroscience,1,0,-1,0.0027,0.0,-0.27
+29,Nursing,1,0,-1,0.0027,0.0,-0.27
